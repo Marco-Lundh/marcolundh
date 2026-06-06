@@ -29,7 +29,7 @@ CONFIG_PATH = PIPELINE_DIR / "news-config.json"
 SEEN_PATH = PIPELINE_DIR / "seen.json"
 NEWS_PATH = DATA_DIR / "news.json"
 
-ARTICLES_TO_KEEP = 30
+ARTICLES_TO_KEEP = 50
 EMAIL_ARTICLES = 10
 MAX_ARTICLES_TO_CLAUDE = 150
 MAX_ENTRIES_PER_FEED = 20
@@ -241,11 +241,11 @@ def _build_email_html(top: list[Article], subject: str) -> str:
         summary = escape(article["summary"])
         mins = article["reading_time_minutes"]
         link_style = (
-            "color:#4f9cf9;font-weight:600;"
+            "color:#1d6fd1;font-weight:600;"
             "text-decoration:none;font-size:16px;"
         )
-        span_style = "color:#64748b;font-size:13px;"
-        p_style = "margin:0;color:#94a3b8;font-size:14px;line-height:1.6;"
+        span_style = "color:#475569;font-size:13px;"
+        p_style = "margin:0;color:#64748b;font-size:14px;line-height:1.6;"
         items_html += (
             '\n        <div style="margin-bottom:28px;">'
             '\n          <p style="margin:0 0 4px;">'
@@ -266,10 +266,10 @@ def _build_email_html(top: list[Article], subject: str) -> str:
         "max-width:620px;margin:0 auto;padding:40px 24px;"
     )
     label_style = (
-        "font-family:monospace;color:#4f9cf9;font-size:12px;"
+        "font-family:monospace;color:#1d6fd1;font-size:12px;"
         "letter-spacing:0.1em;text-transform:uppercase;margin-bottom:8px;"
     )
-    h1_style = "font-size:22px;font-weight:700;color:#f1f5f9;margin:0 0 32px;"
+    h1_style = "font-size:22px;font-weight:700;color:#cbd5e1;margin:0 0 32px;"
     hr_style = (
         "border:none;"
         "border-top:1px solid rgba(255,255,255,0.07);"
@@ -283,17 +283,17 @@ def _build_email_html(top: list[Article], subject: str) -> str:
         f'  <h1 style="{h1_style}">{escape(subject)}</h1>\n'
         f"  {items_html}\n"
         f'  <hr style="{hr_style}">\n'
-        '  <p style="color:#475569;font-size:13px;'
+        '  <p style="color:#334155;font-size:13px;'
         'line-height:1.7;margin:0 0 8px;">\n'
         f"    Browse and filter all {ARTICLES_TO_KEEP}"
         " of today&apos;s stories by category at\n"
         '    <a href="https://marco-tech.se/ai-news"\n'
-        '       style="color:#4f9cf9;text-decoration:none;">'
+        '       style="color:#1d6fd1;text-decoration:none;">'
         "marco-tech.se/ai-news →</a>\n"
         "  </p>\n"
-        '  <p style="color:#334155;font-size:12px;margin:0;">\n'
+        '  <p style="color:#1e293b;font-size:12px;margin:0;">\n'
         "    You&apos;re receiving this at {$email} &nbsp;&middot;&nbsp;\n"
-        '    <a href="{$unsubscribe}" style="color:#334155;">Unsubscribe</a>\n'
+        '    <a href="{$unsubscribe}" style="color:#1e293b;">Unsubscribe</a>\n'
         "  </p>\n"
         "</body>\n</html>"
     )
