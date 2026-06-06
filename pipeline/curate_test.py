@@ -409,8 +409,9 @@ def test_send_newsletter_creates_and_schedules_campaign(
     assert mock_post.call_count == 2
     payload = mock_post.call_args_list[0].kwargs["json"]
     assert payload["type"] == "regular"
-    assert payload["emails"][0][0]["from"] == curate.FROM_EMAIL
-    assert payload["emails"][0][0]["from_name"] == "Marco Lundh"
+    assert payload["emails"][0]["from"] == curate.FROM_EMAIL
+    assert payload["emails"][0]["from_name"] == "Marco Lundh"
+    assert "content" in payload["emails"][0]
 
 
 def test_build_email_html_escapes_article_content(
