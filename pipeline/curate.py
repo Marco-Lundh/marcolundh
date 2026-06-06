@@ -318,7 +318,6 @@ def send_newsletter(articles: list[Article], api_key: str) -> None:
         json={
             "name": subject,
             "type": "regular",
-            "status": "draft",
             "emails": [
                 {
                     "subject": subject,
