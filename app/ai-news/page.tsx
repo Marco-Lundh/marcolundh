@@ -59,7 +59,7 @@ export default function AiNews() {
           </h1>
           <p className="text-slate-400 text-lg leading-relaxed mb-10">
             10 hand-picked stories — ranked by Claude, delivered at 07:00 CET.
-            Filter all 50 by category on this page.
+            Filter all 30 by category on this page.
           </p>
 
           {status === 'success' ? (

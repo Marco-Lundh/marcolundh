@@ -37,7 +37,7 @@ graph TD
     A["marco-tech.se /"] --> B["/portfolio"]
     A --> C["/ai-news"]
     B --> D["Hero · About · Experience · Skills · Contact"]
-    C --> E["50 Articles · Category Filter"]
+    C --> E["30 Articles · Category Filter"]
     C --> F["Newsletter Signup → /api/subscribe"]
     F --> G["MailerLite"]
 ```
@@ -53,7 +53,7 @@ flowchart TD
     A["GitHub Actions\ncron: 0 5 * * *"] --> B["Fetch RSS Feeds\n18 sources"]
     B --> C["Filter via seen.json\n7-day deduplication"]
     C --> D["Claude Haiku 4.5\nRank · Categorize · Summarize"]
-    D --> E["news.json\n50 articles with categories"]
+    D --> E["news.json\n30 articles with categories"]
     D --> F["Update seen.json\ncommit back to repo"]
     E --> G["Git commit\n→ Vercel auto-redeploy"]
     E --> H["MailerLite API\nTop 10 articles"]
