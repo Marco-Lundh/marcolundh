@@ -23,7 +23,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           MAILERLITE_API_KEY: ${{ secrets.MAILERLITE_API_KEY }}
         run: |
-          uv run --with-requirements requirements.txt --native-tls python curate.py
+          uv run --with-requirements requirements.txt --system-certs python curate.py
 
       - name: Commit updated files
         run: |

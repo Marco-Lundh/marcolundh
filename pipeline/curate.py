@@ -163,7 +163,7 @@ def curate_with_claude(
         "- title: the original article title\n"
         "- url: the original article URL\n"
         "- source: the original source name\n"
-        "- summary: a 1-2 sentence neutral summary (write it yourself)\n"
+        "- summary: one sentence, max 15 words (write it yourself)\n"
         "- category: exactly one category from the list below\n"
         "- reading_time_minutes: estimated reading time as an integer (1-10)\n"
         "- published: the original published date string\n\n"
