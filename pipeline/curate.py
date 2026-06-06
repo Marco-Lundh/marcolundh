@@ -319,12 +319,14 @@ def send_newsletter(articles: list[Article], api_key: str) -> None:
             "name": subject,
             "type": "regular",
             "emails": [
-                {
-                    "subject": subject,
-                    "from": FROM_EMAIL,
-                    "from_name": "Marco Lundh",
-                    "html": html,
-                }
+                [
+                    {
+                        "subject": subject,
+                        "from": FROM_EMAIL,
+                        "from_name": "Marco Lundh",
+                        "html": html,
+                    }
+                ]
             ],
         },
         timeout=FETCH_TIMEOUT_SECONDS,
