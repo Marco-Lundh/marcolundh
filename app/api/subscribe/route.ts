@@ -28,16 +28,17 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
         Authorization: `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ email, resubscribed: true }),
+      body: JSON.stringify({ email, resubscribe: true }),
     })
   } catch {
     return NextResponse.json({ error: 'Failed to reach MailerLite' }, { status: 502 })
   }
 
   if (!res.ok) {
-    const body = await res.json().catch(() => ({}))
+    const errorBody = await res.json().catch(() => ({}))
+    console.error('MailerLite subscribe error', res.status, JSON.stringify(errorBody))
     return NextResponse.json(
-      { error: body.message ?? 'MailerLite error' },
+      { error: errorBody.message ?? 'MailerLite error' },
       { status: res.status }
     )
   }
