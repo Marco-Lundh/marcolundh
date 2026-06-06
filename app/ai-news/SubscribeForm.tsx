@@ -2,10 +2,13 @@
 
 import { motion } from 'framer-motion'
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 export default function SubscribeForm() {
   const [email, setEmail] = useState('')
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
+  const { t } = useLanguage()
+  const tr = t.aiNews
 
   async function handleSubmit(e: React.SubmitEvent<HTMLFormElement>) {
     e.preventDefault()
@@ -31,19 +34,19 @@ export default function SubscribeForm() {
       className="max-w-2xl w-full text-center"
     >
       <p className="font-mono text-[#4f9cf9] text-sm tracking-widest uppercase mb-4">
-        daily ai news
+        {tr.label}
       </p>
       <h1 className="text-4xl md:text-5xl font-bold text-slate-100 mb-6 leading-tight">
-        What matters in AI,<br />every morning.
+        {tr.heading}<br />{tr.headingLine2}
       </h1>
       <p className="text-slate-400 text-lg leading-relaxed mb-10">
-        10 hand-picked stories — ranked by Claude, delivered at 07:00 CET.
+        {tr.subheading}
       </p>
 
       {status === 'success' ? (
         <div className="bg-[#111827] border border-[#4f9cf9]/30 rounded-xl p-6">
-          <p className="text-[#4f9cf9] font-semibold mb-1">You&apos;re subscribed!</p>
-          <p className="text-slate-400 text-sm">You&apos;ll receive your first newsletter tomorrow morning at 07:00 CET.</p>
+          <p className="text-[#4f9cf9] font-semibold mb-1">{tr.successTitle}</p>
+          <p className="text-slate-400 text-sm">{tr.successBody}</p>
         </div>
       ) : (
         <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
@@ -54,7 +57,7 @@ export default function SubscribeForm() {
             id="email-input"
             type="email"
             required
-            placeholder="your@email.com"
+            placeholder={tr.placeholder}
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             disabled={status === 'loading'}
@@ -65,22 +68,22 @@ export default function SubscribeForm() {
             disabled={status === 'loading'}
             className="px-6 py-3 bg-[#4f9cf9] text-[#0a0f1e] font-semibold text-sm rounded-lg hover:bg-[#3b82f6] transition-colors shrink-0 disabled:opacity-50"
           >
-            {status === 'loading' ? 'Subscribing…' : 'Subscribe'}
+            {status === 'loading' ? tr.subscribingButton : tr.subscribeButton}
           </button>
         </form>
       )}
 
       {status === 'error' && (
         <p className="text-red-400 text-sm mt-3">
-          Something went wrong — please try again.
+          {tr.errorText}
         </p>
       )}
 
       <p className="text-slate-600 text-xs mt-4 font-mono">
-        Free · Unsubscribe anytime · No spam
+        {tr.disclaimer}
       </p>
       <p className="text-slate-400 text-lg leading-relaxed mt-8">
-        Browse and filter all 25 by category below.
+        {tr.browseText}
       </p>
     </motion.div>
   )

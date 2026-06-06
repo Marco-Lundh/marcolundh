@@ -28,7 +28,7 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
         Authorization: `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ email }),
+      body: JSON.stringify({ email, resubscribed: true }),
     })
   } catch {
     return NextResponse.json({ error: 'Failed to reach MailerLite' }, { status: 502 })
