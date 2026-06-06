@@ -345,6 +345,21 @@ def test_curate_with_claude_returns_empty_on_api_error(
     assert result == []
 
 
+def test_curate_with_claude_strips_markdown_code_block(
+    sample_articles: list[dict],
+    sample_curated: list[curate.Article],
+) -> None:
+    mock_block = MagicMock(spec=anthropic.types.TextBlock)
+    mock_block.text = f"```json\n{json.dumps(sample_curated)}\n```"
+    mock_message = MagicMock()
+    mock_message.content = [mock_block]
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = mock_message
+    with patch("curate.anthropic.Anthropic", return_value=mock_client):
+        result = curate.curate_with_claude(sample_articles, "test-key")
+    assert result == sample_curated
+
+
 def test_curate_with_claude_returns_empty_on_invalid_json(
     sample_articles: list[dict],
 ) -> None:

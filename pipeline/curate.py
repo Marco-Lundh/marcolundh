@@ -197,6 +197,11 @@ def curate_with_claude(
         )
         return []
     response_text = first_block.text.strip()
+    if response_text.startswith("```"):
+        response_text = response_text.split("```")[1]
+        if response_text.startswith("json"):
+            response_text = response_text[4:]
+        response_text = response_text.strip()
     try:
         curated: list[Article] = json.loads(response_text)
     except json.JSONDecodeError as exc:
