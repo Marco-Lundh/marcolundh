@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "url": "https://openai.com/index/endava-frontiers",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/wasmer",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/public-policy-agenda",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/travelers",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/braintrust",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/endava",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/mufg",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/",
+    "seen_at": "2026-06-06"
+  }
+]

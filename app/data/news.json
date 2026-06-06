@@ -1,0 +1,274 @@
+{
+  "generated_at": "2026-06-06T17:48:36.140699+00:00",
+  "articles": [
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "source": "OpenAI News",
+      "summary": "Endava accelerates software delivery using AI agents and ChatGPT Enterprise.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Thu, 04 Jun 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "source": "OpenAI News",
+      "summary": "ChatGPT introduces memory system to remember user preferences across conversations.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Thu, 04 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "source": "OpenAI News",
+      "summary": "GPT-Rosalind advances life sciences with enhanced biological reasoning and genomics.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Wed, 03 Jun 2026 13:15:00 GMT"
+    },
+    {
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "source": "OpenAI News",
+      "summary": "Wasmer built Node.js edge runtime using Codex, achieving 10-20x development acceleration.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Wed, 03 Jun 2026 12:00:00 GMT"
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "source": "OpenAI News",
+      "summary": "OpenAI proposes federal framework for frontier AI governance, safety, and national security.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI News",
+      "summary": "OpenAI outlines policy priorities including safety, youth protection, and workforce transition.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "source": "OpenAI News",
+      "summary": "Travelers built AI Claim Assistant with OpenAI for 24/7 customer support and operations scaling.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 02 Jun 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "source": "OpenAI News",
+      "summary": "New Codex plugins extend AI productivity across analysts, marketers, designers, and investors.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Tue, 02 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "source": "OpenAI News",
+      "summary": "OpenAI breaks ground on 1GW Michigan data center as part of Stargate infrastructure expansion.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Mon, 01 Jun 2026 12:00:00 GMT"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source": "OpenAI News",
+      "summary": "OpenAI models now available on AWS with native integration and enterprise procurement workflows.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Mon, 01 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Boston Children's uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "source": "OpenAI News",
+      "summary": "Boston Children's Hospital uses OpenAI to diagnose over 40 rare disease cases.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Fri, 29 May 2026 12:00:00 GMT"
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "source": "OpenAI News",
+      "summary": "Braintrust engineers use Codex to run experiments and accelerate development workflows.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Fri, 29 May 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "source": "OpenAI News",
+      "summary": "OpenAI launches Rosalind Biodefense for vetted biodefense and pandemic preparedness research.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Fri, 29 May 2026 03:00:00 GMT"
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "source": "OpenAI News",
+      "summary": "OpenAI shares guidance on AI evaluations covering capabilities, safeguards, and validity.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 29 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "source": "OpenAI News",
+      "summary": "Endava uses Codex to build agentic organization, reducing requirements analysis from weeks to hours.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Thu, 28 May 2026 12:00:00 GMT"
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI News",
+      "summary": "MUFG uses ChatGPT Enterprise to build AI-native organization and financial services.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Thu, 28 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Nemotron 3 Ultra enables efficient reasoning for long-running agents with faster inference.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "2026-06-04T13:02:49Z"
+    },
+    {
+      "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+      "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "New tools enable developers to build personal AI agents on Windows PCs.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "2026-06-02T19:00:00Z"
+    },
+    {
+      "title": "Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw",
+      "url": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Self-evolving agents accelerate research with secure data synthesis and summarization.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "2026-06-02T16:00:00Z"
+    },
+    {
+      "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
+      "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "JetPack 7.2 enables agentic AI deployment at edge with memory efficiency.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-06-02T02:00:00Z"
+    },
+    {
+      "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+      "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "DGX Spark supports local AI agents with multi-node clustering for long-running tasks.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-06-01T22:00:00Z"
+    },
+    {
+      "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
+      "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Cosmos 3 enables physical AI systems to understand and act in the real world.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-06-01T04:43:58Z"
+    },
+    {
+      "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
+      "url": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "DOCA in-silicon security advances AI infrastructure for autonomous agent operations.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-06-01T04:21:42Z"
+    },
+    {
+      "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Vera CPU optimizes agentic workloads for AI factories with new scaling laws.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-06-01T03:59:15Z"
+    },
+    {
+      "title": "NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale",
+      "url": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "DSX OS enables open, modular software for scaling AI factory operations across organizations.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-06-01T03:36:52Z"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
+      "source": "Artificial Intelligence",
+      "summary": "Nemotron 3 Ultra offers 5x faster inference and 30% lower cost for agentic AI.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 3,
+      "published": "Thu, 04 Jun 2026 16:59:08 +0000"
+    },
+    {
+      "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock Ops Alert automates monitoring and alert management for AI operations.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Wed, 03 Jun 2026 20:14:16 +0000"
+    },
+    {
+      "title": "Improve your agent's tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
+      "summary": "SFT and DPO techniques improve tool-calling accuracy for small language model agents.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Wed, 03 Jun 2026 15:56:50 +0000"
+    },
+    {
+      "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/",
+      "source": "Artificial Intelligence",
+      "summary": "Guide to hyperparameter optimization for fine-tuning domain-specific models effectively.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Tue, 02 Jun 2026 17:39:03 +0000"
+    },
+    {
+      "title": "Object detection with Amazon Nova 2 Lite",
+      "url": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/",
+      "source": "Artificial Intelligence",
+      "summary": "Implement object detection using Amazon Nova 2 Lite for manufacturing and logistics.",
+      "category": "Generative Media",
+      "reading_time_minutes": 4,
+      "published": "Tue, 02 Jun 2026 17:31:11 +0000"
+    }
+  ]
+}
