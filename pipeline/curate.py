@@ -252,7 +252,8 @@ def _build_email_html(top: list[Article], subject: str) -> str:
             f'\n            <a href="{href}" style="{link_style}">'
             f"\n              {title}"
             "\n            </a>"
-            f'\n            <span style="{span_style}"> ({mins} min)</span>'
+            f'\n            <span style="{span_style}">'
+            f" ({mins} minute read)</span>"
             "\n          </p>"
             f'\n          <p style="{p_style}">'
             f"\n            {summary}"
