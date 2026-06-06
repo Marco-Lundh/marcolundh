@@ -329,6 +329,12 @@ def send_newsletter(articles: list[Article], api_key: str) -> None:
         },
         timeout=FETCH_TIMEOUT_SECONDS,
     )
+    if not response.ok:
+        log.error(
+            "MailerLite campaign error %s: %s",
+            response.status_code,
+            response.text,
+        )
     response.raise_for_status()
     campaign_id = response.json()["data"]["id"]
     log.info("Created MailerLite campaign %s", campaign_id)
