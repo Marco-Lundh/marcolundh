@@ -1,0 +1,109 @@
+'use client'
+
+import Link from 'next/link'
+import { motion } from 'framer-motion'
+import { useState } from 'react'
+
+export default function AiNews() {
+  const [email, setEmail] = useState('')
+  const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
+
+  async function handleSubmit(e: React.SubmitEvent<HTMLFormElement>) {
+    e.preventDefault()
+    setStatus('loading')
+    try {
+      const res = await fetch('/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      })
+      if (!res.ok) throw new Error('Subscribe request failed')
+      setStatus('success')
+    } catch {
+      setStatus('error')
+    }
+  }
+
+  return (
+    <main className="min-h-screen bg-[#0a0f1e] text-slate-100 flex flex-col">
+      <nav className="px-6 h-16 flex items-center border-b border-white/5">
+        <div className="max-w-5xl mx-auto w-full flex items-center justify-between">
+          <Link href="/" className="font-mono text-[#4f9cf9] font-semibold tracking-wide text-sm">
+            marco-tech.se
+          </Link>
+          <div className="flex items-center gap-6">
+            <Link href="/portfolio" className="text-sm text-slate-400 hover:text-slate-100 transition-colors">
+              Portfolio
+            </Link>
+            <Link href="/" className="text-sm text-slate-500 hover:text-[#4f9cf9] transition-colors border-l border-white/10 pl-6">
+              ← Home
+            </Link>
+          </div>
+        </div>
+      </nav>
+
+      <div className="flex-1 flex flex-col items-center justify-center px-6 py-24 gap-24">
+
+        {/* Hero + signup */}
+        <motion.div
+          initial={{ opacity: 0, y: 24 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5 }}
+          className="max-w-2xl w-full text-center"
+        >
+          <p className="font-mono text-[#4f9cf9] text-sm tracking-widest uppercase mb-4">
+            daily ai news
+          </p>
+          <h1 className="text-4xl md:text-5xl font-bold text-slate-100 mb-6 leading-tight">
+            What matters in AI,<br />every morning.
+          </h1>
+          <p className="text-slate-400 text-lg leading-relaxed mb-10">
+            10 hand-picked stories — ranked by Claude, delivered at 07:00 CET.
+            Filter all 50 by category on this page.
+          </p>
+
+          {status === 'success' ? (
+            <div className="bg-[#111827] border border-[#4f9cf9]/30 rounded-xl p-6">
+              <p className="text-[#4f9cf9] font-semibold mb-1">Check your inbox.</p>
+              <p className="text-slate-400 text-sm">We sent you a confirmation email. Click the link to activate your subscription.</p>
+            </div>
+          ) : (
+            <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+              <label htmlFor="email-input" className="sr-only">
+                Email address
+              </label>
+              <input
+                id="email-input"
+                type="email"
+                required
+                placeholder="your@email.com"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                disabled={status === 'loading'}
+                className="flex-1 bg-[#111827] border border-white/10 rounded-lg px-4 py-3 text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-[#4f9cf9]/50 transition-colors disabled:opacity-50"
+              />
+              <button
+                type="submit"
+                disabled={status === 'loading'}
+                className="px-6 py-3 bg-[#4f9cf9] text-[#0a0f1e] font-semibold text-sm rounded-lg hover:bg-[#3b82f6] transition-colors shrink-0 disabled:opacity-50"
+              >
+                {status === 'loading' ? 'Subscribing…' : 'Subscribe'}
+              </button>
+            </form>
+          )}
+
+          {status === 'error' && (
+            <p className="text-red-400 text-sm mt-3">
+              Something went wrong — please try again.
+            </p>
+          )}
+
+          <p className="text-slate-600 text-xs mt-4 font-mono">
+            Free · Unsubscribe anytime · No spam
+          </p>
+        </motion.div>
+
+      </div>
+    </main>
+  )
+}

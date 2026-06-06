@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+pipeline/.venv/
+
+# Next.js build output
+.next/
+
+# Test coverage
+coverage/
+
+# Python cache
+pipeline/.pytest_cache/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+.ruff_cache/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Claude Code project files
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

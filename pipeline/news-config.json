@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://www.anthropic.com/news/rss.xml",
+    "https://openai.com/news/rss.xml",
+    "https://deepmind.google/blog/rss/",
+    "https://ai.meta.com/blog/rss/",
+    "https://blogs.microsoft.com/ai/feed/",
+    "https://developer.nvidia.com/blog/feed/",
+    "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "https://machinelearning.apple.com/rss.xml",
+    "https://mistral.ai/news/rss.xml",
+    "https://cohere.com/blog/rss",
+    "https://x.ai/blog/rss",
+    "https://huggingface.co/blog/feed.xml",
+    "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    "https://arstechnica.com/tag/artificial-intelligence/feed/",
+    "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    "https://venturebeat.com/category/ai/feed/",
+    "https://simonwillison.net/atom/everything/",
+    "https://www.deeplearning.ai/the-batch/feed/"
+  ]
+}
