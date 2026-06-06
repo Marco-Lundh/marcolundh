@@ -79,7 +79,7 @@ export default function SubscribeForm() {
       <p className="text-slate-600 text-xs mt-4 font-mono">
         Free · Unsubscribe anytime · No spam
       </p>
-      <p className="text-slate-500 text-sm mt-8">
+      <p className="text-slate-400 text-lg leading-relaxed mt-8">
         Browse and filter all 25 by category below.
       </p>
     </motion.div>
