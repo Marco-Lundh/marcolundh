@@ -38,7 +38,7 @@ CLAUDE_MAX_TOKENS = 8192
 SEEN_WINDOW_DAYS = 7
 FETCH_TIMEOUT_SECONDS = 10
 MAILERLITE_API = "https://connect.mailerlite.com/api"
-FROM_EMAIL = "marco@marco-tech.se"
+FROM_EMAIL = "newsletter@marco-tech.se"
 
 CATEGORIES = [
     "LLMs & Models",
