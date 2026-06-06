@@ -38,7 +38,7 @@ export default function SubscribeForm() {
       </h1>
       <p className="text-slate-400 text-lg leading-relaxed mb-10">
         10 hand-picked stories — ranked by Claude, delivered at 07:00 CET.
-        Browse and filter all 50 by category below.
+        Browse and filter all 25 by category below.
       </p>
 
       {status === 'success' ? (
