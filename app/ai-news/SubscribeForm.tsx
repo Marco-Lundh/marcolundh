@@ -39,9 +39,6 @@ export default function SubscribeForm() {
       <p className="text-slate-400 text-lg leading-relaxed mb-10">
         10 hand-picked stories — ranked by Claude, delivered at 07:00 CET.
       </p>
-      <p className="text-slate-400 text-lg leading-relaxed mb-10 mt-4">
-        Browse and filter all 25 by category below.
-      </p>
 
       {status === 'success' ? (
         <div className="bg-[#111827] border border-[#4f9cf9]/30 rounded-xl p-6">
@@ -81,6 +78,9 @@ export default function SubscribeForm() {
 
       <p className="text-slate-600 text-xs mt-4 font-mono">
         Free · Unsubscribe anytime · No spam
+      </p>
+      <p className="text-slate-500 text-sm mt-8">
+        Browse and filter all 25 by category below.
       </p>
     </motion.div>
   )
