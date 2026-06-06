@@ -64,8 +64,8 @@ export default function AiNews() {
 
           {status === 'success' ? (
             <div className="bg-[#111827] border border-[#4f9cf9]/30 rounded-xl p-6">
-              <p className="text-[#4f9cf9] font-semibold mb-1">You're subscribed!</p>
-              <p className="text-slate-400 text-sm">You'll receive your first newsletter tomorrow morning at 07:00 CET.</p>
+              <p className="text-[#4f9cf9] font-semibold mb-1">You&apos;re subscribed!</p>
+              <p className="text-slate-400 text-sm">You&apos;ll receive your first newsletter tomorrow morning at 07:00 CET.</p>
             </div>
           ) : (
             <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
