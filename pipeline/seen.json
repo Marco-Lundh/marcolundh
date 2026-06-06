@@ -118,5 +118,105 @@
   {
     "url": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/",
     "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-key-genomics-and-protein-folding-workloads-faster-with-nvidia-rtx-pro-4500-blackwell/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-llm-model-loading-and-increase-context-windows-with-gpudirect-on-amazon-fsx-for-lustre-and-turboquant/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/vsas-bench-streaming-assistant",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/epicache",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment",
+    "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "seen_at": "2026-06-06"
   }
 ]
