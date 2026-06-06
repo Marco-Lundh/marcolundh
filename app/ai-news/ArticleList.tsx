@@ -110,7 +110,7 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
                   </span>
                   <span className="text-slate-800">·</span>
                   <span className="text-[10px] text-slate-600">
-                    {article.reading_time_minutes} min
+                    {article.reading_time_minutes} minute read
                   </span>
                 </div>
                 <a
