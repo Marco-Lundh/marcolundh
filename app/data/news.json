@@ -1,230 +1,230 @@
 {
-  "generated_at": "2026-06-06T18:18:23.475724+00:00",
+  "generated_at": "2026-06-07T08:23:56.579646+00:00",
   "articles": [
     {
-      "title": "Biodefense in the Intelligence Age",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
       "source": "OpenAI News",
-      "summary": "AI-powered biological resilience action plan for enhanced defense capabilities.",
+      "summary": "OpenAI proposes international institute for AI youth safety and opportunity standards.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Thu, 04 Jun 2026 00:00:00 GMT"
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Codex is becoming a productivity tool for everyone",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "source": "OpenAI News",
-      "summary": "Codex transforms productivity through AI-powered research, analysis, and automation.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "Tue, 02 Jun 2026 02:00:00 GMT"
-    },
-    {
-      "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
-      "url": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Vision-language-action models bridge training and deployment gap for autonomous vehicles.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "2026-06-01T04:49:15Z"
-    },
-    {
-      "title": "DynoSim: Simulating the Pareto Frontier",
-      "url": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "LLM serving optimization through Pareto frontier simulation for deployment tuning.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-05-29T22:31:03Z"
-    },
-    {
-      "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
-      "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Automated model documentation under regulatory frameworks including EU AI Act.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-05-29T16:00:00Z"
-    },
-    {
-      "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI",
-      "url": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Enterprise multimodal systems perceive and reason across images, documents, and video.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-05-29T00:07:11Z"
-    },
-    {
-      "title": "NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes",
-      "url": "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Cold-start problem solution for elastic inference scaling on Kubernetes.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-05-27T23:09:52Z"
-    },
-    {
-      "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance",
-      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Blackwell achieves record LLM inference performance for financial trading.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "2026-05-27T20:00:00Z"
-    },
-    {
-      "title": "What's New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters",
-      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "AI-driven game characters with frame generation and ray-traced rendering capabilities.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-05-27T16:59:58Z"
-    },
-    {
-      "title": "NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python Updates",
-      "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "CUDA 13.3 introduces tile programming and compiler autotuning for GPU development.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-05-26T21:39:17Z"
-    },
-    {
-      "title": "Run Key Genomics and Protein Folding Workloads Faster with NVIDIA RTX PRO 4500 Blackwell",
-      "url": "https://developer.nvidia.com/blog/run-key-genomics-and-protein-folding-workloads-faster-with-nvidia-rtx-pro-4500-blackwell/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Accelerated genomics and protein folding for precision medicine applications.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "2026-05-26T16:00:00Z"
-    },
-    {
-      "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "AI agents automate code review with improved accuracy using Amazon Bedrock.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "Tue, 02 Jun 2026 15:45:11 +0000"
-    },
-    {
-      "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/",
-      "source": "Artificial Intelligence",
-      "summary": "OAuth Code flow authentication for AI assistants on Amazon Bedrock AgentCore.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Tue, 02 Jun 2026 03:23:35 +0000"
-    },
-    {
-      "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
-      "url": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
-      "source": "Artificial Intelligence",
-      "summary": "GPT-5.5, GPT-5.4, and Codex now generally available on Amazon Bedrock.",
-      "category": "LLMs & Models",
+      "summary": "OpenAI outlines AI policy stance, regulation support, and political independence.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Mon, 01 Jun 2026 21:31:12 +0000"
+      "published": "Mon, 01 Jun 2026 17:00:00 GMT"
     },
     {
-      "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
-      "source": "Artificial Intelligence",
-      "summary": "Model Context Protocol support with centralized credential management at scale.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Mon, 01 Jun 2026 18:35:03 +0000"
-    },
-    {
-      "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/",
-      "source": "Artificial Intelligence",
-      "summary": "Deterministic and dynamic access control for securing AI agents.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Mon, 01 Jun 2026 17:54:22 +0000"
-    },
-    {
-      "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/",
-      "source": "Artificial Intelligence",
-      "summary": "Built-in guardrails for safe autonomous payment systems using AI agents.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Mon, 01 Jun 2026 17:30:12 +0000"
-    },
-    {
-      "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Operational discipline for deploying and managing AI agents in production.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "Mon, 01 Jun 2026 16:12:18 +0000"
-    },
-    {
-      "title": "Accelerate LLM model loading and increase context windows with GPUDirect on Amazon FSx for Lustre and TurboQuant",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-llm-model-loading-and-increase-context-windows-with-gpudirect-on-amazon-fsx-for-lustre-and-turboquant/",
-      "source": "Artificial Intelligence",
-      "summary": "GPUDirect acceleration for faster LLM model loading and extended context windows.",
+      "title": "Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning",
+      "url": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA introduces CompileIQ auto-tuning for optimized GPU kernel performance extraction.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "Mon, 01 Jun 2026 16:07:19 +0000"
+      "reading_time_minutes": 6,
+      "published": "2026-05-26T22:08:56Z"
     },
     {
-      "title": "Training Azerbaijani language models on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
+      "title": "Develop High-Performance GPU Kernels in C++ with NVIDIA CUDA Tile",
+      "url": "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA CUDA Tile enables high-performance C++ GPU kernel development with tile-based programming.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "2026-05-26T21:40:16Z"
+    },
+    {
+      "title": "Fundamental's Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
       "source": "Artificial Intelligence",
-      "summary": "Efficient LLM training for morphologically rich languages with limited data.",
+      "summary": "Fundamental's NEXUS tabular model launches on SageMaker for enterprise datasets.",
       "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Wed, 03 Jun 2026 17:55:37 +0000"
+    },
+    {
+      "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
+      "source": "Artificial Intelligence",
+      "summary": "SOCI index optimization reduces container cold start times for ML workloads.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Wed, 03 Jun 2026 16:26:35 +0000"
+    },
+    {
+      "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
+      "source": "Artificial Intelligence",
+      "summary": "Bedrock AgentCore gains Secrets Manager integration for enhanced security governance.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Mon, 01 Jun 2026 22:16:28 +0000"
+    },
+    {
+      "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Quick AI integrates biomedical databases to accelerate rare cancer research.",
+      "category": "AI in Industry",
       "reading_time_minutes": 6,
-      "published": "Thu, 28 May 2026 21:54:06 +0000"
+      "published": "Mon, 01 Jun 2026 21:54:16 +0000"
     },
     {
-      "title": "VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models",
-      "url": "https://machinelearning.apple.com/research/vsas-bench-streaming-assistant",
-      "source": "Apple Machine Learning Research",
-      "summary": "Benchmark for evaluating real-time streaming vision-language models.",
-      "category": "Research & Papers",
+      "title": "Amazon Quick integration with time-series databases for market intelligence using MCP",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Quick integrates time-series databases for market intelligence analysis.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "Fri, 22 May 2026 00:00:00 GMT"
+      "published": "Mon, 01 Jun 2026 16:01:24 +0000"
     },
     {
-      "title": "EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments",
-      "url": "https://machinelearning.apple.com/research/epicache",
+      "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
+      "url": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker observability solution provides holistic LLM inference quality monitoring.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Fri, 29 May 2026 23:36:58 +0000"
+    },
+    {
+      "title": "Velox: Learning Representations of 4D Geometry and Appearance",
+      "url": "https://machinelearning.apple.com/research/velox",
       "source": "Apple Machine Learning Research",
-      "summary": "Efficient KV cache management for long-context LLMs on resource-constrained devices.",
+      "summary": "Velox framework learns compressed 4D object representations from dynamic point clouds.",
       "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "Tue, 19 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning",
-      "url": "https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning",
-      "source": "Apple Machine Learning Research",
-      "summary": "Reinforcement learning framework balancing multiple objectives in image captioning.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 11 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "RVPO: Risk-Sensitive Alignment via Variance Regularization",
-      "url": "https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment",
-      "source": "Apple Machine Learning Research",
-      "summary": "Risk-sensitive reinforcement learning approach for multi-objective model alignment.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
       "published": "Fri, 08 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "source": "Hugging Face - Blog",
-      "summary": "Customizable multimodal safety features for enterprise AI applications.",
-      "category": "AI Tools & Frameworks",
+      "title": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+      "url": "https://machinelearning.apple.com/research/gaussian-head-reconstruction",
+      "source": "Apple Machine Learning Research",
+      "summary": "HeadsUp enables scalable 3D Gaussian head reconstruction from multi-camera setups.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Fri, 08 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "What Matters in Practical Learned Image Compression",
+      "url": "https://machinelearning.apple.com/research/compression",
+      "source": "Apple Machine Learning Research",
+      "summary": "Comprehensive study identifies key design choices for practical learned image codecs.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Thu, 07 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Text-Conditional JEPA for Learning Semantically Rich Visual Representations",
+      "url": "https://machinelearning.apple.com/research/text-conditional-jepa-visual-representations",
+      "source": "Apple Machine Learning Research",
+      "summary": "TC-JEPA uses image captions to improve visual self-supervised learning predictions.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Thu, 04 Jun 2026 18:57:45 GMT"
+      "published": "Thu, 07 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "Hugging Face - Blog",
+      "summary": "DPO technique extends beyond chatbots to other AI model optimization domains.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 03 Jun 2026 12:55:11 GMT"
+    },
+    {
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face - Blog",
+      "summary": "Holo3.1 delivers fast local AI agents capable of computer use tasks.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Tue, 02 Jun 2026 14:13:23 GMT"
+    },
+    {
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "source": "Hugging Face - Blog",
+      "summary": "JetBrains releases Mellum2, 12B mixture-of-experts model for code understanding.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Mon, 01 Jun 2026 15:45:17 GMT"
+    },
+    {
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "source": "Hugging Face - Blog",
+      "summary": "IBM research highlights agent logic importance for enterprise AI adoption scale.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Mon, 01 Jun 2026 13:51:18 GMT"
+    },
+    {
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "source": "Hugging Face - Blog",
+      "summary": "OlmoEarth v1.1 improves efficiency of Earth observation AI models.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Tue, 19 May 2026 18:38:09 GMT"
+    },
+    {
+      "title": "Introducing the Ettin Reranker Family",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "source": "Hugging Face - Blog",
+      "summary": "Ettin reranker family improves semantic search and retrieval quality.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Tue, 19 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "source": "Hugging Face - Blog",
+      "summary": "IBM Granite multilingual embeddings achieve best sub-100M retrieval quality.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Thu, 14 May 2026 18:55:01 GMT"
+    },
+    {
+      "title": "Unlocking asynchronicity in continuous batching",
+      "url": "https://huggingface.co/blog/continuous_async",
+      "source": "Hugging Face - Blog",
+      "summary": "Continuous batching asynchronicity optimization improves LLM inference throughput.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Thu, 14 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "The Meta hack shows there's more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Meta AI assistant exploited to hijack Instagram accounts via prompt manipulation.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Fri, 05 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google Gemma 4 12B runs efficiently on consumer laptops with novel token prediction.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Wed, 03 Jun 2026 19:10:03 +0000"
+    },
+    {
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Microsoft Project Solara reimagines Android OS around AI agents instead of apps.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Tue, 02 Jun 2026 20:47:54 +0000"
     }
   ]
 }

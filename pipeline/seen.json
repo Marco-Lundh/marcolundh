@@ -218,5 +218,105 @@
   {
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
     "seen_at": "2026-06-06"
+  },
+  {
+    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/velox",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/gaussian-head-reconstruction",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/compression",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/text-conditional-jepa-visual-representations",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/continuous_async",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+    "seen_at": "2026-06-07"
   }
 ]
