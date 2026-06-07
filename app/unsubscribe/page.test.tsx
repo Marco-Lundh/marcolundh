@@ -1,15 +1,5 @@
-import { describe, it, expect, vi, beforeEach } from 'vitest'
+import { describe, it, expect, vi } from 'vitest'
 import { render, screen } from '@testing-library/react'
-
-const { fromMock, maybeSingle, eqUpdate } = vi.hoisted(() => ({
-  fromMock: vi.fn(),
-  maybeSingle: vi.fn(),
-  eqUpdate: vi.fn(),
-}))
-
-vi.mock('@/lib/supabase', () => ({
-  getSupabase: () => ({ from: fromMock }),
-}))
 
 vi.mock('@/components/StatusCard', () => ({
   default: ({ page, kind }: { page: string; kind: string }) => (
@@ -17,65 +7,29 @@ vi.mock('@/components/StatusCard', () => ({
   ),
 }))
 
+vi.mock('@/components/UnsubscribeButton', () => ({
+  default: ({ token }: { token: string }) => (
+    <div data-testid="button" data-token={token} />
+  ),
+}))
+
 import UnsubscribePage from './page'
 
-async function renderPage(token?: string) {
-  const el = await UnsubscribePage({
-    searchParams: Promise.resolve({ token }),
-  })
-  render(el)
-  return screen.getByTestId('status')
-}
-
 describe('UnsubscribePage', () => {
-  beforeEach(() => {
-    vi.clearAllMocks()
-    fromMock.mockReturnValue({
-      select: () => ({ eq: () => ({ maybeSingle }) }),
-      update: () => ({ eq: eqUpdate }),
-    })
-    eqUpdate.mockResolvedValue({ error: null })
-  })
-
-  it('returns invalid when no token is provided', async () => {
-    const status = await renderPage(undefined)
+  it('shows the invalid status card when no token is given', async () => {
+    const el = await UnsubscribePage({ searchParams: Promise.resolve({}) })
+    render(el)
+    const status = screen.getByTestId('status')
     expect(status.dataset.kind).toBe('invalid')
-    expect(maybeSingle).not.toHaveBeenCalled()
+    expect(screen.queryByTestId('button')).not.toBeInTheDocument()
   })
 
-  it('returns invalid when the token is not found', async () => {
-    maybeSingle.mockResolvedValue({ data: null, error: null })
-    const status = await renderPage('nope')
-    expect(status.dataset.kind).toBe('invalid')
-  })
-
-  it('returns already when the subscriber is already unsubscribed', async () => {
-    maybeSingle.mockResolvedValue({
-      data: { id: '1', status: 'unsubscribed' },
-      error: null,
+  it('renders the confirm button when a token is present', async () => {
+    const el = await UnsubscribePage({
+      searchParams: Promise.resolve({ token: 'tok123' }),
     })
-    const status = await renderPage('tok')
-    expect(status.dataset.kind).toBe('already')
-  })
-
-  it('unsubscribes an active subscriber', async () => {
-    maybeSingle.mockResolvedValue({
-      data: { id: '1', status: 'active' },
-      error: null,
-    })
-    const status = await renderPage('tok')
-    expect(status.dataset.kind).toBe('unsubscribed')
-    expect(status.dataset.page).toBe('unsubscribe')
-    expect(eqUpdate).toHaveBeenCalledOnce()
-  })
-
-  it('returns invalid when the update fails', async () => {
-    maybeSingle.mockResolvedValue({
-      data: { id: '1', status: 'active' },
-      error: null,
-    })
-    eqUpdate.mockResolvedValue({ error: { message: 'fail' } })
-    const status = await renderPage('tok')
-    expect(status.dataset.kind).toBe('invalid')
+    render(el)
+    expect(screen.getByTestId('button').dataset.token).toBe('tok123')
+    expect(screen.queryByTestId('status')).not.toBeInTheDocument()
   })
 })

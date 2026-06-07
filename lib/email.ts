@@ -1,4 +1,5 @@
 import { Resend } from 'resend'
+import type { Language } from '@/lib/translations'
 
 /** Lazily created Resend client — importing this module never throws. */
 let client: Resend | null = null
@@ -20,7 +21,41 @@ export const FROM_NAME = 'Marco Lundh'
 export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL ?? 'https://marco-tech.se'
 
-function confirmationHtml(confirmUrl: string): string {
+const confirmationCopy: Record<
+  Language,
+  { subject: string; heading: string; body: string; button: string; fine: string }
+> = {
+  en: {
+    subject: 'Confirm your AI News subscription',
+    heading: 'Confirm your subscription',
+    body:
+      'Click the button below to confirm and start receiving the daily AI ' +
+      'newsletter every morning at 07:00 CET.',
+    button: 'Confirm subscription',
+    fine: "If you didn't request this, you can safely ignore this email.",
+  },
+  sv: {
+    subject: 'Bekräfta din prenumeration på AI News',
+    heading: 'Bekräfta din prenumeration',
+    body:
+      'Klicka på knappen nedan för att bekräfta och börja få det dagliga ' +
+      'AI-nyhetsbrevet varje morgon kl 07:00 CET.',
+    button: 'Bekräfta prenumeration',
+    fine: 'Om du inte begärde detta kan du ignorera det här mejlet.',
+  },
+}
+
+function escapeHtml(value: string): string {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;')
+}
+
+function confirmationHtml(confirmUrl: string, language: Language): string {
+  const copy = confirmationCopy[language]
   const bodyStyle =
     'background:#ffffff;color:#1e293b;font-family:system-ui,sans-serif;' +
     'max-width:520px;margin:0 auto;padding:48px 24px;'
@@ -42,12 +77,11 @@ function confirmationHtml(confirmUrl: string): string {
     '<head><meta charset="utf-8"></head>\n' +
     `<body style="${bodyStyle}">\n` +
     `  <p style="${labelStyle}">AI NEWS · marco-tech.se</p>\n` +
-    `  <h1 style="${h1Style}">Confirm your subscription</h1>\n` +
-    `  <p style="${pStyle}">Click the button below to confirm and start ` +
-    'receiving the daily AI newsletter every morning at 07:00 CET.</p>\n' +
-    `  <a href="${confirmUrl}" style="${buttonStyle}">Confirm subscription</a>\n` +
-    `  <p style="${finePrint}">If you didn&apos;t request this, you can ` +
-    'safely ignore this email.</p>\n' +
+    `  <h1 style="${h1Style}">${escapeHtml(copy.heading)}</h1>\n` +
+    `  <p style="${pStyle}">${escapeHtml(copy.body)}</p>\n` +
+    `  <a href="${escapeHtml(confirmUrl)}" style="${buttonStyle}">` +
+    `${escapeHtml(copy.button)}</a>\n` +
+    `  <p style="${finePrint}">${escapeHtml(copy.fine)}</p>\n` +
     '</body>\n</html>'
   )
 }
@@ -55,14 +89,16 @@ function confirmationHtml(confirmUrl: string): string {
 /** Send the double opt-in confirmation email to a pending subscriber. */
 export async function sendConfirmationEmail(
   email: string,
-  confirmToken: string
+  confirmToken: string,
+  language: Language = 'en'
 ): Promise<void> {
   const confirmUrl = `${SITE_URL}/confirm?token=${confirmToken}`
+  const copy = confirmationCopy[language]
   const { error } = await getResend().emails.send({
     from: `${FROM_NAME} <${FROM_EMAIL}>`,
     to: email,
-    subject: 'Confirm your AI News subscription',
-    html: confirmationHtml(confirmUrl),
+    subject: copy.subject,
+    html: confirmationHtml(confirmUrl, language),
   })
   if (error) {
     throw new Error(`Resend error: ${error.message}`)

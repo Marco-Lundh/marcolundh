@@ -1,18 +1,9 @@
 import { existsSync, readFileSync } from 'fs'
 import { join } from 'path'
+import type { Article } from '@/lib/types'
 import AiNewsNav from './AiNewsNav'
 import SubscribeForm from './SubscribeForm'
 import ArticleList from './ArticleList'
-
-interface Article {
-  title: string
-  url: string
-  source: string
-  summary: string
-  category: string
-  reading_time_minutes: number
-  published: string
-}
 
 function loadArticles(): Article[] {
   const filePath = join(process.cwd(), 'app/data/news.json')

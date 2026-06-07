@@ -36,4 +36,10 @@ describe('POST /api/unsubscribe', () => {
     expect(res.status).toBe(200)
     expect(eqUpdate).not.toHaveBeenCalled()
   })
+
+  it('still returns 200 when the database call throws', async () => {
+    eqUpdate.mockRejectedValue(new Error('db down'))
+    const res = await POST(reqWith('tok123'))
+    expect(res.status).toBe(200)
+  })
 })

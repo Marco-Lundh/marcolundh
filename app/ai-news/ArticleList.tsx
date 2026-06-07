@@ -2,16 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { useState } from 'react'
-
-interface Article {
-  title: string
-  url: string
-  source: string
-  summary: string
-  category: string
-  reading_time_minutes: number
-  published: string
-}
+import type { Article } from '@/lib/types'
 
 const CATEGORIES = [
   'LLMs & Models',
@@ -129,12 +120,6 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
           </motion.article>
         ))}
       </div>
-
-      {filtered.length === 0 && (
-        <p className="text-slate-600 text-sm py-8 text-center font-mono">
-          No stories in this category today.
-        </p>
-      )}
     </motion.div>
   )
 }

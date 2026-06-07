@@ -2,30 +2,36 @@ import { randomBytes } from 'crypto'
 import { NextRequest, NextResponse } from 'next/server'
 import { getSupabase } from '@/lib/supabase'
 import { sendConfirmationEmail } from '@/lib/email'
+import type { Language } from '@/lib/translations'
+
+// Don't send another confirmation email to the same address within this
+// window — throttles email-bombing and protects the Resend daily quota.
+const RESEND_COOLDOWN_MS = 2 * 60 * 1000
 
 function newToken(): string {
   return randomBytes(32).toString('hex')
 }
 
 export async function POST(req: NextRequest): Promise<NextResponse> {
-  let email: unknown
+  let body: { email?: unknown; language?: unknown }
   try {
-    const body = await req.json()
-    email = body?.email
+    body = await req.json()
   } catch {
     return NextResponse.json({ error: 'Invalid request body' }, { status: 400 })
   }
 
+  const email = body?.email
   if (!email || typeof email !== 'string' || !email.includes('@')) {
     return NextResponse.json({ error: 'Invalid email' }, { status: 400 })
   }
 
+  const language: Language = body?.language === 'sv' ? 'sv' : 'en'
   const normalized = email.trim().toLowerCase()
   const supabase = getSupabase()
 
   const { data: existing, error: lookupError } = await supabase
     .from('subscribers')
-    .select('id, status, unsubscribe_token')
+    .select('id, status, confirmation_sent_at')
     .eq('email', normalized)
     .maybeSingle()
 
@@ -39,13 +45,27 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     return NextResponse.json({ ok: true }, { status: 200 })
   }
 
+  // A confirmation was sent very recently — throttle without re-sending.
+  if (
+    existing?.confirmation_sent_at &&
+    Date.now() - new Date(existing.confirmation_sent_at).getTime() <
+      RESEND_COOLDOWN_MS
+  ) {
+    return NextResponse.json({ ok: true }, { status: 200 })
+  }
+
   const confirmToken = newToken()
+  const sentAt = new Date().toISOString()
 
   if (existing) {
     // Pending or previously unsubscribed — refresh token and re-confirm.
     const { error } = await supabase
       .from('subscribers')
-      .update({ status: 'pending', confirm_token: confirmToken })
+      .update({
+        status: 'pending',
+        confirm_token: confirmToken,
+        confirmation_sent_at: sentAt,
+      })
       .eq('id', existing.id)
     if (error) {
       console.error('Supabase update error', error.message)
@@ -57,6 +77,7 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
       status: 'pending',
       confirm_token: confirmToken,
       unsubscribe_token: newToken(),
+      confirmation_sent_at: sentAt,
     })
     if (error) {
       console.error('Supabase insert error', error.message)
@@ -65,7 +86,7 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
   }
 
   try {
-    await sendConfirmationEmail(normalized, confirmToken)
+    await sendConfirmationEmail(normalized, confirmToken, language)
   } catch (err) {
     console.error('Confirmation email failed', err)
     return NextResponse.json(

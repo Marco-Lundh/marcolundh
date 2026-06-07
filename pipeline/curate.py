@@ -43,6 +43,32 @@ FROM_EMAIL = "newsletter@marco-tech.se"
 FROM_NAME = "Marco Lundh"
 SITE_URL = "https://marco-tech.se"
 
+# Explicit English names so the email subject does not depend on the
+# runner's locale (strftime %A/%B are locale-sensitive).
+WEEKDAYS = [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+]
+MONTHS = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+]
+
 CATEGORIES = [
     "LLMs & Models",
     "AI Agents & Automation",
@@ -235,10 +261,8 @@ def update_seen(seen: list[dict], articles: list[Article]) -> list[dict]:
     return seen
 
 
-def _build_email_html(
-    top: list[Article], subject: str, unsubscribe_url: str
-) -> str:
-    """Build the HTML body for the newsletter email."""
+def _build_items_html(top: list[Article]) -> str:
+    """Render the article list HTML — identical for every recipient."""
     items_html = ""
     for article in top:
         href = escape(article["url"], quote=True)
@@ -265,7 +289,11 @@ def _build_email_html(
             "\n          </p>"
             "\n        </div>"
         )
+    return items_html
 
+
+def _render_email(items_html: str, subject: str, unsubscribe_url: str) -> str:
+    """Wrap pre-rendered article HTML with the per-recipient footer."""
     body_style = (
         "background:#ffffff;color:#1e293b;"
         "font-family:system-ui,sans-serif;"
@@ -301,10 +329,22 @@ def _build_email_html(
     )
 
 
+def _build_email_html(
+    top: list[Article], subject: str, unsubscribe_url: str
+) -> str:
+    """Build a complete newsletter email (article list + footer)."""
+    return _render_email(_build_items_html(top), subject, unsubscribe_url)
+
+
 def fetch_active_subscribers(
     supabase_url: str, service_key: str
 ) -> list[dict]:
-    """Fetch active subscribers (email + unsubscribe token) from Supabase."""
+    """Fetch active subscribers (email + unsubscribe token) from Supabase.
+
+    Note: PostgREST returns at most 1000 rows per request. That is well
+    above the Resend free-tier ceiling of 100 emails/day, so pagination is
+    unnecessary at the current scale — revisit if the list grows past 1000.
+    """
     response = requests.get(
         f"{supabase_url}/rest/v1/subscribers",
         headers={
@@ -344,9 +384,13 @@ def send_newsletter(
 
     top = articles[:EMAIL_ARTICLES]
     now = datetime.now(UTC)
-    day = str(now.day)
-    today = now.strftime(f"%A {day} %B %Y")
+    today = f"{WEEKDAYS[now.weekday()]} {now.day} {MONTHS[now.month - 1]} "
+    today += str(now.year)
     subject = f"AI News · {today}"
+
+    # The article list is identical for everyone — render it once and only
+    # vary the per-recipient unsubscribe footer.
+    items_html = _build_items_html(top)
 
     headers = {
         "Authorization": f"Bearer {resend_key}",
@@ -365,7 +409,9 @@ def send_newsletter(
                     "from": f"{FROM_NAME} <{FROM_EMAIL}>",
                     "to": [sub["email"]],
                     "subject": subject,
-                    "html": _build_email_html(top, subject, unsubscribe_url),
+                    "html": _render_email(
+                        items_html, subject, unsubscribe_url
+                    ),
                     "headers": {
                         "List-Unsubscribe": f"<{unsubscribe_url}>",
                         "List-Unsubscribe-Post": "List-Unsubscribe=One-Click",

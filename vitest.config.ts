@@ -13,7 +13,7 @@ export default defineConfig({
       provider: 'v8',
       reporter: ['text', 'html'],
       include: ['contexts/**', 'lib/**', 'components/**', 'app/**'],
-      exclude: ['**/*.test.{ts,tsx}', 'test/**'],
+      exclude: ['**/*.test.{ts,tsx}', 'test/**', 'lib/types.ts'],
     },
   },
   resolve: {

@@ -103,6 +103,12 @@ export const translations = {
       },
     },
     unsubscribe: {
+      prompt: {
+        title: 'Unsubscribe',
+        body: 'Click below to stop receiving the daily AI newsletter.',
+        button: 'Unsubscribe',
+        loading: 'Unsubscribing…',
+      },
       unsubscribed: {
         title: "You're unsubscribed",
         body: "You won't receive the newsletter anymore. You can resubscribe anytime.",
@@ -209,6 +215,12 @@ export const translations = {
       },
     },
     unsubscribe: {
+      prompt: {
+        title: 'Avregistrera',
+        body: 'Klicka nedan för att sluta få det dagliga AI-nyhetsbrevet.',
+        button: 'Avregistrera',
+        loading: 'Avregistrerar…',
+      },
       unsubscribed: {
         title: 'Du är avregistrerad',
         body: 'Du får inte nyhetsbrevet längre. Du kan prenumerera igen när som helst.',

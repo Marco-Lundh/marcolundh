@@ -76,4 +76,10 @@ describe('ConfirmPage', () => {
     const status = await renderPage('tok')
     expect(status.dataset.kind).toBe('invalid')
   })
+
+  it('returns invalid when the database throws', async () => {
+    maybeSingle.mockRejectedValue(new Error('db down'))
+    const status = await renderPage('tok')
+    expect(status.dataset.kind).toBe('invalid')
+  })
 })

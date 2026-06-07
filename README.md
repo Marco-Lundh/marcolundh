@@ -149,7 +149,8 @@ create table subscribers (
   confirm_token text not null,
   unsubscribe_token text not null,
   created_at timestamptz default now(),
-  confirmed_at timestamptz
+  confirmed_at timestamptz,
+  confirmation_sent_at timestamptz  -- throttles repeat confirmation emails
 );
 ```
 

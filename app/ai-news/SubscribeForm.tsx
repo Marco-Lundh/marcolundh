@@ -7,7 +7,7 @@ import { useLanguage } from '@/contexts/LanguageContext'
 export default function SubscribeForm() {
   const [email, setEmail] = useState('')
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
-  const { t } = useLanguage()
+  const { language, t } = useLanguage()
   const tr = t.aiNews
 
   async function handleSubmit(e: React.SubmitEvent<HTMLFormElement>) {
@@ -17,7 +17,7 @@ export default function SubscribeForm() {
       const res = await fetch('/api/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, language }),
       })
       if (!res.ok) throw new Error('Subscribe request failed')
       setStatus('success')
