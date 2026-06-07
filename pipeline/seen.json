@@ -318,5 +318,105 @@
   {
     "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
     "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://machinelearning.apple.com/updates/ppml-2026",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "seen_at": "2026-06-07"
+  },
+  {
+    "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2026",
+    "seen_at": "2026-06-07"
   }
 ]

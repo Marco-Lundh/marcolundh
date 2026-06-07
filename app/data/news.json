@@ -1,230 +1,230 @@
 {
-  "generated_at": "2026-06-07T08:23:56.579646+00:00",
+  "generated_at": "2026-06-07T20:45:01.168939+00:00",
   "articles": [
     {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "source": "OpenAI News",
-      "summary": "OpenAI proposes international institute for AI youth safety and opportunity standards.",
+      "title": "Microsoft's framework for building AI systems responsibly",
+      "url": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+      "source": "The AI Blog",
+      "summary": "Microsoft releases framework for responsible AI system development and deployment practices.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT"
+      "published": "Tue, 21 Jun 2022 17:50:03 +0000"
     },
     {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "source": "OpenAI News",
-      "summary": "OpenAI outlines AI policy stance, regulation support, and political independence.",
-      "category": "Ethics & Policy",
+      "title": "Apple Workshop on Privacy-Preserving Machine Learning & AI 2026",
+      "url": "https://machinelearning.apple.com/updates/ppml-2026",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple hosts workshop advancing privacy-preserving machine learning and AI research techniques.",
+      "category": "Research & Papers",
       "reading_time_minutes": 4,
-      "published": "Mon, 01 Jun 2026 17:00:00 GMT"
+      "published": "Fri, 08 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning",
-      "url": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA introduces CompileIQ auto-tuning for optimized GPU kernel performance extraction.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-05-26T22:08:56Z"
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "source": "Hugging Face - Blog",
+      "summary": "EVA-Bench releases comprehensive benchmark dataset for evaluating AI agents across domains.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 04 Jun 2026 12:24:58 GMT"
     },
     {
-      "title": "Develop High-Performance GPU Kernels in C++ with NVIDIA CUDA Tile",
-      "url": "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA CUDA Tile enables high-performance C++ GPU kernel development with tile-based programming.",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face introduces CLI tool optimized for AI agents to interact with model hub.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-05-26T21:40:16Z"
+      "reading_time_minutes": 4,
+      "published": "Thu, 04 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Fundamental's Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
-      "source": "Artificial Intelligence",
-      "summary": "Fundamental's NEXUS tabular model launches on SageMaker for enterprise datasets.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Wed, 03 Jun 2026 17:55:37 +0000"
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "source": "Hugging Face - Blog",
+      "summary": "Integration of MCP tools expands capabilities of Reachy Mini robotic platform.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "Wed, 03 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
-      "source": "Artificial Intelligence",
-      "summary": "SOCI index optimization reduces container cold start times for ML workloads.",
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source": "Hugging Face - Blog",
+      "summary": "Reachy Mini robotic platform now supports fully local conversational AI capabilities.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "Wed, 27 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "source": "Hugging Face - Blog",
+      "summary": "TRL introduces delta weight sync for efficient large-scale model training and distribution.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Wed, 03 Jun 2026 16:26:35 +0000"
+      "published": "Wed, 27 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
-      "source": "Artificial Intelligence",
-      "summary": "Bedrock AgentCore gains Secrets Manager integration for enhanced security governance.",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "source": "Hugging Face - Blog",
+      "summary": "Establishes standard terminology and definitions for AI agent development and evaluation.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 4,
-      "published": "Mon, 01 Jun 2026 22:16:28 +0000"
+      "published": "Mon, 25 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Quick AI integrates biomedical databases to accelerate rare cancer research.",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "source": "Hugging Face - Blog",
+      "summary": "PaddleOCR 3.5 integrates transformer models for improved optical character recognition.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Mon, 18 May 2026 15:12:46 GMT"
+    },
+    {
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "source": "Hugging Face - Blog",
+      "summary": "AWS releases building blocks for foundation model training and inference infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Mon, 11 May 2026 23:18:26 GMT"
+    },
+    {
+      "title": "Rehumanizing global health care with agentic AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI agents demonstrate potential to improve healthcare delivery and reduce provider burnout.",
       "category": "AI in Industry",
       "reading_time_minutes": 6,
-      "published": "Mon, 01 Jun 2026 21:54:16 +0000"
+      "published": "Tue, 02 Jun 2026 11:23:34 +0000"
     },
     {
-      "title": "Amazon Quick integration with time-series databases for market intelligence using MCP",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Quick integrates time-series databases for market intelligence analysis.",
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Guide for small businesses implementing AI tools across operations and business functions.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Tue, 02 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Organizations struggle to align enterprise AI agent ambitions with operational readiness.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Tue, 26 May 2026 14:54:10 +0000"
+    },
+    {
+      "title": "It's time to address the looming crisis in entry-level work",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI threatens entry-level job market, risking career development pipeline disruption.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 6,
+      "published": "Tue, 26 May 2026 09:00:00 +0000"
+    },
+    {
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Google DeepMind advances AI-driven scientific discovery at annual developer conference.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Fri, 22 May 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "AI | VentureBeat",
+      "summary": "Google reimagines search interface with AI-powered capabilities and new interaction paradigm.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "Mon, 01 Jun 2026 16:01:24 +0000"
+      "published": "Tue, 19 May 2026 17:45:00 GMT"
     },
     {
-      "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
-      "url": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker observability solution provides holistic LLM inference quality monitoring.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Fri, 29 May 2026 23:36:58 +0000"
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "AI | VentureBeat",
+      "summary": "Railway raises $100M to build AI-native cloud platform addressing legacy infrastructure limitations.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
     },
     {
-      "title": "Velox: Learning Representations of 4D Geometry and Appearance",
-      "url": "https://machinelearning.apple.com/research/velox",
-      "source": "Apple Machine Learning Research",
-      "summary": "Velox framework learns compressed 4D object representations from dynamic point clouds.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Fri, 08 May 2026 00:00:00 GMT"
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "AI | VentureBeat",
+      "summary": "Listen Labs secures $69M to expand AI-powered customer research and interview platform.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Fri, 16 Jan 2026 14:01:00 GMT"
     },
     {
-      "title": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
-      "url": "https://machinelearning.apple.com/research/gaussian-head-reconstruction",
-      "source": "Apple Machine Learning Research",
-      "summary": "HeadsUp enables scalable 3D Gaussian head reconstruction from multi-camera setups.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Fri, 08 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "What Matters in Practical Learned Image Compression",
-      "url": "https://machinelearning.apple.com/research/compression",
-      "source": "Apple Machine Learning Research",
-      "summary": "Comprehensive study identifies key design choices for practical learned image codecs.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Thu, 07 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Text-Conditional JEPA for Learning Semantically Rich Visual Representations",
-      "url": "https://machinelearning.apple.com/research/text-conditional-jepa-visual-representations",
-      "source": "Apple Machine Learning Research",
-      "summary": "TC-JEPA uses image captions to improve visual self-supervised learning predictions.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 07 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "source": "Hugging Face - Blog",
-      "summary": "DPO technique extends beyond chatbots to other AI model optimization domains.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Wed, 03 Jun 2026 12:55:11 GMT"
-    },
-    {
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "source": "Hugging Face - Blog",
-      "summary": "Holo3.1 delivers fast local AI agents capable of computer use tasks.",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "AI | VentureBeat",
+      "summary": "Salesforce launches AI-powered Slackbot agent for enterprise data search and automation.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 4,
-      "published": "Tue, 02 Jun 2026 14:13:23 GMT"
+      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
     },
     {
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "source": "Hugging Face - Blog",
-      "summary": "JetBrains releases Mellum2, 12B mixture-of-experts model for code understanding.",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "AI | VentureBeat",
+      "summary": "Anthropic releases Cowork, making AI agent capabilities accessible to non-technical users.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
+    },
+    {
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "AI | VentureBeat",
+      "summary": "Nous Research releases NousCoder-14B open-source model competitive with proprietary systems.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
+    },
+    {
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Develops sandbox approach for safe Python code execution using MicroPython and WebAssembly.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-06-06T03:53:34+00:00"
+    },
+    {
+      "title": "Microsoft's new MAI models",
+      "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Microsoft releases MAI-Thinking-1 and MAI-Code-1-Flash large language models for specialized tasks.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Mon, 01 Jun 2026 15:45:17 GMT"
+      "reading_time_minutes": 3,
+      "published": "2026-06-02T22:21:52+00:00"
     },
     {
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "source": "Hugging Face - Blog",
-      "summary": "IBM research highlights agent logic importance for enterprise AI adoption scale.",
-      "category": "AI Agents & Automation",
+      "title": "How we contain Claude across products",
+      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic details sandboxing and containment techniques for Claude across multiple products.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "Mon, 01 Jun 2026 13:51:18 GMT"
+      "published": "2026-05-30T21:36:24+00:00"
     },
     {
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "source": "Hugging Face - Blog",
-      "summary": "OlmoEarth v1.1 improves efficiency of Earth observation AI models.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Tue, 19 May 2026 18:38:09 GMT"
-    },
-    {
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "source": "Hugging Face - Blog",
-      "summary": "Ettin reranker family improves semantic search and retrieval quality.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Tue, 19 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "source": "Hugging Face - Blog",
-      "summary": "IBM Granite multilingual embeddings achieve best sub-100M retrieval quality.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Thu, 14 May 2026 18:55:01 GMT"
-    },
-    {
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
-      "source": "Hugging Face - Blog",
-      "summary": "Continuous batching asynchronicity optimization improves LLM inference throughput.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 14 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The Meta hack shows there's more to AI security than Mythos",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Meta AI assistant exploited to hijack Instagram accounts via prompt manipulation.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Fri, 05 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google Gemma 4 12B runs efficiently on consumer laptops with novel token prediction.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Wed, 03 Jun 2026 19:10:03 +0000"
-    },
-    {
-      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Microsoft Project Solara reimagines Android OS around AI agents instead of apps.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 02 Jun 2026 20:47:54 +0000"
+      "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026",
+      "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2026",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple presents computer vision and pattern recognition research at major industry conference.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 3,
+      "published": "Thu, 28 May 2026 00:00:00 GMT"
     }
   ]
 }
