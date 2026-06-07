@@ -24,6 +24,10 @@ pipeline/.coverage
 .env.test.local
 .env.production.local
 
+# Editor
+.vscode/
+.idea/
+
 # Claude Code project files
 .claude/
 
