@@ -22,20 +22,20 @@ export const SITE_URL =
 
 function confirmationHtml(confirmUrl: string): string {
   const bodyStyle =
-    'background:#0a0f1e;color:#e2e8f0;font-family:system-ui,sans-serif;' +
+    'background:#ffffff;color:#1e293b;font-family:system-ui,sans-serif;' +
     'max-width:520px;margin:0 auto;padding:48px 24px;'
   const labelStyle =
     'font-family:monospace;color:#1d6fd1;font-size:12px;' +
     'letter-spacing:0.1em;text-transform:uppercase;margin:0 0 16px;'
   const h1Style =
-    'font-size:22px;font-weight:700;color:#cbd5e1;margin:0 0 16px;'
+    'font-size:22px;font-weight:700;color:#0f172a;margin:0 0 16px;'
   const pStyle =
-    'color:#64748b;font-size:15px;line-height:1.7;margin:0 0 28px;'
+    'color:#475569;font-size:15px;line-height:1.7;margin:0 0 28px;'
   const buttonStyle =
-    'display:inline-block;background:#1d6fd1;color:#0a0f1e;font-weight:600;' +
+    'display:inline-block;background:#1d6fd1;color:#ffffff;font-weight:600;' +
     'font-size:15px;text-decoration:none;padding:12px 28px;border-radius:8px;'
   const finePrint =
-    'color:#334155;font-size:12px;line-height:1.6;margin:32px 0 0;'
+    'color:#94a3b8;font-size:12px;line-height:1.6;margin:32px 0 0;'
 
   return (
     '<!DOCTYPE html>\n<html>\n' +

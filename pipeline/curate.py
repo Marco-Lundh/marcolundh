@@ -249,8 +249,8 @@ def _build_email_html(
             "color:#1d6fd1;font-weight:600;"
             "text-decoration:none;font-size:16px;"
         )
-        span_style = "color:#475569;font-size:13px;"
-        p_style = "margin:0;color:#64748b;font-size:14px;line-height:1.6;"
+        span_style = "color:#94a3b8;font-size:13px;"
+        p_style = "margin:0;color:#475569;font-size:14px;line-height:1.6;"
         items_html += (
             '\n        <div style="margin-bottom:28px;">'
             '\n          <p style="margin:0 0 4px;">'
@@ -267,7 +267,7 @@ def _build_email_html(
         )
 
     body_style = (
-        "background:#0a0f1e;color:#e2e8f0;"
+        "background:#ffffff;color:#1e293b;"
         "font-family:system-ui,sans-serif;"
         "max-width:620px;margin:0 auto;padding:40px 24px;"
     )
@@ -275,12 +275,8 @@ def _build_email_html(
         "font-family:monospace;color:#1d6fd1;font-size:12px;"
         "letter-spacing:0.1em;text-transform:uppercase;margin-bottom:8px;"
     )
-    h1_style = "font-size:22px;font-weight:700;color:#cbd5e1;margin:0 0 32px;"
-    hr_style = (
-        "border:none;"
-        "border-top:1px solid rgba(255,255,255,0.07);"
-        "margin:40px 0 24px;"
-    )
+    h1_style = "font-size:22px;font-weight:700;color:#0f172a;margin:0 0 32px;"
+    hr_style = "border:none;border-top:1px solid #e2e8f0;margin:40px 0 24px;"
     return (
         "<!DOCTYPE html>\n<html>\n"
         '<head><meta charset="utf-8"></head>\n'
@@ -289,7 +285,7 @@ def _build_email_html(
         f'  <h1 style="{h1_style}">{escape(subject)}</h1>\n'
         f"  {items_html}\n"
         f'  <hr style="{hr_style}">\n'
-        '  <p style="color:#334155;font-size:13px;'
+        '  <p style="color:#64748b;font-size:13px;'
         'line-height:1.7;margin:0 0 8px;">\n'
         f"    Browse and filter all {ARTICLES_TO_KEEP}"
         " of today&apos;s stories by category at\n"
@@ -297,9 +293,9 @@ def _build_email_html(
         '       style="color:#1d6fd1;text-decoration:none;">'
         "marco-tech.se/ai-news →</a>\n"
         "  </p>\n"
-        '  <p style="color:#1e293b;font-size:12px;margin:0;">\n'
+        '  <p style="color:#94a3b8;font-size:12px;margin:0;">\n'
         f'    <a href="{escape(unsubscribe_url, quote=True)}"'
-        ' style="color:#1e293b;">Unsubscribe</a>\n'
+        ' style="color:#94a3b8;">Unsubscribe</a>\n'
         "  </p>\n"
         "</body>\n</html>"
     )
