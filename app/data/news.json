@@ -1,230 +1,221 @@
 {
-  "generated_at": "2026-06-07T21:11:44.730018+00:00",
+  "generated_at": "2026-06-07T22:05:39.307476+00:00",
   "articles": [
     {
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "source": "Ars Technica",
-      "summary": "Google accelerates AI search evolution with agentic capabilities at I/O 2026.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Wed, 20 May 2026 17:31:04 +0000"
-    },
-    {
-      "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-      "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
-      "source": "Ars Technica",
-      "summary": "SynthID watermarking technology adopted industry-wide for AI-generated content identification.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Tue, 19 May 2026 18:37:02 +0000"
-    },
-    {
-      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-      "source": "Ars Technica",
-      "summary": "Google introduces AI-powered deepfake and spoofed call detection for Android devices.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Tue, 02 Jun 2026 18:00:46 +0000"
-    },
-    {
-      "title": "YouTube to begin automatically labeling AI videos",
-      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-      "source": "Ars Technica",
-      "summary": "YouTube implements automatic detection and labeling of AI-generated video content.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Wed, 27 May 2026 17:36:10 +0000"
-    },
-    {
-      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "source": "Ars Technica",
-      "summary": "Illinois enacts major AI safety testing legislation with support from major AI companies.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 28 May 2026 17:01:16 +0000"
-    },
-    {
-      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-      "source": "Ars Technica",
-      "summary": "Apple attempts to distill Google's Gemini model for on-device Siri processing.",
+      "title": "A conversation with Kevin Scott: What's next in AI",
+      "url": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "source": "The AI Blog",
+      "summary": "Microsoft CTO discusses future directions and developments in artificial intelligence technology.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 28 May 2026 18:30:48 +0000"
-    },
-    {
-      "title": "Startup offers free home cleaning—if it can record it all for robot training",
-      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
-      "source": "Ars Technica",
-      "summary": "Startup collects human demonstration data for robot training via in-home recording.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Fri, 29 May 2026 16:16:14 +0000"
-    },
-    {
-      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-      "source": "Ars Technica",
-      "summary": "Jury rules against Musk's lawsuit against OpenAI over charity accusation dispute.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Mon, 18 May 2026 18:09:41 +0000"
-    },
-    {
-      "title": "Legal fail: Don't use AI to sue Facebook users for calling you a bad date",
-      "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-      "source": "Ars Technica",
-      "summary": "AI-generated legal citations cause lawsuit collapse, warning against unreliable AI legal research.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Mon, 18 May 2026 20:27:15 +0000"
-    },
-    {
-      "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-      "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-      "source": "Ars Technica",
-      "summary": "International Mathematical Union warns of AI's impact on mathematics profession.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Tue, 02 Jun 2026 18:19:06 +0000"
-    },
-    {
-      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-      "source": "Ars Technica",
-      "summary": "Concerns over AI safety testing capabilities amid reductions to US security teams.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Wed, 03 Jun 2026 18:11:15 +0000"
-    },
-    {
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "MIT Technology Review",
-      "summary": "Courts struggle with increasing volume of AI-generated legal documents and filings.",
-      "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Thu, 04 Jun 2026 10:50:18 +0000"
+      "published": "Tue, 06 Dec 2022 17:29:09 +0000"
     },
     {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat",
-      "summary": "Anthropic's Claude Code pricing sparks competition from free open-source alternatives.",
+      "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+      "url": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+      "source": "The AI Blog",
+      "summary": "Enterprise applications demonstrate AI-driven productivity gains across diverse industries and use cases.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 12 Oct 2022 16:00:02 +0000"
+    },
+    {
+      "title": "How data and AI will transform contact centres for financial services",
+      "url": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+      "source": "The AI Blog",
+      "summary": "AI and data analytics reshape customer service operations in financial services sector.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Mon, 25 Jul 2022 14:49:33 +0000"
+    },
+    {
+      "title": "AI-equipped drones study dolphins on the edge of extinction",
+      "url": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+      "source": "The AI Blog",
+      "summary": "Computer vision and drone technology combine for endangered species conservation research.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Thu, 21 Jul 2022 14:50:33 +0000"
+    },
+    {
+      "title": "Online math tutoring service uses AI to help boost students' skills and confidence",
+      "url": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "source": "The AI Blog",
+      "summary": "AI-powered personalized learning improves student engagement and mathematical proficiency outcomes.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 13 Jul 2022 12:59:50 +0000"
+    },
+    {
+      "title": "AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan",
+      "url": "https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/",
+      "source": "The AI Blog",
+      "summary": "AI technology improves accessibility and inclusion for deaf and hard of hearing communities.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Wed, 06 Jul 2022 14:51:23 +0000"
+    },
+    {
+      "title": "Singapore develops Asia's first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade",
+      "url": "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/",
+      "source": "The AI Blog",
+      "summary": "Computer vision application combats wildlife trafficking through species identification.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jun 2022 21:04:42 +0000"
+    },
+    {
+      "title": "The opportunity at home – can AI drive innovation in personal assistant devices and sign language?",
+      "url": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
+      "source": "The AI Blog",
+      "summary": "AI language models and accessibility tools enable inclusive communication for deaf communities.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
+      "published": "Tue, 31 May 2022 21:06:06 +0000"
     },
     {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "source": "Ars Technica",
-      "summary": "S&P 500 maintains profitability requirements blocking major AI companies from index.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Fri, 05 Jun 2026 18:45:20 +0000"
-    },
-    {
-      "title": "datasette-agent-micropython 0.1a0",
-      "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Release of sandboxed Python execution environment for AI agent code generation.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-02T19:28:36+00:00"
-    },
-    {
-      "title": "OpenAI Help: Lockdown Mode",
-      "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI launches Lockdown Mode to prevent data exfiltration through ChatGPT interface.",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "source": "Hugging Face - Blog",
+      "summary": "vLLM framework advances reinforcement learning correctness verification for language models.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "2026-06-05T23:56:40+00:00"
+      "reading_time_minutes": 6,
+      "published": "Wed, 06 May 2026 19:06:55 GMT"
+    },
+    {
+      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Political conflict over AI regulation delays safety testing executive order implementation.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 22 May 2026 16:51:40 +0000"
     },
     {
       "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-      "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/",
+      "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Meta's AI support bot compromised high-profile Instagram accounts via social engineering.",
+      "summary": "Meta AI support system vulnerability allows unauthorized account access through simple requests.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
+      "reading_time_minutes": 3,
       "published": "2026-06-01T21:14:47+00:00"
     },
     {
       "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Uber implements usage caps on AI coding tools after rapid budget depletion.",
-      "category": "AI in Industry",
+      "summary": "Enterprise AI tool costs exceed budgets rapidly, forcing usage restrictions and cost controls.",
+      "category": "Funding & Business",
       "reading_time_minutes": 3,
       "published": "2026-06-03T12:01:27+00:00"
     },
     {
-      "title": "A reality check on the AI jobs hysteria",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "source": "MIT Technology Review",
-      "summary": "Examination of AI's actual impact on employment versus widespread job displacement claims.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 6,
-      "published": "Tue, 26 May 2026 09:00:00 +0000"
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "source": "Hugging Face - Blog",
+      "summary": "PyTorch profiling tools guide enables performance optimization for neural network training.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Fri, 29 May 2026 00:00:00 GMT"
     },
     {
-      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-      "source": "Ars Technica",
-      "summary": "FBI demonstrates ease of identifying perpetrators of non-consensual AI-generated pornography.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Tue, 26 May 2026 17:46:01 +0000"
+      "title": "datasette-agent-micropython 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette Agent sandbox enables safe Python code generation and execution for AI agents.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 2,
+      "published": "2026-06-02T19:28:36+00:00"
     },
     {
-      "title": "Microsoft open sources its 'farm of the future' toolkit",
-      "url": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
-      "source": "Microsoft AI Blog",
-      "summary": "Microsoft releases open source agricultural AI toolkit for sustainable farming applications.",
+      "title": "micropython-wasm 0.1a2",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "MicroPython WASM release adds CLI for sandboxed code execution in AI applications.",
       "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Thu, 06 Oct 2022 14:58:15 +0000"
+      "reading_time_minutes": 2,
+      "published": "2026-06-06T04:26:06+00:00"
     },
     {
-      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
-      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-      "source": "Ars Technica",
-      "summary": "Major AI data center expansion halted due to environmental and community opposition.",
+      "title": "OpenAI Help: Lockdown Mode",
+      "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI launches Lockdown Mode security feature to prevent data exfiltration attacks.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Fri, 05 Jun 2026 18:23:00 +0000"
+      "reading_time_minutes": 2,
+      "published": "2026-06-05T23:56:40+00:00"
     },
     {
-      "title": "Elon Musk tries again to escape FTC audits of X data handling",
-      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-      "source": "Ars Technica",
-      "summary": "Musk challenges FTC audits of X's AI systems and data privacy practices.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 04 Jun 2026 19:49:12 +0000"
+      "title": "Pasted File Editor",
+      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Tool enables pasting large files into Claude for improved context handling.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-06-02T04:13:36+00:00"
+    },
+    {
+      "title": "micropython-wasm 0.1a1",
+      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "MicroPython WASM fixes limitations for safe code execution sandbox functionality.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 1,
+      "published": "2026-06-02T19:20:47+00:00"
     },
     {
       "title": "micropython-wasm 0.1a0",
-      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/",
+      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Release of WASM-based MicroPython for secure sandboxed code execution environments.",
+      "summary": "MicroPython WASM bundles sandboxed Python execution via WebAssembly and wasmtime.",
       "category": "Open Source AI",
       "reading_time_minutes": 2,
       "published": "2026-06-02T03:43:45+00:00"
     },
     {
-      "title": "How the Pope's Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "source": "MIT Technology Review",
-      "summary": "Analysis of papal encyclical on AI ethics as framework for individual responsibility.",
+      "title": "May 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Monthly AI developments roundup covering funding, model releases, and industry trends.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "2026-06-01T04:45:00+00:00"
+    },
+    {
+      "title": "datasette 1.0a32",
+      "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette bugfix release improves SQL write query execution and configuration.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-05-31T23:23:38+00:00"
+    },
+    {
+      "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+      "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Analysis examines divergent perspectives between AI advocates and skeptics in software development.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Fri, 29 May 2026 10:00:00 +0000"
+      "reading_time_minutes": 4,
+      "published": "2026-06-04T23:55:27+00:00"
+    },
+    {
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Public sentiment shifts as graduates reject AI industry promises and enthusiasm.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Thu, 28 May 2026 09:51:11 +0000"
+    },
+    {
+      "title": "The solution might be cancelling my AI subscription",
+      "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "User reflects on unintended scope creep and rising costs from AI tool overuse.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "2026-05-31T16:31:32+00:00"
     }
   ]
 }
