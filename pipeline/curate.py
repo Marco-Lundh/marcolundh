@@ -1,7 +1,7 @@
 """Daily AI news curation pipeline.
 
 Fetches articles from RSS feeds, deduplicates, ranks and categorizes
-via Claude Haiku, writes news.json, and sends the top 10 via MailerLite.
+via Claude Haiku, writes news.json, and sends the top 10 via Resend.
 """
 
 import json
@@ -37,8 +37,11 @@ MAX_SUMMARY_CHARS = 500
 CLAUDE_MAX_TOKENS = 8192
 SEEN_WINDOW_DAYS = 7
 FETCH_TIMEOUT_SECONDS = 10
-MAILERLITE_API = "https://connect.mailerlite.com/api"
+RESEND_BATCH_API = "https://api.resend.com/emails/batch"
+RESEND_BATCH_SIZE = 100
 FROM_EMAIL = "newsletter@marco-tech.se"
+FROM_NAME = "Marco Lundh"
+SITE_URL = "https://marco-tech.se"
 
 CATEGORIES = [
     "LLMs & Models",
@@ -232,7 +235,9 @@ def update_seen(seen: list[dict], articles: list[Article]) -> list[dict]:
     return seen
 
 
-def _build_email_html(top: list[Article], subject: str) -> str:
+def _build_email_html(
+    top: list[Article], subject: str, unsubscribe_url: str
+) -> str:
     """Build the HTML body for the newsletter email."""
     items_html = ""
     for article in top:
@@ -293,73 +298,118 @@ def _build_email_html(top: list[Article], subject: str) -> str:
         "marco-tech.se/ai-news →</a>\n"
         "  </p>\n"
         '  <p style="color:#1e293b;font-size:12px;margin:0;">\n'
-        "    You&apos;re receiving this at {$email} &nbsp;&middot;&nbsp;\n"
-        '    <a href="{$unsubscribe}" style="color:#1e293b;">Unsubscribe</a>\n'
+        f'    <a href="{escape(unsubscribe_url, quote=True)}"'
+        ' style="color:#1e293b;">Unsubscribe</a>\n'
         "  </p>\n"
         "</body>\n</html>"
     )
 
 
-def send_newsletter(articles: list[Article], api_key: str) -> None:
-    """Send the top EMAIL_ARTICLES articles via MailerLite campaigns API."""
-    top = articles[:EMAIL_ARTICLES]
-    now = datetime.now(UTC)
-    day = str(now.day)
-    today = now.strftime(f"%A {day} %B %Y")
-    subject = f"AI News · {today}"
-    html = _build_email_html(top, subject)
-
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
-    response = requests.post(
-        f"{MAILERLITE_API}/campaigns",
-        headers=headers,
-        json={
-            "name": subject,
-            "type": "regular",
-            "emails": [
-                {
-                    "subject": subject,
-                    "from": FROM_EMAIL,
-                    "from_name": "Marco Lundh",
-                    "content": html,
-                }
-            ],
+def fetch_active_subscribers(
+    supabase_url: str, service_key: str
+) -> list[dict]:
+    """Fetch active subscribers (email + unsubscribe token) from Supabase."""
+    response = requests.get(
+        f"{supabase_url}/rest/v1/subscribers",
+        headers={
+            "apikey": service_key,
+            "Authorization": f"Bearer {service_key}",
+        },
+        params={
+            "status": "eq.active",
+            "select": "email,unsubscribe_token",
         },
         timeout=FETCH_TIMEOUT_SECONDS,
     )
     if not response.ok:
         log.error(
-            "MailerLite campaign error %s: %s",
+            "Supabase subscriber fetch error %s: %s",
             response.status_code,
             response.text,
         )
     response.raise_for_status()
-    campaign_id = response.json()["data"]["id"]
-    log.info("Created MailerLite campaign %s", campaign_id)
+    return response.json()
 
-    send_response = requests.post(
-        f"{MAILERLITE_API}/campaigns/{campaign_id}/schedule",
-        headers=headers,
-        json={"delivery": "instant"},
-        timeout=FETCH_TIMEOUT_SECONDS,
-    )
-    send_response.raise_for_status()
-    log.info("Campaign %s scheduled for instant delivery", campaign_id)
+
+def _chunked(items: list[dict], size: int) -> list[list[dict]]:
+    """Split a list into chunks of at most ``size`` items."""
+    return [items[i : i + size] for i in range(0, len(items), size)]
+
+
+def send_newsletter(
+    articles: list[Article],
+    resend_key: str,
+    subscribers: list[dict],
+) -> None:
+    """Send the top EMAIL_ARTICLES articles to subscribers via Resend."""
+    if not subscribers:
+        log.info("No active subscribers — skipping newsletter send")
+        return
+
+    top = articles[:EMAIL_ARTICLES]
+    now = datetime.now(UTC)
+    day = str(now.day)
+    today = now.strftime(f"%A {day} %B %Y")
+    subject = f"AI News · {today}"
+
+    headers = {
+        "Authorization": f"Bearer {resend_key}",
+        "Content-Type": "application/json",
+    }
+
+    sent = 0
+    for batch in _chunked(subscribers, RESEND_BATCH_SIZE):
+        emails = []
+        for sub in batch:
+            unsubscribe_url = (
+                f"{SITE_URL}/unsubscribe?token={sub['unsubscribe_token']}"
+            )
+            emails.append(
+                {
+                    "from": f"{FROM_NAME} <{FROM_EMAIL}>",
+                    "to": [sub["email"]],
+                    "subject": subject,
+                    "html": _build_email_html(top, subject, unsubscribe_url),
+                    "headers": {
+                        "List-Unsubscribe": f"<{unsubscribe_url}>",
+                        "List-Unsubscribe-Post": "List-Unsubscribe=One-Click",
+                    },
+                }
+            )
+
+        response = requests.post(
+            RESEND_BATCH_API,
+            headers=headers,
+            json=emails,
+            timeout=FETCH_TIMEOUT_SECONDS,
+        )
+        if not response.ok:
+            log.error(
+                "Resend batch error %s: %s",
+                response.status_code,
+                response.text,
+            )
+        response.raise_for_status()
+        sent += len(emails)
+
+    log.info("Sent newsletter to %d subscribers via Resend", sent)
 
 
 def run() -> None:
     """Run the full curation pipeline."""
     anthropic_key = os.environ.get("ANTHROPIC_API_KEY")
-    mailerlite_key = os.environ.get("MAILERLITE_API_KEY")
+    resend_key = os.environ.get("RESEND_API_KEY")
+    supabase_url = os.environ.get("SUPABASE_URL")
+    supabase_key = os.environ.get("SUPABASE_SERVICE_KEY")
 
     if not anthropic_key:
         log.error("ANTHROPIC_API_KEY not set")
         sys.exit(1)
-    if not mailerlite_key:
-        log.error("MAILERLITE_API_KEY not set")
+    if not resend_key:
+        log.error("RESEND_API_KEY not set")
+        sys.exit(1)
+    if not supabase_url or not supabase_key:
+        log.error("SUPABASE_URL and SUPABASE_SERVICE_KEY must be set")
         sys.exit(1)
 
     config = load_config()
@@ -381,7 +431,8 @@ def run() -> None:
         sys.exit(1)
 
     save_news(curated)
-    send_newsletter(curated, mailerlite_key)
+    subscribers = fetch_active_subscribers(supabase_url, supabase_key)
+    send_newsletter(curated, resend_key, subscribers)
 
     seen = update_seen(seen, curated)
     save_seen(seen)

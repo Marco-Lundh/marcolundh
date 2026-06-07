@@ -10,7 +10,7 @@ Personal website for Marco Lundh — full-stack Python developer transitioning i
 
 - **Portfolio** — profile, experience, skills, and contact at `/portfolio`
 - **AI News** — daily curated AI news at `/ai-news` with category filtering and newsletter signup
-- **Daily newsletter** — top 10 AI stories delivered by email at 07:00 CET via MailerLite
+- **Daily newsletter** — top 10 AI stories delivered by email at 07:00 CET via Resend
 - **Bilingual** — English / Swedish toggle (auto-detected from browser language)
 
 ---
@@ -25,7 +25,8 @@ Personal website for Marco Lundh — full-stack Python developer transitioning i
 | Animations | Framer Motion |
 | i18n | Custom React context (EN/SV) |
 | Deployment | Vercel |
-| Newsletter | MailerLite |
+| Email delivery | Resend |
+| Subscriber store | Supabase (Postgres) |
 | News pipeline | Python · GitHub Actions · Claude Haiku 4.5 |
 
 ---
@@ -39,7 +40,7 @@ graph TD
     B --> D["Hero · About · Experience · Skills · Contact"]
     C --> E["25 Articles · Category Filter"]
     C --> F["Newsletter Signup → /api/subscribe"]
-    F --> G["MailerLite"]
+    F --> G["Supabase + Resend"]
 ```
 
 ---
@@ -55,8 +56,9 @@ flowchart TD
     C --> D["Claude Haiku 4.5\nRank · Categorize · Summarize"]
     D --> E["news.json\n25 articles with categories"]
     D --> F["Update seen.json\ncommit back to repo"]
+    D --> H["Resend batch API\nTop 10 articles"]
     E --> G["Git commit\n→ Vercel auto-redeploy"]
-    E --> H["MailerLite API\nTop 10 articles"]
+    C2["Supabase\nactive subscribers"] --> H
     G --> I["/ai-news page\nlive within minutes"]
     H --> J["Subscribers\n07:00 CET"]
 ```
@@ -68,17 +70,19 @@ sequenceDiagram
     participant V as Visitor
     participant S as /ai-news
     participant A as /api/subscribe
-    participant M as MailerLite
+    participant DB as Supabase
+    participant R as Resend
     participant E as Email inbox
 
     V->>S: Enters email and submits form
     S->>A: POST { email }
-    A->>M: Add subscriber (API call)
-    M->>E: Double opt-in confirmation email
+    A->>DB: Insert subscriber (status: pending)
+    A->>R: Send confirmation email
+    R->>E: Double opt-in confirmation email
     E->>V: Clicks confirm link
-    V-->>M: Subscriber confirmed
-    Note over M: Active subscriber added to list
-    M-->>E: Next morning at 07:00 CET — daily AI news
+    V->>DB: /confirm sets status: active
+    Note over DB: Active subscriber stored
+    R-->>E: Next morning at 07:00 CET — daily AI news
 ```
 
 ### News Categories
@@ -122,11 +126,32 @@ Open [http://localhost:3000](http://localhost:3000).
 | Variable | Where | Purpose |
 |---|---|---|
 | `ANTHROPIC_API_KEY` | GitHub Actions Secret | Claude Haiku for news curation |
-| `MAILERLITE_API_KEY` | GitHub Actions Secret + Vercel | Newsletter sending + subscribe API |
+| `RESEND_API_KEY` | GitHub Actions Secret + Vercel | Sending confirmation + newsletter emails |
+| `SUPABASE_URL` | GitHub Actions Secret + Vercel | Subscriber database endpoint |
+| `SUPABASE_SERVICE_KEY` | GitHub Actions Secret + Vercel | Server-side database access (service role) |
 
 Never commit secrets to the repository. Add them via:
 - **GitHub:** Settings → Secrets and variables → Actions
 - **Vercel:** Project → Settings → Environment Variables
+
+The `SUPABASE_SERVICE_KEY` bypasses Row Level Security — it is used only
+server-side (API routes and the pipeline) and is never exposed to the browser.
+
+### Database schema
+
+The `subscribers` table in Supabase:
+
+```sql
+create table subscribers (
+  id uuid primary key default gen_random_uuid(),
+  email text unique not null,
+  status text not null default 'pending',  -- pending | active | unsubscribed
+  confirm_token text not null,
+  unsubscribe_token text not null,
+  created_at timestamptz default now(),
+  confirmed_at timestamptz
+);
+```
 
 ---
 
@@ -139,9 +164,14 @@ marcolundh/
 │   ├── page.tsx                 # Home
 │   ├── portfolio/page.tsx       # Portfolio
 │   ├── ai-news/page.tsx         # AI News
-│   └── api/subscribe/route.ts   # Newsletter signup endpoint
+│   ├── confirm/page.tsx         # Double opt-in confirmation
+│   ├── unsubscribe/page.tsx     # Unsubscribe landing
+│   └── api/
+│       ├── subscribe/route.ts   # Newsletter signup endpoint
+│       └── unsubscribe/route.ts # One-click unsubscribe (List-Unsubscribe)
 ├── components/
 │   ├── Nav.tsx
+│   ├── StatusCard.tsx           # Confirm / unsubscribe result UI
 │   ├── Hero.tsx
 │   ├── About.tsx
 │   ├── Experience.tsx
@@ -150,7 +180,9 @@ marcolundh/
 ├── contexts/
 │   └── LanguageContext.tsx
 ├── lib/
-│   └── translations.ts
+│   ├── translations.ts
+│   ├── supabase.ts              # Server-side Supabase client
+│   └── email.ts                 # Resend client + confirmation email
 ├── pipeline/
 │   ├── curate.py                # Main pipeline script
 │   ├── seen.json                # Deduplication state

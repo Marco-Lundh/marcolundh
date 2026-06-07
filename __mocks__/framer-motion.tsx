@@ -24,6 +24,7 @@ export const motion = {
   nav: make('nav'),
   footer: make('footer'),
   span: make('span'),
+  article: make('article'),
 }
 
 export const AnimatePresence = ({ children }: { children: React.ReactNode }) =>

@@ -47,7 +47,8 @@ A personal website for Marco Lundh, a full-stack Python developer with 13+ years
 | Animations | Framer Motion |
 | i18n | Custom React context (EN/SV, English default) |
 | Deployment | Vercel |
-| Newsletter | MailerLite (free tier) |
+| Email delivery | Resend (free tier) |
+| Subscriber store | Supabase (Postgres) |
 | News pipeline | Python · GitHub Actions · Claude Haiku 4.5 |
 
 ---
@@ -170,22 +171,26 @@ Git · CI/CD · Scrum · Agile · Unit testing · E2E testing · gRPC · OAuth2.
 A daily curated feed of the most relevant AI news — ranked and summarized by Claude Haiku, delivered by 07:00 CET every morning.
 
 ### Pipeline (GitHub Actions, `0 5 * * *` UTC)
-1. Fetch articles from 10 RSS sources
-2. Claude Haiku ranks and categorizes 50 articles into 10 categories
+1. Fetch articles from 18 RSS sources
+2. Claude Haiku ranks and categorizes 25 articles into 10 categories
 3. Writes `app/data/news.json` (overwritten daily — no archive)
 4. Updates `pipeline/seen.json` (deduplication, 7-day window) — committed back to repo
-5. Sends top 10 articles via MailerLite to all subscribers
+5. Reads active subscribers from Supabase, sends top 10 articles via Resend
 
 ### `/ai-news` Page
-- Shows all 50 articles
+- Shows all 25 articles
 - Client-side category filtering (10 categories)
-- Newsletter signup form → `/api/subscribe` (Vercel serverless, hides MailerLite API key)
+- Newsletter signup form → `/api/subscribe` (Vercel serverless, hides Supabase + Resend credentials)
 
 ### Newsletter
-- Service: MailerLite (free ≤ 1 000 subscribers / 12 000 emails/month)
-- GDPR: double opt-in, unsubscribe link — handled by MailerLite
+- Email delivery: Resend (free ≤ 3 000 emails/month, 100/day)
+- Subscriber store: Supabase Postgres (`subscribers` table, RLS enabled)
+- GDPR: double opt-in and unsubscribe handled in-house
+  - `/api/subscribe` creates a `pending` subscriber + sends a confirmation email
+  - `/confirm?token=...` activates the subscriber
+  - `/unsubscribe?token=...` (+ one-click `List-Unsubscribe` header) opts out
 - Email: HTML layout, top 10 articles, same for all subscribers
-- Merge tag `{$email}` so each recipient sees only their own address
+- Each email carries a unique unsubscribe link per recipient
 
 ### News Categories (10)
 1. LLMs & Models

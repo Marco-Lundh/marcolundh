@@ -4,12 +4,14 @@ pipeline/.venv/
 
 # Next.js build output
 .next/
+tsconfig.tsbuildinfo
 
 # Test coverage
 coverage/
 
 # Python cache
 pipeline/.pytest_cache/
+pipeline/.coverage
 **/__pycache__/
 **/*.pyc
 **/*.pyo

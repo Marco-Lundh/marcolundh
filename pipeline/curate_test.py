@@ -387,36 +387,83 @@ def test_curate_with_claude_returns_empty_on_unexpected_block_type(
 
 
 # ---------------------------------------------------------------------------
-# send_newsletter / _build_email_html
+# fetch_active_subscribers / send_newsletter / _build_email_html
 # ---------------------------------------------------------------------------
 
 
-def test_send_newsletter_creates_and_schedules_campaign(
+def _subscribers(count: int) -> list[dict]:
+    return [
+        {"email": f"user{i}@example.com", "unsubscribe_token": f"tok{i}"}
+        for i in range(count)
+    ]
+
+
+def test_fetch_active_subscribers_queries_supabase() -> None:
+    mock_response = MagicMock()
+    mock_response.ok = True
+    mock_response.raise_for_status = MagicMock()
+    mock_response.json.return_value = _subscribers(2)
+
+    with patch("curate.requests.get", return_value=mock_response) as mock_get:
+        result = curate.fetch_active_subscribers(
+            "https://proj.supabase.co", "service-key"
+        )
+
+    assert result == _subscribers(2)
+    params = mock_get.call_args.kwargs["params"]
+    assert params["status"] == "eq.active"
+    headers = mock_get.call_args.kwargs["headers"]
+    assert headers["apikey"] == "service-key"
+
+
+def test_send_newsletter_sends_batch_via_resend(
     sample_curated: list[curate.Article],
 ) -> None:
-    mock_create = MagicMock()
-    mock_create.raise_for_status = MagicMock()
-    mock_create.json.return_value = {"data": {"id": "abc123"}}
-    mock_schedule = MagicMock()
-    mock_schedule.raise_for_status = MagicMock()
+    mock_response = MagicMock()
+    mock_response.ok = True
+    mock_response.raise_for_status = MagicMock()
 
     with patch(
-        "curate.requests.post",
-        side_effect=[mock_create, mock_schedule],
+        "curate.requests.post", return_value=mock_response
     ) as mock_post:
-        curate.send_newsletter(sample_curated, "test-key")
+        curate.send_newsletter(sample_curated, "resend-key", _subscribers(2))
 
-    assert mock_post.call_count == 2
-    payload = mock_post.call_args_list[0].kwargs["json"]
-    assert payload["type"] == "regular"
-    assert payload["emails"][0]["from"] == curate.FROM_EMAIL
-    assert payload["emails"][0]["from_name"] == "Marco Lundh"
-    assert "content" in payload["emails"][0]
+    assert mock_post.call_count == 1
+    emails = mock_post.call_args.kwargs["json"]
+    assert len(emails) == 2
+    assert emails[0]["from"] == f"{curate.FROM_NAME} <{curate.FROM_EMAIL}>"
+    assert emails[0]["to"] == ["user0@example.com"]
+    assert "tok0" in emails[0]["headers"]["List-Unsubscribe"]
+    assert (
+        emails[0]["headers"]["List-Unsubscribe-Post"]
+        == "List-Unsubscribe=One-Click"
+    )
 
 
-def test_build_email_html_escapes_article_content(
+def test_send_newsletter_skips_when_no_subscribers(
     sample_curated: list[curate.Article],
 ) -> None:
+    with patch("curate.requests.post") as mock_post:
+        curate.send_newsletter(sample_curated, "resend-key", [])
+    mock_post.assert_not_called()
+
+
+def test_send_newsletter_batches_over_limit(
+    sample_curated: list[curate.Article],
+) -> None:
+    mock_response = MagicMock()
+    mock_response.ok = True
+    mock_response.raise_for_status = MagicMock()
+
+    with patch(
+        "curate.requests.post", return_value=mock_response
+    ) as mock_post:
+        curate.send_newsletter(sample_curated, "resend-key", _subscribers(150))
+
+    assert mock_post.call_count == 2
+
+
+def test_build_email_html_escapes_article_content() -> None:
     xss_article: curate.Article = {
         "title": '<script>alert("xss")</script>',
         "url": "https://example.com/safe",
@@ -426,7 +473,9 @@ def test_build_email_html_escapes_article_content(
         "reading_time_minutes": 2,
         "published": "2026-06-05",
     }
-    html = curate._build_email_html([xss_article], "Test Subject")
+    html = curate._build_email_html(
+        [xss_article], "Test Subject", "https://marco-tech.se/unsubscribe"
+    )
     assert "<script>" not in html
     assert "&lt;script&gt;" in html
     assert "&lt;b&gt;" in html
@@ -435,9 +484,11 @@ def test_build_email_html_escapes_article_content(
 def test_build_email_html_contains_unsubscribe_link(
     sample_curated: list[curate.Article],
 ) -> None:
-    html = curate._build_email_html(sample_curated, "Test Subject")
-    assert "{$unsubscribe}" in html
-    assert "{$email}" in html
+    url = "https://marco-tech.se/unsubscribe?token=abc123"
+    html = curate._build_email_html(sample_curated, "Test Subject", url)
+    assert url in html
+    assert "{$unsubscribe}" not in html
+    assert "{$email}" not in html
 
 
 # ---------------------------------------------------------------------------
@@ -445,21 +496,41 @@ def test_build_email_html_contains_unsubscribe_link(
 # ---------------------------------------------------------------------------
 
 
+def _set_send_env(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("RESEND_API_KEY", "test-resend")
+    monkeypatch.setenv("SUPABASE_URL", "https://proj.supabase.co")
+    monkeypatch.setenv("SUPABASE_SERVICE_KEY", "test-service")
+
+
 def test_run_exits_without_anthropic_key(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
     monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
-    monkeypatch.setenv("MAILERLITE_API_KEY", "test")
+    _set_send_env(monkeypatch)
     with pytest.raises(SystemExit) as exc_info:
         curate.run()
     assert exc_info.value.code == 1
 
 
-def test_run_exits_without_mailerlite_key(
+def test_run_exits_without_resend_key(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
     monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
-    monkeypatch.delenv("MAILERLITE_API_KEY", raising=False)
+    monkeypatch.delenv("RESEND_API_KEY", raising=False)
+    monkeypatch.setenv("SUPABASE_URL", "https://proj.supabase.co")
+    monkeypatch.setenv("SUPABASE_SERVICE_KEY", "test-service")
+    with pytest.raises(SystemExit) as exc_info:
+        curate.run()
+    assert exc_info.value.code == 1
+
+
+def test_run_exits_without_supabase_config(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
+    monkeypatch.setenv("RESEND_API_KEY", "test-resend")
+    monkeypatch.delenv("SUPABASE_URL", raising=False)
+    monkeypatch.delenv("SUPABASE_SERVICE_KEY", raising=False)
     with pytest.raises(SystemExit) as exc_info:
         curate.run()
     assert exc_info.value.code == 1
@@ -471,7 +542,7 @@ def test_run_full_run_calls_all_stages(
     sample_curated: list[curate.Article],
 ) -> None:
     monkeypatch.setenv("ANTHROPIC_API_KEY", "test-anthropic")
-    monkeypatch.setenv("MAILERLITE_API_KEY", "test-mailerlite")
+    _set_send_env(monkeypatch)
     monkeypatch.setattr(curate, "DATA_DIR", tmp_path)
     monkeypatch.setattr(curate, "NEWS_PATH", tmp_path / "news.json")
     monkeypatch.setattr(curate, "SEEN_PATH", tmp_path / "seen.json")
@@ -480,6 +551,7 @@ def test_run_full_run_calls_all_stages(
         patch("curate.load_config", return_value={"sources": []}),
         patch("curate.fetch_all_articles", return_value=sample_curated),
         patch("curate.curate_with_claude", return_value=sample_curated),
+        patch("curate.fetch_active_subscribers", return_value=[]),
         patch("curate.send_newsletter") as mock_send,
     ):
         curate.run()
@@ -493,7 +565,7 @@ def test_run_exits_0_when_no_articles_fetched(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
     monkeypatch.setenv("ANTHROPIC_API_KEY", "test-anthropic")
-    monkeypatch.setenv("MAILERLITE_API_KEY", "test-mailerlite")
+    _set_send_env(monkeypatch)
     monkeypatch.setattr(curate, "SEEN_PATH", tmp_path / "seen.json")
 
     with (
@@ -511,7 +583,7 @@ def test_run_exits_0_when_all_articles_already_seen(
     sample_articles: list[dict],
 ) -> None:
     monkeypatch.setenv("ANTHROPIC_API_KEY", "test-anthropic")
-    monkeypatch.setenv("MAILERLITE_API_KEY", "test-mailerlite")
+    _set_send_env(monkeypatch)
     monkeypatch.setattr(curate, "SEEN_PATH", tmp_path / "seen.json")
 
     with (
@@ -530,7 +602,7 @@ def test_run_exits_1_when_curated_is_empty(
     sample_articles: list[dict],
 ) -> None:
     monkeypatch.setenv("ANTHROPIC_API_KEY", "test-anthropic")
-    monkeypatch.setenv("MAILERLITE_API_KEY", "test-mailerlite")
+    _set_send_env(monkeypatch)
     monkeypatch.setattr(curate, "SEEN_PATH", tmp_path / "seen.json")
 
     with (

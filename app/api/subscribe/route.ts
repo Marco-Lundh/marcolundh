@@ -1,6 +1,11 @@
+import { randomBytes } from 'crypto'
 import { NextRequest, NextResponse } from 'next/server'
+import { getSupabase } from '@/lib/supabase'
+import { sendConfirmationEmail } from '@/lib/email'
 
-const MAILERLITE_API = 'https://connect.mailerlite.com/api'
+function newToken(): string {
+  return randomBytes(32).toString('hex')
+}
 
 export async function POST(req: NextRequest): Promise<NextResponse> {
   let email: unknown
@@ -15,31 +20,57 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     return NextResponse.json({ error: 'Invalid email' }, { status: 400 })
   }
 
-  const apiKey = process.env.MAILERLITE_API_KEY
-  if (!apiKey) {
-    return NextResponse.json({ error: 'Server misconfigured' }, { status: 500 })
+  const normalized = email.trim().toLowerCase()
+  const supabase = getSupabase()
+
+  const { data: existing, error: lookupError } = await supabase
+    .from('subscribers')
+    .select('id, status, unsubscribe_token')
+    .eq('email', normalized)
+    .maybeSingle()
+
+  if (lookupError) {
+    console.error('Supabase lookup error', lookupError.message)
+    return NextResponse.json({ error: 'Database error' }, { status: 500 })
   }
 
-  let res: Response
-  try {
-    res = await fetch(`${MAILERLITE_API}/subscribers`, {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${apiKey}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ email, resubscribe: true }),
+  // Already confirmed — nothing to do, report success without re-sending.
+  if (existing?.status === 'active') {
+    return NextResponse.json({ ok: true }, { status: 200 })
+  }
+
+  const confirmToken = newToken()
+
+  if (existing) {
+    // Pending or previously unsubscribed — refresh token and re-confirm.
+    const { error } = await supabase
+      .from('subscribers')
+      .update({ status: 'pending', confirm_token: confirmToken })
+      .eq('id', existing.id)
+    if (error) {
+      console.error('Supabase update error', error.message)
+      return NextResponse.json({ error: 'Database error' }, { status: 500 })
+    }
+  } else {
+    const { error } = await supabase.from('subscribers').insert({
+      email: normalized,
+      status: 'pending',
+      confirm_token: confirmToken,
+      unsubscribe_token: newToken(),
     })
-  } catch {
-    return NextResponse.json({ error: 'Failed to reach MailerLite' }, { status: 502 })
+    if (error) {
+      console.error('Supabase insert error', error.message)
+      return NextResponse.json({ error: 'Database error' }, { status: 500 })
+    }
   }
 
-  if (!res.ok) {
-    const errorBody = await res.json().catch(() => ({}))
-    console.error('MailerLite subscribe error', res.status, JSON.stringify(errorBody))
+  try {
+    await sendConfirmationEmail(normalized, confirmToken)
+  } catch (err) {
+    console.error('Confirmation email failed', err)
     return NextResponse.json(
-      { error: errorBody.message ?? 'MailerLite error' },
-      { status: res.status }
+      { error: 'Could not send confirmation email' },
+      { status: 502 }
     )
   }
 

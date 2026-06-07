@@ -83,10 +83,38 @@ export const translations = {
       placeholder: 'your@email.com',
       subscribeButton: 'Subscribe',
       subscribingButton: 'Subscribing…',
-      successTitle: "You're subscribed!",
-      successBody: "You'll receive your first newsletter tomorrow morning at 07:00 CET.",
+      successTitle: 'Almost there — check your inbox',
+      successBody: 'We sent you a confirmation link. Click it to start receiving the daily newsletter.',
       errorText: 'Something went wrong — please try again.',
       disclaimer: 'Free · Unsubscribe anytime · No spam',
+    },
+    confirm: {
+      confirmed: {
+        title: "You're subscribed!",
+        body: "You'll receive the daily AI newsletter every morning at 07:00 CET.",
+      },
+      already: {
+        title: 'Already confirmed',
+        body: 'Your subscription is already active. See you in your inbox at 07:00 CET.',
+      },
+      invalid: {
+        title: 'Invalid or expired link',
+        body: 'This confirmation link is no longer valid. Try subscribing again.',
+      },
+    },
+    unsubscribe: {
+      unsubscribed: {
+        title: "You're unsubscribed",
+        body: "You won't receive the newsletter anymore. You can resubscribe anytime.",
+      },
+      already: {
+        title: 'Already unsubscribed',
+        body: 'This email is no longer subscribed to the newsletter.',
+      },
+      invalid: {
+        title: 'Invalid link',
+        body: 'This unsubscribe link is not valid.',
+      },
     },
   },
   sv: {
@@ -161,10 +189,38 @@ export const translations = {
       placeholder: 'din@epost.se',
       subscribeButton: 'Prenumerera',
       subscribingButton: 'Prenumererar…',
-      successTitle: 'Du prenumererar!',
-      successBody: 'Du får ditt första nyhetsbrev imorgon morgon kl 07:00 CET.',
+      successTitle: 'Nästan klart — kolla din inkorg',
+      successBody: 'Vi har skickat en bekräftelselänk. Klicka på den för att börja få det dagliga nyhetsbrevet.',
       errorText: 'Något gick fel — försök igen.',
       disclaimer: 'Gratis · Avprenumerera när som helst · Ingen spam',
+    },
+    confirm: {
+      confirmed: {
+        title: 'Du prenumererar!',
+        body: 'Du får det dagliga AI-nyhetsbrevet varje morgon kl 07:00 CET.',
+      },
+      already: {
+        title: 'Redan bekräftad',
+        body: 'Din prenumeration är redan aktiv. Vi ses i inkorgen kl 07:00 CET.',
+      },
+      invalid: {
+        title: 'Ogiltig eller utgången länk',
+        body: 'Den här bekräftelselänken är inte längre giltig. Prova att prenumerera igen.',
+      },
+    },
+    unsubscribe: {
+      unsubscribed: {
+        title: 'Du är avregistrerad',
+        body: 'Du får inte nyhetsbrevet längre. Du kan prenumerera igen när som helst.',
+      },
+      already: {
+        title: 'Redan avregistrerad',
+        body: 'Den här e-postadressen prenumererar inte längre på nyhetsbrevet.',
+      },
+      invalid: {
+        title: 'Ogiltig länk',
+        body: 'Den här avregistreringslänken är inte giltig.',
+      },
     },
   },
 }

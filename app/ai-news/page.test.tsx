@@ -1,9 +1,18 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 import { render, screen, fireEvent, waitFor } from '@testing-library/react'
+import { LanguageProvider } from '@/contexts/LanguageContext'
 import AiNews from './page'
 
 vi.mock('framer-motion')
 vi.mock('next/link')
+
+function renderPage() {
+  return render(
+    <LanguageProvider>
+      <AiNews />
+    </LanguageProvider>
+  )
+}
 
 describe('AI News page', () => {
   beforeEach(() => {
@@ -11,18 +20,20 @@ describe('AI News page', () => {
   })
 
   it('renders the headline', () => {
-    render(<AiNews />)
+    renderPage()
     expect(screen.getByText(/What matters in AI/i)).toBeInTheDocument()
   })
 
   it('renders the email input with accessible label', () => {
-    render(<AiNews />)
+    renderPage()
     expect(screen.getByLabelText('Email address')).toBeInTheDocument()
   })
 
   it('renders the subscribe button', () => {
-    render(<AiNews />)
-    expect(screen.getByRole('button', { name: 'Subscribe' })).toBeInTheDocument()
+    renderPage()
+    expect(
+      screen.getByRole('button', { name: 'Subscribe' })
+    ).toBeInTheDocument()
   })
 
   it('shows loading state while submitting', async () => {
@@ -30,7 +41,7 @@ describe('AI News page', () => {
       'fetch',
       vi.fn(() => new Promise(() => {}))
     )
-    render(<AiNews />)
+    renderPage()
     fireEvent.change(screen.getByLabelText('Email address'), {
       target: { value: 'test@example.com' },
     })
@@ -40,18 +51,18 @@ describe('AI News page', () => {
     ).toBeInTheDocument()
   })
 
-  it('shows success state after subscribe', async () => {
+  it('shows confirmation prompt after subscribe', async () => {
     vi.stubGlobal(
       'fetch',
       vi.fn(() => Promise.resolve({ ok: true }))
     )
-    render(<AiNews />)
+    renderPage()
     fireEvent.change(screen.getByLabelText('Email address'), {
       target: { value: 'test@example.com' },
     })
     fireEvent.click(screen.getByRole('button', { name: 'Subscribe' }))
     await waitFor(() =>
-      expect(screen.getByText('Check your inbox.')).toBeInTheDocument()
+      expect(screen.getByText(/check your inbox/i)).toBeInTheDocument()
     )
   })
 
@@ -60,7 +71,7 @@ describe('AI News page', () => {
       'fetch',
       vi.fn(() => Promise.resolve({ ok: false }))
     )
-    render(<AiNews />)
+    renderPage()
     fireEvent.change(screen.getByLabelText('Email address'), {
       target: { value: 'test@example.com' },
     })
@@ -71,7 +82,9 @@ describe('AI News page', () => {
   })
 
   it('renders free/unsubscribe disclaimer', () => {
-    render(<AiNews />)
-    expect(screen.getByText(/Free · Unsubscribe anytime/i)).toBeInTheDocument()
+    renderPage()
+    expect(
+      screen.getByText(/Free · Unsubscribe anytime/i)
+    ).toBeInTheDocument()
   })
 })
