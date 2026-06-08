@@ -30,7 +30,7 @@ const confirmationCopy: Record<
     heading: 'Confirm your subscription',
     body:
       'Click the button below to confirm and start receiving the daily AI ' +
-      'newsletter every morning at 07:00 CET.',
+      'newsletter every morning.',
     button: 'Confirm subscription',
     fine: "If you didn't request this, you can safely ignore this email.",
   },
@@ -39,7 +39,7 @@ const confirmationCopy: Record<
     heading: 'Bekräfta din prenumeration',
     body:
       'Klicka på knappen nedan för att bekräfta och börja få det dagliga ' +
-      'AI-nyhetsbrevet varje morgon kl 07:00 CET.',
+      'AI-nyhetsbrevet varje morgon.',
     button: 'Bekräfta prenumeration',
     fine: 'Om du inte begärde detta kan du ignorera det här mejlet.',
   },

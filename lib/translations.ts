@@ -78,7 +78,7 @@ export const translations = {
       label: 'daily ai news',
       heading: 'What matters in AI,',
       headingLine2: 'every morning.',
-      subheading: '10 hand-picked stories — ranked by Claude, delivered at 07:00 CET.',
+      subheading: '10 hand-picked stories — ranked by Claude, delivered every morning.',
       browseText: 'Browse and filter by category below.',
       placeholder: 'your@email.com',
       subscribeButton: 'Subscribe',
@@ -91,11 +91,11 @@ export const translations = {
     confirm: {
       confirmed: {
         title: "You're subscribed!",
-        body: "You'll receive the daily AI newsletter every morning at 07:00 CET.",
+        body: "You'll receive the daily AI newsletter every morning.",
       },
       already: {
         title: 'Already confirmed',
-        body: 'Your subscription is already active. See you in your inbox at 07:00 CET.',
+        body: 'Your subscription is already active. See you in your inbox tomorrow morning.',
       },
       invalid: {
         title: 'Invalid or expired link',
@@ -190,7 +190,7 @@ export const translations = {
       label: 'dagliga ai-nyheter',
       heading: 'Det viktiga inom AI,',
       headingLine2: 'varje morgon.',
-      subheading: '10 handplockade nyheter — rankade av Claude, levererade 07:00 CET.',
+      subheading: '10 handplockade nyheter — rankade av Claude, levererade varje morgon.',
       browseText: 'Bläddra och filtrera efter kategori nedan.',
       placeholder: 'din@epost.se',
       subscribeButton: 'Prenumerera',
@@ -203,11 +203,11 @@ export const translations = {
     confirm: {
       confirmed: {
         title: 'Du prenumererar!',
-        body: 'Du får det dagliga AI-nyhetsbrevet varje morgon kl 07:00 CET.',
+        body: 'Du får det dagliga AI-nyhetsbrevet varje morgon.',
       },
       already: {
         title: 'Redan bekräftad',
-        body: 'Din prenumeration är redan aktiv. Vi ses i inkorgen kl 07:00 CET.',
+        body: 'Din prenumeration är redan aktiv. Vi ses i inkorgen imorgon bitti.',
       },
       invalid: {
         title: 'Ogiltig eller utgången länk',

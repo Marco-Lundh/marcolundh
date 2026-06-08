@@ -168,9 +168,9 @@ Git · CI/CD · Scrum · Agile · Unit testing · E2E testing · gRPC · OAuth2.
 ## AI News (`/ai-news`)
 
 ### Purpose
-A daily curated feed of the most relevant AI news — ranked and summarized by Claude Haiku, delivered by 07:00 CET every morning.
+A daily curated feed of the most relevant AI news — ranked and summarized by Claude Haiku, delivered every morning.
 
-### Pipeline (GitHub Actions, `0 5 * * *` UTC)
+### Pipeline (GitHub Actions, triggered every morning by Vercel Cron via `repository_dispatch`)
 1. Fetch articles from 18 RSS sources
 2. Claude Haiku ranks and categorizes 25 articles into 10 categories
 3. Writes `app/data/news.json` (overwritten daily — no archive)

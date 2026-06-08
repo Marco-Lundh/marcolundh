@@ -10,7 +10,7 @@ describe('StatusCard', () => {
   it('shows the confirmed message on the confirm page', () => {
     renderWith(<StatusCard page="confirm" kind="confirmed" />)
     expect(screen.getByText("You're subscribed!")).toBeInTheDocument()
-    expect(screen.getByText(/every morning at 07:00 CET/i)).toBeInTheDocument()
+    expect(screen.getByText(/every morning/i)).toBeInTheDocument()
   })
 
   it('shows the already-confirmed message', () => {

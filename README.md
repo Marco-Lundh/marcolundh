@@ -10,7 +10,7 @@ Personal website for Marco Lundh — full-stack Python developer transitioning i
 
 - **Portfolio** — profile, experience, skills, and contact at `/portfolio`
 - **AI News** — daily curated AI news at `/ai-news` with category filtering and newsletter signup
-- **Daily newsletter** — top 10 AI stories delivered by email at 07:00 CET via Resend
+- **Daily newsletter** — top 10 AI stories delivered by email every morning via Resend
 - **Bilingual** — English / Swedish toggle (auto-detected from browser language)
 
 ---
@@ -47,11 +47,14 @@ graph TD
 
 ## Newsletter Pipeline
 
-Runs every day at 05:00 UTC (07:00 CET) via GitHub Actions.
+Runs every morning. Vercel Cron triggers the workflow via `repository_dispatch`
+for reliable timing (GitHub's own cron schedule drifts by hours).
 
 ```mermaid
 flowchart TD
-    A["GitHub Actions\ncron: 0 5 * * *"] --> B["Fetch RSS Feeds\n18 sources"]
+    A0["Vercel Cron\n0 5 * * *"] --> A1["/api/cron/trigger-news\nrepository_dispatch"]
+    A1 --> A["GitHub Actions\npipeline"]
+    A --> B["Fetch RSS Feeds\n18 sources"]
     B --> C["Filter via seen.json\n7-day deduplication"]
     C --> D["Claude Haiku 4.5\nRank · Categorize · Summarize"]
     D --> E["news.json\n25 articles with categories"]
@@ -60,7 +63,7 @@ flowchart TD
     E --> G["Git commit\n→ Vercel auto-redeploy"]
     C2["Supabase\nactive subscribers"] --> H
     G --> I["/ai-news page\nlive within minutes"]
-    H --> J["Subscribers\n07:00 CET"]
+    H --> J["Subscribers\nevery morning"]
 ```
 
 ### Subscriber Signup Flow
@@ -82,7 +85,7 @@ sequenceDiagram
     E->>V: Clicks confirm link
     V->>DB: /confirm sets status: active
     Note over DB: Active subscriber stored
-    R-->>E: Next morning at 07:00 CET — daily AI news
+    R-->>E: Next morning — daily AI news
 ```
 
 ### News Categories
@@ -129,6 +132,8 @@ Open [http://localhost:3000](http://localhost:3000).
 | `RESEND_API_KEY` | GitHub Actions Secret + Vercel | Sending confirmation + newsletter emails |
 | `SUPABASE_URL` | GitHub Actions Secret + Vercel | Subscriber database endpoint |
 | `SUPABASE_SERVICE_KEY` | GitHub Actions Secret + Vercel | Server-side database access (service role) |
+| `CRON_SECRET` | Vercel | Vercel Cron sends this as a Bearer token; the cron route verifies it |
+| `GITHUB_DISPATCH_TOKEN` | Vercel | PAT used by the cron route to fire the pipeline via `repository_dispatch` |
 
 Never commit secrets to the repository. Add them via:
 - **GitHub:** Settings → Secrets and variables → Actions

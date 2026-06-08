@@ -1,8 +1,10 @@
 name: Daily AI News
 
 on:
-  schedule:
-    - cron: '0 5 * * *'
+  # Triggered by Vercel Cron via /api/cron/trigger-news (repository_dispatch)
+  # for reliable timing — GitHub's own cron schedule drifts by hours.
+  repository_dispatch:
+    types: [daily-news]
   workflow_dispatch:
 
 jobs:
