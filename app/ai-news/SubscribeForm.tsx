@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 
-export default function SubscribeForm() {
+export default function SubscribeForm({ compact = false }: { compact?: boolean }) {
   const [email, setEmail] = useState('')
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const { language, t } = useLanguage()
@@ -31,17 +31,21 @@ export default function SubscribeForm() {
       initial={{ opacity: 0, y: 24 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
-      className="max-w-2xl w-full text-center"
+      className={compact ? 'w-full text-left' : 'max-w-2xl w-full text-center'}
     >
-      <p className="font-mono text-[#4f9cf9] text-sm tracking-widest uppercase mb-4">
+      <p className={`font-mono text-[#4f9cf9] tracking-widest uppercase ${compact ? 'text-xs mb-3' : 'text-sm mb-4'}`}>
         {tr.label}
       </p>
-      <h1 className="text-4xl md:text-5xl font-bold text-slate-100 mb-6 leading-tight">
-        {tr.heading}<br />{tr.headingLine2}
-      </h1>
-      <p className="text-slate-400 text-lg leading-relaxed mb-10">
-        {tr.subheading}
-      </p>
+      {!compact && (
+        <>
+          <h1 className="text-4xl md:text-5xl font-bold text-slate-100 mb-6 leading-tight">
+            {tr.heading}<br />{tr.headingLine2}
+          </h1>
+          <p className="text-slate-400 text-lg leading-relaxed mb-10">
+            {tr.subheading}
+          </p>
+        </>
+      )}
 
       {status === 'success' ? (
         <div className="bg-[#111827] border border-[#4f9cf9]/30 rounded-xl p-6">
@@ -49,9 +53,9 @@ export default function SubscribeForm() {
           <p className="text-slate-400 text-sm">{tr.successBody}</p>
         </div>
       ) : (
-        <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+        <form onSubmit={handleSubmit} className={`flex flex-col sm:flex-row gap-3 max-w-md ${compact ? '' : 'mx-auto'}`}>
           <label htmlFor="email-input" className="sr-only">
-            Email address
+            {t.common.emailLabel}
           </label>
           <input
             id="email-input"
@@ -82,9 +86,11 @@ export default function SubscribeForm() {
       <p className="text-slate-600 text-xs mt-4 font-mono">
         {tr.disclaimer}
       </p>
-      <p className="text-slate-400 text-lg leading-relaxed mt-8">
-        {tr.browseText}
-      </p>
+      {!compact && (
+        <p className="text-slate-400 text-lg leading-relaxed mt-8">
+          {tr.browseText}
+        </p>
+      )}
     </motion.div>
   )
 }

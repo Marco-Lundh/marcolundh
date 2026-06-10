@@ -20,24 +20,16 @@ describe('Home page', () => {
     ).toBeInTheDocument()
   })
 
-  it('renders the AI News section card', () => {
-    render(<Home />)
-    expect(screen.getByText('AI News')).toBeInTheDocument()
-    expect(screen.getByText('Read more →')).toBeInTheDocument()
-  })
-
   it('renders the Portfolio section card', () => {
     render(<Home />)
     expect(screen.getByText('Portfolio')).toBeInTheDocument()
-    expect(screen.getByText('View portfolio →')).toBeInTheDocument()
+    expect(screen.getByText('View projects →')).toBeInTheDocument()
   })
 
-  it('AI News card links to /ai-news', () => {
+  it('renders the About me section card', () => {
     render(<Home />)
-    const links = screen
-      .getAllByRole('link')
-      .filter((l) => l.getAttribute('href') === '/ai-news')
-    expect(links.length).toBe(1)
+    expect(screen.getByText('About me')).toBeInTheDocument()
+    expect(screen.getByText('Read my story →')).toBeInTheDocument()
   })
 
   it('Portfolio card links to /portfolio', () => {
@@ -45,6 +37,14 @@ describe('Home page', () => {
     const links = screen
       .getAllByRole('link')
       .filter((l) => l.getAttribute('href') === '/portfolio')
+    expect(links.length).toBe(1)
+  })
+
+  it('About me card links to /about', () => {
+    render(<Home />)
+    const links = screen
+      .getAllByRole('link')
+      .filter((l) => l.getAttribute('href') === '/about')
     expect(links.length).toBe(1)
   })
 })

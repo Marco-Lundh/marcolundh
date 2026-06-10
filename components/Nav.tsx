@@ -40,9 +40,15 @@ export default function Nav() {
               {link.label}
             </a>
           ))}
+          <Link
+            href="/portfolio"
+            className="text-sm text-slate-400 hover:text-slate-100 transition-colors"
+          >
+            {t.common.portfolio}
+          </Link>
           <button
             onClick={() => setLanguage(language === 'en' ? 'sv' : 'en')}
-            aria-label={language === 'en' ? 'Switch to Swedish' : 'Byt till engelska'}
+            aria-label={t.common.langToggle}
             className="text-sm font-mono text-slate-500 hover:text-[#4f9cf9] transition-colors border-l border-white/10 pl-8"
           >
             {language === 'en' ? 'SV' : 'EN'}
@@ -51,13 +57,13 @@ export default function Nav() {
             href="/"
             className="text-sm text-slate-500 hover:text-[#4f9cf9] transition-colors border-l border-white/10 pl-4"
           >
-            ← Home
+            {t.common.home}
           </Link>
         </div>
         {/* Mobile */}
         <button
           onClick={() => setLanguage(language === 'en' ? 'sv' : 'en')}
-          aria-label={language === 'en' ? 'Switch to Swedish' : 'Byt till engelska'}
+          aria-label={t.common.langToggle}
           className="md:hidden text-sm font-mono text-slate-500 hover:text-[#4f9cf9] transition-colors"
         >
           {language === 'en' ? 'SV' : 'EN'}

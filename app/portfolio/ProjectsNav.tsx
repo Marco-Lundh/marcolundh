@@ -3,8 +3,9 @@
 import Link from 'next/link'
 import { useLanguage } from '@/contexts/LanguageContext'
 
-export default function AiNewsNav() {
+export default function ProjectsNav() {
   const { language, setLanguage, t } = useLanguage()
+  const tr = t.projectsNav
 
   return (
     <nav className="px-6 h-16 flex items-center border-b border-white/5">
@@ -13,11 +14,11 @@ export default function AiNewsNav() {
           marco-tech.se
         </Link>
         <div className="flex items-center gap-6">
-          <Link href="/portfolio" className="text-sm text-slate-400 hover:text-slate-100 transition-colors">
-            {t.common.portfolio}
-          </Link>
           <Link href="/about" className="text-sm text-slate-400 hover:text-slate-100 transition-colors">
-            {t.projectsNav.about}
+            {tr.about}
+          </Link>
+          <Link href="/ai-news" className="text-sm text-slate-400 hover:text-slate-100 transition-colors">
+            {tr.aiNews}
           </Link>
           <button
             onClick={() => setLanguage(language === 'en' ? 'sv' : 'en')}

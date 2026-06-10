@@ -1,6 +1,6 @@
 # marco-tech.se
 
-Personal website for Marco Lundh — full-stack Python developer transitioning into AI engineering. The site serves two purposes: a professional portfolio and a daily AI news newsletter.
+Personal website for Marco Lundh — full-stack Python developer transitioning into AI engineering. The site serves three purposes: a project portfolio, a CV/about page, and a daily AI news newsletter.
 
 **Live:** [marco-tech.se](https://marco-tech.se)
 
@@ -8,7 +8,8 @@ Personal website for Marco Lundh — full-stack Python developer transitioning i
 
 ## Features
 
-- **Portfolio** — profile, experience, skills, and contact at `/portfolio`
+- **Portfolio** — project showcase at `/portfolio`: AI News automation (with an embedded live demo), Job Radar, CV Fit Score, and DocuChat. Each project has a browser-framed screenshot gallery with lightbox, a tech-stack list, and a link to its GitHub repo.
+- **About / CV** — profile, experience timeline, skills, and contact at `/about`
 - **AI News** — daily curated AI news at `/ai-news` with category filtering and newsletter signup
 - **Daily newsletter** — top 10 AI stories delivered by email every morning via Resend
 - **Bilingual** — English / Swedish toggle (auto-detected from browser language)
@@ -36,11 +37,16 @@ Personal website for Marco Lundh — full-stack Python developer transitioning i
 ```mermaid
 graph TD
     A["marco-tech.se /"] --> B["/portfolio"]
+    A --> AB["/about"]
     A --> C["/ai-news"]
-    B --> D["Hero · About · Experience · Skills · Contact"]
+    B --> P["Projects: AI News · Job Radar · CV Fit Score · DocuChat"]
+    P --> PD["Browser-frame gallery + lightbox · stack · GitHub link"]
+    B --> F1["Embedded live demo → /api/subscribe"]
+    AB --> D["Hero · About · Experience · Skills · Contact"]
     C --> E["25 Articles · Category Filter"]
-    C --> F["Newsletter Signup → /api/subscribe"]
-    F --> G["Supabase + Resend"]
+    C --> F2["Newsletter Signup → /api/subscribe"]
+    F1 --> G["Supabase + Resend"]
+    F2 --> G
 ```
 
 ---
@@ -71,7 +77,7 @@ flowchart TD
 ```mermaid
 sequenceDiagram
     participant V as Visitor
-    participant S as /ai-news
+    participant S as /ai-news or /portfolio demo
     participant A as /api/subscribe
     participant DB as Supabase
     participant R as Resend
@@ -167,17 +173,27 @@ create table subscribers (
 marcolundh/
 ├── app/
 │   ├── layout.tsx
-│   ├── page.tsx                 # Home
-│   ├── portfolio/page.tsx       # Portfolio
-│   ├── ai-news/page.tsx         # AI News
+│   ├── page.tsx                 # Home — Portfolio + About me cards
+│   ├── portfolio/
+│   │   ├── page.tsx             # Portfolio — project showcase
+│   │   ├── ProjectsNav.tsx      # Portfolio nav (About · AI News · home)
+│   │   └── ProjectShowcase.tsx  # Project rows: gallery + lightbox + live demo
+│   ├── about/page.tsx           # About / CV (Hero · About · Experience · Skills · Contact)
+│   ├── ai-news/
+│   │   ├── page.tsx             # AI News feed
+│   │   ├── AiNewsNav.tsx
+│   │   ├── ArticleList.tsx
+│   │   └── SubscribeForm.tsx    # Signup form (reused as `compact` live demo on /portfolio)
 │   ├── confirm/page.tsx         # Double opt-in confirmation
 │   ├── unsubscribe/page.tsx     # Unsubscribe landing
 │   └── api/
 │       ├── subscribe/route.ts   # Newsletter signup endpoint
-│       └── unsubscribe/route.ts # One-click unsubscribe (List-Unsubscribe)
-├── components/
+│       ├── unsubscribe/route.ts # One-click unsubscribe (List-Unsubscribe)
+│       └── cron/trigger-news/   # Vercel Cron → repository_dispatch
+├── components/                  # CV/about + shared components
 │   ├── Nav.tsx
 │   ├── StatusCard.tsx           # Confirm / unsubscribe result UI
+│   ├── UnsubscribeButton.tsx
 │   ├── Hero.tsx
 │   ├── About.tsx
 │   ├── Experience.tsx
@@ -186,9 +202,13 @@ marcolundh/
 ├── contexts/
 │   └── LanguageContext.tsx
 ├── lib/
-│   ├── translations.ts
+│   ├── translations.ts          # EN/SV strings incl. projects.items
 │   ├── supabase.ts              # Server-side Supabase client
 │   └── email.ts                 # Resend client + confirmation email
+├── public/projects/             # Project screenshots (one folder per slug)
+│   ├── job-radar/               # 1.png … 9.png
+│   ├── cv-fit-score/            # 1.png … 4.png
+│   └── docuchat/                # 1.png
 ├── pipeline/
 │   ├── curate.py                # Main pipeline script
 │   ├── seen.json                # Deduplication state

@@ -1,28 +1,17 @@
-import { LanguageProvider } from '@/contexts/LanguageContext'
-import Nav from '@/components/Nav'
-import Hero from '@/components/Hero'
-import About from '@/components/About'
-import Experience from '@/components/Experience'
-import Skills from '@/components/Skills'
-import Contact from '@/components/Contact'
+import ProjectsNav from './ProjectsNav'
+import ProjectShowcase from './ProjectShowcase'
 
 export const metadata = {
-  title: 'Marco Lundh — Full-Stack Python Developer',
+  title: 'Marco Lundh — Portfolio & Projects',
   description:
-    'Full-stack Python developer with 13+ years of experience in FinTech, MedTech, and Telecom. Focused on AI integration and automation.',
+    'Selected work by Marco Lundh — automated AI content pipelines, full-stack Python systems, and this bilingual Next.js site.',
 }
 
 export default function Portfolio() {
   return (
-    <LanguageProvider>
-      <main>
-        <Nav />
-        <Hero />
-        <About />
-        <Experience />
-        <Skills />
-        <Contact />
-      </main>
-    </LanguageProvider>
+    <main className="min-h-screen bg-[#0a0f1e] text-slate-100">
+      <ProjectsNav />
+      <ProjectShowcase />
+    </main>
   )
 }
