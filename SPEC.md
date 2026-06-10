@@ -5,12 +5,13 @@
 
 ## Overview
 
-A personal website for Marco Lundh, a full-stack Python developer with 13+ years of experience transitioning into AI engineering. The site has two purposes:
+A personal website for Marco Lundh, a full-stack Python developer with 13+ years of experience transitioning into AI engineering. The site has three purposes:
 
-1. **Profile** — show who Marco is, what he has been up to, and where he is heading
-2. **AI News** — run a daily curated AI newsletter open to anyone who wants to subscribe
+1. **Portfolio** — showcase the projects Marco has built (live demos, screenshots, source)
+2. **Profile / CV** — show who Marco is, what he has been up to, and where he is heading
+3. **AI News** — run a daily curated AI newsletter open to anyone who wants to subscribe
 
-**Primary goal:** Give visitors a clear picture of Marco's background and skills, and let interested readers subscribe to the AI news feed.
+**Primary goal:** Give visitors a clear picture of Marco's work and background, and let interested readers subscribe to the AI news feed.
 
 ---
 
@@ -59,19 +60,52 @@ Multi-page application:
 
 | Route | Purpose |
 |---|---|
-| `/` | Home — links to Portfolio and AI News |
-| `/portfolio` | Personal profile (single-page, anchor nav) |
+| `/` | Home — two cards: Portfolio and About me |
+| `/portfolio` | Project showcase (AI News, Job Radar, CV Fit Score, DocuChat) |
+| `/about` | Personal profile / CV (single-page, anchor nav) |
 | `/ai-news` | Daily AI news + newsletter signup |
 
 ### Navigation (`/portfolio`)
 - Logo: `marco-tech.se` (links to `/`)
-- Links: About · Experience · Skills · Contact
+- Links: About (`/about`) · AI News (`/ai-news`)
+- Language toggle: EN / SV
+- ← Home link
+
+### Navigation (`/about`)
+- Logo: `marco-tech.se` (links to `/`)
+- Links: About · Experience · Skills · Contact (in-page anchors) · Portfolio (`/portfolio`)
 - Language toggle: EN / SV
 - ← Home link
 
 ---
 
 ## Portfolio (`/portfolio`)
+
+A showcase of projects Marco has designed and shipped. Each project is a row with
+an alternating image/text layout:
+
+- **Media** — a browser-framed screenshot gallery (macOS chrome) with a thumbnail
+  grid; clicking opens a full-screen lightbox. The strip hides itself for a single
+  image. The AI News project has no static screenshots — instead it embeds the live
+  newsletter signup form (`SubscribeForm` in `compact` mode) plus a link to the
+  full feed.
+- **Copy** — mono label, title, description, tech-stack tags, and a "View code"
+  link to the GitHub repo.
+
+Project copy (label/title/description) is bilingual and lives in
+`translations.projects.items`, keyed by slug. Language-neutral data (screenshots,
+stack, repo URL) lives in `app/portfolio/ProjectShowcase.tsx`.
+
+| Project | Slug | Highlights | Stack | Repo |
+|---|---|---|---|---|
+| AI News automation | `ai-news` | Live embedded demo of the newsletter signup | Python · Claude Haiku · GitHub Actions · Vercel Cron · Resend · Supabase · Next.js | `Marco-Lundh/marcolundh` |
+| Job Radar | `job-radar` | Multi-agent job search: rank → CV fit → cover letter | Python · FastAPI · Pydantic AI · Groq · SSE · HTMX/Alpine.js | `Marco-Lundh/job-radar` |
+| CV Fit Score | `cv-fit-score` | AI CV-vs-job fit analysis (PDF/text, EN/SV) | Python · FastAPI · Groq · pdfplumber · Docker · Kubernetes | `Marco-Lundh/cv-fit-score` |
+| DocuChat | `docuchat` | RAG CLI: chat with your PDFs, answers grounded in content | Python · RAG · FAISS · Sentence Transformers · Groq · PyMuPDF | `Marco-Lundh/docuchat` |
+
+---
+
+## About / CV (`/about`)
 
 ### 1. Hero
 
@@ -223,10 +257,10 @@ Simon Willison · The Batch (DeepLearning.AI)
 ## i18n
 
 - Languages: English (default) and Swedish
-- Toggle: EN/SV button in the portfolio navbar
-- Translations: `lib/translations.ts`
-- Context: `contexts/LanguageContext.tsx`
-- Job descriptions stay in English (standard in Swedish tech)
+- Toggle: EN/SV button in every page navbar (portfolio, about, AI News)
+- Translations: `lib/translations.ts` (incl. `projects.items` for project copy)
+- Context: `contexts/LanguageContext.tsx` (provided once in `app/layout.tsx`)
+- Job descriptions in the experience timeline stay in English (standard in Swedish tech); project labels/titles/descriptions are translated
 
 ---
 
@@ -236,12 +270,19 @@ Simon Willison · The Batch (DeepLearning.AI)
 marcolundh/
 ├── app/
 │   ├── layout.tsx
-│   ├── page.tsx                 # Home — links to /portfolio and /ai-news
+│   ├── page.tsx                 # Home — Portfolio + About me cards
 │   ├── portfolio/
-│   │   └── page.tsx
+│   │   ├── page.tsx             # Project showcase
+│   │   ├── ProjectsNav.tsx
+│   │   └── ProjectShowcase.tsx
+│   ├── about/
+│   │   └── page.tsx             # Profile / CV
 │   └── ai-news/
-│       └── page.tsx
-├── components/
+│       ├── page.tsx
+│       ├── AiNewsNav.tsx
+│       ├── ArticleList.tsx
+│       └── SubscribeForm.tsx    # also embedded (compact) on /portfolio
+├── components/                  # CV/about + shared
 │   ├── Nav.tsx
 │   ├── Hero.tsx
 │   ├── About.tsx
@@ -252,6 +293,8 @@ marcolundh/
 │   └── LanguageContext.tsx
 ├── lib/
 │   └── translations.ts
+├── public/projects/             # one folder per project slug
+│   ├── job-radar/  cv-fit-score/  docuchat/
 ├── pipeline/
 │   ├── curate.py
 │   ├── seen.json
@@ -266,7 +309,8 @@ marcolundh/
 
 ## SEO & Metadata
 
-- `/portfolio` title: `Marco Lundh — Full-Stack Python Developer`
+- `/portfolio` title: `Marco Lundh — Portfolio & Projects`
+- `/about` title: `Marco Lundh — About & CV`
 - Meta description: Full-stack Python developer with 13+ years of experience. Focused on AI integration and automation.
 - Open Graph tags for social sharing
 
@@ -282,4 +326,4 @@ marcolundh/
 
 ---
 
-*Spec version 2.0 — June 2026*
+*Spec version 3.0 — June 2026*

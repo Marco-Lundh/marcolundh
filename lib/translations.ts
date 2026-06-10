@@ -10,8 +10,15 @@ export interface SkillCategory {
   tags: string[]
 }
 
-export const translations = {
+const translationsData = {
   en: {
+    common: {
+      // Always describes switching to the *other* language, in the current one.
+      langToggle: 'Switch to Swedish',
+      home: '← Home',
+      portfolio: 'Portfolio',
+      emailLabel: 'Email address',
+    },
     nav: {
       links: [
         { href: '#about', label: 'About' },
@@ -70,11 +77,53 @@ export const translations = {
     contact: {
       section: '04. contact',
       heading: "Let's work together",
-      body: "I'm currently open to new opportunities — ideally where full-stack Python skills and a serious interest in AI overlap. Let's talk.",
+      body: "I'm currently open to new opportunities — ideally where full-stack skills and a serious interest in AI overlap. Let's talk.",
       linkedin: 'Connect on LinkedIn',
     },
+    projects: {
+      label: 'portfolio',
+      heading: 'Selected work',
+      intro:
+        'Things I have designed, built, and shipped end-to-end — from automated content pipelines to this very site.',
+      liveDemo: 'Live demo',
+      openFeed: 'Open the full feed →',
+      tryDemo: '← Try the live demo',
+      viewCode: 'View code →',
+      enlarge: 'Enlarge',
+      showImage: 'Show',
+      screenshot: 'screenshot',
+      items: {
+        'ai-news': {
+          label: 'live project',
+          title: 'AI News automation',
+          description:
+            'A fully automated daily pipeline: it pulls from 18 RSS sources, then ranks, categorizes and summarizes the stories with Claude Haiku. The top picks are published to a live feed and delivered as a morning email digest — orchestrated by GitHub Actions and Vercel Cron, with in-house double opt-in over Resend and Supabase.',
+        },
+        'job-radar': {
+          label: 'project',
+          title: 'Job Radar',
+          description:
+            'An AI-assisted job-hunting workspace built on a multi-agent pipeline. One agent scrapes and ranks listings against your profile; a second scores your CV fit with concrete strengths, gaps, and next steps; a third drafts a tailored, language-aware cover letter. Powered by Pydantic AI + Groq with SSE streaming, and it runs entirely locally — everything stored as JSON, no database.',
+        },
+        'cv-fit-score': {
+          label: 'project',
+          title: 'CV Fit Score',
+          description:
+            'Paste your CV and a job posting URL and get an honest, AI-powered fit analysis in seconds. It parses the posting and your CV (PDF or plain text) and returns matched strengths, missing requirements, and an overall verdict — in English or Swedish.',
+        },
+        docuchat: {
+          label: 'project',
+          title: 'DocuChat',
+          description:
+            'A retrieval-augmented chat tool for your own documents. It ingests a set of PDFs, builds local embeddings, and answers questions grounded strictly in their content — so replies stay accurate and cite the source material rather than hallucinating.',
+        },
+      },
+    },
+    projectsNav: {
+      about: 'About',
+      aiNews: 'AI News',
+    },
     aiNews: {
-      navHome: '← Home',
       label: 'daily ai news',
       heading: 'What matters in AI,',
       headingLine2: 'every morning.',
@@ -124,6 +173,12 @@ export const translations = {
     },
   },
   sv: {
+    common: {
+      langToggle: 'Byt till engelska',
+      home: '← Hem',
+      portfolio: 'Portfolio',
+      emailLabel: 'E-postadress',
+    },
     nav: {
       links: [
         { href: '#about', label: 'Om mig' },
@@ -182,11 +237,53 @@ export const translations = {
     contact: {
       section: '04. kontakt',
       heading: 'Låt oss jobba ihop',
-      body: 'Jag är öppen för nya möjligheter — helst där full-stack Python-kompetens och ett seriöst intresse för AI möts. Hör av dig.',
+      body: 'Jag är öppen för nya möjligheter — helst där full-stack-kompetens och ett seriöst intresse för AI möts. Hör av dig.',
       linkedin: 'Kontakta på LinkedIn',
     },
+    projects: {
+      label: 'portfolio',
+      heading: 'Utvalda projekt',
+      intro:
+        'Saker jag har designat, byggt och levererat hela vägen — från automatiska innehållspipelines till den här sajten.',
+      liveDemo: 'Live-demo',
+      openFeed: 'Öppna hela flödet →',
+      tryDemo: '← Testa live-demon',
+      viewCode: 'Visa kod →',
+      enlarge: 'Förstora',
+      showImage: 'Visa',
+      screenshot: 'skärmdump',
+      items: {
+        'ai-news': {
+          label: 'live-projekt',
+          title: 'AI News automation',
+          description:
+            'En helt automatiserad daglig pipeline: den hämtar från 18 RSS-källor och låter sedan Claude Haiku ranka, kategorisera och sammanfatta nyheterna. De bästa publiceras i ett live-flöde och skickas som ett morgonnyhetsbrev — orkestrerat av GitHub Actions och Vercel Cron, med egen double opt-in via Resend och Supabase.',
+        },
+        'job-radar': {
+          label: 'projekt',
+          title: 'Job Radar',
+          description:
+            'En AI-assisterad arbetsyta för jobbsök byggd på en multi-agent-pipeline. En agent hämtar och rankar annonser mot din profil; en andra poängsätter hur väl ditt CV matchar med konkreta styrkor, luckor och nästa steg; en tredje skriver ett skräddarsytt, språkanpassat personligt brev. Drivs av Pydantic AI + Groq med SSE-streaming och körs helt lokalt — allt sparas som JSON, ingen databas.',
+        },
+        'cv-fit-score': {
+          label: 'projekt',
+          title: 'CV Fit Score',
+          description:
+            'Klistra in ditt CV och en länk till en jobbannons och få en ärlig, AI-driven matchningsanalys på några sekunder. Den tolkar annonsen och ditt CV (PDF eller text) och returnerar matchade styrkor, saknade krav och ett helhetsomdöme — på svenska eller engelska.',
+        },
+        docuchat: {
+          label: 'projekt',
+          title: 'DocuChat',
+          description:
+            'Ett RAG-verktyg för dina egna dokument. Det läser in en uppsättning PDF:er, bygger lokala embeddings och svarar på frågor strikt utifrån innehållet — så att svaren förblir korrekta och hänvisar till källmaterialet i stället för att hallucinera.',
+        },
+      },
+    },
+    projectsNav: {
+      about: 'Om mig',
+      aiNews: 'AI-nyheter',
+    },
     aiNews: {
-      navHome: '← Hem',
       label: 'dagliga ai-nyheter',
       heading: 'Det viktiga inom AI,',
       headingLine2: 'varje morgon.',
@@ -236,3 +333,10 @@ export const translations = {
     },
   },
 }
+
+// English is the canonical shape. Annotating the export forces every locale to
+// expose the exact same keys — a missing translation becomes a compile error
+// instead of an `undefined` rendered silently at runtime.
+type TranslationTree = (typeof translationsData)['en']
+
+export const translations: Record<Language, TranslationTree> = translationsData

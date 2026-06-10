@@ -5,20 +5,20 @@ import { motion } from 'framer-motion'
 
 const sections = [
   {
-    href: '/ai-news',
-    label: 'AI News',
-    mono: 'ai.news',
-    description:
-      'Daily AI news — curated, summarized, and delivered straight to your inbox. No noise.',
-    cta: 'Read more →',
-  },
-  {
     href: '/portfolio',
     label: 'Portfolio',
+    mono: 'selected.work',
+    description:
+      'Projects I have designed, built, and shipped — including a live, fully automated daily AI news pipeline you can try right here.',
+    cta: 'View projects →',
+  },
+  {
+    href: '/about',
+    label: 'About me',
     mono: 'marco.lundh',
     description:
-      'Full-stack Python developer transitioning into AI engineering — 13+ years of experience across FinTech, MedTech, and Telecom.',
-    cta: 'View portfolio →',
+      'Senior full-stack Python developer with 13+ years across FinTech, MedTech, and Telecom — now focused on AI engineering and automation.',
+    cta: 'Read my story →',
   },
 ]
 

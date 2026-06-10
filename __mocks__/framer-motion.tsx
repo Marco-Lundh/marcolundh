@@ -25,6 +25,7 @@ export const motion = {
   footer: make('footer'),
   span: make('span'),
   article: make('article'),
+  img: make('img'),
 }
 
 export const AnimatePresence = ({ children }: { children: React.ReactNode }) =>
