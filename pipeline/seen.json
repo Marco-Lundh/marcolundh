@@ -398,5 +398,105 @@
   {
     "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
     "seen_at": "2026-06-11"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://openai.com/index/bbva",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/automate-model-quota-request-and-operational-issue-triage-on-amazon-bedrock/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2026",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://machinelearning.apple.com/updates/ppml-2026",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/",
+    "seen_at": "2026-06-12"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "seen_at": "2026-06-12"
   }
 ]
