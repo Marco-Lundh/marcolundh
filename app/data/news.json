@@ -1,228 +1,221 @@
 {
-  "generated_at": "2026-06-12T05:53:55.380390+00:00",
+  "generated_at": "2026-06-13T05:38:33.201195+00:00",
   "articles": [
     {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "source": "OpenAI News",
-      "summary": "OpenAI acquires Ona to expand Codex with secure persistent cloud environments.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI News",
-      "summary": "BBVA scales ChatGPT Enterprise to 100,000 employees for banking transformation.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Evaluate AI agents systematically with Agent-EvalKit",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-      "source": "Artificial Intelligence",
-      "summary": "Open-source toolkit for systematic evaluation of AI agents across six evaluation phases.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 6,
-      "published": "Thu, 11 Jun 2026 15:49:47 +0000"
-    },
-    {
-      "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
-      "url": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
-      "source": "Artificial Intelligence",
-      "summary": "Intelligent document processing pipeline using on-demand and batch inference on Bedrock.",
+      "summary": "OpenAI launches Academy courses teaching practical AI skills and agentic workflows.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Thu, 11 Jun 2026 19:40:33 +0000"
+      "reading_time_minutes": 3,
+      "published": "Fri, 12 Jun 2026 10:00:00 GMT"
     },
     {
-      "title": "Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/",
-      "summary": "Automatic refinement of extraction instructions improves accuracy without model fine-tuning.",
+      "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
+      "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA demonstrates leading performance on first standardized agentic AI benchmark.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-06-12T21:12:40Z"
+    },
+    {
+      "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
+      "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "MiniMax M3 enables long-context reasoning and agentic workflows on NVIDIA infrastructure.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 11 Jun 2026 15:11:56 +0000"
+      "reading_time_minutes": 6,
+      "published": "2026-06-12T14:43:17Z"
     },
     {
-      "title": "Automate model quota request and operational issue triage on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-model-quota-request-and-operational-issue-triage-on-amazon-bedrock/",
-      "summary": "Three-layer automated monitoring solution for operational issues and support case management.",
+      "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+      "source": "Artificial Intelligence",
+      "summary": "Rocket Close builds agentic AI solution using Bedrock agents and MCP tools.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 7,
+      "published": "Fri, 12 Jun 2026 20:43:56 +0000"
+    },
+    {
+      "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+      "source": "Artificial Intelligence",
+      "summary": "Custom meeting assistant leverages MCP servers for Webex integration and preparation.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "Fri, 12 Jun 2026 14:49:40 +0000"
+    },
+    {
+      "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
+      "source": "Artificial Intelligence",
+      "summary": "Scalable document processing pipeline using Amazon Bedrock agents and knowledge bases.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 7,
-      "published": "Wed, 03 Jun 2026 20:14:16 +0000"
+      "published": "Fri, 12 Jun 2026 14:43:11 +0000"
     },
     {
-      "title": "Supporting Europe's work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI News",
-      "summary": "OpenAI supports EU Code of Practice on AI transparency and content provenance standards.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
+      "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
+      "url": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
       "source": "Artificial Intelligence",
-      "summary": "Optimization techniques using SOCI to reduce container cold start times in ML workloads.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Wed, 03 Jun 2026 16:26:35 +0000"
-    },
-    {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "source": "Hugging Face - Blog",
-      "summary": "Performance optimization techniques for PyTorch neural network layers through fusion.",
-      "category": "AI Tools & Frameworks",
+      "summary": "AWS ProServe rebuilds internal processes using AI to compress engagement timelines dramatically.",
+      "category": "AI in Industry",
       "reading_time_minutes": 6,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+      "published": "Fri, 12 Jun 2026 13:00:10 +0000"
     },
     {
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Google DeepMind funds research into dangers of millions of interacting AI agents.",
-      "category": "Ethics & Policy",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source": "OpenAI News",
+      "summary": "Preply uses OpenAI to generate personalized lesson summaries and language learning exercises.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Fri, 12 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face - Blog",
+      "summary": "OLMo-eval provides comprehensive evaluation infrastructure for LLM development.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Thu, 11 Jun 2026 11:00:45 +0000"
+      "published": "Fri, 12 Jun 2026 15:56:10 GMT"
     },
     {
-      "title": "The Meta hack shows there's more to AI security than Mythos",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts.",
-      "category": "Ethics & Policy",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face Jobs enables migration from GitHub CI for ML pipeline management.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 4,
-      "published": "Fri, 05 Jun 2026 09:00:00 +0000"
+      "published": "Tue, 09 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-      "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Industry-wide adoption of SynthID watermarking to detect and authenticate AI-generated content.",
-      "category": "AI Tools & Frameworks",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "source": "Hugging Face - Blog",
+      "summary": "Reachy Mini robot integrates Model Context Protocol tools for enhanced capabilities.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Wed, 03 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source": "Hugging Face - Blog",
+      "summary": "Reachy Mini robot now runs conversational AI entirely locally without cloud dependencies.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 27 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "source": "Hugging Face - Blog",
+      "summary": "TRL introduces Delta Weight Sync for efficient trillion-parameter model distribution.",
+      "category": "Open Source AI",
       "reading_time_minutes": 5,
-      "published": "Tue, 19 May 2026 18:37:02 +0000"
+      "published": "Wed, 27 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google accelerates AI search evolution with agentic capabilities announced at I/O 2026.",
+      "title": "Rehumanizing global health care with agentic AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Agentic AI addresses healthcare workforce strain and fragmented service provision.",
       "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "Wed, 20 May 2026 17:31:04 +0000"
+      "published": "Tue, 02 Jun 2026 11:23:34 +0000"
     },
     {
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "AI | VentureBeat",
-      "summary": "Anthropic releases Cowork, extending Claude Code capabilities to non-technical users.",
-      "category": "AI Agents & Automation",
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Practical guide for small businesses to adopt LLMs across accounting to product development.",
+      "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
+      "published": "Tue, 02 Jun 2026 09:00:00 +0000"
     },
     {
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "AI | VentureBeat",
-      "summary": "Salesforce transforms Slackbot into fully-powered AI agent for enterprise workplace automation.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google pursues legal action against cybercriminals weaponizing Gemini for automated fraud.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Fri, 12 Jun 2026 16:34:36 +0000"
     },
     {
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "AI | VentureBeat",
-      "summary": "Nous Research releases competitive open-source coding model matching larger proprietary systems.",
-      "category": "Open Source AI",
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Public opposition halts significant AI infrastructure investment across multiple regions.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
+      "published": "Fri, 12 Jun 2026 17:18:49 +0000"
     },
     {
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "AI | VentureBeat",
-      "summary": "Listen Labs secures $69M funding for scaling AI-powered customer interview automation.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Fri, 16 Jan 2026 14:01:00 GMT"
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "AI | VentureBeat",
-      "summary": "Open-source alternative Goose offers free coding agent functionality versus Claude Code pricing.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "US government suspends Anthropic's Fable 5 and Mythos 5 under national security directive.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 2,
+      "published": "2026-06-13T01:01:50+00:00"
     },
     {
       "title": "Initial impressions of Claude Fable 5",
-      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Claude Fable 5 demonstrates significant capability improvements across diverse complex tasks.",
+      "summary": "Claude Fable 5 demonstrates exceptional capability across diverse coding and analysis tasks.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 6,
+      "reading_time_minutes": 7,
       "published": "2026-06-09T23:59:54+00:00"
     },
     {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "source": "Hugging Face - Blog",
-      "summary": "PaddleOCR 3.5 integrates Transformers backend for improved OCR and document parsing.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "Mon, 18 May 2026 15:12:46 GMT"
-    },
-    {
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "source": "Hugging Face - Blog",
-      "summary": "Comprehensive guide to PyTorch profiling for performance optimization in neural networks.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Fri, 29 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026",
-      "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2026",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple presents new computer vision research at annual CVPR conference in Denver.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 3,
-      "published": "Thu, 28 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Apple Workshop on Privacy-Preserving Machine Learning & AI 2026",
-      "url": "https://machinelearning.apple.com/updates/ppml-2026",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple hosts workshop advancing privacy-preserving ML techniques for AI integration.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Fri, 08 May 2026 00:00:00 GMT"
-    },
-    {
       "title": "DiffusionGemma",
-      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/",
+      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Google releases DiffusionGemma, advancing efficient text generation through diffusion models.",
+      "summary": "Google releases DiffusionGemma advancing fast text generation with diffusion approach.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
       "published": "2026-06-10T20:00:54+00:00"
     },
     {
-      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Fable 5 demonstrates relentless proactivity in pursuing goals across diverse tasks.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "2026-06-11T23:35:17+00:00"
+    },
+    {
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Micropython-wasm enables secure sandboxed code execution for agentic applications.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 6,
+      "published": "2026-06-06T03:53:34+00:00"
+    },
+    {
+      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Illinois passes landmark AI safety testing law supported by major AI firms.",
+      "summary": "Google adds AI-powered deepfake call detection to Android devices for fraud prevention.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Tue, 02 Jun 2026 18:00:46 +0000"
+    },
+    {
+      "title": "YouTube to begin automatically labeling AI videos",
+      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "YouTube implements automatic detection and labeling of AI-generated video content.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 28 May 2026 17:01:16 +0000"
+      "reading_time_minutes": 3,
+      "published": "Wed, 27 May 2026 17:36:10 +0000"
     }
   ]
 }
