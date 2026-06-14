@@ -1,221 +1,194 @@
 {
-  "generated_at": "2026-06-13T05:38:33.201195+00:00",
+  "generated_at": "2026-06-14T05:24:42.434171+00:00",
   "articles": [
     {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches Academy courses teaching practical AI skills and agentic workflows.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Fri, 12 Jun 2026 10:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
-      "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA demonstrates leading performance on first standardized agentic AI benchmark.",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "source": "Hugging Face - Blog",
+      "summary": "Clarifies essential terminology for AI agents and agentic systems.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "2026-06-12T21:12:40Z"
+      "published": "Mon, 25 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
-      "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "MiniMax M3 enables long-context reasoning and agentic workflows on NVIDIA infrastructure.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-06-12T14:43:17Z"
-    },
-    {
-      "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "Rocket Close builds agentic AI solution using Bedrock agents and MCP tools.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 7,
-      "published": "Fri, 12 Jun 2026 20:43:56 +0000"
-    },
-    {
-      "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
-      "source": "Artificial Intelligence",
-      "summary": "Custom meeting assistant leverages MCP servers for Webex integration and preparation.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "Fri, 12 Jun 2026 14:49:40 +0000"
-    },
-    {
-      "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
-      "source": "Artificial Intelligence",
-      "summary": "Scalable document processing pipeline using Amazon Bedrock agents and knowledge bases.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "Fri, 12 Jun 2026 14:43:11 +0000"
-    },
-    {
-      "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
-      "url": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS ProServe rebuilds internal processes using AI to compress engagement timelines dramatically.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Fri, 12 Jun 2026 13:00:10 +0000"
-    },
-    {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "source": "OpenAI News",
-      "summary": "Preply uses OpenAI to generate personalized lesson summaries and language learning exercises.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Fri, 12 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face - Blog",
-      "summary": "OLMo-eval provides comprehensive evaluation infrastructure for LLM development.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Fri, 12 Jun 2026 15:56:10 GMT"
-    },
-    {
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face Jobs enables migration from GitHub CI for ML pipeline management.",
-      "category": "MLOps & Infrastructure",
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "source": "Ars Technica",
+      "summary": "Apple distills Google's Gemini for on-device iPhone processing.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 4,
-      "published": "Tue, 09 Jun 2026 00:00:00 GMT"
+      "published": "Thu, 28 May 2026 18:30:48 +0000"
     },
     {
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "source": "Hugging Face - Blog",
-      "summary": "Reachy Mini robot integrates Model Context Protocol tools for enhanced capabilities.",
+      "title": "Startup offers free home cleaning—if it can record it all for robot training",
+      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+      "source": "Ars Technica",
+      "summary": "Company monetizes home video data collection for robotics AI training.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Wed, 03 Jun 2026 00:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "Fri, 29 May 2026 16:16:14 +0000"
     },
     {
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "source": "Hugging Face - Blog",
-      "summary": "Reachy Mini robot now runs conversational AI entirely locally without cloud dependencies.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 27 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "source": "Hugging Face - Blog",
-      "summary": "TRL introduces Delta Weight Sync for efficient trillion-parameter model distribution.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "Wed, 27 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Rehumanizing global health care with agentic AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Agentic AI addresses healthcare workforce strain and fragmented service provision.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 02 Jun 2026 11:23:34 +0000"
-    },
-    {
-      "title": "How small businesses can leverage AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Practical guide for small businesses to adopt LLMs across accounting to product development.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 02 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google pursues legal action against cybercriminals weaponizing Gemini for automated fraud.",
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "source": "Ars Technica",
+      "summary": "Pokémon Go data repurposed for military AI drone training systems.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Fri, 12 Jun 2026 16:34:36 +0000"
+      "published": "Fri, 12 Jun 2026 11:15:41 +0000"
     },
     {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Public opposition halts significant AI infrastructure investment across multiple regions.",
+      "title": "One-Click Multi-Tenant Security with NVIDIA Quantum InfiniBand",
+      "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA enables simplified multi-tenant AI infrastructure security management.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-06-11T19:52:37Z"
+    },
+    {
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "source": "MIT Technology Review",
+      "summary": "Legal system grapples with surge of AI-generated court documents.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Thu, 04 Jun 2026 10:50:18 +0000"
+    },
+    {
+      "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+      "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+      "source": "Ars Technica",
+      "summary": "International Mathematical Union addresses AI industry influence concerns.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Fri, 12 Jun 2026 17:18:49 +0000"
+      "published": "Tue, 02 Jun 2026 18:19:06 +0000"
     },
     {
-      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "source": "Ars Technica",
+      "summary": "AI safety testing plan faces implementation challenges from staffing cuts.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Wed, 03 Jun 2026 18:11:15 +0000"
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "source": "Ars Technica",
+      "summary": "Index excludes unprofitable AI companies from standard market inclusion.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Fri, 05 Jun 2026 18:45:20 +0000"
+    },
+    {
+      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+      "source": "Ars Technica",
+      "summary": "Law enforcement easily traces non-consensual deepfake creators.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Tue, 26 May 2026 17:46:01 +0000"
+    },
+    {
+      "title": "OpenAI WebRTC Audio Session, now with document context",
+      "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "US government suspends Anthropic's Fable 5 and Mythos 5 under national security directive.",
-      "category": "Ethics & Policy",
+      "summary": "OpenAI WebRTC API tool gains document context integration capability.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-06-12T23:53:04+00:00"
+    },
+    {
+      "title": "datasette-agent 0.2a0",
+      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "AI agent framework adds user interaction and questioning capabilities.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 2,
-      "published": "2026-06-13T01:01:50+00:00"
+      "published": "2026-06-10T23:57:27+00:00"
     },
     {
-      "title": "Initial impressions of Claude Fable 5",
-      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+      "title": "llm 0.32a3",
+      "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Claude Fable 5 demonstrates exceptional capability across diverse coding and analysis tasks.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 7,
-      "published": "2026-06-09T23:59:54+00:00"
-    },
-    {
-      "title": "DiffusionGemma",
-      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Google releases DiffusionGemma advancing fast text generation with diffusion approach.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-06-10T20:00:54+00:00"
-    },
-    {
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Fable 5 demonstrates relentless proactivity in pursuing goals across diverse tasks.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-06-11T23:35:17+00:00"
-    },
-    {
-      "title": "Running Python code in a sandbox with MicroPython and WASM",
-      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Micropython-wasm enables secure sandboxed code execution for agentic applications.",
+      "summary": "LLM CLI tool releases with Claude Fable 5 improvements.",
       "category": "Open Source AI",
-      "reading_time_minutes": 6,
-      "published": "2026-06-06T03:53:34+00:00"
+      "reading_time_minutes": 2,
+      "published": "2026-06-09T22:27:03+00:00"
     },
     {
-      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google adds AI-powered deepfake call detection to Android devices for fraud prevention.",
-      "category": "AI Tools & Frameworks",
+      "title": "datasette 1.0a33",
+      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Data tool alpha extends query and row expansion patterns.",
+      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "Tue, 02 Jun 2026 18:00:46 +0000"
+      "published": "2026-06-11T15:26:49+00:00"
     },
     {
-      "title": "YouTube to begin automatically labeling AI videos",
-      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "YouTube implements automatic detection and labeling of AI-generated video content.",
+      "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+      "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Python packages now support WebAssembly deployment via PyPI.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "2026-06-13T23:55:18+00:00"
+    },
+    {
+      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+      "source": "Ars Technica",
+      "summary": "AI data center project halved due to community opposition.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 3,
+      "published": "Fri, 05 Jun 2026 18:23:00 +0000"
+    },
+    {
+      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+      "source": "Ars Technica",
+      "summary": "AI safety testing executive order delayed after tech CEO boycott.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Wed, 27 May 2026 17:36:10 +0000"
+      "published": "Fri, 22 May 2026 16:51:40 +0000"
+    },
+    {
+      "title": "Elon Musk tries again to escape FTC audits of X data handling",
+      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+      "source": "Ars Technica",
+      "summary": "Musk seeks exemption from FTC platform data privacy audits.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Thu, 04 Jun 2026 19:49:12 +0000"
+    },
+    {
+      "title": "Siri AI at WWDC 2026",
+      "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Apple announces next-generation Siri with advanced AI capabilities.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "2026-06-08T23:58:04+00:00"
+    },
+    {
+      "title": "asyncinject 0.7",
+      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Async dependency injection utility library adds bug fixes.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-06-11T06:28:09+00:00"
+    },
+    {
+      "title": "datasette-agent-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Plugin enables AI-powered text editing for multiple formats.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "2026-06-07T23:56:38+00:00"
     }
   ]
 }
