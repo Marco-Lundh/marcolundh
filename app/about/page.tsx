@@ -8,7 +8,7 @@ import Contact from '@/components/Contact'
 export const metadata = {
   title: 'Marco Lundh — About & CV',
   description:
-    'Senior full-stack Python developer with 13+ years across FinTech, MedTech, and Telecom, now focused on AI engineering and automation.',
+    'Senior fullstack and backend developer with 13+ years across FinTech, MedTech, and Telecom — working across the full stack with hands-on AI integration experience.',
 }
 
 export default function AboutPage() {

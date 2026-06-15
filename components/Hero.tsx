@@ -39,7 +39,7 @@ export default function Hero() {
           transition={{ duration: 0.4, delay: 0.2 }}
           className="font-display tracking-tight text-2xl md:text-4xl font-semibold text-ink-muted mb-6"
         >
-          Full-Stack Python Developer · AI & Automation
+          Senior Fullstack & Backend Developer · Python · AI · Cloud
         </motion.h2>
 
         <motion.p
