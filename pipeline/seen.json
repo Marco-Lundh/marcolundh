@@ -678,5 +678,21 @@
   {
     "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
     "seen_at": "2026-06-14"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "seen_at": "2026-06-15"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
+    "seen_at": "2026-06-15"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
+    "seen_at": "2026-06-15"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+    "seen_at": "2026-06-15"
   }
 ]

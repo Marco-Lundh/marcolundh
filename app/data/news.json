@@ -1,194 +1,41 @@
 {
-  "generated_at": "2026-06-14T05:24:42.434171+00:00",
+  "generated_at": "2026-06-15T05:24:08.075299+00:00",
   "articles": [
     {
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "source": "Hugging Face - Blog",
-      "summary": "Clarifies essential terminology for AI agents and agentic systems.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Mon, 25 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-      "source": "Ars Technica",
-      "summary": "Apple distills Google's Gemini for on-device iPhone processing.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 28 May 2026 18:30:48 +0000"
-    },
-    {
-      "title": "Startup offers free home cleaning—if it can record it all for robot training",
-      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
-      "source": "Ars Technica",
-      "summary": "Company monetizes home video data collection for robotics AI training.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Fri, 29 May 2026 16:16:14 +0000"
-    },
-    {
-      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-      "source": "Ars Technica",
-      "summary": "Pokémon Go data repurposed for military AI drone training systems.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Fri, 12 Jun 2026 11:15:41 +0000"
-    },
-    {
-      "title": "One-Click Multi-Tenant Security with NVIDIA Quantum InfiniBand",
-      "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA enables simplified multi-tenant AI infrastructure security management.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "2026-06-11T19:52:37Z"
-    },
-    {
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "MIT Technology Review",
-      "summary": "Legal system grapples with surge of AI-generated court documents.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Thu, 04 Jun 2026 10:50:18 +0000"
-    },
-    {
-      "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-      "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-      "source": "Ars Technica",
-      "summary": "International Mathematical Union addresses AI industry influence concerns.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Tue, 02 Jun 2026 18:19:06 +0000"
-    },
-    {
-      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-      "source": "Ars Technica",
-      "summary": "AI safety testing plan faces implementation challenges from staffing cuts.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Wed, 03 Jun 2026 18:11:15 +0000"
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "source": "Ars Technica",
-      "summary": "Index excludes unprofitable AI companies from standard market inclusion.",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI News",
+      "summary": "OpenAI launches Partner Network with $150M investment for enterprise AI adoption.",
       "category": "Funding & Business",
       "reading_time_minutes": 3,
-      "published": "Fri, 05 Jun 2026 18:45:20 +0000"
+      "published": "Sun, 14 Jun 2026 17:00:00 GMT"
     },
     {
-      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-      "source": "Ars Technica",
-      "summary": "Law enforcement easily traces non-consensual deepfake creators.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Tue, 26 May 2026 17:46:01 +0000"
-    },
-    {
-      "title": "OpenAI WebRTC Audio Session, now with document context",
-      "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI WebRTC API tool gains document context integration capability.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "2026-06-12T23:53:04+00:00"
-    },
-    {
-      "title": "datasette-agent 0.2a0",
-      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "AI agent framework adds user interaction and questioning capabilities.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 2,
-      "published": "2026-06-10T23:57:27+00:00"
-    },
-    {
-      "title": "llm 0.32a3",
-      "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "LLM CLI tool releases with Claude Fable 5 improvements.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-09T22:27:03+00:00"
-    },
-    {
-      "title": "datasette 1.0a33",
-      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Data tool alpha extends query and row expansion patterns.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "2026-06-11T15:26:49+00:00"
-    },
-    {
-      "title": "Publishing WASM wheels to PyPI for use with Pyodide",
-      "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Python packages now support WebAssembly deployment via PyPI.",
+      "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon QuickSight adds sparklines and custom sort capabilities for advanced data visualization.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "2026-06-13T23:55:18+00:00"
+      "published": "Thu, 11 Jun 2026 15:36:31 +0000"
     },
     {
-      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
-      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-      "source": "Ars Technica",
-      "summary": "AI data center project halved due to community opposition.",
+      "title": "Amazon Quick ARNs: Cross-account migration and namespace permissions",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon QuickSight ARNs enable cross-account migration and multi-tenant architecture design.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Fri, 05 Jun 2026 18:23:00 +0000"
+      "reading_time_minutes": 5,
+      "published": "Mon, 08 Jun 2026 16:07:29 +0000"
     },
     {
-      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-      "source": "Ars Technica",
-      "summary": "AI safety testing executive order delayed after tech CEO boycott.",
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Analysis examines why AI won't replace software engineers despite capability advances.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Fri, 22 May 2026 16:51:40 +0000"
-    },
-    {
-      "title": "Elon Musk tries again to escape FTC audits of X data handling",
-      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-      "source": "Ars Technica",
-      "summary": "Musk seeks exemption from FTC platform data privacy audits.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 04 Jun 2026 19:49:12 +0000"
-    },
-    {
-      "title": "Siri AI at WWDC 2026",
-      "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Apple announces next-generation Siri with advanced AI capabilities.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "2026-06-08T23:58:04+00:00"
-    },
-    {
-      "title": "asyncinject 0.7",
-      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Async dependency injection utility library adds bug fixes.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-11T06:28:09+00:00"
-    },
-    {
-      "title": "datasette-agent-edit 0.1a0",
-      "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Plugin enables AI-powered text editing for multiple formats.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "2026-06-07T23:56:38+00:00"
+      "reading_time_minutes": 6,
+      "published": "2026-06-14T23:54:11+00:00"
     }
   ]
 }
