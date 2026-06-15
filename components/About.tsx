@@ -15,7 +15,7 @@ export default function About() {
           viewport={{ once: true, margin: '-100px' }}
           transition={{ duration: 0.5 }}
         >
-          <h2 className="text-3xl font-bold text-slate-100 mb-10">{t.about.heading}</h2>
+          <h2 className="font-display tracking-tight text-3xl font-bold text-ink mb-10">{t.about.heading}</h2>
         </motion.div>
 
         <div className="grid md:grid-cols-2 gap-12 items-start">
@@ -24,11 +24,11 @@ export default function About() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true, margin: '-80px' }}
             transition={{ duration: 0.5, delay: 0.1 }}
-            className="space-y-4 text-slate-400 leading-relaxed"
+            className="space-y-4 text-ink-muted leading-relaxed"
           >
             <p>{t.about.p1}</p>
             <p>{t.about.p2}</p>
-            <p className="text-slate-300 italic border-l-2 border-[#4f9cf9] pl-4">
+            <p className="text-ink italic border-l-2 border-accent pl-4">
               &ldquo;{t.about.quote}&rdquo;
             </p>
           </motion.div>
@@ -43,12 +43,12 @@ export default function About() {
             {t.about.stats.map((stat) => (
               <div
                 key={stat.label}
-                className="bg-[#111827] border border-white/5 rounded-lg p-6 flex flex-col items-center justify-center text-center hover:border-[#4f9cf9]/30 transition-colors"
+                className="bg-surface border border-ink/10 rounded-lg p-6 flex flex-col items-center justify-center text-center hover:border-accent/40 transition-colors"
               >
-                <span className="text-4xl font-bold text-[#4f9cf9] mb-1 font-mono">
+                <span className="text-4xl font-bold text-accent mb-1 font-mono">
                   {stat.value}
                 </span>
-                <span className="text-sm text-slate-400">{stat.label}</span>
+                <span className="text-sm text-ink-muted">{stat.label}</span>
               </div>
             ))}
           </motion.div>

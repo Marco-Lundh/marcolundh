@@ -8,14 +8,18 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        bg: '#0a0f1e',
-        surface: '#111827',
-        'surface-2': '#1f2937',
-        accent: '#4f9cf9',
-        'accent-dark': '#1d4ed8',
-        muted: '#94a3b8',
+        bg: '#f6f7f5',          // page background — crisp near-white
+        surface: '#ffffff',      // cards / raised surfaces
+        'surface-2': '#eef0ee',  // secondary surface
+        ink: '#14201a',          // primary text
+        'ink-muted': '#5a635d',  // muted / body text
+        accent: '#0f9d6b',       // emerald
+        'accent-dark': '#0b7a52',// emerald strong / hover
+        muted: '#5a635d',
       },
       fontFamily: {
+        sans: ['var(--font-sans)', 'system-ui', 'sans-serif'],
+        display: ['var(--font-display)', 'system-ui', 'sans-serif'],
         mono: ['var(--font-mono)', 'monospace'],
       },
     },

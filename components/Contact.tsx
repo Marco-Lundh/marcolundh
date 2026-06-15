@@ -7,7 +7,7 @@ export default function Contact() {
   const { t } = useLanguage()
 
   return (
-    <section id="contact" className="py-24 px-6 bg-[#111827]/30">
+    <section id="contact" className="py-24 px-6 bg-surface-2">
       <div className="max-w-5xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
@@ -16,10 +16,10 @@ export default function Contact() {
           transition={{ duration: 0.5 }}
           className="text-center max-w-2xl mx-auto"
         >
-          <h2 className="text-4xl font-bold text-slate-100 mb-6">
+          <h2 className="font-display tracking-tight text-4xl font-bold text-ink mb-6">
             {t.contact.heading}
           </h2>
-          <p className="text-slate-400 text-lg leading-relaxed mb-10">
+          <p className="text-ink-muted text-lg leading-relaxed mb-10">
             {t.contact.body}
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
@@ -27,7 +27,7 @@ export default function Contact() {
               href="https://www.linkedin.com/in/marcolundh"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-8 py-3 bg-[#4f9cf9] text-[#0a0f1e] font-semibold rounded hover:bg-[#3b82f6] transition-colors"
+              className="px-8 py-3 bg-accent text-white font-semibold rounded hover:bg-accent-dark transition-colors"
             >
               {t.contact.linkedin}
             </a>
@@ -39,14 +39,14 @@ export default function Contact() {
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.3 }}
-          className="mt-20 pt-8 border-t border-white/5 text-center"
+          className="mt-20 pt-8 border-t border-ink/10 text-center"
         >
-          <p className="text-sm text-slate-500 font-mono">
+          <p className="text-sm text-ink-muted font-mono">
             <a
               href="https://www.linkedin.com/in/marcolundh"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-[#4f9cf9] transition-colors"
+              className="hover:text-accent-dark transition-colors"
             >
               linkedin.com/in/marcolundh
             </a>

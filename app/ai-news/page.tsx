@@ -20,7 +20,7 @@ export default function AiNews() {
   const articles = loadArticles()
 
   return (
-    <main className="min-h-screen bg-[#0a0f1e] text-slate-100 flex flex-col">
+    <main className="min-h-screen bg-bg text-ink flex flex-col">
       <AiNewsNav />
 
       <div className="flex-1 flex flex-col items-center px-6 py-20 gap-16">

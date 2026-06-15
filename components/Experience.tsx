@@ -83,10 +83,10 @@ function ExperienceItem({ job, index }: { job: Job; index: number }) {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: '-80px' }}
       transition={{ duration: 0.4, delay: index * 0.08 }}
-      className="relative pl-8 pb-10 border-l border-white/10 last:border-l-0 last:pb-0"
+      className="relative pl-8 pb-10 border-l border-ink/15 last:border-l-0 last:pb-0"
     >
       {/* Timeline dot */}
-      <div className="absolute left-[-5px] top-1.5 w-2.5 h-2.5 rounded-full bg-[#4f9cf9] ring-4 ring-[#0a0f1e]" />
+      <div className="absolute left-[-5px] top-1.5 w-2.5 h-2.5 rounded-full bg-accent ring-4 ring-bg" />
 
       <button
         className="w-full text-left group"
@@ -96,17 +96,17 @@ function ExperienceItem({ job, index }: { job: Job; index: number }) {
       >
         <div className="flex items-start justify-between gap-4">
           <div>
-            <span className="font-mono text-[#4f9cf9] text-xs uppercase tracking-wider">
+            <span className="font-mono text-accent-dark text-xs uppercase tracking-wider">
               {job.industry}
             </span>
-            <h3 className="text-lg font-semibold text-slate-100 group-hover:text-[#4f9cf9] transition-colors mt-0.5">
+            <h3 className="font-display tracking-tight text-lg font-semibold text-ink group-hover:text-accent-dark transition-colors mt-0.5">
               {job.company}
             </h3>
-            <p className="text-slate-400 text-sm mt-0.5">
+            <p className="text-ink-muted text-sm mt-0.5">
               {job.role} · {job.period}
             </p>
           </div>
-          <span className="text-slate-500 text-lg mt-1 shrink-0 group-hover:text-[#4f9cf9] transition-colors">
+          <span className="text-ink-muted text-lg mt-1 shrink-0 group-hover:text-accent-dark transition-colors">
             {open ? '−' : '+'}
           </span>
         </div>
@@ -123,12 +123,12 @@ function ExperienceItem({ job, index }: { job: Job; index: number }) {
             className="overflow-hidden"
           >
             <div className="pt-4 space-y-3">
-              <p className="text-slate-400 text-sm leading-relaxed">{job.description}</p>
+              <p className="text-ink-muted text-sm leading-relaxed">{job.description}</p>
               {job.bullets && (
                 <ul className="space-y-2">
                   {job.bullets.map((b, i) => (
-                    <li key={i} className="text-slate-400 text-sm flex gap-2">
-                      <span className="text-[#4f9cf9] shrink-0 mt-0.5">▹</span>
+                    <li key={i} className="text-ink-muted text-sm flex gap-2">
+                      <span className="text-accent-dark shrink-0 mt-0.5">▹</span>
                       <span>{b}</span>
                     </li>
                   ))}
@@ -138,7 +138,7 @@ function ExperienceItem({ job, index }: { job: Job; index: number }) {
                 {job.stack.map((s) => (
                   <span
                     key={s}
-                    className="text-xs font-mono bg-[#1d4ed8]/20 text-[#4f9cf9] px-2 py-0.5 rounded border border-[#1d4ed8]/30"
+                    className="text-xs font-mono bg-accent/12 text-accent-dark px-2 py-0.5 rounded border border-accent/25"
                   >
                     {s}
                   </span>
@@ -156,7 +156,7 @@ export default function Experience() {
   const { t } = useLanguage()
 
   return (
-    <section id="experience" className="py-24 px-6 bg-[#111827]/30">
+    <section id="experience" className="py-24 px-6 bg-surface-2">
       <div className="max-w-5xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
@@ -165,7 +165,7 @@ export default function Experience() {
           transition={{ duration: 0.5 }}
           className="mb-12"
         >
-          <h2 className="text-3xl font-bold text-slate-100">{t.experience.heading}</h2>
+          <h2 className="font-display tracking-tight text-3xl font-bold text-ink">{t.experience.heading}</h2>
         </motion.div>
 
         <div>

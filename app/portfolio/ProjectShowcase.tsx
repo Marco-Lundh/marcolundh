@@ -58,7 +58,7 @@ const projectMeta: ProjectMeta[] = [
 ]
 
 const stackTagClass =
-  'text-xs font-mono bg-[#1d4ed8]/20 text-[#4f9cf9] px-2 py-0.5 rounded border border-[#1d4ed8]/30'
+  'text-xs font-mono bg-accent/12 text-accent-dark px-2 py-0.5 rounded border border-accent/25'
 
 function StackTags({ stack }: { stack: string[] }) {
   return (
@@ -93,9 +93,9 @@ function ProjectGallery({
 
   return (
     <div>
-      <div className="rounded-xl overflow-hidden border border-white/10 bg-[#111827] shadow-2xl">
+      <div className="rounded-xl overflow-hidden border border-ink/15 bg-surface shadow-lg">
         <div
-          className="flex items-center gap-2 px-4 h-9 bg-[#0d1424] border-b border-white/5"
+          className="flex items-center gap-2 px-4 h-9 bg-surface-2 border-b border-ink/10"
           aria-hidden="true"
         >
           <span className="w-3 h-3 rounded-full bg-[#ff5f57]" />
@@ -124,8 +124,8 @@ function ProjectGallery({
                 aria-pressed={i === active}
                 className={`rounded-md overflow-hidden border transition-all ${
                   i === active
-                    ? 'border-[#4f9cf9] ring-2 ring-[#4f9cf9]/30'
-                    : 'border-white/10 opacity-50 hover:opacity-100'
+                    ? 'border-accent ring-2 ring-accent/30'
+                    : 'border-ink/15 opacity-50 hover:opacity-100'
                 }`}
               >
                 {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -148,14 +148,14 @@ function LiveDemoPanel() {
   const { t } = useLanguage()
   const tr = t.projects
   return (
-    <div className="bg-[#0d1424] border border-[#4f9cf9]/20 rounded-xl p-6 shadow-2xl">
-      <p className="font-mono text-[10px] uppercase tracking-widest text-[#4f9cf9]/70 mb-4">
+    <div className="bg-surface border border-accent/20 rounded-xl p-6 shadow-lg">
+      <p className="font-mono text-[10px] uppercase tracking-widest text-accent-dark mb-4">
         {tr.liveDemo}
       </p>
       <SubscribeForm compact />
       <Link
         href="/ai-news"
-        className="inline-block mt-5 text-sm text-[#4f9cf9] hover:translate-x-1 transition-transform duration-200"
+        className="inline-block mt-5 text-sm text-accent-dark hover:translate-x-1 transition-transform duration-200"
       >
         {tr.openFeed}
       </Link>
@@ -194,13 +194,13 @@ function ProjectRow({
       <div className={imageFirst ? 'lg:order-1' : 'lg:order-2'}>{media}</div>
 
       <div className={`space-y-4 ${imageFirst ? 'lg:order-2' : 'lg:order-1'}`}>
-        <span className="font-mono text-[#4f9cf9] text-xs uppercase tracking-wider">
+        <span className="font-mono text-accent-dark text-xs uppercase tracking-wider">
           {copy.label}
         </span>
-        <h3 className="text-2xl font-semibold text-slate-100">{copy.title}</h3>
-        <p className="text-slate-400 text-sm leading-relaxed">{copy.description}</p>
+        <h3 className="font-display tracking-tight text-2xl font-semibold text-ink">{copy.title}</h3>
+        <p className="text-ink-muted text-sm leading-relaxed">{copy.description}</p>
         {project.embedLiveDemo && (
-          <p className="text-sm font-medium text-[#4f9cf9]">{tr.tryDemo}</p>
+          <p className="text-sm font-medium text-accent-dark">{tr.tryDemo}</p>
         )}
         <StackTags stack={project.stack} />
 
@@ -210,7 +210,7 @@ function ProjectRow({
               href={project.repo}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm text-[#4f9cf9] hover:translate-x-1 inline-block transition-transform duration-200"
+              className="text-sm text-accent-dark hover:translate-x-1 inline-block transition-transform duration-200"
             >
               {tr.viewCode}
             </Link>
@@ -251,6 +251,7 @@ function Lightbox({
           className="fixed inset-0 z-50 bg-black/85 backdrop-blur-sm flex items-center justify-center p-6 cursor-zoom-out"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
+          {/* Lightbox sits on a dark backdrop, so the light border stays for contrast. */}
           <motion.img
             initial={{ scale: 0.92 }}
             animate={{ scale: 1 }}
@@ -280,11 +281,11 @@ export default function ProjectShowcase() {
           transition={{ duration: 0.5 }}
           className="mb-16"
         >
-          <p className="font-mono text-[#4f9cf9] text-sm tracking-widest uppercase mb-3">
+          <p className="font-mono text-accent-dark text-sm tracking-widest uppercase mb-3">
             {tr.label}
           </p>
-          <h1 className="text-3xl md:text-4xl font-bold text-slate-100 mb-3">{tr.heading}</h1>
-          <p className="text-slate-400 max-w-2xl leading-relaxed">{tr.intro}</p>
+          <h1 className="font-display tracking-tight text-3xl md:text-4xl font-bold text-ink mb-3">{tr.heading}</h1>
+          <p className="text-ink-muted max-w-2xl leading-relaxed">{tr.intro}</p>
         </motion.div>
 
         <div className="space-y-24">
