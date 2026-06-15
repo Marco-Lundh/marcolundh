@@ -17,7 +17,7 @@ const sections = [
     label: 'About me',
     mono: 'marco.lundh',
     description:
-      'Senior full-stack Python developer with 13+ years across FinTech, MedTech, and Telecom — now focused on AI engineering and automation.',
+      'Senior fullstack and backend developer with 13+ years across FinTech, MedTech, and Telecom — with hands-on AI integration experience across the full development cycle.',
     cta: 'Read my story →',
   },
 ]

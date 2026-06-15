@@ -30,7 +30,7 @@ const translationsData = {
     hero: {
       greeting: 'Hello, world.',
       description:
-        'I build reliable backends and AI-powered automation — integrating systems, APIs, and LLMs that actually work in production. Python specialist with',
+        'I build and ship full-stack solutions — Python backends, React/Next.js frontends, and cloud on GCP/AWS. Hands-on experience integrating AI into production systems. Software developer with',
       yearsExp: '13+ years',
       descriptionEnd: 'of experience.',
       linkedin: 'View LinkedIn ↗',
@@ -38,8 +38,8 @@ const translationsData = {
     about: {
       section: '01. about me',
       heading: 'Who am I?',
-      p1: "I'm a senior Python developer transitioning into AI engineering — combining 13 years of backend expertise with a growing focus on AI integration and automation. I'm particularly drawn to LLM integrations, AI agents, agentic workflows, and making AI work reliably in production — not just impressive in demos.",
-      p2: "I genuinely enjoy making systems talk to each other — whether that's APIs, pipelines, or LLMs. I thrive in smaller, accountable teams where quality and end-user impact matter, and I bring a holistic perspective from design through deployment and support.",
+      p1: "I'm a senior fullstack and backend developer with 13 years of software development experience and 20+ years in IT. I work across the full stack — from API design and Python backend to React/Next.js frontends and cloud on GCP/AWS — with documented experience from business-critical systems in fintech, medtech, and telecom.",
+      p2: "I'm drawn to teams actively working with AI — I have hands-on experience integrating AI into products and workflows: LLM integration, prompt engineering, agentic workflows, and AI-assisted development. I use AI as a multiplier across the entire development cycle, from architecture decisions to code review and delivery.",
       quote: 'A tight team can accomplish anything — it really is that simple.',
       stats: [
         { value: '13+', label: 'Years Python' },
@@ -190,7 +190,7 @@ const translationsData = {
     hero: {
       greeting: 'Hello, world.',
       description:
-        'Jag bygger pålitliga backends och AI-driven automation — integrerar system, APIer och LLMs som faktiskt fungerar i produktion. Python-specialist med',
+        'Jag bygger och levererar fullstack-lösningar — Python-backends, React/Next.js-gränssnitt och molndrift på GCP/AWS. Praktisk erfarenhet av att integrera AI i produktionssystem. Systemutvecklare med',
       yearsExp: '13+ års',
       descriptionEnd: 'erfarenhet.',
       linkedin: 'Visa LinkedIn ↗',
@@ -198,8 +198,8 @@ const translationsData = {
     about: {
       section: '01. om mig',
       heading: 'Vem är jag?',
-      p1: 'Jag är en senior Python-utvecklare med inriktning mot AI-engineering — 13 års backend-erfarenhet kombinerat med ett växande fokus på AI-integration och automation. Jag dras särskilt till LLM-integrationer, AI-agenter, agentic workflows och att få AI att fungera pålitligt i produktion — inte bara imponera i demos.',
-      p2: 'Jag trivs verkligen när system pratar med varandra — oavsett om det handlar om APIer, pipelines eller LLMs. Jag fungerar bäst i mindre, ansvarsfulla team där kvalitet och slutanvändarperspektiv spelar roll, och jag bidrar med ett helhetsperspektiv från design till driftsättning och support.',
+      p1: 'Jag är en senior fullstack- och backendutvecklare med 13 års erfarenhet av systemutveckling och 20+ år inom IT. Jag arbetar i hela stacken — från API-design och Python-backend till React/Next.js-gränssnitt och molndrift på GCP/AWS — med dokumenterad erfarenhet från affärskritiska system inom fintech, medtech och telekom.',
+      p2: 'Jag söker roller i team som aktivt arbetar med AI — med praktisk erfarenhet av att integrera AI i produkter och arbetsflöden: LLM-integration, prompt engineering, agentic workflows och AI-assisterad mjukvaruutveckling. Jag använder AI som en multiplier i hela utvecklingscykeln, från arkitekturvägval till kodgranskning och leverans.',
       quote: 'Ett tight team kan åstadkomma vad som helst — det är verkligen så enkelt.',
       stats: [
         { value: '13+', label: 'År Python' },
