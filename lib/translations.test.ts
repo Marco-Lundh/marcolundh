@@ -11,7 +11,7 @@ describe('translations', () => {
 
   it.each(languages)('%s has all required top-level keys', (lang) => {
     const t = translations[lang]
-    expect(t.nav).toBeDefined()
+    expect(t.home).toBeDefined()
     expect(t.hero).toBeDefined()
     expect(t.about).toBeDefined()
     expect(t.experience).toBeDefined()
@@ -19,8 +19,14 @@ describe('translations', () => {
     expect(t.contact).toBeDefined()
   })
 
-  it.each(languages)('%s nav has 4 links', (lang) => {
-    expect(translations[lang].nav.links).toHaveLength(4)
+  it.each(languages)('%s home has heading, subtitle and two cards', (lang) => {
+    const home = translations[lang].home
+    expect(home.heading).toBeTruthy()
+    expect(home.subtitle).toBeTruthy()
+    expect(home.portfolio.label).toBeTruthy()
+    expect(home.portfolio.cta).toBeTruthy()
+    expect(home.about.label).toBeTruthy()
+    expect(home.about.cta).toBeTruthy()
   })
 
   it.each(languages)(

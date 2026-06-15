@@ -15,17 +15,24 @@ const translationsData = {
     common: {
       // Always describes switching to the *other* language, in the current one.
       langToggle: 'Switch to Swedish',
-      home: '← Home',
-      portfolio: 'Portfolio',
       emailLabel: 'Email address',
     },
-    nav: {
-      links: [
-        { href: '#about', label: 'About' },
-        { href: '#experience', label: 'Experience' },
-        { href: '#skills', label: 'Skills' },
-        { href: '#contact', label: 'Contact' },
-      ],
+    home: {
+      heading: 'AI Engineering & Automation',
+      subtitle:
+        'Python-first development, agentic workflows, and daily AI news — built by Marco Lundh.',
+      portfolio: {
+        label: 'Portfolio',
+        description:
+          'Projects I have designed, built, and shipped — including a live, fully automated daily AI news pipeline you can try right here.',
+        cta: 'View projects →',
+      },
+      about: {
+        label: 'About me',
+        description:
+          'Senior fullstack and backend developer with 13+ years across FinTech, MedTech, and Telecom — with hands-on AI integration experience across the full development cycle.',
+        cta: 'Read my story →',
+      },
     },
     hero: {
       greeting: 'Hello, world.',
@@ -119,10 +126,6 @@ const translationsData = {
         },
       },
     },
-    projectsNav: {
-      about: 'About',
-      aiNews: 'AI News',
-    },
     aiNews: {
       label: 'daily ai news',
       heading: 'What matters in AI,',
@@ -175,17 +178,24 @@ const translationsData = {
   sv: {
     common: {
       langToggle: 'Byt till engelska',
-      home: '← Hem',
-      portfolio: 'Portfolio',
       emailLabel: 'E-postadress',
     },
-    nav: {
-      links: [
-        { href: '#about', label: 'Om mig' },
-        { href: '#experience', label: 'Erfarenhet' },
-        { href: '#skills', label: 'Kompetens' },
-        { href: '#contact', label: 'Kontakt' },
-      ],
+    home: {
+      heading: 'AI-utveckling & Automation',
+      subtitle:
+        'Python-först-utveckling, agentiska arbetsflöden och dagliga AI-nyheter — byggt av Marco Lundh.',
+      portfolio: {
+        label: 'Portfolio',
+        description:
+          'Projekt jag har designat, byggt och levererat — inklusive en live, helt automatiserad daglig AI-nyhetspipeline som du kan testa direkt här.',
+        cta: 'Visa projekt →',
+      },
+      about: {
+        label: 'Om mig',
+        description:
+          'Senior fullstack- och backendutvecklare med 13+ års erfarenhet inom FinTech, MedTech och Telekom — med praktisk erfarenhet av AI-integration genom hela utvecklingscykeln.',
+        cta: 'Läs min historia →',
+      },
     },
     hero: {
       greeting: 'Hello, world.',
@@ -278,10 +288,6 @@ const translationsData = {
             'Ett RAG-verktyg för dina egna dokument. Det läser in en uppsättning PDF:er, bygger lokala embeddings och svarar på frågor strikt utifrån innehållet — så att svaren förblir korrekta och hänvisar till källmaterialet i stället för att hallucinera.',
         },
       },
-    },
-    projectsNav: {
-      about: 'Om mig',
-      aiNews: 'AI-nyheter',
     },
     aiNews: {
       label: 'dagliga ai-nyheter',

@@ -27,7 +27,19 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
 
   const language: Language = body?.language === 'sv' ? 'sv' : 'en'
   const normalized = email.trim().toLowerCase()
-  const supabase = getSupabase()
+
+  let supabase: ReturnType<typeof getSupabase>
+  try {
+    supabase = getSupabase()
+  } catch (err) {
+    // Missing/invalid credentials (e.g. no SUPABASE_* env vars). Fail with a
+    // structured response instead of letting the handler throw a bare 500.
+    console.error('Supabase init failed', err)
+    return NextResponse.json(
+      { error: 'Subscription service is not configured' },
+      { status: 503 }
+    )
+  }
 
   const { data: existing, error: lookupError } = await supabase
     .from('subscribers')

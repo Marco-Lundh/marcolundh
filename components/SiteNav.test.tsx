@@ -21,22 +21,18 @@ describe('SiteNav', () => {
     expect(logo.closest('a')).toHaveAttribute('href', '/')
   })
 
-  it('renders Portfolio link pointing to /portfolio', () => {
+  it('renders only the brand link and the language toggle', () => {
     renderWith(<SiteNav />)
-    const link = screen.getByText('Portfolio')
-    expect(link.closest('a')).toHaveAttribute('href', '/portfolio')
+    expect(screen.getAllByRole('link')).toHaveLength(1)
+    expect(screen.getByRole('link')).toHaveAttribute('href', '/')
+    expect(screen.getByRole('button')).toBeInTheDocument()
   })
 
-  it('renders About link pointing to /about (English)', () => {
+  it('does not render section or page links', () => {
     renderWith(<SiteNav />)
-    const link = screen.getByText('About')
-    expect(link.closest('a')).toHaveAttribute('href', '/about')
-  })
-
-  it('renders AI News link pointing to /ai-news (English)', () => {
-    renderWith(<SiteNav />)
-    const link = screen.getByText('AI News')
-    expect(link.closest('a')).toHaveAttribute('href', '/ai-news')
+    expect(screen.queryByText('Portfolio')).not.toBeInTheDocument()
+    expect(screen.queryByText('About')).not.toBeInTheDocument()
+    expect(screen.queryByText('AI News')).not.toBeInTheDocument()
   })
 
   it('shows SV toggle when language is English', () => {
@@ -53,17 +49,10 @@ describe('SiteNav', () => {
     ).toBe('EN')
   })
 
-  it('shows Swedish labels after toggle', () => {
-    renderWith(<SiteNav />)
-    fireEvent.click(screen.getByRole('button', { name: 'Switch to Swedish' }))
-    expect(screen.getByText('Om mig')).toBeInTheDocument()
-    expect(screen.getByText('AI-nyheter')).toBeInTheDocument()
-  })
-
-  it('renders Swedish labels when browser language is Swedish', () => {
+  it('shows the EN toggle when browser language is Swedish', () => {
     renderWith(<SiteNav />, 'sv')
-    expect(screen.getByText('Om mig')).toBeInTheDocument()
-    expect(screen.getByText('AI-nyheter')).toBeInTheDocument()
+    const toggle = screen.getByRole('button', { name: 'Byt till engelska' })
+    expect(toggle.textContent).toBe('EN')
   })
 
   it('persists chosen language to localStorage', () => {
@@ -75,7 +64,6 @@ describe('SiteNav', () => {
   it('reads persisted language from localStorage on mount', () => {
     localStorage.setItem('lang', 'sv')
     renderWith(<SiteNav />)
-    expect(screen.getByText('Om mig')).toBeInTheDocument()
     expect(
       screen.getByRole('button', { name: 'Byt till engelska' }).textContent
     ).toBe('EN')

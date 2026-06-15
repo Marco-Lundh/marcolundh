@@ -9,6 +9,9 @@ tsconfig.tsbuildinfo
 # Test coverage
 coverage/
 
+# Playwright MCP session artifacts
+.playwright-mcp/
+
 # Python cache
 pipeline/.pytest_cache/
 pipeline/.coverage
