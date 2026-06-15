@@ -9,7 +9,7 @@ export const metadata = {
 
 export default function Portfolio() {
   return (
-    <main className="min-h-screen bg-[#0a0f1e] text-slate-100">
+    <main className="min-h-screen bg-bg text-ink">
       <ProjectsNav />
       <ProjectShowcase />
     </main>

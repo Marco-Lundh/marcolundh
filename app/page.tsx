@@ -24,11 +24,11 @@ const sections = [
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[#0a0f1e] text-slate-100 flex flex-col">
+    <main className="min-h-screen bg-bg text-ink flex flex-col">
       {/* Subtle background blobs */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden">
-        <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-[#4f9cf9]/5 rounded-full blur-3xl" />
-        <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-[#1d4ed8]/8 rounded-full blur-3xl" />
+        <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-accent/8 rounded-full blur-3xl" />
+        <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-accent-dark/8 rounded-full blur-3xl" />
       </div>
 
       <div className="relative flex-1 flex flex-col items-center justify-center px-6 py-24">
@@ -38,13 +38,13 @@ export default function Home() {
           transition={{ duration: 0.4 }}
           className="text-center mb-16"
         >
-          <p className="font-mono text-[#4f9cf9] text-sm tracking-widest uppercase mb-4">
+          <p className="font-mono text-accent-dark text-sm tracking-widest uppercase mb-4">
             marco-tech.se
           </p>
-          <h1 className="text-4xl md:text-5xl font-bold text-slate-100 mb-4 leading-tight">
+          <h1 className="font-display tracking-tight text-4xl md:text-5xl font-bold text-ink mb-4 leading-tight">
             AI Engineering & Automation
           </h1>
-          <p className="text-slate-400 text-lg max-w-md mx-auto">
+          <p className="text-ink-muted text-lg max-w-md mx-auto">
             Python-first development, agentic workflows, and daily AI news — built by Marco Lundh.
           </p>
         </motion.div>
@@ -59,16 +59,16 @@ export default function Home() {
             >
               <Link
                 href={section.href}
-                className="group block h-full bg-[#111827] border border-white/5 rounded-2xl p-8 hover:border-[#4f9cf9]/30 transition-all duration-300 hover:bg-[#111827]/80"
+                className="group block h-full bg-surface border border-ink/10 rounded-2xl p-8 hover:border-accent/40 transition-all duration-300 hover:bg-surface-2"
               >
-                <p className="font-mono text-[#4f9cf9] text-xs tracking-widest uppercase mb-4">
+                <p className="font-mono text-accent-dark text-xs tracking-widest uppercase mb-4">
                   {section.mono}
                 </p>
-                <h2 className="text-xl font-bold text-slate-100 mb-3">{section.label}</h2>
-                <p className="text-slate-400 text-sm leading-relaxed mb-6">
+                <h2 className="font-display tracking-tight text-xl font-bold text-ink mb-3">{section.label}</h2>
+                <p className="text-ink-muted text-sm leading-relaxed mb-6">
                   {section.description}
                 </p>
-                <span className="text-sm text-[#4f9cf9] group-hover:translate-x-1 inline-block transition-transform duration-200">
+                <span className="text-sm text-accent-dark group-hover:translate-x-1 inline-block transition-transform duration-200">
                   {section.cta}
                 </span>
               </Link>

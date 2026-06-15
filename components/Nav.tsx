@@ -22,12 +22,12 @@ export default function Nav() {
       transition={{ duration: 0.4 }}
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         scrolled
-          ? 'bg-[#0a0f1e]/80 backdrop-blur-md border-b border-white/5'
+          ? 'bg-bg/80 backdrop-blur-md border-b border-ink/10'
           : 'bg-transparent'
       }`}
     >
       <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-        <Link href="/" className="font-mono text-[#4f9cf9] font-semibold tracking-wide text-sm">
+        <Link href="/" className="font-mono text-accent-dark font-semibold tracking-wide text-sm">
           marco-tech.se
         </Link>
         <div className="hidden md:flex items-center gap-8">
@@ -35,27 +35,27 @@ export default function Nav() {
             <a
               key={link.href}
               href={link.href}
-              className="text-sm text-slate-400 hover:text-slate-100 transition-colors"
+              className="text-sm text-ink-muted hover:text-ink transition-colors"
             >
               {link.label}
             </a>
           ))}
           <Link
             href="/portfolio"
-            className="text-sm text-slate-400 hover:text-slate-100 transition-colors"
+            className="text-sm text-ink-muted hover:text-ink transition-colors"
           >
             {t.common.portfolio}
           </Link>
           <button
             onClick={() => setLanguage(language === 'en' ? 'sv' : 'en')}
             aria-label={t.common.langToggle}
-            className="text-sm font-mono text-slate-500 hover:text-[#4f9cf9] transition-colors border-l border-white/10 pl-8"
+            className="text-sm font-mono text-ink-muted hover:text-accent-dark transition-colors border-l border-ink/15 pl-8"
           >
             {language === 'en' ? 'SV' : 'EN'}
           </button>
           <Link
             href="/"
-            className="text-sm text-slate-500 hover:text-[#4f9cf9] transition-colors border-l border-white/10 pl-4"
+            className="text-sm text-ink-muted hover:text-accent-dark transition-colors border-l border-ink/15 pl-4"
           >
             {t.common.home}
           </Link>
@@ -64,7 +64,7 @@ export default function Nav() {
         <button
           onClick={() => setLanguage(language === 'en' ? 'sv' : 'en')}
           aria-label={t.common.langToggle}
-          className="md:hidden text-sm font-mono text-slate-500 hover:text-[#4f9cf9] transition-colors"
+          className="md:hidden text-sm font-mono text-ink-muted hover:text-accent-dark transition-colors"
         >
           {language === 'en' ? 'SV' : 'EN'}
         </button>

@@ -27,7 +27,7 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
   if (articles.length === 0) {
     return (
       <div className="max-w-3xl w-full text-center py-16">
-        <p className="text-slate-500 font-mono text-sm">
+        <p className="text-ink-muted font-mono text-sm">
           Today&apos;s stories are being curated — check back soon.
         </p>
       </div>
@@ -41,8 +41,8 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
       transition={{ duration: 0.4, delay: 0.2 }}
       className="max-w-3xl w-full"
     >
-      <div className="border-t border-white/5 pt-12 mb-8">
-        <p className="font-mono text-[#4f9cf9] text-xs tracking-widest uppercase mb-5">
+      <div className="border-t border-ink/10 pt-12 mb-8">
+        <p className="font-mono text-accent-dark text-xs tracking-widest uppercase mb-5">
           today&apos;s {articles.length} stories
         </p>
 
@@ -52,8 +52,8 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
             onClick={() => setActiveCategory(null)}
             className={`px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
               activeCategory === null
-                ? 'bg-[#4f9cf9] text-[#0a0f1e]'
-                : 'bg-white/5 text-slate-400 hover:bg-white/10 hover:text-slate-200'
+                ? 'bg-accent text-white'
+                : 'bg-ink/5 text-ink-muted hover:bg-ink/10 hover:text-ink'
             }`}
           >
             All
@@ -67,8 +67,8 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
                 onClick={() => setActiveCategory(cat === activeCategory ? null : cat)}
                 className={`px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
                   activeCategory === cat
-                    ? 'bg-[#4f9cf9] text-[#0a0f1e]'
-                    : 'bg-white/5 text-slate-400 hover:bg-white/10 hover:text-slate-200'
+                    ? 'bg-accent text-white'
+                    : 'bg-ink/5 text-ink-muted hover:bg-ink/10 hover:text-ink'
                 }`}
               >
                 {cat}
@@ -87,20 +87,20 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
             initial={{ opacity: 0, y: 8 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3, delay: i * 0.02 }}
-            className="group py-5 border-b border-white/5 last:border-0"
+            className="group py-5 border-b border-ink/10 last:border-0"
           >
             <div className="flex items-start gap-3">
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2 mb-1.5">
-                  <span className="text-[10px] font-mono text-slate-600 uppercase tracking-wider">
+                  <span className="text-[10px] font-mono text-ink-muted uppercase tracking-wider">
                     {article.category}
                   </span>
-                  <span className="text-slate-800">·</span>
-                  <span className="text-[10px] text-slate-600">
+                  <span className="text-ink/25">·</span>
+                  <span className="text-[10px] text-ink-muted">
                     {article.source}
                   </span>
-                  <span className="text-slate-800">·</span>
-                  <span className="text-[10px] text-slate-600">
+                  <span className="text-ink/25">·</span>
+                  <span className="text-[10px] text-ink-muted">
                     {article.reading_time_minutes} minute read
                   </span>
                 </div>
@@ -108,11 +108,11 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
                   href={article.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block text-slate-200 font-semibold text-[15px] leading-snug mb-1.5 group-hover:text-[#4f9cf9] transition-colors"
+                  className="block text-ink font-semibold text-[15px] leading-snug mb-1.5 group-hover:text-accent-dark transition-colors"
                 >
                   {article.title}
                 </a>
-                <p className="text-slate-500 text-sm leading-relaxed">
+                <p className="text-ink-muted text-sm leading-relaxed">
                   {article.summary}
                 </p>
               </div>
