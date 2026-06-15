@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from 'fs'
 import { join } from 'path'
 import type { Article } from '@/lib/types'
-import AiNewsNav from './AiNewsNav'
+import SiteNav from '@/components/SiteNav'
 import SubscribeForm from './SubscribeForm'
 import ArticleList from './ArticleList'
 
@@ -21,7 +21,7 @@ export default function AiNews() {
 
   return (
     <main className="min-h-screen bg-bg text-ink flex flex-col">
-      <AiNewsNav />
+      <SiteNav />
 
       <div className="flex-1 flex flex-col items-center px-6 py-20 gap-16">
         <SubscribeForm />

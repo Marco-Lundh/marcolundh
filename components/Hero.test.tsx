@@ -14,7 +14,7 @@ describe('Hero', () => {
   it('renders job title', () => {
     renderWith(<Hero />)
     expect(
-      screen.getByText('Full-Stack Python Developer · AI & Automation')
+      screen.getByText('Senior Fullstack & Backend Developer · Python · AI · Cloud')
     ).toBeInTheDocument()
   })
 

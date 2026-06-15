@@ -1,4 +1,4 @@
-import ProjectsNav from './ProjectsNav'
+import SiteNav from '@/components/SiteNav'
 import ProjectShowcase from './ProjectShowcase'
 
 export const metadata = {
@@ -10,7 +10,7 @@ export const metadata = {
 export default function Portfolio() {
   return (
     <main className="min-h-screen bg-bg text-ink">
-      <ProjectsNav />
+      <SiteNav />
       <ProjectShowcase />
     </main>
   )
