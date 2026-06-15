@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { motion } from 'framer-motion'
 import { useLanguage } from '@/contexts/LanguageContext'
+import SiteNav from '@/components/SiteNav'
 
 export type StatusKind = 'confirmed' | 'already' | 'invalid' | 'unsubscribed'
 
@@ -27,7 +28,9 @@ export default function StatusCard({
   const isError = kind === 'invalid'
 
   return (
-    <main className="min-h-screen bg-bg text-ink flex flex-col items-center justify-center px-6">
+    <main className="min-h-screen bg-bg text-ink flex flex-col">
+      <SiteNav />
+      <div className="flex-1 flex flex-col items-center justify-center px-6">
       <motion.div
         initial={{ opacity: 0, y: 16 }}
         animate={{ opacity: 1, y: 0 }}
@@ -60,6 +63,7 @@ export default function StatusCard({
           ← marco-tech.se/ai-news
         </Link>
       </motion.div>
+      </div>
     </main>
   )
 }

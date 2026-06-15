@@ -15,7 +15,10 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
   const [language, setLanguage] = useState<Language>('en')
 
   useEffect(() => {
-    if (navigator.language.startsWith('sv')) {
+    const saved = localStorage.getItem('lang') as Language | null
+    if (saved === 'en' || saved === 'sv') {
+      setLanguage(saved)
+    } else if (navigator.language.startsWith('sv')) {
       setLanguage('sv')
     }
   }, [])
@@ -24,8 +27,13 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
     document.documentElement.lang = language
   }, [language])
 
+  function handleSetLanguage(lang: Language) {
+    setLanguage(lang)
+    localStorage.setItem('lang', lang)
+  }
+
   return (
-    <LanguageContext.Provider value={{ language, setLanguage, t: translations[language] }}>
+    <LanguageContext.Provider value={{ language, setLanguage: handleSetLanguage, t: translations[language] }}>
       {children}
     </LanguageContext.Provider>
   )

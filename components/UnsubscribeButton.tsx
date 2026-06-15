@@ -5,6 +5,7 @@ import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { useLanguage } from '@/contexts/LanguageContext'
 import StatusCard from '@/components/StatusCard'
+import SiteNav from '@/components/SiteNav'
 
 export default function UnsubscribeButton({ token }: { token: string }) {
   const [state, setState] = useState<'prompt' | 'loading' | 'done'>('prompt')
@@ -28,7 +29,9 @@ export default function UnsubscribeButton({ token }: { token: string }) {
   }
 
   return (
-    <main className="min-h-screen bg-bg text-ink flex flex-col items-center justify-center px-6">
+    <main className="min-h-screen bg-bg text-ink flex flex-col">
+      <SiteNav />
+      <div className="flex-1 flex flex-col items-center justify-center px-6">
       <motion.div
         initial={{ opacity: 0, y: 16 }}
         animate={{ opacity: 1, y: 0 }}
@@ -60,6 +63,7 @@ export default function UnsubscribeButton({ token }: { token: string }) {
           ← marco-tech.se/ai-news
         </Link>
       </motion.div>
+      </div>
     </main>
   )
 }

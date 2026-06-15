@@ -1,12 +1,14 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 
 const {
+  getSupabase,
   fromMock,
   maybeSingle,
   eqUpdate,
   insertMock,
   sendConfirmationEmail,
 } = vi.hoisted(() => ({
+  getSupabase: vi.fn(),
   fromMock: vi.fn(),
   maybeSingle: vi.fn(),
   eqUpdate: vi.fn(),
@@ -14,9 +16,7 @@ const {
   sendConfirmationEmail: vi.fn(),
 }))
 
-vi.mock('@/lib/supabase', () => ({
-  getSupabase: () => ({ from: fromMock }),
-}))
+vi.mock('@/lib/supabase', () => ({ getSupabase }))
 
 vi.mock('@/lib/email', () => ({ sendConfirmationEmail }))
 
@@ -29,6 +29,7 @@ function reqWith(body: unknown) {
 describe('POST /api/subscribe', () => {
   beforeEach(() => {
     vi.clearAllMocks()
+    getSupabase.mockReturnValue({ from: fromMock })
     fromMock.mockReturnValue({
       select: () => ({ eq: () => ({ maybeSingle }) }),
       update: () => ({ eq: eqUpdate }),
@@ -51,6 +52,19 @@ describe('POST /api/subscribe', () => {
   it('returns 400 on an invalid email', async () => {
     const res = await POST(reqWith({ email: 'not-an-email' }))
     expect(res.status).toBe(400)
+  })
+
+  it('returns 503 when Supabase is not configured', async () => {
+    getSupabase.mockImplementation(() => {
+      throw new Error('SUPABASE_URL and SUPABASE_SERVICE_KEY must be set')
+    })
+    const res = await POST(reqWith({ email: 'a@b.com' }))
+    expect(res.status).toBe(503)
+    await expect(res.json()).resolves.toEqual({
+      error: 'Subscription service is not configured',
+    })
+    expect(fromMock).not.toHaveBeenCalled()
+    expect(sendConfirmationEmail).not.toHaveBeenCalled()
   })
 
   it('returns 200 without re-sending when already active', async () => {

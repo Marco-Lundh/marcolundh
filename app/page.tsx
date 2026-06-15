@@ -2,29 +2,20 @@
 
 import Link from 'next/link'
 import { motion } from 'framer-motion'
-
-const sections = [
-  {
-    href: '/portfolio',
-    label: 'Portfolio',
-    mono: 'selected.work',
-    description:
-      'Projects I have designed, built, and shipped — including a live, fully automated daily AI news pipeline you can try right here.',
-    cta: 'View projects →',
-  },
-  {
-    href: '/about',
-    label: 'About me',
-    mono: 'marco.lundh',
-    description:
-      'Senior fullstack and backend developer with 13+ years across FinTech, MedTech, and Telecom — with hands-on AI integration experience across the full development cycle.',
-    cta: 'Read my story →',
-  },
-]
+import SiteNav from '@/components/SiteNav'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 export default function Home() {
+  const { t } = useLanguage()
+
+  const sections = [
+    { href: '/portfolio', mono: 'selected.work', ...t.home.portfolio },
+    { href: '/about', mono: 'marco.lundh', ...t.home.about },
+  ]
+
   return (
     <main className="min-h-screen bg-bg text-ink flex flex-col">
+      <SiteNav />
       {/* Subtle background blobs */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden">
         <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-accent/8 rounded-full blur-3xl" />
@@ -42,10 +33,10 @@ export default function Home() {
             marco-tech.se
           </p>
           <h1 className="font-display tracking-tight text-4xl md:text-5xl font-bold text-ink mb-4 leading-tight">
-            AI Engineering & Automation
+            {t.home.heading}
           </h1>
           <p className="text-ink-muted text-lg max-w-md mx-auto">
-            Python-first development, agentic workflows, and daily AI news — built by Marco Lundh.
+            {t.home.subtitle}
           </p>
         </motion.div>
 

@@ -27,7 +27,7 @@ describe('StatusCard', () => {
     renderWith(<StatusCard page="confirm" kind="invalid" />)
     const heading = screen.getByText('Invalid or expired link')
     expect(heading).toBeInTheDocument()
-    expect(heading.className).toContain('text-red-400')
+    expect(heading.className).toContain('text-red-600')
   })
 
   it('renders Swedish copy when language is sv', () => {

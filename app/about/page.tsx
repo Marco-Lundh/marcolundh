@@ -1,4 +1,4 @@
-import Nav from '@/components/Nav'
+import SiteNav from '@/components/SiteNav'
 import Hero from '@/components/Hero'
 import About from '@/components/About'
 import Experience from '@/components/Experience'
@@ -14,7 +14,7 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <main>
-      <Nav />
+      <SiteNav />
       <Hero />
       <About />
       <Experience />
