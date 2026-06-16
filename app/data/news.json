@@ -1,41 +1,68 @@
 {
-  "generated_at": "2026-06-15T05:24:08.075299+00:00",
+  "generated_at": "2026-06-16T05:44:31.845208+00:00",
   "articles": [
     {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches Partner Network with $150M investment for enterprise AI adoption.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Sun, 14 Jun 2026 17:00:00 GMT"
-    },
-    {
-      "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon QuickSight adds sparklines and custom sort capabilities for advanced data visualization.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 11 Jun 2026 15:36:31 +0000"
-    },
-    {
-      "title": "Amazon Quick ARNs: Cross-account migration and namespace permissions",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon QuickSight ARNs enable cross-account migration and multi-tenant architecture design.",
+      "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
+      "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA BioNeMo enables efficient fine-tuning of protein and genomic foundation models.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Mon, 08 Jun 2026 16:07:29 +0000"
+      "published": "2026-06-15T18:07:31Z"
     },
     {
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Analysis examines why AI won't replace software engineers despite capability advances.",
-      "category": "Ethics & Policy",
+      "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
+      "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Advanced fusion kernels significantly improve mixture-of-experts model training efficiency.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
-      "published": "2026-06-14T23:54:11+00:00"
+      "published": "2026-06-15T16:45:41Z"
+    },
+    {
+      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
+      "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "World-action models combine vision-language models with robotic policy adaptation techniques.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 7,
+      "published": "2026-06-15T12:00:00Z"
+    },
+    {
+      "title": "Introducing Gemma 4 models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Google DeepMind's Gemma 4 open-weight models now available on Amazon Bedrock platform.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "2026-06-15T20:24:15Z"
+    },
+    {
+      "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
+      "url": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
+      "source": "Artificial Intelligence",
+      "summary": "Strands Evals provides automated failure detection and diagnosis for AI agents.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-06-15T18:07:59Z"
+    },
+    {
+      "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS Bedrock AgentCore enables deployment of context-rich research agents as managed services.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 7,
+      "published": "2026-06-15T13:56:33Z"
+    },
+    {
+      "title": "datasette-agent 0.3a0",
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "datasette-agent adds user approval mechanism for database write operations.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 3,
+      "published": "2026-06-15T17:19:27Z"
     }
   ]
 }
