@@ -1,10 +1,11 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 import { render, screen } from '@testing-library/react'
 
-const { fromMock, maybeSingle, eqUpdate } = vi.hoisted(() => ({
+const { fromMock, maybeSingle, eqUpdate, updateMock } = vi.hoisted(() => ({
   fromMock: vi.fn(),
   maybeSingle: vi.fn(),
   eqUpdate: vi.fn(),
+  updateMock: vi.fn(),
 }))
 
 vi.mock('@/lib/supabase', () => ({
@@ -28,9 +29,10 @@ async function renderPage(token?: string) {
 describe('ConfirmPage', () => {
   beforeEach(() => {
     vi.clearAllMocks()
+    updateMock.mockReturnValue({ eq: eqUpdate })
     fromMock.mockReturnValue({
       select: () => ({ eq: () => ({ maybeSingle }) }),
-      update: () => ({ eq: eqUpdate }),
+      update: updateMock,
     })
     eqUpdate.mockResolvedValue({ error: null })
   })
@@ -64,6 +66,9 @@ describe('ConfirmPage', () => {
     const status = await renderPage('tok')
     expect(status.dataset.kind).toBe('confirmed')
     expect(status.dataset.page).toBe('confirm')
+    expect(updateMock).toHaveBeenCalledWith(
+      expect.objectContaining({ status: 'active', confirm_token: null })
+    )
     expect(eqUpdate).toHaveBeenCalledOnce()
   })
 

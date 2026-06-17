@@ -106,7 +106,7 @@ function ExperienceItem({ job, index }: { job: Job; index: number }) {
               {job.role} · {job.period}
             </p>
           </div>
-          <span className="text-ink-muted text-lg mt-1 shrink-0 group-hover:text-accent-dark transition-colors">
+          <span aria-hidden="true" className="text-ink-muted text-lg mt-1 shrink-0 group-hover:text-accent-dark transition-colors">
             {open ? '−' : '+'}
           </span>
         </div>
@@ -127,7 +127,7 @@ function ExperienceItem({ job, index }: { job: Job; index: number }) {
               {job.bullets && (
                 <ul className="space-y-2">
                   {job.bullets.map((b, i) => (
-                    <li key={i} className="text-ink-muted text-sm flex gap-2">
+                    <li key={`${index}-${i}`} className="text-ink-muted text-sm flex gap-2">
                       <span className="text-accent-dark shrink-0 mt-0.5">▹</span>
                       <span>{b}</span>
                     </li>

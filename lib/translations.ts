@@ -20,7 +20,7 @@ const translationsData = {
     home: {
       heading: 'AI Engineering & Automation',
       subtitle:
-        'Python-first development, agentic workflows, and daily AI news — built by Marco Lundh.',
+        'AI-native development, agentic workflows, and daily AI news — built by Marco Lundh.',
       portfolio: {
         label: 'Portfolio',
         description:
@@ -183,7 +183,7 @@ const translationsData = {
     home: {
       heading: 'AI-utveckling & Automation',
       subtitle:
-        'Python-först-utveckling, agentiska arbetsflöden och dagliga AI-nyheter — byggt av Marco Lundh.',
+        'AI-native utveckling, agentiska arbetsflöden och dagliga AI-nyheter — byggt av Marco Lundh.',
       portfolio: {
         label: 'Portfolio',
         description:

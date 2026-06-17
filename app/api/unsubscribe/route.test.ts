@@ -18,6 +18,9 @@ function reqWith(token?: string) {
   return { nextUrl: new URL(url) } as Parameters<typeof POST>[0]
 }
 
+const VALID_TOKEN = 'a'.repeat(64)
+const INVALID_TOKEN = 'tok123'
+
 describe('POST /api/unsubscribe', () => {
   beforeEach(() => {
     vi.clearAllMocks()
@@ -25,10 +28,16 @@ describe('POST /api/unsubscribe', () => {
     eqUpdate.mockResolvedValue({ error: null })
   })
 
-  it('unsubscribes when a token is present', async () => {
-    const res = await POST(reqWith('tok123'))
+  it('unsubscribes when a valid token is present', async () => {
+    const res = await POST(reqWith(VALID_TOKEN))
     expect(res.status).toBe(200)
-    expect(eqUpdate).toHaveBeenCalledWith('unsubscribe_token', 'tok123')
+    expect(eqUpdate).toHaveBeenCalledWith('unsubscribe_token', VALID_TOKEN)
+  })
+
+  it('does nothing but still returns 200 for a malformed token', async () => {
+    const res = await POST(reqWith(INVALID_TOKEN))
+    expect(res.status).toBe(200)
+    expect(eqUpdate).not.toHaveBeenCalled()
   })
 
   it('does nothing but still returns 200 without a token', async () => {
@@ -39,7 +48,7 @@ describe('POST /api/unsubscribe', () => {
 
   it('still returns 200 when the database call throws', async () => {
     eqUpdate.mockRejectedValue(new Error('db down'))
-    const res = await POST(reqWith('tok123'))
+    const res = await POST(reqWith(VALID_TOKEN))
     expect(res.status).toBe(200)
   })
 })

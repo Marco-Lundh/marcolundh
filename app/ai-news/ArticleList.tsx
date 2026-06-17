@@ -4,21 +4,9 @@ import { motion } from 'framer-motion'
 import { useState } from 'react'
 import type { Article } from '@/lib/types'
 
-const CATEGORIES = [
-  'LLMs & Models',
-  'AI Agents & Automation',
-  'Open Source AI',
-  'AI Tools & Frameworks',
-  'MLOps & Infrastructure',
-  'Research & Papers',
-  'AI in Industry',
-  'Ethics & Policy',
-  'Generative Media',
-  'Funding & Business',
-]
-
 export default function ArticleList({ articles }: { articles: Article[] }) {
   const [activeCategory, setActiveCategory] = useState<string | null>(null)
+  const categories = [...new Set(articles.map((a) => a.category))].sort()
 
   const filtered = activeCategory
     ? articles.filter((a) => a.category === activeCategory)
@@ -58,24 +46,22 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
           >
             All
           </button>
-          {CATEGORIES.map((cat) => {
-            const count = articles.filter((a) => a.category === cat).length
-            if (count === 0) return null
-            return (
-              <button
-                key={cat}
-                onClick={() => setActiveCategory(cat === activeCategory ? null : cat)}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
-                  activeCategory === cat
-                    ? 'bg-accent text-white'
-                    : 'bg-ink/5 text-ink-muted hover:bg-ink/10 hover:text-ink'
-                }`}
-              >
-                {cat}
-                <span className="ml-1.5 opacity-60">{count}</span>
-              </button>
-            )
-          })}
+          {categories.map((cat) => (
+            <button
+              key={cat}
+              onClick={() => setActiveCategory(cat === activeCategory ? null : cat)}
+              className={`px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
+                activeCategory === cat
+                  ? 'bg-accent text-white'
+                  : 'bg-ink/5 text-ink-muted hover:bg-ink/10 hover:text-ink'
+              }`}
+            >
+              {cat}
+              <span className="ml-1.5 opacity-60">
+                {articles.filter((a) => a.category === cat).length}
+              </span>
+            </button>
+          ))}
         </div>
       </div>
 
@@ -101,7 +87,7 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
                   </span>
                   <span className="text-ink/25">·</span>
                   <span className="text-[10px] text-ink-muted">
-                    {article.reading_time_minutes} minute read
+                    {article.reading_time_minutes} {article.reading_time_minutes === 1 ? 'minute' : 'minutes'} read
                   </span>
                 </div>
                 <a

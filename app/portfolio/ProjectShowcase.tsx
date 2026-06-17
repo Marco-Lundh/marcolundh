@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -105,7 +105,7 @@ function ProjectGallery({
         <button
           onClick={() => onZoom(current)}
           aria-label={`${tr.enlarge} ${current.alt}`}
-          className="block w-full cursor-zoom-in"
+          className="block w-full cursor-zoom-in focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={current.src} alt={current.alt} loading="lazy" className="w-full block" />
@@ -228,8 +228,11 @@ function Lightbox({
   image: ProjectImage | null
   onClose: () => void
 }) {
+  const containerRef = useRef<HTMLDivElement>(null)
+
   useEffect(() => {
     if (!image) return
+    containerRef.current?.focus()
     const onKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose()
     }
@@ -241,6 +244,8 @@ function Lightbox({
     <AnimatePresence>
       {image && (
         <motion.div
+          ref={containerRef}
+          tabIndex={-1}
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
@@ -248,7 +253,7 @@ function Lightbox({
           role="dialog"
           aria-modal="true"
           aria-label={image.alt}
-          className="fixed inset-0 z-50 bg-black/85 backdrop-blur-sm flex items-center justify-center p-6 cursor-zoom-out"
+          className="fixed inset-0 z-50 bg-black/85 backdrop-blur-sm flex items-center justify-center p-6 cursor-zoom-out outline-none"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           {/* Lightbox sits on a dark backdrop, so the light border stays for contrast. */}

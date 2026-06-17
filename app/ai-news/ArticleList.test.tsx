@@ -1,20 +1,11 @@
 import { describe, it, expect, vi } from 'vitest'
 import { render, screen, fireEvent } from '@testing-library/react'
 import ArticleList from './ArticleList'
+import type { Article } from '@/lib/types'
 
 vi.mock('framer-motion')
 
-interface TestArticle {
-  title: string
-  url: string
-  source: string
-  summary: string
-  category: string
-  reading_time_minutes: number
-  published: string
-}
-
-function makeArticle(over: Partial<TestArticle> = {}): TestArticle {
+function makeArticle(over: Partial<Article> = {}): Article {
   return {
     title: 'Some AI headline',
     url: 'https://example.com/a',
