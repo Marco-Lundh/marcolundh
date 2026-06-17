@@ -1,68 +1,122 @@
 {
-  "generated_at": "2026-06-16T05:44:31.845208+00:00",
+  "generated_at": "2026-06-17T05:17:02.754997+00:00",
   "articles": [
     {
-      "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
-      "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA BioNeMo enables efficient fine-tuning of protein and genomic foundation models.",
-      "category": "MLOps & Infrastructure",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI News",
+      "summary": "OpenAI introduces deployment simulation to predict model behavior before release.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "2026-06-15T18:07:31Z"
+      "published": "Tue, 16 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
-      "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Advanced fusion kernels significantly improve mixture-of-experts model training efficiency.",
-      "category": "MLOps & Infrastructure",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "source": "OpenAI News",
+      "summary": "Endava uses AI agents to accelerate software delivery and build AI-native culture.",
+      "category": "AI in Industry",
       "reading_time_minutes": 6,
-      "published": "2026-06-15T16:45:41Z"
+      "published": "Thu, 04 Jun 2026 12:00:00 GMT"
     },
     {
-      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
-      "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "World-action models combine vision-language models with robotic policy adaptation techniques.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "2026-06-15T12:00:00Z"
-    },
-    {
-      "title": "Introducing Gemma 4 models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Google DeepMind's Gemma 4 open-weight models now available on Amazon Bedrock platform.",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "source": "OpenAI News",
+      "summary": "ChatGPT introduces improved memory system for better conversation context retention.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "2026-06-15T20:24:15Z"
+      "reading_time_minutes": 4,
+      "published": "Thu, 04 Jun 2026 09:00:00 GMT"
     },
     {
-      "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
-      "url": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
-      "source": "Artificial Intelligence",
-      "summary": "Strands Evals provides automated failure detection and diagnosis for AI agents.",
+      "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
+      "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA XR AI enables building AI agents for augmented and extended reality devices.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "2026-06-15T18:07:59Z"
+      "published": "2026-06-16T22:30:00Z"
     },
     {
-      "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS Bedrock AgentCore enables deployment of context-rich research agents as managed services.",
-      "category": "AI Agents & Automation",
+      "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
+      "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Guide to building transaction foundation models for financial data analysis.",
+      "category": "AI in Industry",
       "reading_time_minutes": 7,
-      "published": "2026-06-15T13:56:33Z"
+      "published": "2026-06-16T20:30:08Z"
     },
     {
-      "title": "datasette-agent 0.3a0",
-      "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "datasette-agent adds user approval mechanism for database write operations.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "2026-06-15T17:19:27Z"
+      "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+      "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA ACE SDK enables building AI companions for games using Unreal Engine.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "2026-06-16T17:00:00Z"
+    },
+    {
+      "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
+      "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Techniques for optimizing transformer training with low-precision for efficiency.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
+      "published": "2026-06-16T16:00:00Z"
+    },
+    {
+      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Blackwell achieves top performance in MLPerf Training benchmarks.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-06-16T15:11:13Z"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Nemotron 3 Ultra enables efficient reasoning for long-context agentic applications.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "2026-06-04T13:02:49Z"
+    },
+    {
+      "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+      "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Microsoft and NVIDIA release tools for building personal AI agents on Windows.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-06-02T19:00:00Z"
+    },
+    {
+      "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
+      "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock Guardrails API enables safety checks for agentic AI applications.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "Tue, 16 Jun 2026 22:46:46 +0000"
+    },
+    {
+      "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker container caching speeds up generative AI model scaling by 2x.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 16 Jun 2026 20:16:02 +0000"
+    },
+    {
+      "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
+      "source": "Artificial Intelligence",
+      "summary": "P-EAGLE technique accelerates generative AI inference on SageMaker endpoints.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Tue, 16 Jun 2026 17:47:09 +0000"
     }
   ]
 }
