@@ -11,7 +11,8 @@ function loadArticles(): Article[] {
   try {
     const data = JSON.parse(readFileSync(filePath, 'utf-8'))
     return data.articles ?? []
-  } catch {
+  } catch (err) {
+    console.error('Failed to parse news.json', err)
     return []
   }
 }

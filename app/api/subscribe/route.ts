@@ -21,7 +21,8 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
   }
 
   const email = body?.email
-  if (!email || typeof email !== 'string' || !email.includes('@')) {
+  const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+  if (!email || typeof email !== 'string' || !EMAIL_RE.test(email)) {
     return NextResponse.json({ error: 'Invalid email' }, { status: 400 })
   }
 

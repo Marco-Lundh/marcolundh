@@ -25,7 +25,7 @@ describe('Home page', () => {
   it('renders the subtitle', () => {
     renderWith(<Home />)
     expect(
-      screen.getByText(/Python-first development/i)
+      screen.getByText(/AI-native development/i)
     ).toBeInTheDocument()
   })
 

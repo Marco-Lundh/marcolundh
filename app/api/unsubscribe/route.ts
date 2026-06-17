@@ -9,7 +9,8 @@ import { getSupabase } from '@/lib/supabase'
  */
 export async function POST(req: NextRequest): Promise<NextResponse> {
   const token = req.nextUrl.searchParams.get('token')
-  if (token) {
+  const TOKEN_RE = /^[0-9a-f]{64}$/
+  if (token && TOKEN_RE.test(token)) {
     try {
       await getSupabase()
         .from('subscribers')

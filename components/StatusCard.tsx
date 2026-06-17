@@ -7,6 +7,8 @@ import SiteNav from '@/components/SiteNav'
 
 export type StatusKind = 'confirmed' | 'already' | 'invalid' | 'unsubscribed'
 
+export const AI_NEWS_LABEL = 'ai news · marco-tech.se'
+
 interface Message {
   title: string
   body: string
@@ -20,11 +22,12 @@ export default function StatusCard({
   kind: StatusKind
 }) {
   const { t } = useLanguage()
-  const copy = (page === 'confirm' ? t.confirm : t.unsubscribe) as Record<
-    StatusKind,
-    Message
-  >
-  const message = copy[kind]
+  const message: Message =
+    page === 'confirm'
+      ? t.confirm[kind as keyof typeof t.confirm] ?? t.confirm.invalid
+      : kind === 'unsubscribed'
+        ? t.unsubscribe.unsubscribed
+        : t.unsubscribe[kind as 'already' | 'invalid'] ?? t.unsubscribe.invalid
   const isError = kind === 'invalid'
 
   return (
@@ -38,7 +41,7 @@ export default function StatusCard({
         className="max-w-md w-full text-center"
       >
         <p className="font-mono text-accent-dark text-xs tracking-widest uppercase mb-6">
-          ai news · marco-tech.se
+          {AI_NEWS_LABEL}
         </p>
         <div
           className={`bg-surface border rounded-xl p-8 ${

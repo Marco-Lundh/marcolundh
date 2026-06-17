@@ -17,7 +17,7 @@ async function confirmSubscriber(token: string | undefined): Promise<StatusKind>
 
     const { error: updateError } = await supabase
       .from('subscribers')
-      .update({ status: 'active', confirmed_at: new Date().toISOString() })
+      .update({ status: 'active', confirmed_at: new Date().toISOString(), confirm_token: null })
       .eq('id', data.id)
 
     if (updateError) return 'invalid'

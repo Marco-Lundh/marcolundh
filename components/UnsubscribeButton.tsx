@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { useLanguage } from '@/contexts/LanguageContext'
-import StatusCard from '@/components/StatusCard'
+import StatusCard, { AI_NEWS_LABEL } from '@/components/StatusCard'
 import SiteNav from '@/components/SiteNav'
 
 export default function UnsubscribeButton({ token }: { token: string }) {
@@ -39,7 +39,7 @@ export default function UnsubscribeButton({ token }: { token: string }) {
         className="max-w-md w-full text-center"
       >
         <p className="font-mono text-accent-dark text-xs tracking-widest uppercase mb-6">
-          ai news · marco-tech.se
+          {AI_NEWS_LABEL}
         </p>
         <div className="bg-surface border border-accent/30 rounded-xl p-8">
           <h1 className="font-display tracking-tight text-xl font-bold mb-2 text-ink">
