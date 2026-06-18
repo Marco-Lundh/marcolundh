@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/nextdoor",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://openai.com/index/notion",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-    "seen_at": "2026-06-10"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
-    "seen_at": "2026-06-10"
-  },
-  {
     "url": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/",
     "seen_at": "2026-06-11"
   },
@@ -574,5 +474,101 @@
   {
     "url": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
     "seen_at": "2026-06-17"
+  },
+  {
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://openai.com/index/economic-research-exchange",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/vsas-bench-streaming-assistant",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/epicache",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/openenv-agentic-rl",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "seen_at": "2026-06-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/",
+    "seen_at": "2026-06-18"
   }
 ]
