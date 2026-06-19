@@ -1,221 +1,230 @@
 {
-  "generated_at": "2026-06-18T05:49:01.285588+00:00",
+  "generated_at": "2026-06-19T05:19:37.100608+00:00",
   "articles": [
     {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
       "source": "OpenAI News",
-      "summary": "AI chemist using GPT-5.4 autonomously improved key drug-making reactions in medicinal chemistry.",
+      "summary": "OpenAI reasoning model identified 18 new diagnoses in previously unsolved rare disease cases.",
       "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 10:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "Thu, 18 Jun 2026 08:00:00 GMT"
     },
     {
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "source": "OpenAI News",
-      "summary": "Expert-authored benchmark evaluates AI systems on real-world life science research tasks.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches research exchange to study AI's impact on jobs and productivity.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
-      "url": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Blackwell improves LLM training throughput using NVFP4 with JAX and MaxText.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-06-08T18:18:06Z"
-    },
-    {
-      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker Async Inference now supports inline payloads, eliminating S3 upload requirements.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 20:56:36 +0000"
-    },
-    {
-      "title": "Get back hours every day with autonomous agents in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Quick launches autonomous agents with activity feeds for continuous work.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 20:35:39 +0000"
-    },
-    {
-      "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
-      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
-      "source": "Artificial Intelligence",
-      "summary": "Bedrock AgentCore adds capabilities for agent knowledge, governance, and continuous improvement.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Wed, 17 Jun 2026 15:29:36 +0000"
-    },
-    {
-      "title": "Introducing the Third Generation of Apple's Foundation Models",
-      "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple releases third generation foundation models with privacy-first architecture for Apple Intelligence.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 7,
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models",
-      "url": "https://machinelearning.apple.com/research/vsas-bench-streaming-assistant",
-      "source": "Apple Machine Learning Research",
-      "summary": "Benchmark evaluates streaming vision-language models for real-time visual assistants.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Fri, 22 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments",
-      "url": "https://machinelearning.apple.com/research/epicache",
-      "source": "Apple Machine Learning Research",
-      "summary": "EpiCache reduces KV cache memory for long conversations on resource-constrained devices.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 19 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "source": "Hugging Face - Blog",
-      "summary": "Language-guided model forecasts 3D motion from natural language descriptions.",
-      "category": "Generative Media",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 15:26:44 GMT"
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face - Blog",
-      "summary": "Strands Agents and LeRobot enable deploying models from Hub directly to robot hardware.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 10:18:05 GMT"
-    },
-    {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "source": "Hugging Face - Blog",
-      "summary": "GLM-5.2 753B MoE model handles complex long-horizon reasoning tasks effectively.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Wed, 17 Jun 2026 09:01:25 GMT"
-    },
-    {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "source": "Hugging Face - Blog",
-      "summary": "Resource discovery tools enable agents to autonomously search and find necessary data.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "source": "Hugging Face - Blog",
-      "summary": "OpenEnv framework enables reinforcement learning for autonomous agent development.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA releases customizable multimodal safety models for enterprise AI deployment.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Thu, 04 Jun 2026 18:57:45 GMT"
-    },
-    {
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "source": "Hugging Face - Blog",
-      "summary": "Holo3.1 enables fast, local computer use agents for autonomous task completion.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 02 Jun 2026 14:13:23 GMT"
-    },
-    {
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "source": "Hugging Face - Blog",
-      "summary": "JetBrains releases Mellum2 12B MoE model for efficient inference and development.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 01 Jun 2026 15:45:17 GMT"
-    },
-    {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "NVIDIA's AI agents autonomously trained robots to complete hardware installation tasks.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 19:25:19 +0000"
-    },
-    {
-      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Gemma 4 12B achieves strong performance on laptops using novel encoding and prediction.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 03 Jun 2026 19:10:03 +0000"
-    },
-    {
-      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Project Solara reimagines Android OS for agent-centric computing paradigm.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 02 Jun 2026 20:47:54 +0000"
-    },
-    {
-      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Z.ai releases GLM-5.2 753B open weights model with strong long-context capabilities.",
+      "summary": "GPT-5.5 Instant improves ChatGPT health responses with stronger reasoning and physician-informed evaluations.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "2026-06-17T23:58:39+00:00"
+      "published": "Thu, 18 Jun 2026 11:00:00 GMT"
     },
     {
-      "title": "Built to benefit everyone: our plan",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "source": "OpenAI News",
-      "summary": "OpenAI outlines vision for ensuring AGI benefits everyone through access and safety.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 08 Jun 2026 01:30:00 GMT"
+      "summary": "OpenAI introduces spend controls and analytics for ChatGPT Enterprise cost management.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "Thu, 18 Jun 2026 17:00:00 GMT"
     },
     {
-      "title": "Context intelligence for your data and AI agents at scale",
-      "url": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/",
+      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
       "source": "Artificial Intelligence",
-      "summary": "AWS enables AI agents to safely access organizational context for trusted decisions.",
+      "summary": "Bedrock AgentCore harness enables production-grade AI agents deployment in minutes with two API calls.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 17:17:37 +0000"
+      "published": "Thu, 18 Jun 2026 17:32:22 +0000"
+    },
+    {
+      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker provides detailed observability tools for monitoring and debugging generative AI inference workloads.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Thu, 18 Jun 2026 23:31:58 +0000"
+    },
+    {
+      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+      "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA FLARE Auto-FL uses AI agents to automate federated learning research experimentation.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-06-09T16:35:08Z"
+    },
+    {
+      "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
+      "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA TensorRT enables efficient inference by converting quantized FP8 checkpoints to production engines.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-06-09T18:27:52Z"
+    },
+    {
+      "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
+      "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA DGX Spark provides enterprise-grade lifecycle management for large-scale AI infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-06-09T19:00:00Z"
+    },
+    {
+      "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
+      "url": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Nemotron Speech with agent skills accelerates clinical speech recognition model evaluation.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "2026-06-09T15:00:00Z"
+    },
+    {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "source": "OpenAI News",
+      "summary": "Nextdoor engineers leverage Codex and GPT-5.5 to investigate issues and accelerate development.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Tue, 09 Jun 2026 12:00:00 GMT"
+    },
+    {
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "source": "OpenAI News",
+      "summary": "Notion uses Codex for one-shot specs and AI Voice Input implementation with small teams.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Tue, 09 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face - Blog",
+      "summary": "Framework for evaluating open-source models' agentic capabilities on custom tooling and tasks.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "source": "Hugging Face - Blog",
+      "summary": "Exploration of fine-tuning techniques beyond LoRA for improved model adaptation efficiency.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face - Blog",
+      "summary": "Research on information security and privacy vulnerabilities in AI research agent systems.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Thu, 18 Jun 2026 18:13:13 GMT"
+    },
+    {
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "Hugging Face - Blog",
+      "summary": "Application of direct preference optimization techniques beyond conversational AI models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 03 Jun 2026 12:55:11 GMT"
+    },
+    {
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face CLI optimized for AI agents to interact with the model hub effectively.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Thu, 04 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": "Hugging Face - Blog",
+      "summary": "Demonstration of AI agent capability by autonomously building 3D gallery using chained Spaces.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Tue, 09 Jun 2026 10:46:19 GMT"
+    },
+    {
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Leadership strategies for managing hybrid human-AI workforces with autonomous agent adoption.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Tue, 09 Jun 2026 10:20:06 +0000"
+    },
+    {
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "source": "OpenAI News",
+      "summary": "OpenAI proposes people-first industrial policy framework for the advancing AI intelligence era.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Tue, 09 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "source": "OpenAI News",
+      "summary": "OpenAI submits confidential S-1 registration to SEC for potential public company transition.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 1,
+      "published": "Mon, 08 Jun 2026 14:00:00 GMT"
+    },
+    {
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Analysis of South Korea's cultural and economic factors driving widespread AI adoption.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Mon, 15 Jun 2026 18:46:08 +0000"
+    },
+    {
+      "title": "Five things you need to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Summary of major AI trends identified in MIT Technology Review's annual AI10 list.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Tue, 09 Jun 2026 09:16:45 +0000"
+    },
+    {
+      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "AI | VentureBeat",
+      "summary": "Google's redesigned search interface marks major paradigm shift incorporating AI capabilities.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Tue, 19 May 2026 17:45:00 GMT"
+    },
+    {
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Flexible grid management strategies enable rapid AI data center deployment and integration.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 16 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "title": "How the Pope's Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Papal encyclical on AI provides ethical framework for responsible technology engagement.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Fri, 29 May 2026 10:00:00 +0000"
     }
   ]
 }
