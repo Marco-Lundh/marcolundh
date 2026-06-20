@@ -12,7 +12,14 @@ async function confirmSubscriber(token: string | undefined): Promise<StatusKind>
       .eq('confirm_token', token)
       .maybeSingle()
 
-    if (error || !data) return 'invalid'
+    if (error) {
+      console.error('Confirm lookup error', error.message, 'token:', token.slice(0, 8))
+      return 'invalid'
+    }
+    if (!data) {
+      console.error('Confirm: no row found for token', token.slice(0, 8))
+      return 'invalid'
+    }
     if (data.status === 'active') return 'already'
 
     const { error: updateError } = await supabase
@@ -20,7 +27,10 @@ async function confirmSubscriber(token: string | undefined): Promise<StatusKind>
       .update({ status: 'active', confirmed_at: new Date().toISOString(), confirm_token: null })
       .eq('id', data.id)
 
-    if (updateError) return 'invalid'
+    if (updateError) {
+      console.error('Confirm update error', updateError.message)
+      return 'invalid'
+    }
     return 'confirmed'
   } catch (err) {
     console.error('Confirm failed', err)
