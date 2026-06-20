@@ -31,7 +31,7 @@ export interface Subscriber {
   id: string
   email: string
   status: 'pending' | 'active' | 'unsubscribed'
-  confirm_token: string
+  confirm_token: string | null
   unsubscribe_token: string
   created_at: string
   confirmed_at: string | null
