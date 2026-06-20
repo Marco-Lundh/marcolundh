@@ -1,230 +1,158 @@
 {
-  "generated_at": "2026-06-19T05:19:37.100608+00:00",
+  "generated_at": "2026-06-20T05:28:52.982715+00:00",
   "articles": [
     {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI News",
-      "summary": "OpenAI reasoning model identified 18 new diagnoses in previously unsolved rare disease cases.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 18 Jun 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "GPT-5.5 Instant improves ChatGPT health responses with stronger reasoning and physician-informed evaluations.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Thu, 18 Jun 2026 11:00:00 GMT"
-    },
-    {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI News",
-      "summary": "OpenAI introduces spend controls and analytics for ChatGPT Enterprise cost management.",
+      "summary": "Astrophysicist uses Codex to build black hole simulations testing Einstein's relativity.",
       "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "source": "OpenAI News",
+      "summary": "OpenAI models now accessible via Oracle Cloud with enterprise security integration.",
+      "category": "AI in Industry",
       "reading_time_minutes": 2,
-      "published": "Thu, 18 Jun 2026 17:00:00 GMT"
+      "published": "Wed, 10 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
-      "source": "Artificial Intelligence",
-      "summary": "Bedrock AgentCore harness enables production-grade AI agents deployment in minutes with two API calls.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 18 Jun 2026 17:32:22 +0000"
-    },
-    {
-      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
-      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker provides detailed observability tools for monitoring and debugging generative AI inference workloads.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 18 Jun 2026 23:31:58 +0000"
-    },
-    {
-      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
-      "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA FLARE Auto-FL uses AI agents to automate federated learning research experimentation.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-06-09T16:35:08Z"
-    },
-    {
-      "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
-      "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA TensorRT enables efficient inference by converting quantized FP8 checkpoints to production engines.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-06-09T18:27:52Z"
-    },
-    {
-      "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
-      "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA DGX Spark provides enterprise-grade lifecycle management for large-scale AI infrastructure.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-06-09T19:00:00Z"
-    },
-    {
-      "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
-      "url": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Nemotron Speech with agent skills accelerates clinical speech recognition model evaluation.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "2026-06-09T15:00:00Z"
-    },
-    {
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "url": "https://openai.com/index/nextdoor",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "source": "OpenAI News",
-      "summary": "Nextdoor engineers leverage Codex and GPT-5.5 to investigate issues and accelerate development.",
+      "summary": "Report details PRC-linked influence operations using AI targeting US tech debates.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Wed, 10 Jun 2026 12:00:00 GMT"
+    },
+    {
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "source": "OpenAI News",
+      "summary": "LSEG scales trusted AI across business, accelerating insights for 4000 employees.",
       "category": "AI in Industry",
       "reading_time_minutes": 3,
-      "published": "Tue, 09 Jun 2026 12:00:00 GMT"
+      "published": "Wed, 10 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
-      "source": "OpenAI News",
-      "summary": "Notion uses Codex for one-shot specs and AI Voice Input implementation with small teams.",
-      "category": "AI in Industry",
+      "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+      "url": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "DiffusionGemma enables high-throughput text generation for real-time AI applications.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "2026-06-10T16:16:30Z"
+    },
+    {
+      "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
+      "url": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Infrastructure design for AI factories using battery energy storage systems.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-06-10T15:00:00Z"
+    },
+    {
+      "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Web Search integration now generally available on Amazon Bedrock AgentCore.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 3,
-      "published": "Tue, 09 Jun 2026 10:00:00 GMT"
+      "published": "Fri, 19 Jun 2026 14:15:24 +0000"
     },
     {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face - Blog",
-      "summary": "Framework for evaluating open-source models' agentic capabilities on custom tooling and tasks.",
+      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "Adobe Marketing Agent integration via Model Context Protocol for marketing workflows.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "Fri, 19 Jun 2026 14:05:04 +0000"
     },
     {
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "source": "Hugging Face - Blog",
-      "summary": "Exploration of fine-tuning techniques beyond LoRA for improved model adaptation efficiency.",
+      "title": "BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning",
+      "url": "https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning",
+      "source": "Apple Machine Learning Research",
+      "summary": "Reinforcement learning framework balancing multiple objectives in image captioning.",
       "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "source": "Hugging Face - Blog",
-      "summary": "Research on information security and privacy vulnerabilities in AI research agent systems.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Thu, 18 Jun 2026 18:13:13 GMT"
-    },
-    {
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "source": "Hugging Face - Blog",
-      "summary": "Application of direct preference optimization techniques beyond conversational AI models.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Wed, 03 Jun 2026 12:55:11 GMT"
-    },
-    {
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face CLI optimized for AI agents to interact with the model hub effectively.",
-      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "Thu, 04 Jun 2026 00:00:00 GMT"
+      "published": "Mon, 11 May 2026 00:00:00 GMT"
     },
     {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "title": "RVPO: Risk-Sensitive Alignment via Variance Regularization",
+      "url": "https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment",
+      "source": "Apple Machine Learning Research",
+      "summary": "Risk-sensitive framework penalizing inter-reward variance for robust multi-objective alignment.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Fri, 08 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Velox: Learning Representations of 4D Geometry and Appearance",
+      "url": "https://machinelearning.apple.com/research/velox",
+      "source": "Apple Machine Learning Research",
+      "summary": "Framework learning latent representations of 4D objects from dynamic point clouds.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Fri, 08 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+      "url": "https://machinelearning.apple.com/research/gaussian-head-reconstruction",
+      "source": "Apple Machine Learning Research",
+      "summary": "Scalable feed-forward method for high-quality 3D Gaussian head reconstruction.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Fri, 08 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "What Matters in Practical Learned Image Compression",
+      "url": "https://machinelearning.apple.com/research/compression",
+      "source": "Apple Machine Learning Research",
+      "summary": "Comprehensive study of learned image codec design optimized for perceptual quality.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 07 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
       "source": "Hugging Face - Blog",
-      "summary": "Demonstration of AI agent capability by autonomously building 3D gallery using chained Spaces.",
+      "summary": "Enterprise AI adoption requires agent logic beyond traditional large language models.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 4,
-      "published": "Tue, 09 Jun 2026 10:46:19 GMT"
+      "published": "Mon, 01 Jun 2026 13:51:18 GMT"
     },
     {
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Leadership strategies for managing hybrid human-AI workforces with autonomous agent adoption.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Tue, 09 Jun 2026 10:20:06 +0000"
-    },
-    {
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "source": "OpenAI News",
-      "summary": "OpenAI proposes people-first industrial policy framework for the advancing AI intelligence era.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Tue, 09 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "source": "OpenAI News",
-      "summary": "OpenAI submits confidential S-1 registration to SEC for potential public company transition.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 1,
-      "published": "Mon, 08 Jun 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Why do South Koreans love AI so much?",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Analysis of South Korea's cultural and economic factors driving widespread AI adoption.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Mon, 15 Jun 2026 18:46:08 +0000"
-    },
-    {
-      "title": "Five things you need to know about AI",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Summary of major AI trends identified in MIT Technology Review's annual AI10 list.",
-      "category": "Research & Papers",
+      "summary": "Subquadratic claims breakthrough solving mathematical bottleneck limiting LLMs.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 4,
-      "published": "Tue, 09 Jun 2026 09:16:45 +0000"
+      "published": "Fri, 19 Jun 2026 10:40:24 +0000"
     },
     {
-      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "DiffusionGemma enables 4x faster local AI execution using diffusion techniques.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 3,
+      "published": "Wed, 10 Jun 2026 19:29:21 +0000"
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "source": "AI | VentureBeat",
-      "summary": "Google's redesigned search interface marks major paradigm shift incorporating AI capabilities.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Tue, 19 May 2026 17:45:00 GMT"
-    },
-    {
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Flexible grid management strategies enable rapid AI data center deployment and integration.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Tue, 16 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "title": "How the Pope's Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Papal encyclical on AI provides ethical framework for responsible technology engagement.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Fri, 29 May 2026 10:00:00 +0000"
+      "summary": "Railway raises $100M Series B to build AI-native cloud infrastructure platform.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
     }
   ]
 }
