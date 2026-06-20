@@ -88,32 +88,35 @@ describe('POST /api/subscribe', () => {
     expect(sendConfirmationEmail).toHaveBeenCalledOnce()
   })
 
-  it('throttles a repeat request within the cooldown window', async () => {
+  it('reuses the existing confirm_token for pending subscribers', async () => {
+    const existingToken = 'aabbcc' + '0'.repeat(58)
     maybeSingle.mockResolvedValue({
       data: {
         id: '1',
         status: 'pending',
         confirmation_sent_at: new Date().toISOString(),
+        confirm_token: existingToken,
       },
       error: null,
     })
     const res = await POST(reqWith({ email: 'a@b.com' }))
     expect(res.status).toBe(200)
-    expect(eqUpdate).not.toHaveBeenCalled()
-    expect(sendConfirmationEmail).not.toHaveBeenCalled()
+    expect(sendConfirmationEmail).toHaveBeenCalledWith('a@b.com', existingToken, 'en')
   })
 
-  it('re-sends once the cooldown has elapsed', async () => {
+  it('generates a new token when re-confirming an unsubscribed subscriber', async () => {
     maybeSingle.mockResolvedValue({
       data: {
         id: '1',
-        status: 'pending',
-        confirmation_sent_at: new Date(Date.now() - 10 * 60 * 1000).toISOString(),
+        status: 'unsubscribed',
+        confirmation_sent_at: new Date().toISOString(),
+        confirm_token: null,
       },
       error: null,
     })
     const res = await POST(reqWith({ email: 'a@b.com' }))
     expect(res.status).toBe(200)
+    expect(eqUpdate).toHaveBeenCalledOnce()
     expect(sendConfirmationEmail).toHaveBeenCalledOnce()
   })
 

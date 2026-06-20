@@ -4,10 +4,6 @@ import { getSupabase } from '@/lib/supabase'
 import { sendConfirmationEmail } from '@/lib/email'
 import type { Language } from '@/lib/translations'
 
-// Don't send another confirmation email to the same address within this
-// window — throttles email-bombing and protects the Resend daily quota.
-const RESEND_COOLDOWN_MS = 2 * 60 * 1000
-
 function newToken(): string {
   return randomBytes(32).toString('hex')
 }
@@ -44,7 +40,7 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
 
   const { data: existing, error: lookupError } = await supabase
     .from('subscribers')
-    .select('id, status, confirmation_sent_at')
+    .select('id, status, confirmation_sent_at, confirm_token')
     .eq('email', normalized)
     .maybeSingle()
 
@@ -58,20 +54,16 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     return NextResponse.json({ ok: true }, { status: 200 })
   }
 
-  // A confirmation was sent very recently — throttle without re-sending.
-  if (
-    existing?.confirmation_sent_at &&
-    Date.now() - new Date(existing.confirmation_sent_at).getTime() <
-      RESEND_COOLDOWN_MS
-  ) {
-    return NextResponse.json({ ok: true }, { status: 200 })
-  }
-
-  const confirmToken = newToken()
+  // For pending subscribers, reuse the existing token so that any previously
+  // sent confirmation email stays valid. Only generate a new token when the
+  // subscriber is new or returning after an unsubscribe.
+  const isPending = existing?.status === 'pending'
+  const confirmToken = isPending && existing?.confirm_token
+    ? existing.confirm_token
+    : newToken()
   const sentAt = new Date().toISOString()
 
   if (existing) {
-    // Pending or previously unsubscribed — refresh token and re-confirm.
     const { error } = await supabase
       .from('subscribers')
       .update({
