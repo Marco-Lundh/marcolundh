@@ -1,158 +1,122 @@
 {
-  "generated_at": "2026-06-20T16:31:58.631645+00:00",
+  "generated_at": "2026-06-21T05:03:24.800949+00:00",
   "articles": [
     {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI News",
-      "summary": "OpenAI acquires Ona to enable long-running AI agents in enterprise cloud environments.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI News",
-      "summary": "BBVA scales ChatGPT Enterprise to 100,000 employees for AI-powered banking transformation.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Supporting Europe's work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI News",
-      "summary": "OpenAI supports EU Code of Practice on AI transparency and content provenance standards.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
-      "url": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS Bedrock enables intelligent document processing with flexible on-demand and batch inference.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 11 Jun 2026 19:40:33 +0000"
-    },
-    {
-      "title": "Evaluate AI agents systematically with Agent-EvalKit",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-      "source": "Artificial Intelligence",
-      "summary": "Open-source Agent-EvalKit provides systematic evaluation framework for AI agents across six phases.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 6,
-      "published": "Thu, 11 Jun 2026 15:49:47 +0000"
-    },
-    {
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "DeepMind funds research on safety risks of millions of interacting AI agents online.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 11 Jun 2026 11:00:45 +0000"
-    },
-    {
-      "title": "The Meta hack shows there's more to AI security than Mythos",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Fri, 05 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Illinois passes landmark AI safety testing law with support from Anthropic and OpenAI.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 28 May 2026 17:01:16 +0000"
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "AI | VentureBeat",
-      "summary": "Open-source alternatives emerge to challenge expensive proprietary AI coding agents.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "AI | VentureBeat",
-      "summary": "Listen Labs secures $69M to scale AI-powered customer interview research platform.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Fri, 16 Jan 2026 14:01:00 GMT"
-    },
-    {
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "AI | VentureBeat",
-      "summary": "Salesforce launches rebuilt Slackbot AI agent for enterprise document drafting and actions.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "AI | VentureBeat",
-      "summary": "Anthropic releases Cowork agent extending Claude Code capabilities to non-technical users.",
+      "title": "Quoting Sean Lynch",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "MCP isolates authentication flow outside agent context window.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
+      "reading_time_minutes": 2,
+      "published": "2026-06-19T22:45:49+00:00"
     },
     {
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "AI | VentureBeat",
-      "summary": "Nous Research releases NousCoder-14B open-source model matching larger proprietary systems.",
+      "title": "Quoting Georgi Gerganov",
+      "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Qwen3.6-27B proves capable for local coding tasks daily.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-06-16T16:04:59+00:00"
+    },
+    {
+      "title": "The Fable 5 Export Controls Harm US Cyber Defense",
+      "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Export controls on Claude Fable 5 impact US cybersecurity capabilities.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-06-16T05:20:29+00:00"
+    },
+    {
+      "title": "Quoting Matteo Wong, The Atlantic",
+      "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "White House report details jailbreak involving bug-finding requests.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 2,
+      "published": "2026-06-16T03:07:54+00:00"
+    },
+    {
+      "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+      "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Behind-the-scenes disputes between government and Anthropic over model access.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-06-15T14:57:33+00:00"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "New Datasette plugin enables self-contained HTML applications.",
       "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
+      "published": "2026-06-18T23:58:38+00:00"
     },
     {
-      "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026",
-      "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2026",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple presents computer vision research at CVPR 2026 conference in Denver.",
-      "category": "Research & Papers",
+      "title": "datasette 1.0a34",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette alpha adds row insert, edit, delete functionality.",
+      "category": "Open Source AI",
       "reading_time_minutes": 2,
-      "published": "Thu, 28 May 2026 00:00:00 GMT"
+      "published": "2026-06-16T21:31:24+00:00"
     },
     {
-      "title": "Apple Workshop on Privacy-Preserving Machine Learning & AI 2026",
-      "url": "https://machinelearning.apple.com/updates/ppml-2026",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple hosts workshop advancing privacy-preserving machine learning techniques for AI.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 3,
-      "published": "Fri, 08 May 2026 00:00:00 GMT"
+      "title": "datasette-acl 0.6a0",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette-acl expands to general resource-sharing permissions system.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-06-18T19:03:13+00:00"
     },
     {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face explores PyTorch profiling for optimizing neural network layer performance.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+      "title": "datasette-apps 0.1a3",
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette-apps alpha fixes permission bugs for app creation.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-06-15T20:25:07+00:00"
     },
     {
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "source": "Hugging Face - Blog",
-      "summary": "Comprehensive guide to PyTorch profiler tools for machine learning optimization.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Fri, 29 May 2026 00:00:00 GMT"
+      "title": "datasette-apps 0.1a2",
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette-apps adds CSP origin controls and permission guardrails.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-06-15T17:26:11+00:00"
+    },
+    {
+      "title": "datasette-tailscale 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "New Datasette plugin integrates Tailscale networking capabilities.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-06-16T16:18:20+00:00"
+    },
+    {
+      "title": "Quoting Charity Majors",
+      "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "AI made code generation free and instant, changing economics completely.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 2,
+      "published": "2026-06-17T17:12:41+00:00"
+    },
+    {
+      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+      "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Fitbit Air hardware succeeds but Google AI Health Coach feels unnecessary.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Fri, 05 Jun 2026 15:40:48 +0000"
     }
   ]
 }
