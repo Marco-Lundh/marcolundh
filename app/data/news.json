@@ -1,122 +1,176 @@
 {
-  "generated_at": "2026-06-21T05:03:24.800949+00:00",
+  "generated_at": "2026-06-22T05:01:27.234731+00:00",
   "articles": [
     {
-      "title": "Quoting Sean Lynch",
-      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "MCP isolates authentication flow outside agent context window.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 2,
-      "published": "2026-06-19T22:45:49+00:00"
-    },
-    {
-      "title": "Quoting Georgi Gerganov",
-      "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Qwen3.6-27B proves capable for local coding tasks daily.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "2026-06-16T16:04:59+00:00"
-    },
-    {
-      "title": "The Fable 5 Export Controls Harm US Cyber Defense",
-      "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Export controls on Claude Fable 5 impact US cybersecurity capabilities.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-06-16T05:20:29+00:00"
-    },
-    {
-      "title": "Quoting Matteo Wong, The Atlantic",
-      "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "White House report details jailbreak involving bug-finding requests.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 2,
-      "published": "2026-06-16T03:07:54+00:00"
-    },
-    {
-      "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
-      "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Behind-the-scenes disputes between government and Anthropic over model access.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-06-15T14:57:33+00:00"
-    },
-    {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "New Datasette plugin enables self-contained HTML applications.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "2026-06-18T23:58:38+00:00"
-    },
-    {
-      "title": "datasette 1.0a34",
-      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Datasette alpha adds row insert, edit, delete functionality.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-16T21:31:24+00:00"
-    },
-    {
-      "title": "datasette-acl 0.6a0",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Datasette-acl expands to general resource-sharing permissions system.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-18T19:03:13+00:00"
-    },
-    {
-      "title": "datasette-apps 0.1a3",
-      "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Datasette-apps alpha fixes permission bugs for app creation.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-15T20:25:07+00:00"
-    },
-    {
-      "title": "datasette-apps 0.1a2",
-      "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Datasette-apps adds CSP origin controls and permission guardrails.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-15T17:26:11+00:00"
-    },
-    {
-      "title": "datasette-tailscale 0.1a0",
-      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "New Datasette plugin integrates Tailscale networking capabilities.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-16T16:18:20+00:00"
-    },
-    {
-      "title": "Quoting Charity Majors",
-      "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "AI made code generation free and instant, changing economics completely.",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI News",
+      "summary": "Samsung deploys ChatGPT Enterprise and Codex globally in major enterprise AI rollout.",
       "category": "AI in Industry",
-      "reading_time_minutes": 2,
-      "published": "2026-06-17T17:12:41+00:00"
+      "reading_time_minutes": 3,
+      "published": "Sun, 21 Jun 2026 23:00:00 GMT"
     },
     {
-      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
-      "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Fitbit Air hardware succeeds but Google AI Health Coach feels unnecessary.",
+      "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
+      "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA establishes new agentic AI benchmark and achieves leading performance metrics.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-06-12T21:12:40Z"
+    },
+    {
+      "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
+      "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "MiniMax M3 enables long-context reasoning and agentic workflows on NVIDIA infrastructure.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "2026-06-12T14:43:17Z"
+    },
+    {
+      "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+      "source": "Artificial Intelligence",
+      "summary": "Rocket Close builds agentic AI solution using Strands Agents and Amazon Bedrock.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Fri, 12 Jun 2026 20:43:56 +0000"
+    },
+    {
+      "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+      "source": "Artificial Intelligence",
+      "summary": "Custom meeting assistant using MCP servers automates prep and follow-up tasks.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Fri, 12 Jun 2026 14:49:40 +0000"
+    },
+    {
+      "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
+      "source": "Artificial Intelligence",
+      "summary": "Scalable document processing pipeline using Amazon Bedrock and intelligent automation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Fri, 12 Jun 2026 14:43:11 +0000"
+    },
+    {
+      "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
+      "url": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS ProServe restructures delivery processes using AI for frontier team capabilities.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Fri, 12 Jun 2026 13:00:10 +0000"
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI News",
+      "summary": "OpenAI launches Academy courses for practical AI skills and agentic workflows.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Fri, 12 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source": "OpenAI News",
+      "summary": "Preply integrates OpenAI for personalized language learning with AI-generated summaries.",
       "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "Fri, 05 Jun 2026 15:40:48 +0000"
+      "published": "Fri, 12 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google pursues cybercrime network exploiting Gemini to create automated scam sites.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 12 Jun 2026 16:34:36 +0000"
+    },
+    {
+      "title": "Rehumanizing global health care with agentic AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Agentic AI addresses healthcare sector strain through improved service delivery.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Tue, 02 Jun 2026 11:23:34 +0000"
+    },
+    {
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Guide on applying LLMs across small business operations and skill areas.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Tue, 02 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google adds deepfake detection to Android for spoofed call and impersonation prevention.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Tue, 02 Jun 2026 18:00:46 +0000"
+    },
+    {
+      "title": "YouTube to begin automatically labeling AI videos",
+      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "YouTube implements automatic AI-generated content labeling for transparency.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Wed, 27 May 2026 17:36:10 +0000"
+    },
+    {
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Community opposition blocks significant AI infrastructure investments globally.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 12 Jun 2026 17:18:49 +0000"
+    },
+    {
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face Jobs platform provides alternative CI/CD infrastructure for AI projects.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 09 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "source": "Hugging Face - Blog",
+      "summary": "Reachy Mini robotics platform extends functionality with Model Context Protocol tools.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Wed, 03 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source": "Hugging Face - Blog",
+      "summary": "Reachy Mini robot enables on-device AI conversations without cloud connectivity.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 27 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Cloudflare enables temporary account creation for AI agent deployment.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-06-21T22:01:04+00:00"
     }
   ]
 }
