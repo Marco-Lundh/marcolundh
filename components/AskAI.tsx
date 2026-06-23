@@ -43,7 +43,7 @@ export default function AskAI() {
     navigator.clipboard.writeText(PROMPT).then(() => {
       setGeminiCopied(true)
       setTimeout(() => setGeminiCopied(false), 10000)
-    })
+    }).catch(() => {})
   }
 
   return (
@@ -78,7 +78,7 @@ export default function AskAI() {
                   viewport={{ once: true }}
                   transition={{ duration: 0.3, delay: i * 0.07 }}
                 >
-                  <div className="pointer-events-none absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1.5 bg-ink text-bg text-xs rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity duration-150">
+                  <div className="pointer-events-none absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1.5 bg-ink text-bg text-xs rounded whitespace-nowrap opacity-0 group-hover:opacity-100 group-focus-within:opacity-100 transition-opacity duration-150">
                     {tooltipText}
                     <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-ink" />
                   </div>
