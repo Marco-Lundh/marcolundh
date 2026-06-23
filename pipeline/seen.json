@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "seen_at": "2026-06-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
-    "seen_at": "2026-06-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
-    "seen_at": "2026-06-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-    "seen_at": "2026-06-15"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
     "seen_at": "2026-06-16"
   },
@@ -554,5 +538,89 @@
   {
     "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
     "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://openai.com/index/patch-the-planet",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "seen_at": "2026-06-23"
   }
 ]
