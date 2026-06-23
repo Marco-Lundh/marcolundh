@@ -1,201 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://openai.com/index/preply",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/olmo-eval",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/delta-weight-sync",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-    "seen_at": "2026-06-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/agent-glossary",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
-    "seen_at": "2026-06-14"
-  },
-  {
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "seen_at": "2026-06-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
-    "seen_at": "2026-06-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
-    "seen_at": "2026-06-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-    "seen_at": "2026-06-15"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
     "seen_at": "2026-06-16"
   },
@@ -538,5 +342,285 @@
   {
     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
     "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://openai.com/index/bbva",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2026",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://machinelearning.apple.com/updates/ppml-2026",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "seen_at": "2026-06-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+    "seen_at": "2026-06-21"
+  },
+  {
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://openai.com/index/preply",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "seen_at": "2026-06-22"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://openai.com/index/patch-the-planet",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+    "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "seen_at": "2026-06-23"
   }
 ]

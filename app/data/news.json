@@ -1,158 +1,194 @@
 {
-  "generated_at": "2026-06-20T05:28:52.982715+00:00",
+  "generated_at": "2026-06-23T05:35:34.799590+00:00",
   "articles": [
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
       "source": "OpenAI News",
-      "summary": "Astrophysicist uses Codex to build black hole simulations testing Einstein's relativity.",
+      "summary": "OpenAI introduces Daybreak tools for vulnerability detection and patching at scale.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+      "reading_time_minutes": 5,
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT"
     },
     {
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
       "source": "OpenAI News",
-      "summary": "OpenAI models now accessible via Oracle Cloud with enterprise security integration.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 2,
-      "published": "Wed, 10 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "source": "OpenAI News",
-      "summary": "Report details PRC-linked influence operations using AI targeting US tech debates.",
-      "category": "Ethics & Policy",
+      "summary": "OpenAI launches Patch the Planet to help open-source maintainers find and fix vulnerabilities.",
+      "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "Wed, 10 Jun 2026 12:00:00 GMT"
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT"
     },
     {
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://openai.com/index/lseg",
-      "source": "OpenAI News",
-      "summary": "LSEG scales trusted AI across business, accelerating insights for 4000 employees.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Wed, 10 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
-      "url": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
+      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
       "source": "NVIDIA Technical Blog",
-      "summary": "DiffusionGemma enables high-throughput text generation for real-time AI applications.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "2026-06-10T16:16:30Z"
+      "summary": "NVIDIA Halos provides comprehensive safety system for autonomous robots in physical environments.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-06-22T13:00:00Z"
     },
     {
-      "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
-      "url": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories/",
+      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
+      "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Infrastructure design for AI factories using battery energy storage systems.",
+      "summary": "NVIDIA CUDA Core Compute Libraries provides efficient abstractions for GPU development.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "2026-06-10T15:00:00Z"
+      "published": "2026-06-22T16:00:00Z"
     },
     {
-      "title": "Introducing Web Search on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+      "title": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI",
+      "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "DAQIRI enables real-time AI inference for high-speed data processing applications.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-06-22T15:00:00Z"
+    },
+    {
+      "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
       "source": "Artificial Intelligence",
-      "summary": "Web Search integration now generally available on Amazon Bedrock AgentCore.",
+      "summary": "Ampersend demonstrates pay-per-intelligence routing for autonomous AI agents on AWS.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Fri, 19 Jun 2026 14:15:24 +0000"
+      "reading_time_minutes": 6,
+      "published": "Mon, 22 Jun 2026 17:53:40 +0000"
     },
     {
-      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+      "title": "Embed the world: Multimodal AI for searchable aerial imagery at scale",
+      "url": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
       "source": "Artificial Intelligence",
-      "summary": "Adobe Marketing Agent integration via Model Context Protocol for marketing workflows.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Fri, 19 Jun 2026 14:05:04 +0000"
+      "summary": "Amazon Nova enables large-scale multimodal semantic search for geospatial imagery.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 7,
+      "published": "Mon, 22 Jun 2026 16:32:15 +0000"
     },
     {
-      "title": "BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning",
-      "url": "https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning",
-      "source": "Apple Machine Learning Research",
-      "summary": "Reinforcement learning framework balancing multiple objectives in image captioning.",
-      "category": "Research & Papers",
+      "title": "Running ComfyUI workflows on Amazon SageMaker AI processing jobs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
+      "source": "Artificial Intelligence",
+      "summary": "Guide to deploying ComfyUI at scale on AWS SageMaker for batch image generation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Mon, 22 Jun 2026 16:28:46 +0000"
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face - Blog",
+      "summary": "PaddlePaddle releases PP-OCRv6 supporting 50 languages with efficient parameter scaling.",
+      "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "Mon, 11 May 2026 00:00:00 GMT"
+      "published": "Mon, 22 Jun 2026 13:18:56 GMT"
     },
     {
-      "title": "RVPO: Risk-Sensitive Alignment via Variance Regularization",
-      "url": "https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment",
-      "source": "Apple Machine Learning Research",
-      "summary": "Risk-sensitive framework penalizing inter-reward variance for robust multi-objective alignment.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Fri, 08 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Velox: Learning Representations of 4D Geometry and Appearance",
-      "url": "https://machinelearning.apple.com/research/velox",
-      "source": "Apple Machine Learning Research",
-      "summary": "Framework learning latent representations of 4D objects from dynamic point clouds.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Fri, 08 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
-      "url": "https://machinelearning.apple.com/research/gaussian-head-reconstruction",
-      "source": "Apple Machine Learning Research",
-      "summary": "Scalable feed-forward method for high-quality 3D Gaussian head reconstruction.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Fri, 08 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "What Matters in Practical Learned Image Compression",
-      "url": "https://machinelearning.apple.com/research/compression",
-      "source": "Apple Machine Learning Research",
-      "summary": "Comprehensive study of learned image codec design optimized for perceptual quality.",
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Research paper explains prompt injection attacks as role confusion in AI systems.",
       "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Thu, 07 May 2026 00:00:00 GMT"
+      "published": "2026-06-22T23:59:53+00:00"
     },
     {
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "source": "Hugging Face - Blog",
-      "summary": "Enterprise AI adoption requires agent logic beyond traditional large language models.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Mon, 01 Jun 2026 13:51:18 GMT"
-    },
-    {
-      "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "title": "Three things to watch amid Anthropic's latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Subquadratic claims breakthrough solving mathematical bottleneck limiting LLMs.",
+      "summary": "Anthropic faces regulatory scrutiny over its Mythos AI model and government compliance.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 22 Jun 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Apple distills Google Gemini to run on-device for next-generation iPhone Siri.",
       "category": "LLMs & Models",
       "reading_time_minutes": 4,
-      "published": "Fri, 19 Jun 2026 10:40:24 +0000"
+      "published": "Thu, 28 May 2026 18:30:48 +0000"
     },
     {
-      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "title": "Startup offers free home cleaning—if it can record it all for robot training",
+      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "DiffusionGemma enables 4x faster local AI execution using diffusion techniques.",
-      "category": "Open Source AI",
+      "summary": "Startup collects robot training data by offering free home cleaning with recording.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 3,
-      "published": "Wed, 10 Jun 2026 19:29:21 +0000"
+      "published": "Fri, 29 May 2026 16:16:14 +0000"
     },
     {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "AI | VentureBeat",
-      "summary": "Railway raises $100M Series B to build AI-native cloud infrastructure platform.",
-      "category": "Funding & Business",
+      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Moebius lightweight inpainting model successfully ported to browser using Claude Code.",
+      "category": "Generative Media",
+      "reading_time_minutes": 4,
+      "published": "2026-06-22T23:43:51+00:00"
+    },
+    {
+      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Trump delays AI safety testing executive order after top CEO absence.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 22 May 2026 16:51:40 +0000"
+    },
+    {
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "US courts struggle managing surge of AI-generated legal documents and filings.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Thu, 04 Jun 2026 10:50:18 +0000"
+    },
+    {
+      "title": "One-Click Multi-Tenant Security with NVIDIA Quantum InfiniBand",
+      "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA InfiniBand introduces intent-based security profiles for multi-tenant fabrics.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-06-11T19:52:37Z"
+    },
+    {
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Trump AI safety testing plan faces criticism over diminished government security capacity.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Wed, 03 Jun 2026 18:11:15 +0000"
+    },
+    {
+      "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+      "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "International Mathematical Union warns of AI industry threats to mathematical research.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Tue, 02 Jun 2026 18:19:06 +0000"
+    },
+    {
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Pokémon Go training data repurposed for military AI drone development.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
+      "published": "Fri, 12 Jun 2026 11:15:41 +0000"
+    },
+    {
+      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "FBI demonstrates ease of identifying non-consensual deepfake creators through metadata.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Tue, 26 May 2026 17:46:01 +0000"
     }
   ]
 }
