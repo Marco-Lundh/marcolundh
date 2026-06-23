@@ -174,6 +174,12 @@ const translationsData = {
         body: 'This unsubscribe link is not valid.',
       },
     },
+    askAI: {
+      heading: 'Ask AI About Me',
+      tooltipDefault: 'Opens with the prompt pre-filled',
+      tooltipGemini: 'Copies the prompt — just paste it in Gemini',
+      tooltipGeminiCopied: 'Prompt copied! Paste it in Gemini.',
+    },
   },
   sv: {
     common: {
@@ -336,6 +342,12 @@ const translationsData = {
         title: 'Ogiltig länk',
         body: 'Den här avregistreringslänken är inte giltig.',
       },
+    },
+    askAI: {
+      heading: 'Fråga AI om mig',
+      tooltipDefault: 'Öppnar med prompten ifylld',
+      tooltipGemini: 'Kopierar prompten — klistra in den i Gemini',
+      tooltipGeminiCopied: 'Prompt kopierad! Klistra in den i Gemini.',
     },
   },
 }

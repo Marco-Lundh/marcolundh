@@ -4,6 +4,7 @@ import About from '@/components/About'
 import Experience from '@/components/Experience'
 import Skills from '@/components/Skills'
 import Contact from '@/components/Contact'
+import AskAI from '@/components/AskAI'
 
 export const metadata = {
   title: 'Marco Lundh — About & CV',
@@ -20,6 +21,7 @@ export default function AboutPage() {
       <Experience />
       <Skills />
       <Contact />
+      <AskAI />
     </main>
   )
 }

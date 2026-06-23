@@ -4,6 +4,7 @@ import type { Article } from '@/lib/types'
 import SiteNav from '@/components/SiteNav'
 import SubscribeForm from './SubscribeForm'
 import ArticleList from './ArticleList'
+import AskAI from '@/components/AskAI'
 
 function loadArticles(): Article[] {
   const filePath = join(process.cwd(), 'app/data/news.json')
@@ -28,6 +29,7 @@ export default function AiNews() {
         <SubscribeForm />
         <ArticleList articles={articles} />
       </div>
+      <AskAI />
     </main>
   )
 }

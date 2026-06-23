@@ -67,7 +67,7 @@ function confirmationHtml(confirmUrl: string, language: Language): string {
   const pStyle =
     'color:#475569;font-size:15px;line-height:1.7;margin:0 0 28px;'
   const buttonStyle =
-    'display:inline-block;background:#1d6fd1;color:#ffffff;font-weight:600;' +
+    'display:inline-block;background:#0f9d6b;color:#ffffff;font-weight:600;' +
     'font-size:15px;text-decoration:none;padding:12px 28px;border-radius:8px;'
   const finePrint =
     'color:#94a3b8;font-size:12px;line-height:1.6;margin:32px 0 0;'

@@ -1,5 +1,6 @@
 import SiteNav from '@/components/SiteNav'
 import ProjectShowcase from './ProjectShowcase'
+import AskAI from '@/components/AskAI'
 
 export const metadata = {
   title: 'Marco Lundh — Portfolio & Projects',
@@ -12,6 +13,7 @@ export default function Portfolio() {
     <main className="min-h-screen bg-bg text-ink">
       <SiteNav />
       <ProjectShowcase />
+      <AskAI />
     </main>
   )
 }

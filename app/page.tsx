@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { motion } from 'framer-motion'
 import SiteNav from '@/components/SiteNav'
+import AskAI from '@/components/AskAI'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 export default function Home() {
@@ -67,6 +68,7 @@ export default function Home() {
           ))}
         </div>
       </div>
+      <AskAI />
     </main>
   )
 }
