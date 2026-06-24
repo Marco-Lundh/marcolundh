@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
-    "seen_at": "2026-06-16"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
-    "seen_at": "2026-06-16"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
-    "seen_at": "2026-06-16"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
-    "seen_at": "2026-06-16"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
-    "seen_at": "2026-06-16"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
-    "seen_at": "2026-06-16"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-    "seen_at": "2026-06-16"
-  },
-  {
     "url": "https://openai.com/index/deployment-simulation",
     "seen_at": "2026-06-17"
   },
@@ -622,5 +594,85 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
     "seen_at": "2026-06-23"
+  },
+  {
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/metric-dependent-annotation-saturation",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/correlated-llm-evaluation-panels",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://openai.com/index/omio",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+    "seen_at": "2026-06-24"
   }
 ]
