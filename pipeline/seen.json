@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/deployment-simulation",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://openai.com/index/endava-frontiers",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-memory-dreaming",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
-    "seen_at": "2026-06-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
-    "seen_at": "2026-06-17"
-  },
-  {
     "url": "https://openai.com/index/ai-chemist-improves-reaction",
     "seen_at": "2026-06-18"
   },
@@ -674,5 +622,53 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
     "seen_at": "2026-06-24"
+  },
+  {
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "seen_at": "2026-06-25"
   }
 ]
