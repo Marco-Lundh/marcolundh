@@ -1,113 +1,176 @@
 {
-  "generated_at": "2026-06-25T05:26:05.874421+00:00",
+  "generated_at": "2026-06-26T05:12:07.115016+00:00",
   "articles": [
     {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
       "source": "OpenAI News",
-      "summary": "OpenAI and Broadcom introduce custom AI chip for efficient LLM inference.",
-      "category": "AI Tools & Frameworks",
+      "summary": "OpenAI research shows AI agents enabling longer complex tasks and expanding productivity.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Wed, 24 Jun 2026 06:00:00 GMT"
+      "published": "Thu, 25 Jun 2026 02:00:00 GMT"
     },
     {
-      "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
-      "url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Optimizing bird's-eye-view perception for autonomous vehicles and robotics.",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI News",
+      "summary": "OpenAI introduces deployment simulation to predict model behavior and improve safety evaluation.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
-      "published": "2026-06-24T16:30:00Z"
+      "published": "Tue, 16 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
-      "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
+      "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+      "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Fine-tuning protein and genomic foundation models with efficient LoRA techniques.",
-      "category": "Research & Papers",
+      "summary": "NVIDIA TensorRT enables efficient AI inference scaling across multiple GPUs for media generation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-06-25T16:43:48Z"
+    },
+    {
+      "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
+      "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA XR AI enables developers to build intelligent agents for AR and wearable devices.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-06-16T22:30:00Z"
+    },
+    {
+      "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
+      "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Guide to building custom foundation models for financial transaction analysis and insights.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "2026-06-16T20:30:08Z"
+    },
+    {
+      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Blackwell achieves best performance in MLPerf Training v6.0 benchmarks.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-06-16T18:11:00Z"
+    },
+    {
+      "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+      "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA ACE SDK enables developers to build on-device AI game characters using Unreal Engine.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-06-16T17:00:00Z"
+    },
+    {
+      "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
+      "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Techniques for optimizing transformer training efficiency through low-precision computation.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 7,
-      "published": "2026-06-15T18:07:31Z"
+      "published": "2026-06-16T16:00:00Z"
     },
     {
-      "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
-      "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Improving mixture-of-experts model training efficiency with optimized kernels.",
+      "title": "Retrofit, don't rebuild: Agentic overlays for transforming legacy enterprise services",
+      "url": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS presents agentic overlays to add AI capabilities to legacy REST services without rebuilding.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 7,
+      "published": "Thu, 25 Jun 2026 17:55:10 +0000"
+    },
+    {
+      "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/",
+      "source": "Artificial Intelligence",
+      "summary": "Guide to optimizing training jobs on SageMaker with Blackwell GPUs for best performance.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 7,
-      "published": "2026-06-15T16:45:41Z"
+      "published": "Thu, 25 Jun 2026 16:41:47 +0000"
     },
     {
-      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
-      "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Vision-language-action models enabling robot control and embodied AI applications.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 8,
-      "published": "2026-06-15T12:00:00Z"
-    },
-    {
-      "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
+      "title": "Implementing super resolution by deploying SeedVR2 on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai/",
       "source": "Artificial Intelligence",
-      "summary": "Scalable PII and PCI redaction across millions of documents with high accuracy.",
+      "summary": "Tutorial on video upscaling using SeedVR2 for super resolution on SageMaker.",
+      "category": "Generative Media",
+      "reading_time_minutes": 6,
+      "published": "Thu, 25 Jun 2026 16:40:13 +0000"
+    },
+    {
+      "title": "Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Open source solution using AI agents for self-service AWS health event analytics.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Thu, 25 Jun 2026 16:38:12 +0000"
+    },
+    {
+      "title": "Building agentic AI applications with a modern data mesh strategy on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Data mesh architecture for secure scalable foundation for production agentic AI applications.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Thu, 25 Jun 2026 16:35:07 +0000"
+    },
+    {
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face enables easy deployment of vLLM servers for language model inference.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Fri, 26 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "source": "Hugging Face - Blog",
+      "summary": "Research analyzing token prediction capabilities of hybrid language models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 25 Jun 2026 16:11:42 GMT"
+    },
+    {
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI reshaping retail through backend decisions on search inventory and engineering processes.",
       "category": "AI in Industry",
       "reading_time_minutes": 6,
-      "published": "Wed, 24 Jun 2026 18:24:50 +0000"
+      "published": "Thu, 25 Jun 2026 14:22:59 +0000"
     },
     {
-      "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
-      "source": "Artificial Intelligence",
-      "summary": "Voice agent for healthcare appointments using Nova 2 Sonic with escalation.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "Wed, 24 Jun 2026 18:20:27 +0000"
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic reports Alibaba conducted massive Claude model cloning attack with millions of exchanges.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Thu, 25 Jun 2026 18:01:48 +0000"
     },
     {
-      "title": "AI-powered BI with Snowflake and Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Natural-language business intelligence integration between Snowflake and Amazon.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "Wed, 24 Jun 2026 18:19:35 +0000"
-    },
-    {
-      "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/",
-      "source": "Artificial Intelligence",
-      "summary": "Production voice assistant architecture emphasizing natural, responsive interactions.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Wed, 24 Jun 2026 16:56:24 +0000"
-    },
-    {
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "source": "Hugging Face - Blog",
-      "summary": "Efficient fine-tuning of transformer models using NVIDIA NeMo AutoModel.",
+      "title": "IBM claims world's first sub-1 nanometer chip technology",
+      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "IBM announces breakthrough sub-1nm transistor technology to boost chip performance.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Wed, 24 Jun 2026 16:00:13 GMT"
+      "reading_time_minutes": 3,
+      "published": "Thu, 25 Jun 2026 10:00:55 +0000"
     },
     {
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "source": "Hugging Face - Blog",
-      "summary": "Benchmarking automatic speech recognition systems in real-world conditions.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Wed, 24 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "New infrastructure emerging for accessing and processing structured web data.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Wed, 24 Jun 2026 11:59:54 +0000"
+      "title": "AI and Liability",
+      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Analysis of German court ruling holding Google liable for AI overview errors.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "2026-06-25T22:28:46+00:00"
     }
   ]
 }

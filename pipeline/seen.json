@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://openai.com/index/economic-research-exchange",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/vsas-bench-streaming-assistant",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/epicache",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/molmomotion",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/openenv-agentic-rl",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/Hcompany/holo31",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-    "seen_at": "2026-06-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/",
-    "seen_at": "2026-06-18"
-  },
-  {
     "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
     "seen_at": "2026-06-19"
   },
@@ -670,5 +574,81 @@
   {
     "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
     "seen_at": "2026-06-25"
+  },
+  {
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://openai.com/index/deployment-simulation",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+    "seen_at": "2026-06-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+    "seen_at": "2026-06-26"
   }
 ]
