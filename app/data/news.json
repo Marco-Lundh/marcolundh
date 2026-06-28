@@ -1,212 +1,158 @@
 {
-  "generated_at": "2026-06-27T05:24:10.524885+00:00",
+  "generated_at": "2026-06-28T05:36:39.824240+00:00",
   "articles": [
     {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "source": "OpenAI News",
-      "summary": "OpenAI previews GPT-5.6 Sol with stronger capabilities in coding, science, and cybersecurity.",
+      "summary": "OpenAI introduces spend controls and analytics for ChatGPT Enterprise cost management.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Thu, 18 Jun 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "GPT-5.5 Instant improves health responses with enhanced reasoning and physician evaluations.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Fri, 26 Jun 2026 10:00:00 GMT"
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "source": "OpenAI News",
-      "summary": "AI chemist using GPT-5.4 autonomously improved key drug-making reaction in medicinal chemistry.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "source": "OpenAI News",
-      "summary": "Expert-authored benchmark for evaluating AI systems on real-world life science research tasks.",
-      "category": "Research & Papers",
       "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 00:00:00 GMT"
+      "published": "Thu, 18 Jun 2026 11:00:00 GMT"
     },
     {
-      "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA AI-Q Blueprint enables production-ready AI agent deployment on Oracle Cloud Infrastructure.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-06-26T19:00:45Z"
-    },
-    {
-      "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
-      "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Model Optimizer creates efficient Nemotron checkpoints through advanced quantization techniques.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-06-26T16:00:35Z"
-    },
-    {
-      "title": "Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
-      "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "KRAFTON built PUBG Ally, an AI-powered interactive game character using NVIDIA ACE platform.",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "source": "OpenAI News",
+      "summary": "Reasoning model identifies 18 new diagnoses in previously unsolved rare disease cases.",
       "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "2026-06-25T16:38:18Z"
+      "published": "Thu, 18 Jun 2026 08:00:00 GMT"
     },
     {
-      "title": "Build interactive PDF text extraction from Amazon S3",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
+      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
       "source": "Artificial Intelligence",
-      "summary": "Build real-time PDF text extraction server from S3 with programmatic document access capabilities.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 7,
-      "published": "Fri, 26 Jun 2026 14:47:45 +0000"
+      "summary": "AWS SageMaker provides observability tools for monitoring generative AI inference workloads.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Thu, 18 Jun 2026 23:31:58 +0000"
     },
     {
-      "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Cara delivers domain-specific AI solutions for enterprise insurance brokerages using AWS services.",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face - Blog",
+      "summary": "Security analysis examining information leakage vulnerabilities in research AI agents.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Thu, 18 Jun 2026 18:13:13 GMT"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "source": "Hugging Face - Blog",
+      "summary": "Explores alternatives to LoRA for improved model fine-tuning performance.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face - Blog",
+      "summary": "Framework for benchmarking open models on agentic capabilities with custom tools.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": "Hugging Face - Blog",
+      "summary": "AI agent successfully chains multiple tools to create interactive 3D galleries.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Tue, 09 Jun 2026 10:46:19 GMT"
+    },
+    {
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Leadership strategies for managing hybrid human-AI workforces with autonomous agents.",
       "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Fri, 26 Jun 2026 14:42:20 +0000"
-    },
-    {
-      "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
-      "url": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
-      "source": "Artificial Intelligence",
-      "summary": "Stripe built production-grade AI agents for financial compliance with advanced orchestration patterns.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 8,
-      "published": "Fri, 26 Jun 2026 14:38:01 +0000"
-    },
-    {
-      "title": "Introducing the Third Generation of Apple's Foundation Models",
-      "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple's third-generation foundation models integrate privacy-first design across device and cloud.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models",
-      "url": "https://machinelearning.apple.com/research/vsas-bench-streaming-assistant",
-      "source": "Apple Machine Learning Research",
-      "summary": "VSAS-Bench evaluates real-time streaming vision-language models for visual assistant applications.",
-      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Fri, 22 May 2026 00:00:00 GMT"
+      "published": "Tue, 09 Jun 2026 10:20:06 +0000"
     },
     {
-      "title": "EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments",
-      "url": "https://machinelearning.apple.com/research/epicache",
-      "source": "Apple Machine Learning Research",
-      "summary": "EpiCache manages KV cache efficiently for long-context conversations on resource-constrained devices.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 19 May 2026 00:00:00 GMT"
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face - Blog",
-      "summary": "Strands and LeRobot enable deployment of Hugging Face models directly to robot hardware.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 10:18:05 GMT"
-    },
-    {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "source": "Hugging Face - Blog",
-      "summary": "GLM-5.2 open-weights model optimized for complex long-horizon task planning and execution.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 09:01:25 GMT"
-    },
-    {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "source": "Hugging Face - Blog",
-      "summary": "New Hugging Face feature enables agents to autonomously discover and utilize available resources.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "source": "Hugging Face - Blog",
-      "summary": "OpenEnv open-source framework enables reinforcement learning for autonomous agent development.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA Nemotron 3.5 provides customizable multimodal safety features for enterprise AI systems.",
+      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "AI | VentureBeat",
+      "summary": "Google transforms search interface to integrate AI-powered features beyond traditional link results.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "Thu, 04 Jun 2026 18:57:45 GMT"
-    },
-    {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "NVIDIA's AI coding agents autonomously direct robot training for hardware installation tasks.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 19:25:19 +0000"
-    },
-    {
-      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google's Gemma 4 12B efficiently runs on laptops using novel encoding and token prediction techniques.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 03 Jun 2026 19:10:03 +0000"
-    },
-    {
-      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Microsoft Project Solara creates Android OS optimized for autonomous AI agents over traditional apps.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 02 Jun 2026 20:47:54 +0000"
+      "published": "Tue, 19 May 2026 17:45:00 GMT"
     },
     {
       "title": "What happened after 2,000 people tried to hack my AI assistant",
-      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/",
+      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Security challenge found AI assistant resistant to prompt injection attacks from thousands of attempts.",
+      "summary": "Security challenge reveals AI agents resist prompt injection attacks effectively.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
       "published": "2026-06-26T18:33:14+00:00"
     },
     {
-      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-      "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
+      "title": "Quoting OpenAI",
+      "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Z.ai's GLM-5.2 753B open-weights model demonstrates state-of-art performance in text-only tasks.",
+      "summary": "OpenAI announces GPT-5.6 series with Sol, Terra, and Luna models.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "2026-06-26T17:10:43+00:00"
+    },
+    {
+      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Z.ai releases 753B parameter open-weight GLM-5.2 model under MIT license.",
       "category": "Open Source AI",
       "reading_time_minutes": 4,
       "published": "2026-06-17T23:58:39+00:00"
     },
     {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "New York Times alleges Microsoft supercomputer built to facilitate OpenAI copyright infringement.",
+      "title": "Incident Report: CVE-2026-LGTM",
+      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Satirical incident report exploring AI agent interactions in software development workflows.",
       "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-06-26T17:58:54+00:00"
+    },
+    {
+      "title": "simonw/browser-compat-db",
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Converts browser compatibility data to SQLite database format for AI agent access.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-06-24T23:59:03+00:00"
+    },
+    {
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "sqlite-utils library adds migration and transaction features for database operations.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-06-21T23:35:47+00:00"
+    },
+    {
+      "title": "datasette 1.0a35",
+      "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette 1.0a35 adds table creation interface and JSON API improvements.",
+      "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "Fri, 26 Jun 2026 20:04:55 +0000"
+      "published": "2026-06-23T21:34:37+00:00"
     }
   ]
 }
