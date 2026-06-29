@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
-    "seen_at": "2026-06-21"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-    "seen_at": "2026-06-21"
-  },
-  {
     "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "seen_at": "2026-06-22"
   },
@@ -574,5 +522,85 @@
   {
     "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
     "seen_at": "2026-06-28"
+  },
+  {
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/gaussian-head-reconstruction",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://machinelearning.apple.com/updates/ppml-2026",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2026",
+    "seen_at": "2026-06-29"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "seen_at": "2026-06-29"
   }
 ]

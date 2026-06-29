@@ -1,158 +1,185 @@
 {
-  "generated_at": "2026-06-28T05:36:39.824240+00:00",
+  "generated_at": "2026-06-29T05:36:12.311755+00:00",
   "articles": [
     {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
       "source": "OpenAI News",
-      "summary": "OpenAI introduces spend controls and analytics for ChatGPT Enterprise cost management.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Thu, 18 Jun 2026 17:00:00 GMT"
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "GPT-5.5 Instant improves health responses with enhanced reasoning and physician evaluations.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 18 Jun 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source": "OpenAI News",
-      "summary": "Reasoning model identifies 18 new diagnoses in previously unsolved rare disease cases.",
+      "summary": "HP scales OpenAI partnership to deploy AI across customer experiences and operations.",
       "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 18 Jun 2026 08:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "Sun, 28 Jun 2026 17:00:00 GMT"
     },
     {
-      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
-      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+      "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
       "source": "Artificial Intelligence",
-      "summary": "AWS SageMaker provides observability tools for monitoring generative AI inference workloads.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Thu, 18 Jun 2026 23:31:58 +0000"
+      "summary": "Web Search on Amazon Bedrock AgentCore now generally available for agent applications.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Fri, 19 Jun 2026 14:15:24 +0000"
     },
     {
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "source": "Hugging Face - Blog",
-      "summary": "Security analysis examining information leakage vulnerabilities in research AI agents.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Thu, 18 Jun 2026 18:13:13 GMT"
+      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "Adobe Marketing Agent integrates with Amazon Quick using Model Context Protocol for insights.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Fri, 19 Jun 2026 14:05:04 +0000"
     },
     {
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "source": "Hugging Face - Blog",
-      "summary": "Explores alternatives to LoRA for improved model fine-tuning performance.",
+      "title": "BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning",
+      "url": "https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning",
+      "source": "Apple Machine Learning Research",
+      "summary": "Reinforcement learning framework balances multiple objectives in multimodal image captioning.",
       "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
+      "published": "Mon, 11 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face - Blog",
-      "summary": "Framework for benchmarking open models on agentic capabilities with custom tools.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face - Blog",
-      "summary": "AI agent successfully chains multiple tools to create interactive 3D galleries.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 09 Jun 2026 10:46:19 GMT"
-    },
-    {
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Leadership strategies for managing hybrid human-AI workforces with autonomous agents.",
-      "category": "AI in Industry",
+      "title": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+      "url": "https://machinelearning.apple.com/research/gaussian-head-reconstruction",
+      "source": "Apple Machine Learning Research",
+      "summary": "Scalable method reconstructs high-quality 3D heads using Gaussian representations efficiently.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Tue, 09 Jun 2026 10:20:06 +0000"
+      "published": "Fri, 08 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "AI | VentureBeat",
-      "summary": "Google transforms search interface to integrate AI-powered features beyond traditional link results.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Tue, 19 May 2026 17:45:00 GMT"
+      "title": "RVPO: Risk-Sensitive Alignment via Variance Regularization",
+      "url": "https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment",
+      "source": "Apple Machine Learning Research",
+      "summary": "Risk-sensitive framework improves multi-objective reward alignment in language model training.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Fri, 08 May 2026 00:00:00 GMT"
     },
     {
-      "title": "What happened after 2,000 people tried to hack my AI assistant",
-      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Security challenge reveals AI agents resist prompt injection attacks effectively.",
+      "title": "Apple Workshop on Privacy-Preserving Machine Learning & AI 2026",
+      "url": "https://machinelearning.apple.com/updates/ppml-2026",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple advances privacy-preserving techniques for AI integration in daily applications.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "2026-06-26T18:33:14+00:00"
+      "published": "Fri, 08 May 2026 00:00:00 GMT"
     },
     {
-      "title": "Quoting OpenAI",
-      "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI announces GPT-5.6 series with Sol, Terra, and Luna models.",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "source": "Hugging Face - Blog",
+      "summary": "Performance optimization techniques for PyTorch model fusion and efficiency improvements.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Subquadratic solves decade-old mathematical bottleneck limiting large language model progress.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Fri, 19 Jun 2026 10:40:24 +0000"
+    },
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "DeepMind researches risks of mass-market AI agent interactions without human oversight.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Thu, 11 Jun 2026 11:00:45 +0000"
+    },
+    {
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "DiffusionGemma accelerates local AI inference speed four times for text generation.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "2026-06-26T17:10:43+00:00"
+      "published": "Wed, 10 Jun 2026 19:29:21 +0000"
     },
     {
-      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Z.ai releases 753B parameter open-weight GLM-5.2 model under MIT license.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "2026-06-17T23:58:39+00:00"
-    },
-    {
-      "title": "Incident Report: CVE-2026-LGTM",
-      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Satirical incident report exploring AI agent interactions in software development workflows.",
+      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Illinois passes landmark AI safety testing law supported by Anthropic and OpenAI.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-06-26T17:58:54+00:00"
+      "reading_time_minutes": 4,
+      "published": "Thu, 28 May 2026 17:01:16 +0000"
     },
     {
-      "title": "simonw/browser-compat-db",
-      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Converts browser compatibility data to SQLite database format for AI agent access.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-06-24T23:59:03+00:00"
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "AI | VentureBeat",
+      "summary": "Railway raises $100M Series B for AI-native cloud infrastructure challenging AWS.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
     },
     {
-      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
-      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "sqlite-utils library adds migration and transaction features for database operations.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-06-21T23:35:47+00:00"
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "AI | VentureBeat",
+      "summary": "Open-source Goose offers free alternative to Anthropic's paid Claude Code agent.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
     },
     {
-      "title": "datasette 1.0a35",
-      "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Datasette 1.0a35 adds table creation interface and JSON API improvements.",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "AI | VentureBeat",
+      "summary": "Listen Labs secures $69M to scale AI-powered customer interview platform growth.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Fri, 16 Jan 2026 14:01:00 GMT"
+    },
+    {
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "AI | VentureBeat",
+      "summary": "Salesforce launches rebuilt Slackbot AI agent with document drafting and enterprise search.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "AI | VentureBeat",
+      "summary": "Anthropic releases Cowork agent extending Claude Code capabilities to non-technical users.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
+    },
+    {
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "AI | VentureBeat",
+      "summary": "NousCoder-14B open-source competitive coding model trained efficiently in four days.",
       "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "2026-06-23T21:34:37+00:00"
+      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
+    },
+    {
+      "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026",
+      "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2026",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple presents new computer vision research at annual CVPR conference in Denver.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 3,
+      "published": "Thu, 28 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Flexible grid management enables faster data center deployment for AI infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 16 Jun 2026 09:00:00 +0000"
     }
   ]
 }
