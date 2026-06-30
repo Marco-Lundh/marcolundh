@@ -1,0 +1,26 @@
+name: Supabase Keepalive
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X HEAD \
+            "$SUPABASE_URL/rest/v1/subscribers" \
+            -H "apikey: $SUPABASE_SERVICE_KEY" \
+            -H "Authorization: Bearer $SUPABASE_SERVICE_KEY")
+          echo "Supabase status: $STATUS"
+          if [[ "$STATUS" != 2* ]]; then
+            echo "Unexpected status code: $STATUS"
+            exit 1
+          fi
