@@ -34,8 +34,8 @@ const jobs: Job[] = [
     industry: 'IT Consulting',
     description: 'Deployed at two clients as a senior consultant:',
     bullets: [
-      'NIRA Dynamics — Road Perception team (15 people). Vehicle-based environment sensing systems, development and operations.',
-      'Ericsson — Agile Scrum team automating delivery of networks, storage, and hardware (LabOps). Built Python integrations with multiple APIs (incl. Jira) and developed a new configuration management service.',
+      'NIRA Dynamics - Road Perception team (15 people). Vehicle-based environment sensing systems, development and operations.',
+      'Ericsson - Agile Scrum team automating delivery of networks, storage, and hardware (LabOps). Built Python integrations with multiple APIs (incl. Jira) and developed a new configuration management service.',
     ],
     stack: [
       'Python', 'Flask', 'JavaScript', 'REST APIs', 'PostgreSQL', 'SQLite',
@@ -48,7 +48,7 @@ const jobs: Job[] = [
     period: 'February 2009 – February 2022',
     industry: 'MedTech AI · 13 years',
     description:
-      'Grew from IT Administrator to Software Developer at a medical imaging AI company (deep learning, prostate cancer detection). On own initiative, built a delivery and license management tool that later became the foundation for the company\'s current tool. Responsible for business-critical systems: Customer Portal and Package & Delivery. Built integrations with Microsoft Dynamics 365 Business Central, Hogia, and FileZilla. Key technical role in the INIFY Prostate AI project — technical decisions, cost optimization, and cross-project synergies.',
+      'Grew from IT Administrator to Software Developer at a medical imaging AI company (deep learning, prostate cancer detection). On own initiative, built a delivery and license management tool that later became the foundation for the company\'s current tool. Responsible for business-critical systems: Customer Portal and Package & Delivery. Built integrations with Microsoft Dynamics 365 Business Central, Hogia, and FileZilla. Key technical role in the INIFY Prostate AI project - technical decisions, cost optimization, and cross-project synergies.',
     stack: [
       'Python', 'Flask', 'SQLAlchemy', 'Celery', 'Elasticsearch',
       'React', 'MySQL', 'AWS', 'Apache', 'Prometheus', 'Grafana', 'CI/CD',

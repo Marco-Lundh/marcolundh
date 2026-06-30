@@ -40,7 +40,7 @@ describe('SubscribeForm', () => {
 
     await waitFor(() =>
       expect(
-        screen.getByText('Nästan klart — kolla din inkorg')
+        screen.getByText('Nästan klart - kolla din inkorg')
       ).toBeInTheDocument()
     )
 
@@ -65,7 +65,7 @@ describe('SubscribeForm', () => {
 
     await waitFor(() =>
       expect(
-        screen.getByText('Something went wrong — please try again.')
+        screen.getByText('Something went wrong - please try again.')
       ).toBeInTheDocument()
     )
   })
@@ -81,7 +81,7 @@ describe('SubscribeForm', () => {
 
     await waitFor(() =>
       expect(
-        screen.getByText('Something went wrong — please try again.')
+        screen.getByText('Something went wrong - please try again.')
       ).toBeInTheDocument()
     )
   })

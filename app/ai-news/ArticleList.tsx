@@ -16,7 +16,7 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
     return (
       <div className="max-w-3xl w-full text-center py-16">
         <p className="text-ink-muted font-mono text-sm">
-          Today&apos;s stories are being curated — check back soon.
+          Today&apos;s stories are being curated - check back soon.
         </p>
       </div>
     )
