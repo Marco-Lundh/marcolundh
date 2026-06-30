@@ -11,10 +11,10 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://marco-tech.se'),
   title: 'marco-tech.se',
   description:
-    'A home for backend engineering and AI — built by Marco Lundh.',
+    'A home for backend engineering and AI - built by Marco Lundh.',
   openGraph: {
     title: 'marco-tech.se',
-    description: 'A home for backend engineering and AI — built by Marco Lundh.',
+    description: 'A home for backend engineering and AI - built by Marco Lundh.',
     type: 'website',
   },
 }
