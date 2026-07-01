@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://openai.com/index/patch-the-planet",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-    "seen_at": "2026-06-23"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-    "seen_at": "2026-06-23"
-  },
-  {
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "seen_at": "2026-06-24"
   },
@@ -582,5 +498,101 @@
   {
     "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
     "seen_at": "2026-06-30"
+  },
+  {
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "seen_at": "2026-07-01"
   }
 ]
