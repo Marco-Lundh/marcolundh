@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/metric-dependent-annotation-saturation",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/correlated-llm-evaluation-panels",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/cross-origin-storage",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/local-models-pr-triage",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://openai.com/index/omio",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "seen_at": "2026-06-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-    "seen_at": "2026-06-24"
-  },
-  {
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "seen_at": "2026-06-25"
   },
@@ -594,5 +514,81 @@
   {
     "url": "https://huggingface.co/blog/eee-community-evals",
     "seen_at": "2026-07-01"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://openai.com/index/patch-the-planet",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "seen_at": "2026-07-02"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+    "seen_at": "2026-07-02"
   }
 ]

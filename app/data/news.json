@@ -1,221 +1,176 @@
 {
-  "generated_at": "2026-07-01T05:21:54.059828+00:00",
+  "generated_at": "2026-07-02T05:56:39.408898+00:00",
   "articles": [
     {
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
       "source": "OpenAI News",
-      "summary": "New benchmark for testing AI performance in genomics and scientific research.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
+      "summary": "OpenAI introduces Daybreak security tools including Codex Security and GPT-5.5-Cyber for vulnerability detection.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT"
     },
     {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
       "source": "OpenAI News",
-      "summary": "Samsung deploys ChatGPT Enterprise to employees globally in major rollout.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Sun, 21 Jun 2026 23:00:00 GMT"
-    },
-    {
-      "title": "Introducing Claude Sonnet 5 on AWS: Anthropic's most capable Sonnet model",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
-      "source": "Artificial Intelligence",
-      "summary": "Claude Sonnet 5 released with improved capabilities at competitive pricing.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Tue, 30 Jun 2026 18:40:09 +0000"
-    },
-    {
-      "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/",
-      "source": "Artificial Intelligence",
-      "summary": "AG-UI protocol enables interactive agent frontends with generative capabilities.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Tue, 30 Jun 2026 16:46:17 +0000"
-    },
-    {
-      "title": "Simplify multi-account access to Amazon Bedrock models with managed entitlements",
-      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/",
-      "source": "Artificial Intelligence",
-      "summary": "Managed entitlements simplify enterprise access to Bedrock models across accounts.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Tue, 30 Jun 2026 16:42:49 +0000"
-    },
-    {
-      "title": "Implementing resilience patterns with Amazon Bedrock and LLM gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/",
-      "source": "Artificial Intelligence",
-      "summary": "Five practical patterns for building resilient generative AI applications.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "Tue, 30 Jun 2026 16:40:47 +0000"
-    },
-    {
-      "title": "How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS infrastructure achieves 8x faster training speeds for visual effects models.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Tue, 30 Jun 2026 16:37:09 +0000"
-    },
-    {
-      "title": "Building bilingual NER for cargo logistics with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Token-based distillation enables bilingual NER for cargo logistics applications.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 30 Jun 2026 16:33:46 +0000"
-    },
-    {
-      "title": "Fine-tune Amazon Nova models for accurate email data extraction",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/",
-      "source": "Artificial Intelligence",
-      "summary": "Fine-tuning Amazon Nova achieves 94.77% extraction accuracy with cost savings.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Tue, 30 Jun 2026 16:26:48 +0000"
-    },
-    {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face - Blog",
-      "summary": "Benchmark for evaluating AI agents on Java framework migration tasks.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 30 Jun 2026 18:32:50 GMT"
-    },
-    {
-      "title": "Claude Science is Anthropic's newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Claude Science enables autonomous scientific research tasks with high-level instructions.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 30 Jun 2026 21:50:04 +0000"
-    },
-    {
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Gemini 3.1 Flash Lite offers fastest and most affordable image generation.",
-      "category": "Generative Media",
-      "reading_time_minutes": 3,
-      "published": "Tue, 30 Jun 2026 18:36:10 +0000"
-    },
-    {
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google takes legal action against cybercriminals using Gemini for fraud.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Fri, 12 Jun 2026 16:34:36 +0000"
-    },
-    {
-      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google adds deepfake call detection to Android for scam prevention.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Tue, 02 Jun 2026 18:00:46 +0000"
-    },
-    {
-      "title": "What's new in Claude Sonnet 5",
-      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Sonnet 5 offers Opus-level performance at lower pricing for developers.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "2026-06-30T21:23:02+00:00"
-    },
-    {
-      "title": "Have your agent record video demos of its work with shot-scraper video",
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "shot-scraper records video demonstrations of agent work using Playwright.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "2026-06-30T16:54:26+00:00"
-    },
-    {
-      "title": "shot-scraper 1.10",
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "shot-scraper 1.10 adds video recording capability for web application routines.",
+      "summary": "OpenAI launches Patch the Planet to help open-source maintainers identify and fix security vulnerabilities.",
       "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-06-30T15:10:14+00:00"
+      "reading_time_minutes": 4,
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT"
     },
     {
-      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
-      "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
+      "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA GQE optimizes GPU-accelerated database queries for memory efficiency.",
-      "category": "MLOps & Infrastructure",
+      "summary": "NVIDIA explores reinforcement learning techniques for training and aligning AI agents effectively.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "2026-06-30T17:36:43Z"
+      "published": "2026-07-01T17:04:02Z"
     },
     {
-      "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
-      "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/",
+      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Nsight tools optimize neural reconstruction pipelines for 3D representation.",
+      "summary": "NVIDIA introduces Halos, a safety system for autonomous robots operating alongside humans in physical spaces.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 7,
+      "published": "2026-06-22T13:00:00Z"
+    },
+    {
+      "title": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI",
+      "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA presents DAQIRI for real-time AI processing in high-speed scientific data acquisition workflows.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "2026-06-22T15:00:00Z"
+    },
+    {
+      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
+      "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA releases CCCL Runtime, modernizing C++ abstractions for efficient CUDA and Python development.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "2026-06-30T16:00:00Z"
+      "published": "2026-06-22T16:00:00Z"
     },
     {
-      "title": "Safely Releasing Frontier Models to Customers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/",
+      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
       "source": "Artificial Intelligence",
-      "summary": "AWS establishes security practices for releasing frontier AI models safely.",
+      "summary": "AWS GovCloud now supports NVIDIA Nemotron and OpenAI GPT open-weight models for government applications.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Wed, 01 Jul 2026 18:14:34 +0000"
+    },
+    {
+      "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/",
+      "source": "Artificial Intelligence",
+      "summary": "Inscribe deploys agentic AI via Amazon Bedrock to detect financial document fraud in under 90 seconds.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Wed, 01 Jul 2026 17:53:16 +0000"
+    },
+    {
+      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS demonstrates building a serverless agent-to-agent gateway for multi-agent discovery and routing.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Wed, 01 Jul 2026 18:07:06 +0000"
+    },
+    {
+      "title": "Structured memory filtering with metadata in AgentCore Memory",
+      "url": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS explores metadata-driven memory filtering for multi-agent and multi-tenant AI architectures.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Wed, 01 Jul 2026 18:03:10 +0000"
+    },
+    {
+      "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+      "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS implements HippoRAG, a neurobiologically-inspired retrieval-augmented generation system for enterprise applications.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "Wed, 01 Jul 2026 18:01:32 +0000"
+    },
+    {
+      "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
+      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS releases open source Model Profiler tool for simplified model selection and metadata aggregation.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 01 Jul 2026 17:46:54 +0000"
+    },
+    {
+      "title": "Accelerate protein design with BoltzGen on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS demonstrates deploying BoltzGen for scalable protein design research with iterative workflow optimization.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Wed, 01 Jul 2026 17:44:08 +0000"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face and Cerebras enable real-time voice AI capabilities with Gemma 4 integration.",
+      "category": "Generative Media",
+      "reading_time_minutes": 4,
+      "published": "Wed, 01 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face - Blog",
+      "summary": "PaddlePaddle releases PP-OCRv6, a scalable multilingual optical character recognition model.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Mon, 22 Jun 2026 13:18:56 GMT"
+    },
+    {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic's Fable and Mythos models receive global release following US safety testing clearance.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Wed, 01 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "A startup tackles LLM bias and diversity issues in model outputs and reasoning patterns.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 01 Jul 2026 14:35:16 +0000"
+    },
+    {
+      "title": "Three things to watch amid Anthropic's latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "MIT Technology Review analyzes key regulatory and policy implications of Anthropic's government tensions.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Wed, 01 Jul 2026 03:13:19 +0000"
+      "published": "Mon, 22 Jun 2026 18:00:00 +0000"
     },
     {
-      "title": "Agriculture is ready for AI, but its data isn't",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Agricultural AI requires foundational data infrastructure before implementation.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 30 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI News",
-      "summary": "ChatGPT adoption grows globally with increased usage across regions and languages.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Tue, 30 Jun 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "source": "OpenAI News",
-      "summary": "Large-scale core dump analysis reveals hardware fault and legacy software bug.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face integrates community evaluation results directly on model pages.",
-      "category": "AI Tools & Frameworks",
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Significant AI data center projects face environmental and community opposition delaying infrastructure expansion.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
+      "published": "Fri, 12 Jun 2026 17:18:49 +0000"
     }
   ]
 }
