@@ -1,176 +1,230 @@
 {
-  "generated_at": "2026-07-02T05:56:39.408898+00:00",
+  "generated_at": "2026-07-03T05:17:02.744322+00:00",
   "articles": [
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
       "source": "OpenAI News",
-      "summary": "OpenAI introduces Daybreak security tools including Codex Security and GPT-5.5-Cyber for vulnerability detection.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches Patch the Planet to help open-source maintainers identify and fix security vulnerabilities.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
-      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA explores reinforcement learning techniques for training and aligning AI agents effectively.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-07-01T17:04:02Z"
-    },
-    {
-      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA introduces Halos, a safety system for autonomous robots operating alongside humans in physical spaces.",
+      "summary": "GPT-5 advances immunology research by solving complex T cell behavior mysteries.",
       "category": "AI in Industry",
-      "reading_time_minutes": 7,
-      "published": "2026-06-22T13:00:00Z"
+      "reading_time_minutes": 3,
+      "published": "Tue, 23 Jun 2026 17:00:00 GMT"
     },
     {
-      "title": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI",
-      "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA presents DAQIRI for real-time AI processing in high-speed scientific data acquisition workflows.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-06-22T15:00:00Z"
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "source": "OpenAI News",
+      "summary": "OpenAI supports evaluation frameworks and safety practices for advanced AI standardization.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Tue, 23 Jun 2026 13:00:00 GMT"
     },
     {
-      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
-      "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "source": "OpenAI News",
+      "summary": "Omio transforms travel experience using OpenAI conversational AI technology.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Tue, 23 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
+      "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA releases CCCL Runtime, modernizing C++ abstractions for efficient CUDA and Python development.",
+      "summary": "DFlash speculative decoding achieves 15x inference speedup on NVIDIA Blackwell hardware.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "2026-06-22T16:00:00Z"
+      "published": "2026-06-23T15:00:00Z"
     },
     {
-      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS GovCloud now supports NVIDIA Nemotron and OpenAI GPT open-weight models for government applications.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Wed, 01 Jul 2026 18:14:34 +0000"
-    },
-    {
-      "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/",
-      "source": "Artificial Intelligence",
-      "summary": "Inscribe deploys agentic AI via Amazon Bedrock to detect financial document fraud in under 90 seconds.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Wed, 01 Jul 2026 17:53:16 +0000"
-    },
-    {
-      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS demonstrates building a serverless agent-to-agent gateway for multi-agent discovery and routing.",
+      "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
+      "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA BioNeMo Agent Toolkit enables autonomous AI agents for scientific discovery.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Wed, 01 Jul 2026 18:07:06 +0000"
+      "published": "2026-06-23T13:30:00Z"
     },
     {
-      "title": "Structured memory filtering with metadata in AgentCore Memory",
-      "url": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS explores metadata-driven memory filtering for multi-agent and multi-tenant AI architectures.",
+      "title": "Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations",
+      "url": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Full-stack optimizations reduce AI factory operating expenses through energy efficiency.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-06-23T16:30:00Z"
+    },
+    {
+      "title": "How Telcos Build Autonomous Networks with Agentic AI",
+      "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Telecom operators deploy agentic AI for autonomous network operations and management.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Wed, 01 Jul 2026 18:03:10 +0000"
+      "published": "2026-06-23T06:00:00Z"
     },
     {
-      "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
-      "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+      "title": "Hardware-Rooted AI Security That Won't Slow You Down",
+      "url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Hardware-based security mechanisms protect AI systems without performance degradation.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "2026-07-02T21:25:42Z"
+    },
+    {
+      "title": "How Amazon Bedrock catches AI-generated phishing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/",
       "source": "Artificial Intelligence",
-      "summary": "AWS implements HippoRAG, a neurobiologically-inspired retrieval-augmented generation system for enterprise applications.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Wed, 01 Jul 2026 18:01:32 +0000"
+      "summary": "Amazon Bedrock detects sophisticated AI-generated phishing threats in email systems.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Thu, 02 Jul 2026 17:55:41 +0000"
     },
     {
-      "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
-      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
+      "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
       "source": "Artificial Intelligence",
-      "summary": "AWS releases open source Model Profiler tool for simplified model selection and metadata aggregation.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 01 Jul 2026 17:46:54 +0000"
+      "summary": "SageMaker RL best practices enable reliable multi-turn agent training and evaluation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Thu, 02 Jul 2026 17:50:23 +0000"
     },
     {
-      "title": "Accelerate protein design with BoltzGen on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS demonstrates deploying BoltzGen for scalable protein design research with iterative workflow optimization.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Wed, 01 Jul 2026 17:44:08 +0000"
-    },
-    {
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face and Cerebras enable real-time voice AI capabilities with Gemma 4 integration.",
-      "category": "Generative Media",
-      "reading_time_minutes": 4,
-      "published": "Wed, 01 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "source": "Hugging Face - Blog",
-      "summary": "PaddlePaddle releases PP-OCRv6, a scalable multilingual optical character recognition model.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 22 Jun 2026 13:18:56 GMT"
-    },
-    {
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic's Fable and Mythos models receive global release following US safety testing clearance.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Wed, 01 Jul 2026 16:44:18 +0000"
-    },
-    {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "A startup tackles LLM bias and diversity issues in model outputs and reasoning patterns.",
+      "title": "Multi-Agent Teams Hold Experts Back",
+      "url": "https://machinelearning.apple.com/research/multi-agent-teams-experts",
+      "source": "Apple Machine Learning Research",
+      "summary": "Multi-agent LLM systems with unconstrained coordination underperform compared to fixed workflows.",
       "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Wed, 01 Jul 2026 14:35:16 +0000"
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Three things to watch amid Anthropic's latest feud with the government",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "MIT Technology Review analyzes key regulatory and policy implications of Anthropic's government tensions.",
-      "category": "Ethics & Policy",
+      "title": "MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers",
+      "url": "https://machinelearning.apple.com/research/memoryllm",
+      "source": "Apple Machine Learning Research",
+      "summary": "MemoryLLM enables interpretable understanding of transformer feed-forward networks.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Mon, 22 Jun 2026 18:00:00 +0000"
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Significant AI data center projects face environmental and community opposition delaying infrastructure expansion.",
-      "category": "Ethics & Policy",
+      "title": "On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs",
+      "url": "https://machinelearning.apple.com/research/robustness-chain-thought-consistency",
+      "source": "Apple Machine Learning Research",
+      "summary": "RL-finetuned VLMs remain vulnerable to textual perturbations despite improved reasoning.",
+      "category": "Research & Papers",
       "reading_time_minutes": 4,
-      "published": "Fri, 12 Jun 2026 17:18:49 +0000"
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Learning Structured Reasoning via Tractable Trajectory Control",
+      "url": "https://machinelearning.apple.com/research/learning-structured-reasoning",
+      "source": "Apple Machine Learning Research",
+      "summary": "Structured reasoning discovery reinforces diverse reasoning patterns in language models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Residual Context Diffusion Language Models",
+      "url": "https://machinelearning.apple.com/research/residual-context-diffusion",
+      "source": "Apple Machine Learning Research",
+      "summary": "Recycling computation from discarded tokens improves diffusion language model efficiency.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Conformal Thinking: Risk Control for Reasoning on a Compute Budget",
+      "url": "https://machinelearning.apple.com/research/conformal-thinking-risk-control",
+      "source": "Apple Machine Learning Research",
+      "summary": "Risk control framework optimizes token budgets for adaptive reasoning in language models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Learning Unmasking Policies for Diffusion Language Models",
+      "url": "https://machinelearning.apple.com/research/unmasking",
+      "source": "Apple Machine Learning Research",
+      "summary": "Learned unmasking policies improve diffusion language model quality and token throughput.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Amortizing Maximum Inner Product Search with Learned Support Functions",
+      "url": "https://machinelearning.apple.com/research/amortizing-inner-product-search",
+      "source": "Apple Machine Learning Research",
+      "summary": "Neural networks predict MIPS solutions, amortizing costs for repeated searches.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization",
+      "url": "https://machinelearning.apple.com/research/videoflextok",
+      "source": "Apple Machine Learning Research",
+      "summary": "Flexible video tokenization preserves information for downstream video generation models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI becomes operational layer in industrial infrastructure for safety-critical systems.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Thu, 02 Jul 2026 12:51:44 +0000"
+    },
+    {
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI enhances operational efficiency using structured frameworks like Lean Six Sigma.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Thu, 02 Jul 2026 15:37:08 +0000"
+    },
+    {
+      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "DSPy framework improves SQL system prompts for database query agents.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-07-02T18:25:00+00:00"
+    },
+    {
+      "title": "llm-coding-agent 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "New Python library implements simple coding agent using LLM framework.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-07-02T19:33:12+00:00"
+    },
+    {
+      "title": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic restores Claude access after export control restrictions lifted.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 1,
+      "published": "2026-06-30T23:58:15+00:00"
+    },
+    {
+      "title": "The $400 million machine powering the future of chipmaking",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Advanced chipmaking equipment critical for supporting AI model training infrastructure.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Tue, 23 Jun 2026 09:00:00 +0000"
     }
   ]
 }
