@@ -1,230 +1,194 @@
 {
-  "generated_at": "2026-07-03T05:17:02.744322+00:00",
+  "generated_at": "2026-07-04T05:55:22.307454+00:00",
   "articles": [
     {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "source": "OpenAI News",
-      "summary": "GPT-5 advances immunology research by solving complex T cell behavior mysteries.",
-      "category": "AI in Industry",
+      "summary": "OpenAI and Broadcom introduce Jalapeño custom AI chip for LLM inference optimization.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 3,
-      "published": "Tue, 23 Jun 2026 17:00:00 GMT"
+      "published": "Wed, 24 Jun 2026 06:00:00 GMT"
     },
     {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "source": "OpenAI News",
-      "summary": "OpenAI supports evaluation frameworks and safety practices for advanced AI standardization.",
-      "category": "Ethics & Policy",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face - Blog",
+      "summary": "NVIDIA NeMo AutoModel accelerates transformer model fine-tuning with improved efficiency.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 4,
-      "published": "Tue, 23 Jun 2026 13:00:00 GMT"
+      "published": "Wed, 24 Jun 2026 16:00:13 GMT"
     },
     {
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
+      "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+      "url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA optimizes bird's-eye-view perception for autonomous vehicles and robotics.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-06-24T16:30:00Z"
+    },
+    {
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "source": "Hugging Face - Blog",
+      "summary": "FFASR Leaderboard benchmarks automatic speech recognition models in real-world conditions.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 3,
+      "published": "Wed, 24 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Anti-Causal Domain Generalization: Leveraging Unlabeled Data",
+      "url": "https://machinelearning.apple.com/research/anti-casual",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple research on domain generalization using unlabeled data in anti-causal settings.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Web data infrastructure layer emerging to support AI model training at scale.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Wed, 24 Jun 2026 11:59:54 +0000"
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
       "source": "OpenAI News",
-      "summary": "Omio transforms travel experience using OpenAI conversational AI technology.",
-      "category": "AI in Industry",
+      "summary": "Using Codex to preserve context and manage complex projects across sessions.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "Mon, 22 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Current AI launches gap map indexing open source AI development landscape globally.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-07-03T22:04:31+00:00"
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face hub development process integrating AI and human review in deployment.",
+      "category": "Open Source AI",
       "reading_time_minutes": 3,
       "published": "Tue, 23 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
-      "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "DFlash speculative decoding achieves 15x inference speedup on NVIDIA Blackwell hardware.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-06-23T15:00:00Z"
-    },
-    {
-      "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
-      "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA BioNeMo Agent Toolkit enables autonomous AI agents for scientific discovery.",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "source": "Hugging Face - Blog",
+      "summary": "Local AI models used for cost-free repository pull request triage automation.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-06-23T13:30:00Z"
+      "reading_time_minutes": 2,
+      "published": "Mon, 22 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations",
-      "url": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Full-stack optimizations reduce AI factory operating expenses through energy efficiency.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-06-23T16:30:00Z"
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "OpenAI offers 5% US government stake in ongoing negotiations with Trump administration.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
     },
     {
-      "title": "How Telcos Build Autonomous Networks with Agentic AI",
-      "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Telecom operators deploy agentic AI for autonomous network operations and management.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-06-23T06:00:00Z"
-    },
-    {
-      "title": "Hardware-Rooted AI Security That Won't Slow You Down",
-      "url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Hardware-based security mechanisms protect AI systems without performance degradation.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-07-02T21:25:42Z"
-    },
-    {
-      "title": "How Amazon Bedrock catches AI-generated phishing",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock detects sophisticated AI-generated phishing threats in email systems.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 17:55:41 +0000"
-    },
-    {
-      "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker RL best practices enable reliable multi-turn agent training and evaluation.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 02 Jul 2026 17:50:23 +0000"
-    },
-    {
-      "title": "Multi-Agent Teams Hold Experts Back",
-      "url": "https://machinelearning.apple.com/research/multi-agent-teams-experts",
-      "source": "Apple Machine Learning Research",
-      "summary": "Multi-agent LLM systems with unconstrained coordination underperform compared to fixed workflows.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers",
-      "url": "https://machinelearning.apple.com/research/memoryllm",
-      "source": "Apple Machine Learning Research",
-      "summary": "MemoryLLM enables interpretable understanding of transformer feed-forward networks.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs",
-      "url": "https://machinelearning.apple.com/research/robustness-chain-thought-consistency",
-      "source": "Apple Machine Learning Research",
-      "summary": "RL-finetuned VLMs remain vulnerable to textual perturbations despite improved reasoning.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Learning Structured Reasoning via Tractable Trajectory Control",
-      "url": "https://machinelearning.apple.com/research/learning-structured-reasoning",
-      "source": "Apple Machine Learning Research",
-      "summary": "Structured reasoning discovery reinforces diverse reasoning patterns in language models.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Residual Context Diffusion Language Models",
-      "url": "https://machinelearning.apple.com/research/residual-context-diffusion",
-      "source": "Apple Machine Learning Research",
-      "summary": "Recycling computation from discarded tokens improves diffusion language model efficiency.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Conformal Thinking: Risk Control for Reasoning on a Compute Budget",
-      "url": "https://machinelearning.apple.com/research/conformal-thinking-risk-control",
-      "source": "Apple Machine Learning Research",
-      "summary": "Risk control framework optimizes token budgets for adaptive reasoning in language models.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Learning Unmasking Policies for Diffusion Language Models",
-      "url": "https://machinelearning.apple.com/research/unmasking",
-      "source": "Apple Machine Learning Research",
-      "summary": "Learned unmasking policies improve diffusion language model quality and token throughput.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Amortizing Maximum Inner Product Search with Learned Support Functions",
-      "url": "https://machinelearning.apple.com/research/amortizing-inner-product-search",
-      "source": "Apple Machine Learning Research",
-      "summary": "Neural networks predict MIPS solutions, amortizing costs for repeated searches.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization",
-      "url": "https://machinelearning.apple.com/research/videoflextok",
-      "source": "Apple Machine Learning Research",
-      "summary": "Flexible video tokenization preserves information for downstream video generation models.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI becomes operational layer in industrial infrastructure for safety-critical systems.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 02 Jul 2026 12:51:44 +0000"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI enhances operational efficiency using structured frameworks like Lean Six Sigma.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 02 Jul 2026 15:37:08 +0000"
-    },
-    {
-      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
-      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "title": "Nano Banana 2 Lite",
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "DSPy framework improves SQL system prompts for database query agents.",
+      "summary": "Google releases Gemini 3.1 Flash Lite Image for fast, cost-effective image generation.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-06-30T22:15:35+00:00"
+    },
+    {
+      "title": "Understand to participate",
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Framework for human-AI collaboration emphasizing understanding over passive observation.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 2,
+      "published": "2026-07-02T17:07:14+00:00"
+    },
+    {
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "source": "Hugging Face - Blog",
+      "summary": "Analysis of AI model specialization trends and industry implications for future development.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Tue, 30 Jun 2026 14:39:11 GMT"
+    },
+    {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face - Blog",
+      "summary": "Transformers.js explores cross-origin storage API for improved model accessibility.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 3,
-      "published": "2026-07-02T18:25:00+00:00"
+      "published": "Tue, 23 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "llm-coding-agent 0.1a0",
-      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "New Python library implements simple coding agent using LLM framework.",
-      "category": "Open Source AI",
+      "title": "Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps",
+      "url": "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA optimizes GPU shader performance through Vulkan descriptor heap improvements.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-06-25T22:25:51Z"
+    },
+    {
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Pokémon Go data repurposing for AI training highlights privacy and ethics concerns.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Fri, 12 Jun 2026 11:15:41 +0000"
+    },
+    {
+      "title": "Musk's X poses \"serious risk to Americans' privacy,\" advocates warn FTC",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Privacy advocates warn FTC about X platform's AI data handling practices.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 2,
-      "published": "2026-07-02T19:33:12+00:00"
+      "published": "Thu, 02 Jul 2026 14:39:17 +0000"
     },
     {
-      "title": "Quoting Anthropic",
-      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Trump's AI safety testing plan undermined by reduced government security capacity.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Wed, 03 Jun 2026 18:11:15 +0000"
+    },
+    {
+      "title": "June 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Anthropic restores Claude access after export control restrictions lifted.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 1,
-      "published": "2026-06-30T23:58:15+00:00"
+      "summary": "Summary of major AI developments including Claude Fable 5, GPT-5.6, export restrictions.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "2026-07-03T14:50:50+00:00"
     },
     {
-      "title": "The $400 million machine powering the future of chipmaking",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Advanced chipmaking equipment critical for supporting AI model training infrastructure.",
+      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Major AI data center project scaled back significantly due to community opposition.",
       "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 23 Jun 2026 09:00:00 +0000"
+      "reading_time_minutes": 3,
+      "published": "Fri, 05 Jun 2026 18:23:00 +0000"
     }
   ]
 }
