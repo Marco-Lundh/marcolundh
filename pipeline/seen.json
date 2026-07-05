@@ -1,97 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/vsas-bench-streaming-assistant",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/epicache",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://huggingface.co/blog/openenv-agentic-rl",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
-    "seen_at": "2026-06-27"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-    "seen_at": "2026-06-27"
-  },
-  {
     "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "seen_at": "2026-06-28"
   },
@@ -650,5 +558,61 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
     "seen_at": "2026-07-04"
+  },
+  {
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+    "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "seen_at": "2026-07-05"
   }
 ]
