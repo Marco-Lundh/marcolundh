@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://huggingface.co/blog/peft-beyond-lora",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://huggingface.co/blog/is-it-agentic-enough",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-    "seen_at": "2026-06-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
-    "seen_at": "2026-06-28"
-  },
-  {
     "url": "https://openai.com/index/hp-frontier-partnership",
     "seen_at": "2026-06-29"
   },
@@ -614,5 +546,41 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
     "seen_at": "2026-07-05"
+  },
+  {
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "seen_at": "2026-07-06"
+  },
+  {
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "seen_at": "2026-07-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+    "seen_at": "2026-07-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
+    "seen_at": "2026-07-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
+    "seen_at": "2026-07-06"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+    "seen_at": "2026-07-06"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "seen_at": "2026-07-06"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "seen_at": "2026-07-06"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
+    "seen_at": "2026-07-06"
   }
 ]

@@ -1,131 +1,86 @@
 {
-  "generated_at": "2026-07-05T05:56:16.771943+00:00",
+  "generated_at": "2026-07-06T05:59:14.044897+00:00",
   "articles": [
     {
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "source": "OpenAI News",
-      "summary": "OpenAI research shows AI agents enabling longer, complex tasks and expanding productivity.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 25 Jun 2026 02:00:00 GMT"
+      "summary": "OpenAI previews GPT-5.6 Sol with advanced capabilities in coding, science, and cybersecurity.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Fri, 26 Jun 2026 10:00:00 GMT"
     },
     {
-      "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
-      "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "source": "OpenAI News",
+      "summary": "AI chemist using GPT-5.4 autonomously improved key drug-making reaction in medicinal chemistry.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 17 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+      "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA TensorRT enables scaling generative AI inference across multiple GPUs efficiently.",
+      "summary": "NVIDIA AI-Q Blueprint enables production deployment of multi-turn AI agents on Oracle Cloud.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-06-25T16:43:48Z"
-    },
-    {
-      "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
-      "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA XR AI framework enables developers to build AI agents for wearable AR devices.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-06-16T22:30:00Z"
-    },
-    {
-      "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
-      "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Framework for building foundation models from financial transaction data for intelligence.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 7,
-      "published": "2026-06-16T20:30:08Z"
-    },
-    {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face integrates vLLM for simplified LLM server deployment on Jobs platform.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Fri, 26 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Repositioning retail for the AI era",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI transforms retail operations from inventory management to product search algorithms.",
-      "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "Thu, 25 Jun 2026 14:22:59 +0000"
+      "published": "2026-06-26T19:00:45Z"
     },
     {
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
+      "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Model Optimizer enables efficient quantization for large language models with extended context windows.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-06-26T16:00:35Z"
+    },
+    {
+      "title": "Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+      "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "KRAFTON built PUBG Ally, an AI companion with dynamic dialogue using NVIDIA ACE technology.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "2026-06-25T16:38:18Z"
+    },
+    {
+      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic alleges Alibaba conducted large-scale Claude model extraction attack.",
+      "summary": "Google releases Gemma 4 12B with efficient encoding for laptop deployment without cloud infrastructure.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 03 Jun 2026 19:10:03 +0000"
+    },
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "NVIDIA's AI coding agents autonomously direct robot teams to install hardware and perform physical tasks.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Wed, 17 Jun 2026 19:25:19 +0000"
+    },
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "NYT alleges Microsoft built supercomputer infrastructure enabling OpenAI copyright infringement.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Thu, 25 Jun 2026 18:01:48 +0000"
-    },
-    {
-      "title": "IBM claims world's first sub-1 nanometer chip technology",
-      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "IBM's nanostack transistor technology advances chip performance and efficiency.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Thu, 25 Jun 2026 10:00:55 +0000"
-    },
-    {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Fable AI assists in developing sqlite-utils major release version.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "2026-07-05T01:00:48+00:00"
-    },
-    {
-      "title": "Better Models: Worse Tools",
-      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Advanced Claude models struggle with schema compliance in tool-use implementations.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-07-04T22:53:52+00:00"
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "source": "OpenAI News",
-      "summary": "OpenAI showcases Genebench-Pro applications through detailed case studies.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
+      "published": "Fri, 26 Jun 2026 20:04:55 +0000"
     },
     {
       "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "OpenAI negotiates equity stake with US government as part of policy discussions.",
+      "summary": "OpenAI negotiates 5% US government stake with Trump administration in ongoing policy discussions.",
       "category": "Funding & Business",
       "reading_time_minutes": 4,
       "published": "Thu, 02 Jul 2026 15:12:25 +0000"
-    },
-    {
-      "title": "Fable's judgement",
-      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Fable demonstrates improved judgment in autonomous decision-making tasks.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-07-03T18:51:06+00:00"
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "S&P 500 denies index entry for unprofitable AI companies including OpenAI.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Fri, 05 Jun 2026 18:45:20 +0000"
     }
   ]
 }
