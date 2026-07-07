@@ -1,86 +1,230 @@
 {
-  "generated_at": "2026-07-06T05:59:14.044897+00:00",
+  "generated_at": "2026-07-07T05:41:23.025325+00:00",
   "articles": [
     {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
       "source": "OpenAI News",
-      "summary": "OpenAI previews GPT-5.6 Sol with advanced capabilities in coding, science, and cybersecurity.",
+      "summary": "OpenAI reasoning model identifies 18 new diagnoses in previously unsolved rare disease cases.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Thu, 18 Jun 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "GPT-5.5 Instant enhances health responses with stronger reasoning and physician-informed evaluations.",
       "category": "LLMs & Models",
       "reading_time_minutes": 4,
-      "published": "Fri, 26 Jun 2026 10:00:00 GMT"
+      "published": "Thu, 18 Jun 2026 11:00:00 GMT"
     },
     {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "source": "OpenAI News",
-      "summary": "AI chemist using GPT-5.4 autonomously improved key drug-making reaction in medicinal chemistry.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 10:00:00 GMT"
+      "summary": "OpenAI introduces spend controls and analytics for ChatGPT Enterprise cost management.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "Thu, 18 Jun 2026 17:00:00 GMT"
     },
     {
-      "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+      "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
+      "url": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA AI-Q Blueprint enables production deployment of multi-turn AI agents on Oracle Cloud.",
+      "summary": "Novel tensor parallelism approach improves efficiency in massive-scale LLM training infrastructure.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-06-26T19:00:45Z"
-    },
-    {
-      "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
-      "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Model Optimizer enables efficient quantization for large language models with extended context windows.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-06-26T16:00:35Z"
-    },
-    {
-      "title": "Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
-      "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "KRAFTON built PUBG Ally, an AI companion with dynamic dialogue using NVIDIA ACE technology.",
-      "category": "AI in Industry",
       "reading_time_minutes": 6,
-      "published": "2026-06-25T16:38:18Z"
+      "published": "2026-07-06T21:44:23Z"
     },
     {
-      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemma 4 12B with efficient encoding for laptop deployment without cloud infrastructure.",
-      "category": "Open Source AI",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
+      "source": "Artificial Intelligence",
+      "summary": "Deep integration enables seamless model discovery and experimentation between Hugging Face and SageMaker.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Mon, 06 Jul 2026 22:35:55 +0000"
+    },
+    {
+      "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
+      "source": "Artificial Intelligence",
+      "summary": "Reverse Direct Preference Optimization enables selective unlearning while preserving model quality.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 22:23:45 +0000"
+    },
+    {
+      "title": "Run MiniMax models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "MiniMax models now available on Amazon Bedrock for agentic and document analysis applications.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "Wed, 03 Jun 2026 19:10:03 +0000"
+      "published": "Mon, 06 Jul 2026 17:00:44 +0000"
     },
     {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "NVIDIA's AI coding agents autonomously direct robot teams to install hardware and perform physical tasks.",
+      "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
+      "source": "Artificial Intelligence",
+      "summary": "Event-driven reinforcement learning pipeline enables multi-turn model training at scale.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 16:58:13 +0000"
+    },
+    {
+      "title": "Automatically redact PII in images with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
+      "source": "Artificial Intelligence",
+      "summary": "Multi-step vision pipeline redacts PII in images using Nova, SAM 3, and Amazon Textract.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 19:25:19 +0000"
+      "published": "Mon, 06 Jul 2026 16:55:02 +0000"
     },
     {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "NYT alleges Microsoft built supercomputer infrastructure enabling OpenAI copyright infringement.",
+      "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
+      "source": "Artificial Intelligence",
+      "summary": "New MLflow integration streams real-time experiment tracking into SageMaker.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 3,
+      "published": "Mon, 06 Jul 2026 16:53:38 +0000"
+    },
+    {
+      "title": "Revisiting ASR Error Correction with Specialized Models",
+      "url": "https://machinelearning.apple.com/research/asr-error-correction",
+      "source": "Apple Machine Learning Research",
+      "summary": "Compact seq2seq models outperform LLMs for ASR error correction with less latency.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Path-Constrained Mixture-of-Experts",
+      "url": "https://machinelearning.apple.com/research/path-constrained-mixture-experts",
+      "source": "Apple Machine Learning Research",
+      "summary": "Novel perspective on MoE architectures reveals linguistic patterns in expert routing paths.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "TopoPrimer: The Missing Topological Context in Forecasting Models",
+      "url": "https://machinelearning.apple.com/research/topoprimer-topological-context",
+      "source": "Apple Machine Learning Research",
+      "summary": "Framework improves forecasting accuracy by incorporating topological structure as explicit input.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Scaling Properties of Continuous Diffusion Spoken Language Models",
+      "url": "https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion",
+      "source": "Apple Machine Learning Research",
+      "summary": "Continuous diffusion models show promise for scaled speech-only language models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Understanding Annotator Safety Policy with Interpretability",
+      "url": "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability",
+      "source": "Apple Machine Learning Research",
+      "summary": "Framework distinguishes between operational failures and policy ambiguity in safety annotations.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Segmental Attention Decoding with Long Form Acoustic Encodings",
+      "url": "https://machinelearning.apple.com/research/segmental-attention-decoding",
+      "source": "Apple Machine Learning Research",
+      "summary": "Modifications enable attention-based models to process long-form audio without degradation.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Fortress: A Case Study in Stabilizing Search Recommendations via Temporal Data Augmentation and Feature Pruning",
+      "url": "https://machinelearning.apple.com/research/fortress-stabilizing-search-recommendations",
+      "source": "Apple Machine Learning Research",
+      "summary": "Framework improves recommendation stability by identifying and pruning volatile features.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face - Blog",
+      "summary": "LeRobot releases v0.6.0 with major updates to robotics learning framework.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face - Blog",
+      "summary": "Security research reveals privacy vulnerabilities in research agent systems.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Fri, 26 Jun 2026 20:04:55 +0000"
+      "published": "Thu, 18 Jun 2026 18:13:13 GMT"
     },
     {
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "OpenAI negotiates 5% US government stake with Trump administration in ongoing policy discussions.",
-      "category": "Funding & Business",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "source": "Hugging Face - Blog",
+      "summary": "Exploration of fine-tuning methods that outperform LoRA for model adaptation.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
+      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face - Blog",
+      "summary": "Benchmarking framework evaluates open models for agentic task performance.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face - Blog",
+      "summary": "Integration enables deploying models from Hugging Face Hub directly to robotics hardware.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Wed, 17 Jun 2026 10:18:05 GMT"
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source": "Hugging Face - Blog",
+      "summary": "GLM-5.2 model optimized for extended context and long-horizon task planning.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Wed, 17 Jun 2026 09:01:25 GMT"
+    },
+    {
+      "title": "tencent/Hy3",
+      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Tencent releases Hy3, a 295B parameter MoE model with 21B active parameters.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-07-06T23:57:35+00:00"
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic faces criticism for undisclosed user monitoring experiment.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
     }
   ]
 }
