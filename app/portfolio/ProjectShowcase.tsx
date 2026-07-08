@@ -6,16 +6,17 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { useLanguage } from '@/contexts/LanguageContext'
 import SubscribeForm from '../ai-news/SubscribeForm'
 
-// A zoomable image: the file plus an accessible, already-translated description.
-interface ProjectImage {
-  src: string
-  alt: string
+// State passed to the lightbox: the full image list for a project plus which index is open.
+interface ZoomState {
+  images: string[]
+  active: number
+  title: string
 }
 
 // Language-neutral project data. Translatable copy (label/title/description)
 // lives in lib/translations.ts under projects.items, keyed by `slug`.
 interface ProjectMeta {
-  slug: 'ai-news' | 'job-radar' | 'cv-fit-score' | 'docuchat'
+  slug: 'pulsegraph' | 'ai-news' | 'job-radar' | 'cv-fit-score' | 'docuchat'
   stack: string[]
   images: string[]
   repo?: string
@@ -30,6 +31,11 @@ const shots = (slug: string, count: number): string[] =>
 // no other code change required.
 const GITHUB = 'https://github.com/Marco-Lundh'
 const projectMeta: ProjectMeta[] = [
+  {
+    slug: 'pulsegraph',
+    stack: ['LangGraph', 'Ollama', 'Claude', 'Python', 'FastAPI', 'React', 'Vite', 'PostgreSQL', 'Redis', 'Docker'],
+    images: shots('pulsegraph', 15),
+  },
   {
     slug: 'ai-news',
     stack: ['Python', 'Claude Haiku', 'GitHub Actions', 'Vercel Cron', 'Resend', 'Supabase', 'Next.js'],
@@ -80,7 +86,7 @@ function ProjectGallery({
 }: {
   images: string[]
   title: string
-  onZoom: (img: ProjectImage) => void
+  onZoom: (state: ZoomState) => void
 }) {
   const { t } = useLanguage()
   const tr = t.projects
@@ -89,7 +95,6 @@ function ProjectGallery({
 
   // Accessible, translated description, e.g. "Job Radar screenshot 1".
   const describe = (i: number) => `${title} ${tr.screenshot} ${i + 1}`
-  const current: ProjectImage = { src: images[active], alt: describe(active) }
 
   return (
     <div>
@@ -102,14 +107,34 @@ function ProjectGallery({
           <span className="w-3 h-3 rounded-full bg-[#febc2e]" />
           <span className="w-3 h-3 rounded-full bg-[#28c840]" />
         </div>
-        <button
-          onClick={() => onZoom(current)}
-          aria-label={`${tr.enlarge} ${current.alt}`}
-          className="block w-full cursor-zoom-in focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
-        >
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={current.src} alt={current.alt} loading="lazy" className="w-full block" />
-        </button>
+        <div className="relative">
+          <button
+            onClick={() => onZoom({ images, active, title })}
+            aria-label={`${tr.enlarge} ${describe(active)}`}
+            className="block w-full cursor-zoom-in focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+          >
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={images[active]} alt={describe(active)} loading="lazy" className="w-full block" />
+          </button>
+          {active > 0 && (
+            <button
+              onClick={() => setActive(active - 1)}
+              aria-label={tr.prevImage}
+              className="absolute left-3 top-1/2 -translate-y-1/2 z-10 w-8 h-8 rounded-full bg-black/50 hover:bg-black/70 text-white flex items-center justify-center text-lg leading-none transition-colors"
+            >
+              ‹
+            </button>
+          )}
+          {active < images.length - 1 && (
+            <button
+              onClick={() => setActive(active + 1)}
+              aria-label={tr.nextImage}
+              className="absolute right-3 top-1/2 -translate-y-1/2 z-10 w-8 h-8 rounded-full bg-black/50 hover:bg-black/70 text-white flex items-center justify-center text-lg leading-none transition-colors"
+            >
+              ›
+            </button>
+          )}
+        </div>
       </div>
 
       {images.length > 1 && (
@@ -170,12 +195,14 @@ function ProjectRow({
 }: {
   project: ProjectMeta
   index: number
-  onZoom: (img: ProjectImage) => void
+  onZoom: (state: ZoomState) => void
 }) {
   const { t } = useLanguage()
   const tr = t.projects
   const copy = tr.items[project.slug]
   const imageFirst = index % 2 === 0
+  const [descExpanded, setDescExpanded] = useState(false)
+  const isLongDesc = copy.description.length > 200
 
   const media = project.images.length > 0 ? (
     <ProjectGallery images={project.images} title={copy.title} onZoom={onZoom} />
@@ -198,7 +225,20 @@ function ProjectRow({
           {copy.label}
         </span>
         <h3 className="font-display tracking-tight text-2xl font-semibold text-ink">{copy.title}</h3>
-        <p className="text-ink-muted text-sm leading-relaxed">{copy.description}</p>
+        <div>
+          <p className={`text-ink-muted text-sm leading-relaxed ${!descExpanded && isLongDesc ? 'line-clamp-3' : ''}`}>
+            {copy.description}
+          </p>
+          {isLongDesc && (
+            <button
+              onClick={() => setDescExpanded(!descExpanded)}
+              aria-expanded={descExpanded}
+              className="text-accent-dark text-xs font-medium hover:underline mt-1.5 block"
+            >
+              {descExpanded ? tr.showLess : tr.showMore}
+            </button>
+          )}
+        </div>
         {project.embedLiveDemo && (
           <p className="text-sm font-medium text-accent-dark">{tr.tryDemo}</p>
         )}
@@ -221,28 +261,34 @@ function ProjectRow({
   )
 }
 
-function Lightbox({
-  image,
-  onClose,
-}: {
-  image: ProjectImage | null
-  onClose: () => void
-}) {
+function Lightbox({ zoom, onClose }: { zoom: ZoomState | null; onClose: () => void }) {
+  const { t } = useLanguage()
+  const tr = t.projects
   const containerRef = useRef<HTMLDivElement>(null)
+  const [active, setActive] = useState(0)
 
   useEffect(() => {
-    if (!image) return
+    if (zoom != null) setActive(zoom.active)
+  }, [zoom])
+
+  useEffect(() => {
+    if (!zoom) return
     containerRef.current?.focus()
     const onKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose()
+      if (e.key === 'ArrowLeft') setActive(a => Math.max(0, a - 1))
+      if (e.key === 'ArrowRight') setActive(a => Math.min(zoom.images.length - 1, a + 1))
     }
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
-  }, [image, onClose])
+  }, [zoom, onClose])
+
+  const src = zoom ? zoom.images[active] : ''
+  const alt = zoom ? `${zoom.title} ${tr.screenshot} ${active + 1}` : ''
 
   return (
     <AnimatePresence>
-      {image && (
+      {zoom && (
         <motion.div
           ref={containerRef}
           tabIndex={-1}
@@ -252,19 +298,37 @@ function Lightbox({
           onClick={onClose}
           role="dialog"
           aria-modal="true"
-          aria-label={image.alt}
+          aria-label={alt}
           className="fixed inset-0 z-50 bg-black/85 backdrop-blur-sm flex items-center justify-center p-6 cursor-zoom-out outline-none"
         >
-          {/* eslint-disable-next-line @next/next/no-img-element */}
+          {active > 0 && (
+            <button
+              onClick={(e) => { e.stopPropagation(); setActive(a => a - 1) }}
+              aria-label={tr.prevImage}
+              className="absolute left-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/15 hover:bg-white/30 text-white flex items-center justify-center text-2xl leading-none transition-colors"
+            >
+              ‹
+            </button>
+          )}
           {/* Lightbox sits on a dark backdrop, so the light border stays for contrast. */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <motion.img
             initial={{ scale: 0.92 }}
             animate={{ scale: 1 }}
             exit={{ scale: 0.92 }}
-            src={image.src}
-            alt={image.alt}
+            src={src}
+            alt={alt}
             className="max-h-[90vh] max-w-[90vw] rounded-xl border border-white/10 shadow-2xl"
           />
+          {active < zoom.images.length - 1 && (
+            <button
+              onClick={(e) => { e.stopPropagation(); setActive(a => a + 1) }}
+              aria-label={tr.nextImage}
+              className="absolute right-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/15 hover:bg-white/30 text-white flex items-center justify-center text-2xl leading-none transition-colors"
+            >
+              ›
+            </button>
+          )}
         </motion.div>
       )}
     </AnimatePresence>
@@ -274,7 +338,7 @@ function Lightbox({
 export default function ProjectShowcase() {
   const { t } = useLanguage()
   const tr = t.projects
-  const [zoom, setZoom] = useState<ProjectImage | null>(null)
+  const [zoom, setZoom] = useState<ZoomState | null>(null)
 
   return (
     <section className="py-20 px-6">
@@ -300,7 +364,7 @@ export default function ProjectShowcase() {
         </div>
       </div>
 
-      <Lightbox image={zoom} onClose={() => setZoom(null)} />
+      <Lightbox zoom={zoom} onClose={() => setZoom(null)} />
     </section>
   )
 }

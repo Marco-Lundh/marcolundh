@@ -99,7 +99,16 @@ const translationsData = {
       enlarge: 'Enlarge',
       showImage: 'Show',
       screenshot: 'screenshot',
+      showMore: 'Read more',
+      showLess: 'Read less',
+      prevImage: 'Previous image',
+      nextImage: 'Next image',
       items: {
+        pulsegraph: {
+          label: 'project',
+          title: 'PulseGraph',
+          description: 'An AI-powered monitoring platform built around a simple idea: describe what you want to track in plain English, pick a data source, and let the system handle the rest. A scheduler dispatches polling agents that fetch new items from external APIs - Swedish job listings, parliamentary documents, EU energy market data - then run an LLM eval against your monitoring prompt and route matches via email, webhook, or the in-app dashboard. Runs locally with Ollama (llama3.1) as the default model, with Claude as an optional cloud fallback - keeping costs at zero by default. A built-in review queue lets you audit and correct AI decisions to improve future runs. The admin panel covers source health, per-run LLM cost tracking, prompt management, and user management.',
+        },
         'ai-news': {
           label: 'live project',
           title: 'AI News automation',
@@ -268,7 +277,16 @@ const translationsData = {
       enlarge: 'Förstora',
       showImage: 'Visa',
       screenshot: 'skärmdump',
+      showMore: 'Läs mer',
+      showLess: 'Visa mindre',
+      prevImage: 'Föregående bild',
+      nextImage: 'Nästa bild',
       items: {
+        pulsegraph: {
+          label: 'projekt',
+          title: 'PulseGraph',
+          description: 'En AI-driven monitoringsplattform byggd kring en enkel idé: beskriv vad du vill bevaka på naturligt språk, välj datakälla och låt systemet sköta resten. En scheduler skickar ut polling-agenter som hämtar nya objekt från externa API:er - svenska jobbannonser, riksdagsdokument, europeisk energimarknadsdata - kör sedan en LLM-eval mot din övervakningsprompt och levererar träffar via e-post, webhook eller in-app-dashboarden. Körs lokalt med Ollama (llama3.1) som standardmodell, med Claude som valfri molnfallback - vilket håller kostnaden på noll som standard. En inbyggd granskningskö låter dig auditgranska och korrigera AI-beslut för att förbättra framtida körningar. Adminpanelen täcker källhälsa, LLM-kostnadsspårning per körning, prompthantering och användarhantering.',
+        },
         'ai-news': {
           label: 'live-projekt',
           title: 'AI News automation',
