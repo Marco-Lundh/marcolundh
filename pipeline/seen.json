@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/discoformer",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-    "seen_at": "2026-06-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
-    "seen_at": "2026-06-30"
-  },
-  {
     "url": "https://openai.com/index/introducing-genebench-pro",
     "seen_at": "2026-07-01"
   },
@@ -602,5 +546,105 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
     "seen_at": "2026-07-07"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/sounding-video-generation",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/dynamics-fine-tuning-llms",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/lensvlm-context-expansion",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/mt-editflow-image-editing",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/weblica-visual-web-agents",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/floweval-ui-evaluation",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://openai.com/index/australian-payments-plus",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://openai.com/index/mufg",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+    "seen_at": "2026-07-08"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "seen_at": "2026-07-08"
   }
 ]

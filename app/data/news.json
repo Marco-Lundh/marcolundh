@@ -1,230 +1,230 @@
 {
-  "generated_at": "2026-07-07T05:41:23.025325+00:00",
+  "generated_at": "2026-07-08T05:43:44.585159+00:00",
   "articles": [
     {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source": "OpenAI News",
-      "summary": "OpenAI reasoning model identifies 18 new diagnoses in previously unsolved rare disease cases.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 18 Jun 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "GPT-5.5 Instant enhances health responses with stronger reasoning and physician-informed evaluations.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 18 Jun 2026 11:00:00 GMT"
-    },
-    {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI News",
-      "summary": "OpenAI introduces spend controls and analytics for ChatGPT Enterprise cost management.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "Thu, 18 Jun 2026 17:00:00 GMT"
-    },
-    {
-      "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
-      "url": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/",
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Novel tensor parallelism approach improves efficiency in massive-scale LLM training infrastructure.",
+      "summary": "New Vera CPU accelerates agentic AI workloads through multi-step inference and orchestration.",
       "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-07-07T15:10:10Z"
+    },
+    {
+      "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+      "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Isaac GR00T enables end-to-end humanoid robot policy development with repeatable workflows.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-07-07T17:05:42Z"
+    },
+    {
+      "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
+      "url": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI agent using Nemotron automates industrial alarm triage and analysis for operational efficiency.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-07-07T17:00:00Z"
+    },
+    {
+      "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+      "url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI-native RAN with NVIDIA AI Aerial optimizes wireless spectrum efficiency and telecom operations.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "2026-07-07T17:00:00Z"
+    },
+    {
+      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
+      "source": "Artificial Intelligence",
+      "summary": "Serverless image editing agent using Bedrock AgentCore enables plain English photo editing.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "2026-07-06T21:44:23Z"
+      "published": "Tue, 07 Jul 2026 16:51:29 +0000"
+    },
+    {
+      "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "AI support companion agent analyzes logs, searches documentation, and creates support cases automatically.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Tue, 07 Jul 2026 16:46:43 +0000"
+    },
+    {
+      "title": "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "Multi-dataset Topics in Amazon QuickSight enable unified semantic layer for cross-dataset queries.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 17:07:22 +0000"
+    },
+    {
+      "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS Finance uses QuickSight chat agents to automate workflows and save hundreds of hours.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 07 Jul 2026 16:43:11 +0000"
+    },
+    {
+      "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker with MLflow enables comprehensive monitoring and drift detection for ML models.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 16:49:09 +0000"
+    },
+    {
+      "title": "Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction",
+      "url": "https://machinelearning.apple.com/research/sounding-video-generation",
+      "source": "Apple Machine Learning Research",
+      "summary": "Text-to-sounding video generation with improved modality fusion and conditioning mechanisms.",
+      "category": "Generative Media",
+      "reading_time_minutes": 6,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "DynaMiCS: Fine-Tuning LLMs with Performance Constraints Using Dynamic Mixtures",
+      "url": "https://machinelearning.apple.com/research/dynamics-fine-tuning-llms",
+      "source": "Apple Machine Learning Research",
+      "summary": "Dynamic mixture optimizer enables constrained multi-domain fine-tuning while preserving LLM capabilities.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "LensVLM: Selective Context Expansion for Compressed Visual Representation of Text",
+      "url": "https://machinelearning.apple.com/research/lensvlm-context-expansion",
+      "source": "Apple Machine Learning Research",
+      "summary": "Vision Language Models process text as rendered images with improved compression handling.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MT-EditFlow: Reinforcement Learning for Multi-Turn Image Editing with Flow Matching",
+      "url": "https://machinelearning.apple.com/research/mt-editflow-image-editing",
+      "source": "Apple Machine Learning Research",
+      "summary": "Multi-turn image editing with reinforcement learning enables iterative user-driven refinements.",
+      "category": "Generative Media",
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+      "url": "https://machinelearning.apple.com/research/weblica-visual-web-agents",
+      "source": "Apple Machine Learning Research",
+      "summary": "Framework for constructing reproducible, scalable web training environments for visual agents.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "FlowEval: Reference-Based Evaluation of Generated User Interfaces",
+      "url": "https://machinelearning.apple.com/research/floweval-ui-evaluation",
+      "source": "Apple Machine Learning Research",
+      "summary": "Reference-based framework measures generated UI quality through critical user flow assessment.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models",
+      "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
+      "source": "Apple Machine Learning Research",
+      "summary": "Research reveals single neuron manipulation can bypass safety alignment in large language models.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 6,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "source": "OpenAI News",
+      "summary": "Australian Payments Plus uses ChatGPT Enterprise and Codex to improve payment processing efficiency.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI News",
+      "summary": "MUFG deploys ChatGPT Enterprise across organization to build AI-native financial services.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI News",
+      "summary": "HP scales partnership with OpenAI to integrate AI across customer experiences and operations.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Sun, 28 Jun 2026 17:00:00 GMT"
     },
     {
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
-      "source": "Artificial Intelligence",
-      "summary": "Deep integration enables seamless model discovery and experimentation between Hugging Face and SageMaker.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Mon, 06 Jul 2026 22:35:55 +0000"
-    },
-    {
-      "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
-      "url": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
-      "source": "Artificial Intelligence",
-      "summary": "Reverse Direct Preference Optimization enables selective unlearning while preserving model quality.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 22:23:45 +0000"
-    },
-    {
-      "title": "Run MiniMax models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "MiniMax models now available on Amazon Bedrock for agentic and document analysis applications.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Mon, 06 Jul 2026 17:00:44 +0000"
-    },
-    {
-      "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
-      "source": "Artificial Intelligence",
-      "summary": "Event-driven reinforcement learning pipeline enables multi-turn model training at scale.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 16:58:13 +0000"
-    },
-    {
-      "title": "Automatically redact PII in images with Amazon Nova",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
-      "source": "Artificial Intelligence",
-      "summary": "Multi-step vision pipeline redacts PII in images using Nova, SAM 3, and Amazon Textract.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Mon, 06 Jul 2026 16:55:02 +0000"
-    },
-    {
-      "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "New MLflow integration streams real-time experiment tracking into SageMaker.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Mon, 06 Jul 2026 16:53:38 +0000"
-    },
-    {
-      "title": "Revisiting ASR Error Correction with Specialized Models",
-      "url": "https://machinelearning.apple.com/research/asr-error-correction",
-      "source": "Apple Machine Learning Research",
-      "summary": "Compact seq2seq models outperform LLMs for ASR error correction with less latency.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Path-Constrained Mixture-of-Experts",
-      "url": "https://machinelearning.apple.com/research/path-constrained-mixture-experts",
-      "source": "Apple Machine Learning Research",
-      "summary": "Novel perspective on MoE architectures reveals linguistic patterns in expert routing paths.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "TopoPrimer: The Missing Topological Context in Forecasting Models",
-      "url": "https://machinelearning.apple.com/research/topoprimer-topological-context",
-      "source": "Apple Machine Learning Research",
-      "summary": "Framework improves forecasting accuracy by incorporating topological structure as explicit input.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Scaling Properties of Continuous Diffusion Spoken Language Models",
-      "url": "https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion",
-      "source": "Apple Machine Learning Research",
-      "summary": "Continuous diffusion models show promise for scaled speech-only language models.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Understanding Annotator Safety Policy with Interpretability",
-      "url": "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability",
-      "source": "Apple Machine Learning Research",
-      "summary": "Framework distinguishes between operational failures and policy ambiguity in safety annotations.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Segmental Attention Decoding with Long Form Acoustic Encodings",
-      "url": "https://machinelearning.apple.com/research/segmental-attention-decoding",
-      "source": "Apple Machine Learning Research",
-      "summary": "Modifications enable attention-based models to process long-form audio without degradation.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Fortress: A Case Study in Stabilizing Search Recommendations via Temporal Data Augmentation and Feature Pruning",
-      "url": "https://machinelearning.apple.com/research/fortress-stabilizing-search-recommendations",
-      "source": "Apple Machine Learning Research",
-      "summary": "Framework improves recommendation stability by identifying and pruning volatile features.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "source": "Hugging Face - Blog",
-      "summary": "LeRobot releases v0.6.0 with major updates to robotics learning framework.",
+      "summary": "Integration enables seamless model export from Hugging Face to Amazon SageMaker Studio.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Tue, 07 Jul 2026 21:15:33 GMT"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face models now run on Microsoft Foundry managed compute infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Tue, 07 Jul 2026 15:20:06 GMT"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face - Blog",
+      "summary": "SkyPilot integration enables zero-egress cloud storage for Hugging Face hosted models.",
       "category": "Open Source AI",
       "reading_time_minutes": 4,
       "published": "Tue, 07 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "source": "Hugging Face - Blog",
-      "summary": "Security research reveals privacy vulnerabilities in research agent systems.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 18 Jun 2026 18:13:13 GMT"
-    },
-    {
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "source": "Hugging Face - Blog",
-      "summary": "Exploration of fine-tuning methods that outperform LoRA for model adaptation.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face - Blog",
-      "summary": "Benchmarking framework evaluates open models for agentic task performance.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Thu, 18 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face - Blog",
-      "summary": "Integration enables deploying models from Hugging Face Hub directly to robotics hardware.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 10:18:05 GMT"
-    },
-    {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "source": "Hugging Face - Blog",
-      "summary": "GLM-5.2 model optimized for extended context and long-horizon task planning.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Wed, 17 Jun 2026 09:01:25 GMT"
-    },
-    {
-      "title": "tencent/Hy3",
-      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Tencent releases Hy3, a 295B parameter MoE model with 21B active parameters.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-07-06T23:57:35+00:00"
-    },
-    {
-      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic faces criticism for undisclosed user monitoring experiment.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
+      "summary": "DiffusionGemma open-source model achieves 4x speedup for local AI inference tasks.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 10 Jun 2026 19:29:21 +0000"
+    },
+    {
+      "title": "Building the foundation for an autonomous enterprise",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI becomes core operating layer for industrial systems and operational continuity management.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Thu, 02 Jul 2026 12:51:44 +0000"
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Key architectural foundations for scaling AI and agentic systems in enterprise environments.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 11:10:52 +0000"
     }
   ]
 }
