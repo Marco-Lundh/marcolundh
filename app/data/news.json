@@ -1,230 +1,230 @@
 {
-  "generated_at": "2026-07-08T05:43:44.585159+00:00",
+  "generated_at": "2026-07-09T05:12:49.239054+00:00",
   "articles": [
     {
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
-      "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "New Vera CPU accelerates agentic AI workloads through multi-step inference and orchestration.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-07-07T15:10:10Z"
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI News",
+      "summary": "New voice model generation for natural human-AI interaction powering ChatGPT Voice.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
-      "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Isaac GR00T enables end-to-end humanoid robot policy development with repeatable workflows.",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "source": "OpenAI News",
+      "summary": "Analysis reveals issues in SWE-Bench Pro coding benchmark reliability.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Introducing Claude apps gateway for AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Self-hosted control plane for Claude Code access, cost, and policy management.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "2026-07-07T17:05:42Z"
+      "published": "Wed, 08 Jul 2026 19:49:22 +0000"
     },
     {
-      "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
-      "url": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/",
+      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+      "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
       "source": "NVIDIA Technical Blog",
-      "summary": "AI agent using Nemotron automates industrial alarm triage and analysis for operational efficiency.",
+      "summary": "Governance strategies for autonomous agents in enterprise AI systems.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "2026-07-07T17:00:00Z"
+      "published": "2026-06-29T15:50:13Z"
     },
     {
-      "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
-      "url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/",
+      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+      "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
       "source": "NVIDIA Technical Blog",
-      "summary": "AI-native RAN with NVIDIA AI Aerial optimizes wireless spectrum efficiency and telecom operations.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "2026-07-07T17:00:00Z"
-    },
-    {
-      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
-      "source": "Artificial Intelligence",
-      "summary": "Serverless image editing agent using Bedrock AgentCore enables plain English photo editing.",
+      "summary": "Optimize agentic AI performance with LangChain and Nemotron model configurations.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Tue, 07 Jul 2026 16:51:29 +0000"
+      "reading_time_minutes": 4,
+      "published": "2026-07-08T15:00:00Z"
     },
     {
-      "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/",
+      "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
+      "url": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
       "source": "Artificial Intelligence",
-      "summary": "AI support companion agent analyzes logs, searches documentation, and creates support cases automatically.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Tue, 07 Jul 2026 16:46:43 +0000"
-    },
-    {
-      "title": "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Multi-dataset Topics in Amazon QuickSight enable unified semantic layer for cross-dataset queries.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 17:07:22 +0000"
-    },
-    {
-      "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS Finance uses QuickSight chat agents to automate workflows and save hundreds of hours.",
+      "summary": "GraphRAG combines graph databases with generative AI for pharmaceutical research acceleration.",
       "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 07 Jul 2026 16:43:11 +0000"
+      "reading_time_minutes": 5,
+      "published": "Wed, 08 Jul 2026 16:57:12 +0000"
     },
     {
-      "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
-      "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/",
+      "title": "Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/",
       "source": "Artificial Intelligence",
-      "summary": "SageMaker with MLflow enables comprehensive monitoring and drift detection for ML models.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 16:49:09 +0000"
-    },
-    {
-      "title": "Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction",
-      "url": "https://machinelearning.apple.com/research/sounding-video-generation",
-      "source": "Apple Machine Learning Research",
-      "summary": "Text-to-sounding video generation with improved modality fusion and conditioning mechanisms.",
-      "category": "Generative Media",
-      "reading_time_minutes": 6,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "DynaMiCS: Fine-Tuning LLMs with Performance Constraints Using Dynamic Mixtures",
-      "url": "https://machinelearning.apple.com/research/dynamics-fine-tuning-llms",
-      "source": "Apple Machine Learning Research",
-      "summary": "Dynamic mixture optimizer enables constrained multi-domain fine-tuning while preserving LLM capabilities.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "LensVLM: Selective Context Expansion for Compressed Visual Representation of Text",
-      "url": "https://machinelearning.apple.com/research/lensvlm-context-expansion",
-      "source": "Apple Machine Learning Research",
-      "summary": "Vision Language Models process text as rendered images with improved compression handling.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "MT-EditFlow: Reinforcement Learning for Multi-Turn Image Editing with Flow Matching",
-      "url": "https://machinelearning.apple.com/research/mt-editflow-image-editing",
-      "source": "Apple Machine Learning Research",
-      "summary": "Multi-turn image editing with reinforcement learning enables iterative user-driven refinements.",
-      "category": "Generative Media",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
-      "url": "https://machinelearning.apple.com/research/weblica-visual-web-agents",
-      "source": "Apple Machine Learning Research",
-      "summary": "Framework for constructing reproducible, scalable web training environments for visual agents.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "FlowEval: Reference-Based Evaluation of Generated User Interfaces",
-      "url": "https://machinelearning.apple.com/research/floweval-ui-evaluation",
-      "source": "Apple Machine Learning Research",
-      "summary": "Reference-based framework measures generated UI quality through critical user flow assessment.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models",
-      "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-      "source": "Apple Machine Learning Research",
-      "summary": "Research reveals single neuron manipulation can bypass safety alignment in large language models.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 6,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "source": "OpenAI News",
-      "summary": "Australian Payments Plus uses ChatGPT Enterprise and Codex to improve payment processing efficiency.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI News",
-      "summary": "MUFG deploys ChatGPT Enterprise across organization to build AI-native financial services.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI News",
-      "summary": "HP scales partnership with OpenAI to integrate AI across customer experiences and operations.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Sun, 28 Jun 2026 17:00:00 GMT"
-    },
-    {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face - Blog",
-      "summary": "Integration enables seamless model export from Hugging Face to Amazon SageMaker Studio.",
+      "summary": "Production MCP server implementation for ecommerce with authentication and deployment.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Tue, 07 Jul 2026 21:15:33 GMT"
+      "reading_time_minutes": 6,
+      "published": "Wed, 08 Jul 2026 16:51:35 +0000"
     },
     {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face models now run on Microsoft Foundry managed compute infrastructure.",
+      "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
+      "url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "GPU-accelerated Presto delivers peak performance for large-scale analytical queries.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 4,
-      "published": "Tue, 07 Jul 2026 15:20:06 GMT"
+      "published": "2026-07-08T16:05:25Z"
     },
     {
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "source": "Hugging Face - Blog",
-      "summary": "SkyPilot integration enables zero-egress cloud storage for Hugging Face hosted models.",
+      "summary": "Open data resources and strategies for training and deploying AI agents.",
       "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+      "published": "Wed, 08 Jul 2026 17:16:05 GMT"
     },
     {
-      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face - Blog",
+      "summary": "vLLM backend optimization achieving native speed for transformer model inference.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face - Blog",
+      "summary": "Unified transformer architecture for density and score modeling across distributions.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 29 Jun 2026 18:02:48 GMT"
+    },
+    {
+      "title": "Mapping Europe's AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI News",
+      "summary": "Report analyzes AI impact on EU jobs showing automation, growth, and workflow changes.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "DiffusionGemma open-source model achieves 4x speedup for local AI inference tasks.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 10 Jun 2026 19:29:21 +0000"
+      "summary": "Android Bench evolves with new LLM models for mobile AI development benchmarking.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 3,
+      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
     },
     {
-      "title": "Building the foundation for an autonomous enterprise",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI becomes core operating layer for industrial systems and operational continuity management.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Thu, 02 Jul 2026 12:51:44 +0000"
-    },
-    {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Key architectural foundations for scaling AI and agentic systems in enterprise environments.",
+      "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/",
+      "source": "Artificial Intelligence",
+      "summary": "Architecture patterns for securing AgentCore Runtime using AWS WAF and VPC endpoints.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 11:10:52 +0000"
+      "published": "Wed, 08 Jul 2026 15:57:33 +0000"
+    },
+    {
+      "title": "Manage AI applications on Mac with Jamf's AI Governance and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Deploy and validate managed settings for AI applications across Mac fleets.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jul 2026 15:53:08 +0000"
+    },
+    {
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "AI | VentureBeat",
+      "summary": "Claude Desktop agent enabling non-technical users to work with files without coding.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
+    },
+    {
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "AI | VentureBeat",
+      "summary": "Rebuilt Slackbot AI agent searches enterprise data and takes autonomous actions.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "AI | VentureBeat",
+      "summary": "Open-source NousCoder-14B matches or exceeds larger proprietary coding systems.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "AI | VentureBeat",
+      "summary": "Railway raises $100M Series B for AI-native cloud infrastructure competing with AWS.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Sophisticated agentic engineering approach to rewriting Bun build tool in Rust.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "2026-07-08T23:57:21+00:00"
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "source": "OpenAI News",
+      "summary": "OpenAI Academy and Walton Family Foundation bring hands-on AI training to educators.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Wed, 08 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI News",
+      "summary": "OpenAI outlines principles for responsible AI use with government partners.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jul 2026 13:30:00 GMT"
+    },
+    {
+      "title": "Automatically sort and prioritize your mailboxes by using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Generative AI solution automates email management for public sector organizations.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jul 2026 16:55:48 +0000"
+    },
+    {
+      "title": "Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "Migrate business context to semantic datasets for improved analytics and intelligence.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 17:07:57 +0000"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face - Blog",
+      "summary": "Data strategy insights from Photoroom's generative media development process.",
+      "category": "Generative Media",
+      "reading_time_minutes": 4,
+      "published": "Mon, 06 Jul 2026 15:30:55 GMT"
     }
   ]
 }
