@@ -1,230 +1,221 @@
 {
-  "generated_at": "2026-07-09T05:12:49.239054+00:00",
+  "generated_at": "2026-07-10T05:51:41.382897+00:00",
   "articles": [
     {
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
       "source": "OpenAI News",
-      "summary": "New voice model generation for natural human-AI interaction powering ChatGPT Voice.",
+      "summary": "New GPT-5.6 model offers stronger performance per dollar and more capability on demand.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "source": "OpenAI News",
+      "summary": "ChatGPT Work agent takes action across apps and files for hours-long project completion.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "source": "OpenAI News",
+      "summary": "GPT-5.6 powers Microsoft 365 Copilot across Word, Excel, PowerPoint, Chat applications.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Thu, 09 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Claude Science is Anthropic's newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Technology Review",
+      "summary": "Anthropic launches Claude Science for autonomous scientific research support.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Tue, 30 Jun 2026 21:50:04 +0000"
+    },
+    {
+      "title": "Introducing Muse Spark 1.1",
+      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Meta releases Muse Spark 1.1 with API and improved agentic tool calling capabilities.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
+      "published": "2026-07-09T16:24:09+00:00"
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI News",
-      "summary": "Analysis reveals issues in SWE-Bench Pro coding benchmark reliability.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Introducing Claude apps gateway for AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Self-hosted control plane for Claude Code access, cost, and policy management.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Wed, 08 Jul 2026 19:49:22 +0000"
-    },
-    {
-      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-      "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Governance strategies for autonomous agents in enterprise AI systems.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-06-29T15:50:13Z"
-    },
-    {
-      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
-      "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Optimize agentic AI performance with LangChain and Nemotron model configurations.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "2026-07-08T15:00:00Z"
-    },
-    {
-      "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
-      "url": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
-      "source": "Artificial Intelligence",
-      "summary": "GraphRAG combines graph databases with generative AI for pharmaceutical research acceleration.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Wed, 08 Jul 2026 16:57:12 +0000"
-    },
-    {
-      "title": "Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/",
-      "source": "Artificial Intelligence",
-      "summary": "Production MCP server implementation for ecommerce with authentication and deployment.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "Wed, 08 Jul 2026 16:51:35 +0000"
-    },
-    {
-      "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
-      "url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "GPU-accelerated Presto delivers peak performance for large-scale analytical queries.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "2026-07-08T16:05:25Z"
-    },
-    {
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face - Blog",
-      "summary": "Open data resources and strategies for training and deploying AI agents.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 17:16:05 GMT"
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face - Blog",
-      "summary": "vLLM backend optimization achieving native speed for transformer model inference.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "source": "Hugging Face - Blog",
-      "summary": "Unified transformer architecture for density and score modeling across distributions.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 29 Jun 2026 18:02:48 GMT"
-    },
-    {
-      "title": "Mapping Europe's AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI News",
-      "summary": "Report analyzes AI impact on EU jobs showing automation, growth, and workflow changes.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Android Bench evolves with new LLM models for mobile AI development benchmarking.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 3,
-      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
-    },
-    {
-      "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/",
-      "source": "Artificial Intelligence",
-      "summary": "Architecture patterns for securing AgentCore Runtime using AWS WAF and VPC endpoints.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Wed, 08 Jul 2026 15:57:33 +0000"
-    },
-    {
-      "title": "Manage AI applications on Mac with Jamf's AI Governance and Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Deploy and validate managed settings for AI applications across Mac fleets.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 15:53:08 +0000"
-    },
-    {
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "AI | VentureBeat",
-      "summary": "Claude Desktop agent enabling non-technical users to work with files without coding.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
-    },
-    {
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "AI | VentureBeat",
-      "summary": "Rebuilt Slackbot AI agent searches enterprise data and takes autonomous actions.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "AI | VentureBeat",
-      "summary": "Open-source NousCoder-14B matches or exceeds larger proprietary coding systems.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "AI | VentureBeat",
-      "summary": "Railway raises $100M Series B for AI-native cloud infrastructure competing with AWS.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Rewriting Bun in Rust",
-      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "title": "Introducing GPT‑Live",
+      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Sophisticated agentic engineering approach to rewriting Bun build tool in Rust.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-07-08T23:57:21+00:00"
-    },
-    {
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "source": "OpenAI News",
-      "summary": "OpenAI Academy and Walton Family Foundation bring hands-on AI training to educators.",
-      "category": "AI in Industry",
+      "summary": "OpenAI upgrades ChatGPT voice mode with new model and delegation capabilities.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Wed, 08 Jul 2026 10:00:00 GMT"
+      "published": "2026-07-08T23:20:48+00:00"
     },
     {
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Technology Review",
+      "summary": "Anthropic develops Jacobian lens tool for interpreting internal LLM reasoning mechanisms.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Thu, 09 Jul 2026 20:22:28 +0000"
+    },
+    {
+      "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
+      "url": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA NeMo enables LLM fine-tuning for financial NLP with synthetic data generation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-09T19:40:37Z"
+    },
+    {
+      "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/",
+      "source": "Amazon ML Blog",
+      "summary": "SageMaker HyperPod adds data capture, Hugging Face integration, and performance optimizations.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
+      "published": "Thu, 09 Jul 2026 16:38:11 +0000"
+    },
+    {
+      "title": "MCP tool design: Practical approaches and tradeoffs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/",
+      "source": "Amazon ML Blog",
+      "summary": "AWS explores MCP tool design patterns and context engineering for AI agents.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Thu, 09 Jul 2026 16:40:16 +0000"
+    },
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "source": "OpenAI News",
-      "summary": "OpenAI outlines principles for responsible AI use with government partners.",
+      "summary": "OpenAI Signals data reveals growing ChatGPT adoption across regions and languages.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 30 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI News",
+      "summary": "GeneBench-Pro benchmark tests AI performance in genomics and scientific research.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI News",
+      "summary": "OpenAI engineers debug rare infrastructure crashes using large-scale core dump analysis.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Incentivizing Temporal-Awareness in Egocentric Video Understanding Models",
+      "url": "https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple proposes TGPO method for improving temporal reasoning in multimodal language models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Thu, 09 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
+      "url": "https://machinelearning.apple.com/research/self-reflective-program-search",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple research explores recursive language models for improved long-context understanding.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Thu, 09 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why",
+      "url": "https://machinelearning.apple.com/research/unmasking-on-policy-distillation",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple analyzes on-policy distillation effectiveness for training reasoning models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Thu, 09 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "summary": "IBM research introduces ScarfBench for evaluating AI agents on Java framework migration.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Tue, 30 Jun 2026 18:32:50 GMT"
+    },
+    {
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "source": "Ars Technica",
+      "summary": "Google releases Nano Banana 2 Lite for fast, cost-effective image generation.",
+      "category": "Generative Media",
+      "reading_time_minutes": 3,
+      "published": "Tue, 30 Jun 2026 18:36:10 +0000"
+    },
+    {
+      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+      "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA GQE enables GPU-accelerated database query execution with memory optimization.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
+      "published": "2026-06-30T17:36:43Z"
+    },
+    {
+      "title": "Agriculture is ready for AI, but its data isn't",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "source": "MIT Technology Review",
+      "summary": "Agriculture sector needs data infrastructure improvements before AI adoption.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Tue, 30 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "title": "AI agents are not your \"coworkers\"",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "MIT Technology Review",
+      "summary": "Analysis of corporate messaging around AI agents and workplace expectations.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 29 Jun 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "source": "MIT Technology Review",
+      "summary": "Enterprise organizations accelerate AI agent deployment for measurable business ROI.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Mon, 29 Jun 2026 14:44:01 +0000"
+    },
+    {
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "source": "Ars Technica",
+      "summary": "Google prosecutes cybercriminals exploiting Gemini for large-scale fraud automation.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 13:30:00 GMT"
+      "published": "Fri, 12 Jun 2026 16:34:36 +0000"
     },
     {
-      "title": "Automatically sort and prioritize your mailboxes by using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Generative AI solution automates email management for public sector organizations.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 16:55:48 +0000"
-    },
-    {
-      "title": "Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Migrate business context to semantic datasets for improved analytics and intelligence.",
+      "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
+      "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+      "source": "Amazon ML Blog",
+      "summary": "AWS QuickSight enables logical relationships between datasets for flexible data modeling.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 17:07:57 +0000"
-    },
-    {
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "source": "Hugging Face - Blog",
-      "summary": "Data strategy insights from Photoroom's generative media development process.",
-      "category": "Generative Media",
-      "reading_time_minutes": 4,
-      "published": "Mon, 06 Jul 2026 15:30:55 GMT"
+      "reading_time_minutes": 6,
+      "published": "Tue, 07 Jul 2026 17:07:49 +0000"
     }
   ]
 }

@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://openai.com/index/patch-the-planet",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-    "seen_at": "2026-07-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-    "seen_at": "2026-07-02"
-  },
-  {
     "url": "https://openai.com/index/gpt-5-immunology-mystery",
     "seen_at": "2026-07-03"
   },
@@ -650,5 +574,101 @@
   {
     "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
     "seen_at": "2026-07-09"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/self-reflective-program-search",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/unmasking-on-policy-distillation",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+    "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+    "seen_at": "2026-07-10"
   }
 ]
