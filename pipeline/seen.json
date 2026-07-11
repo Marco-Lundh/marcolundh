@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://openai.com/index/omio",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/multi-agent-teams-experts",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/memoryllm",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/robustness-chain-thought-consistency",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/learning-structured-reasoning",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/residual-context-diffusion",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/conformal-thinking-risk-control",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/unmasking",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/amortizing-inner-product-search",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/videoflextok",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
-    "seen_at": "2026-07-03"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "seen_at": "2026-07-03"
-  },
-  {
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "seen_at": "2026-07-04"
   },
@@ -670,5 +570,105 @@
   {
     "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
     "seen_at": "2026-07-10"
+  },
+  {
+    "url": "https://openai.com/index/deutsche-telekom",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/",
+    "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/",
+    "seen_at": "2026-07-11"
   }
 ]
