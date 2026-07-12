@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://huggingface.co/blog/ffasr-leaderboard",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/anti-casual",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://huggingface.co/blog/local-models-pr-triage",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://huggingface.co/blog/cross-origin-storage",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
-    "seen_at": "2026-07-04"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-    "seen_at": "2026-07-04"
-  },
-  {
     "url": "https://openai.com/index/how-agents-are-transforming-work",
     "seen_at": "2026-07-05"
   },
@@ -670,5 +586,101 @@
   {
     "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/",
     "seen_at": "2026-07-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+    "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+    "seen_at": "2026-07-12"
   }
 ]
