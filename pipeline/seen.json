@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/how-agents-are-transforming-work",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://huggingface.co/blog/vllm-jobs",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-    "seen_at": "2026-07-05"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "seen_at": "2026-07-05"
-  },
-  {
     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
     "seen_at": "2026-07-06"
   },
@@ -682,5 +626,29 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
     "seen_at": "2026-07-12"
+  },
+  {
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "seen_at": "2026-07-13"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "seen_at": "2026-07-13"
+  },
+  {
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "seen_at": "2026-07-13"
+  },
+  {
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "seen_at": "2026-07-13"
+  },
+  {
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "seen_at": "2026-07-13"
+  },
+  {
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "seen_at": "2026-07-13"
   }
 ]

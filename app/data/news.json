@@ -1,221 +1,59 @@
 {
-  "generated_at": "2026-07-12T05:02:21.378837+00:00",
+  "generated_at": "2026-07-13T05:53:03.664285+00:00",
   "articles": [
     {
-      "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
-      "url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Robotics foundation models progress toward practical real-world deployment through natural language instruction following.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-07-12T01:08:17Z"
-    },
-    {
-      "title": "Hardware-Rooted AI Security That Won't Slow You Down",
-      "url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Hardware-based security solutions enable AI adoption without sacrificing performance or operational speed.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-07-02T21:25:42Z"
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "source": "OpenAI News",
-      "summary": "OpenAI launches bug bounty program for GPT-5.5 biological safety vulnerabilities.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face integrates comprehensive evaluation results on model pages for transparency.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "AI | VentureBeat",
-      "summary": "AI coding agents face pricing pressure as open alternatives challenge commercial offerings.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "AI | VentureBeat",
-      "summary": "Listen Labs secures $69M funding to scale AI-powered customer interview automation platform.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Fri, 16 Jan 2026 14:01:00 GMT"
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "AI | VentureBeat",
-      "summary": "Google redesigns search interface with AI-powered interaction paradigm shift.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Tue, 19 May 2026 17:45:00 GMT"
-    },
-    {
-      "title": "sqlite-utils 4.0",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "sqlite-utils 4.0 adds database schema migration support to the data tools library.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "2026-07-07T15:42:43+00:00"
-    },
-    {
-      "title": "llm 0.31.1",
-      "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "LLM tool releases patch fixing OpenAI Chat Completion tool call handling.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-07-09T16:06:15+00:00"
-    },
-    {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Widespread protests block significant AI infrastructure investment and development.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Fri, 12 Jun 2026 17:18:49 +0000"
-    },
-    {
-      "title": "Data modeling patterns for Amazon Quick Sight multi-dataset relationships",
-      "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS provides practical patterns and SQL templates for multi-dataset analytics modeling.",
+      "summary": "OpenAI and Broadcom introduce custom Jalapeño chip for LLM inference optimization.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Tue, 07 Jul 2026 17:07:39 +0000"
+      "reading_time_minutes": 3,
+      "published": "Wed, 24 Jun 2026 06:00:00 GMT"
     },
     {
-      "title": "Multi-dataset Topic best practices for Amazon Quick Chat",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS guidance for building natural language analytics interfaces across multiple datasets.",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face - Blog",
+      "summary": "NVIDIA NeMo AutoModel accelerates transformer model fine-tuning workflows.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 17:07:31 +0000"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI enables modern operational excellence through structured process optimization frameworks.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Thu, 02 Jul 2026 15:37:08 +0000"
-    },
-    {
-      "title": "sqlite-utils 4.0, now with database schema migrations",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Major sqlite-utils release introduces native database migration capabilities.",
-      "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "2026-07-07T15:42:43+00:00"
+      "published": "Wed, 24 Jun 2026 16:00:13 GMT"
     },
     {
-      "title": "Building a World Map with only 500 bytes",
-      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Developer uses AI assistance to create ultra-compressed ASCII world map.",
-      "category": "Generative Media",
-      "reading_time_minutes": 3,
-      "published": "2026-07-04T23:09:02+00:00"
-    },
-    {
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "OpenAI negotiates public ownership stake as part of regulatory negotiations.",
-      "category": "Funding & Business",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "source": "Hugging Face - Blog",
+      "summary": "FFASR Leaderboard benchmarks automatic speech recognition systems in real-world conditions.",
+      "category": "Research & Papers",
       "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
+      "published": "Wed, 24 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "Your family's $300 stake in OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Sam Altman's wealth-sharing vision for AI becomes subject of public policy debate.",
-      "category": "Funding & Business",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "source": "Hugging Face - Blog",
+      "summary": "Analysis of specialization trends in AI model development and deployment.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 18:00:00 +0000"
+      "published": "Tue, 30 Jun 2026 14:39:11 GMT"
     },
     {
-      "title": "sqlite-utils 4.1",
-      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "sqlite-utils 4.1 minor release adds new features for data handling.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-07-11T23:50:20+00:00"
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face Hub release process integrates AI tooling with human-in-the-loop workflows.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Tue, 23 Jun 2026 00:00:00 GMT"
     },
     {
-      "title": "sqlite-migrate 0.2",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "sqlite-migrate retires in favor of sqlite-utils 4.0 compatibility layer.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-07-07T16:33:55+00:00"
-    },
-    {
-      "title": "github-code Web Component",
-      "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Developer builds web component for GitHub code embedding using GPT-5.5.",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face - Blog",
+      "summary": "Cross-Origin Storage API experimentation enables better Transformers.js browser deployment.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-07-07T16:18:16+00:00"
-    },
-    {
-      "title": "sqlite-utils 4.0rc3",
-      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Pre-release candidate expands schema introspection features for database tools.",
-      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "2026-07-06T05:40:08+00:00"
-    },
-    {
-      "title": "sqlite-utils 4.0rc2",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Release candidate largely developed with AI assistance for database tooling.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-07-05T00:47:38+00:00"
-    },
-    {
-      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
-      "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google's fitness tracker succeeds despite overbearing AI coaching assistant.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Fri, 05 Jun 2026 15:40:48 +0000"
-    },
-    {
-      "title": "Elon Musk tries again to escape FTC audits of X data handling",
-      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Privacy concerns arise over AI data practices on social media platform.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 04 Jun 2026 19:49:12 +0000"
+      "published": "Tue, 23 Jun 2026 00:00:00 GMT"
     }
   ]
 }
