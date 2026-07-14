@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "seen_at": "2026-07-06"
-  },
-  {
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "seen_at": "2026-07-06"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
-    "seen_at": "2026-07-06"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
-    "seen_at": "2026-07-06"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
-    "seen_at": "2026-07-06"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-    "seen_at": "2026-07-06"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-    "seen_at": "2026-07-06"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-    "seen_at": "2026-07-06"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
-    "seen_at": "2026-07-06"
-  },
-  {
     "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
     "seen_at": "2026-07-07"
   },
@@ -650,5 +614,89 @@
   {
     "url": "https://huggingface.co/blog/cross-origin-storage",
     "seen_at": "2026-07-13"
+  },
+  {
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://openai.com/academy/getting-started",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://github.com/petergpt/doomql",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://github.com/simonw/shot-scraper/releases/tag/1.11",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://github.com/simonw/sqlite-utils/releases/tag/4.1.1",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/12/bump/",
+    "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://github.com/simonw/datasette/graphs/code-frequency",
+    "seen_at": "2026-07-14"
   }
 ]
