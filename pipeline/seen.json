@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/asr-error-correction",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/path-constrained-mixture-experts",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/topoprimer-topological-context",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/segmental-attention-decoding",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/fortress-stabilizing-search-recommendations",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://huggingface.co/blog/lerobot-release-v060",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://huggingface.co/blog/peft-beyond-lora",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://huggingface.co/blog/is-it-agentic-enough",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
-    "seen_at": "2026-07-07"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "seen_at": "2026-07-07"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
     "seen_at": "2026-07-08"
   },
@@ -698,5 +598,73 @@
   {
     "url": "https://github.com/simonw/datasette/graphs/code-frequency",
     "seen_at": "2026-07-14"
+  },
+  {
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/proactive-agent-research-environment",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/multilingual-semantic-retrieval",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "seen_at": "2026-07-15"
   }
 ]

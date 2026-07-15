@@ -1,194 +1,158 @@
 {
-  "generated_at": "2026-07-14T05:48:08.343134+00:00",
+  "generated_at": "2026-07-15T05:48:00.888818+00:00",
   "articles": [
     {
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "source": "OpenAI News",
-      "summary": "OpenAI research shows AI agents enabling longer complex tasks and expanding productivity.",
+      "summary": "Enterprises manage AI investments by measuring useful work per dollar efficiency.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Thu, 25 Jun 2026 02:00:00 GMT"
+      "published": "Tue, 14 Jul 2026 10:00:00 GMT"
     },
     {
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "OpenAI GPT-5.6 models now available on Amazon Bedrock with high-performance inference.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Mon, 13 Jul 2026 21:01:20 +0000"
-    },
-    {
-      "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Bluesight deployed multi-product agentic AI solution across healthcare compliance products.",
-      "category": "AI Agents & Automation",
+      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
+      "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Nemotron challenge reveals techniques improving AI reasoning accuracy.",
+      "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "Mon, 13 Jul 2026 17:34:38 +0000"
+      "published": "2026-07-14T18:20:32Z"
     },
     {
-      "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/",
-      "source": "Artificial Intelligence",
-      "summary": "Technical guide for multi-tenant agent security using AgentCore Gateway and token exchange.",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI coding agents automate long-running machine learning workflows efficiently.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 7,
-      "published": "Mon, 13 Jul 2026 17:27:40 +0000"
+      "published": "2026-07-14T16:00:00Z"
     },
     {
-      "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker AI Studio launches UI for generative AI inference optimization recommendations.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Mon, 13 Jul 2026 16:42:15 +0000"
-    },
-    {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "source": "Hugging Face - Blog",
-      "summary": "One-command vLLM server deployment on Hugging Face Jobs infrastructure.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Fri, 26 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
-      "url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
+      "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+      "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA demonstrates quantum error correction breakthrough reducing logical error rates significantly.",
-      "category": "Research & Papers",
+      "summary": "Autonomous AI agents fine-tune vision models above ninety percent accuracy.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "2026-07-13T19:00:00Z"
+      "published": "2026-07-14T16:00:00Z"
     },
     {
-      "title": "Extreme Event Likelihoods with Guided Generative Models",
-      "url": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Guided generative models estimate low-likelihood high-impact event probabilities for risk analysis.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "2026-07-13T15:00:00Z"
-    },
-    {
-      "title": "When your brain works differently, AI isn't a luxury—it's accessibility",
-      "url": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/",
+      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
       "source": "Artificial Intelligence",
-      "summary": "AI-powered desktop assistant compensates for executive function gaps for neurodivergent professionals.",
+      "summary": "Multi-agent system automates prospect discovery and email generation at scale.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 8,
+      "published": "Tue, 14 Jul 2026 18:44:26 +0000"
+    },
+    {
+      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
+      "source": "Artificial Intelligence",
+      "summary": "Agentic QA testing integrates regression testing into CI/CD pipelines.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 7,
+      "published": "Tue, 14 Jul 2026 16:47:32 +0000"
+    },
+    {
+      "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
+      "source": "Artificial Intelligence",
+      "summary": "AI platform automatically generates and executes user flow tests at scale.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "Tue, 14 Jul 2026 16:43:41 +0000"
+    },
+    {
+      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
+      "source": "Artificial Intelligence",
+      "summary": "Production-grade AI system reviews and generates medical content at scale.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 7,
+      "published": "Tue, 14 Jul 2026 16:33:08 +0000"
+    },
+    {
+      "title": "ScienceSoft's HIPAA-compliant AI voice scheduler built on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "HIPAA-compliant AI voice scheduler addresses healthcare scheduling challenges.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Tue, 14 Jul 2026 16:25:03 +0000"
+    },
+    {
+      "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
+      "url": "https://machinelearning.apple.com/research/proactive-agent-research-environment",
+      "source": "Apple Machine Learning Research",
+      "summary": "Framework simulates users to develop and evaluate proactive AI assistants.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Multilingual Semantic Retrieval for Apple Music Search",
+      "url": "https://machinelearning.apple.com/research/multilingual-semantic-retrieval",
+      "source": "Apple Machine Learning Research",
+      "summary": "Semantic search system improves music discovery across languages globally.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google updates image search with AI-powered personalized gallery features.",
       "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "Mon, 13 Jul 2026 17:50:16 +0000"
+      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
     },
     {
-      "title": "What Anthropic's latest AI discovery does—and doesn't—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Analysis of Anthropic's recent AI research findings and their implications.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 13 Jul 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Apple lawsuit alleges OpenAI conspired with former employees to steal trade secrets.",
+      "summary": "New York imposes first state data center moratorium affecting AI infrastructure.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
+      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
     },
     {
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic accuses Alibaba of largest Claude model cloning attack using 25,000 accounts.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 25 Jun 2026 18:01:48 +0000"
-    },
-    {
-      "title": "IBM claims world's first sub-1 nanometer chip technology",
-      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "IBM announces sub-1 nanometer chip breakthrough for improved performance and efficiency.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Thu, 25 Jun 2026 10:00:55 +0000"
-    },
-    {
-      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Pokémon Go data repurposing for military AI training raises privacy and ethical concerns.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Fri, 12 Jun 2026 11:15:41 +0000"
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "S&P 500 blocks SpaceX, OpenAI, and Anthropic from index inclusion due to profitability rules.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Fri, 05 Jun 2026 18:45:20 +0000"
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "source": "OpenAI News",
-      "summary": "Introductory guide to ChatGPT for writing, brainstorming, and problem solving.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Fri, 10 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "DOOMQL",
-      "url": "https://github.com/petergpt/doomql",
-      "source": "Simon Willison's Weblog",
-      "summary": "Experimental Doom-like game using SQLite as game engine with GPT-5.6 Sol.",
-      "category": "Generative Media",
-      "reading_time_minutes": 2,
-      "published": "2026-07-13T22:34:41+00:00"
-    },
-    {
-      "title": "shot-scraper 1.11",
-      "url": "https://github.com/simonw/shot-scraper/releases/tag/1.11",
-      "source": "Simon Willison's Weblog",
-      "summary": "Shot-scraper tool release with improved server mechanism and command option consistency.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-07-12T23:46:52+00:00"
-    },
-    {
-      "title": "sqlite-utils 4.1.1",
-      "url": "https://github.com/simonw/sqlite-utils/releases/tag/4.1.1",
-      "source": "Simon Willison's Weblog",
-      "summary": "SQLite utility library release with fixes identified through Claude AI testing.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-07-12T20:55:30+00:00"
-    },
-    {
-      "title": "Fable gets another bump",
-      "url": "https://simonwillison.net/2026/Jul/12/bump/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Anthropic extends Claude Fable 5 availability through July 19 on paid plans.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "2026-07-12T21:20:07+00:00"
-    },
-    {
-      "title": "datasette code-frequency chart on GitHub",
-      "url": "https://github.com/simonw/datasette/graphs/code-frequency",
-      "source": "Simon Willison's Weblog",
-      "summary": "Analysis of AI coding agents and Opus class models impact on software development productivity.",
+      "summary": "NVIDIA's AI agents autonomously direct robot training for hardware installation.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "2026-07-13T21:45:27+00:00"
+      "reading_time_minutes": 5,
+      "published": "Wed, 17 Jun 2026 19:25:19 +0000"
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "summary": "Data science teams use ChatGPT Work for analysis and reporting.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "summary": "Sales teams generate pipeline briefs and forecasts with ChatGPT Work.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "NYT alleges Microsoft supercomputer facilitated OpenAI copyright infringement.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 26 Jun 2026 20:04:55 +0000"
     }
   ]
 }
