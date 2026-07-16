@@ -1,158 +1,212 @@
 {
-  "generated_at": "2026-07-15T05:48:00.888818+00:00",
+  "generated_at": "2026-07-16T05:02:23.092694+00:00",
   "articles": [
     {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "source": "OpenAI News",
-      "summary": "Enterprises manage AI investments by measuring useful work per dollar efficiency.",
-      "category": "AI Agents & Automation",
+      "summary": "OpenAI's automated red teaming system uses self-play to improve AI safety and robustness.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Tue, 14 Jul 2026 10:00:00 GMT"
+      "published": "Wed, 15 Jul 2026 10:00:00 GMT"
     },
     {
-      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
-      "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Nemotron challenge reveals techniques improving AI reasoning accuracy.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "2026-07-14T18:20:32Z"
-    },
-    {
-      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
-      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "AI coding agents automate long-running machine learning workflows efficiently.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "2026-07-14T16:00:00Z"
-    },
-    {
-      "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
-      "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Autonomous AI agents fine-tune vision models above ninety percent accuracy.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-07-14T16:00:00Z"
-    },
-    {
-      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Multi-agent system automates prospect discovery and email generation at scale.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 8,
-      "published": "Tue, 14 Jul 2026 18:44:26 +0000"
-    },
-    {
-      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
-      "source": "Artificial Intelligence",
-      "summary": "Agentic QA testing integrates regression testing into CI/CD pipelines.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "Tue, 14 Jul 2026 16:47:32 +0000"
-    },
-    {
-      "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
-      "source": "Artificial Intelligence",
-      "summary": "AI platform automatically generates and executes user flow tests at scale.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "Tue, 14 Jul 2026 16:43:41 +0000"
-    },
-    {
-      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
-      "source": "Artificial Intelligence",
-      "summary": "Production-grade AI system reviews and generates medical content at scale.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 7,
-      "published": "Tue, 14 Jul 2026 16:33:08 +0000"
-    },
-    {
-      "title": "ScienceSoft's HIPAA-compliant AI voice scheduler built on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "HIPAA-compliant AI voice scheduler addresses healthcare scheduling challenges.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Tue, 14 Jul 2026 16:25:03 +0000"
-    },
-    {
-      "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
-      "url": "https://machinelearning.apple.com/research/proactive-agent-research-environment",
-      "source": "Apple Machine Learning Research",
-      "summary": "Framework simulates users to develop and evaluate proactive AI assistants.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Multilingual Semantic Retrieval for Apple Music Search",
-      "url": "https://machinelearning.apple.com/research/multilingual-semantic-retrieval",
-      "source": "Apple Machine Learning Research",
-      "summary": "Semantic search system improves music discovery across languages globally.",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Technology Review",
+      "summary": "OpenAI's GPT-Red automated red teaming tool enhances model defenses against cyberattacks.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google updates image search with AI-powered personalized gallery features.",
-      "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
+      "published": "Wed, 15 Jul 2026 17:09:37 +0000"
     },
     {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "New York imposes first state data center moratorium affecting AI infrastructure.",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI News",
+      "summary": "OpenAI outlines reverse federalism approach to AI governance and safety frameworks.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
+      "reading_time_minutes": 5,
+      "published": "Wed, 15 Jul 2026 12:00:00 GMT"
     },
     {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "NVIDIA's AI agents autonomously direct robot training for hardware installation.",
+      "title": "One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation",
+      "url": "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders",
+      "source": "Apple Machine Learning Research",
+      "summary": "Novel approach adapts pretrained visual encoders for improved image generation efficiency.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning",
+      "url": "https://machinelearning.apple.com/research/clara-latent-reasoning",
+      "source": "Apple Machine Learning Research",
+      "summary": "Unified framework combines embedding-based compression with joint retrieval-generation optimization.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Uncertainty Quantification for LLM Function-Calling",
+      "url": "https://machinelearning.apple.com/research/uncertainty-quantification-function-calling",
+      "source": "Apple Machine Learning Research",
+      "summary": "Framework quantifies LLM confidence in function calls for safer autonomous task execution.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
+      "url": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
+      "source": "AWS Machine Learning",
+      "summary": "AI-powered document processing engine reduces workflows from days to minutes.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Wed, 15 Jul 2026 18:14:31 +0000"
+    },
+    {
+      "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
+      "source": "AWS Machine Learning",
+      "summary": "Computer Vision MCP Server enables streamlined visual intelligence through standardized interfaces.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Wed, 17 Jun 2026 19:25:19 +0000"
+      "published": "Wed, 15 Jul 2026 18:11:57 +0000"
     },
     {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "summary": "Data science teams use ChatGPT Work for analysis and reporting.",
-      "category": "AI Tools & Frameworks",
+      "title": "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
+      "source": "AWS Machine Learning",
+      "summary": "Solution centralizes SageMaker Pipelines monitoring across AWS accounts and regions.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+      "published": "Wed, 15 Jul 2026 18:08:50 +0000"
     },
     {
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "summary": "Sales teams generate pipeline briefs and forecasts with ChatGPT Work.",
-      "category": "AI Tools & Frameworks",
+      "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
+      "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI agents accelerate development of lightweight USD runtimes for physical AI applications.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+      "published": "2026-07-15T21:57:23Z"
     },
     {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "NYT alleges Microsoft supercomputer facilitated OpenAI copyright infringement.",
+      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
+      "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "DeepStream 9.1 enables multi-camera 3D object tracking across large spaces.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "2026-07-15T23:00:00Z"
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "source": "VentureBeat",
+      "summary": "Enterprise agents consolidating onto provider platforms with Anthropic Claude leading.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Wed, 15 Jul 2026 22:24:17 GMT"
+    },
+    {
+      "title": "xai-org/grok-build, now open source",
+      "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
+      "source": "Simon Willison's Weblog",
+      "summary": "xAI releases Grok CLI coding agent as open source after privacy concerns.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "2026-07-15T23:59:30+00:00"
+    },
+    {
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Security vulnerability discovered in Claude's web_fetch tool enables data exfiltration.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Fri, 26 Jun 2026 20:04:55 +0000"
+      "published": "2026-07-15T14:21:54+00:00"
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Ars Technica",
+      "summary": "Anthropic faces backlash over undisclosed user monitoring experiment.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face",
+      "summary": "LeRobot framework advances robotics with enhanced AI model capabilities.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face",
+      "summary": "Thinking Machines introduces Inkling platform for enterprise AI solutions.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face",
+      "summary": "VoiceEQ benchmark measures human quality perception in voice AI systems.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
+      "url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "CUDA 13.3 introduces carryless multiplication for accelerated cryptographic operations.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-07-15T17:37:12Z"
+    },
+    {
+      "title": "DOOMQL",
+      "url": "https://simonwillison.net/2026/Jul/13/doomql/",
+      "source": "Simon Willison's Weblog",
+      "summary": "SQLite serves as game engine for innovative Doom-like game implementation.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-07-13T22:34:41+00:00"
+    },
+    {
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face",
+      "summary": "Allen Institute shares lessons from building the Shippy AI agent.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Wed, 15 Jul 2026 17:29:41 GMT"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn't.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face",
+      "summary": "IBM Research explores complexities in routing across multiple AI models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 15 Jul 2026 17:27:01 GMT"
+    },
+    {
+      "title": "Mermaid to Unicode box art (grok-mermaid)",
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Tool converts Mermaid diagrams to Unicode box art for terminal display.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-07-16T00:33:18+00:00"
     }
   ]
 }

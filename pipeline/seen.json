@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/sounding-video-generation",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/dynamics-fine-tuning-llms",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/lensvlm-context-expansion",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/mt-editflow-image-editing",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/weblica-visual-web-agents",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/floweval-ui-evaluation",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://openai.com/index/australian-payments-plus",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://openai.com/index/mufg",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://openai.com/index/hp-frontier-partnership",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://huggingface.co/blog/skypilot-hf-storage",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-    "seen_at": "2026-07-08"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-    "seen_at": "2026-07-08"
-  },
-  {
     "url": "https://openai.com/index/introducing-gpt-live",
     "seen_at": "2026-07-09"
   },
@@ -666,5 +566,97 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
     "seen_at": "2026-07-15"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/clara-latent-reasoning",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/uncertainty-quantification-function-calling",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/13/doomql/",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "seen_at": "2026-07-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/",
+    "seen_at": "2026-07-16"
   }
 ]
