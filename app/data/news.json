@@ -1,229 +1,220 @@
 {
-  "generated_at": "2026-07-17T05:02:21.624248+00:00",
+  "generated_at": "2026-07-18T05:01:54.445161+00:00",
   "articles": [
     {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
       "source": "OpenAI News",
-      "summary": "Cars24 deploys OpenAI voice agents handling 1M+ monthly minutes, recovering 12% lost leads.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI News",
-      "summary": "MUFG uses ChatGPT Enterprise to build AI-native organization scaling financial services.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
-      "source": "Artificial Intelligence",
-      "summary": "Deploy voice ordering AI agent using Bedrock AgentCore and Nova 2 Sonic with MCP integration.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 16 Jul 2026 15:50:52 +0000"
-    },
-    {
-      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
-      "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Deploy video analytics AI agents perceiving and reasoning on massive video footage streams.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "2026-07-16T16:03:35Z"
-    },
-    {
-      "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
-      "url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Scale agentic AI with BlueField infrastructure handling multiple model and tool calls.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "2026-07-16T16:00:00Z"
-    },
-    {
-      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
-      "source": "Artificial Intelligence",
-      "summary": "Build enterprise search for AI agents with simplified setup and production-ready retrieval.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 21:29:14 +0000"
-    },
-    {
-      "title": "Introducing Grok on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Access Grok 4.3 on Bedrock for agentic workflows with reasoning, tool calling, and structured output.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 19:29:26 +0000"
-    },
-    {
-      "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
-      "url": "https://machinelearning.apple.com/research/simple-self-distillation",
-      "source": "Apple Machine Learning Research",
-      "summary": "Self-distillation improves LLM code generation 42% to 55% pass@1 without verifier.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 3,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA Nemotron 3 Embed achieves top RTEB ranking for agentic retrieval systems.",
+      "summary": "New voice models for natural human-AI interaction now powering ChatGPT Voice.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Thu, 16 Jul 2026 16:01:21 GMT"
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face - Blog",
-      "summary": "One-click integration enables Hugging Face models directly in Amazon SageMaker Studio.",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI News",
+      "summary": "OpenAI introduces practical AI scorecard measuring ROI through useful work and compute efficiency.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "Tue, 07 Jul 2026 21:15:33 GMT"
-    },
-    {
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "source": "Hugging Face - Blog",
-      "summary": "SkyPilot enables zero-egress AI workload execution across clouds with Hugging Face storage.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "IT leaders navigate AI architecture foundations and risks as agentic systems scale.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 11:10:52 +0000"
-    },
-    {
-      "title": "Building the foundation for an autonomous enterprise",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI becomes core operating layer in industries with critical physical infrastructure.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 02 Jul 2026 12:51:44 +0000"
-    },
-    {
-      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "DiffusionGemma achieves 4x speed boost for local AI using diffusion-based approaches.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "Wed, 10 Jun 2026 19:29:21 +0000"
-    },
-    {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "source": "AI | VentureBeat",
-      "summary": "Enterprises rapidly expand AI infrastructure with limited cost visibility or steering capability.",
-      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 19:16:48 GMT"
+      "published": "Fri, 17 Jul 2026 10:00:00 GMT"
     },
     {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "AI | VentureBeat",
-      "summary": "Over half of enterprises experienced agent incidents despite inadequate identity and credential controls.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 19:02:38 GMT"
-    },
-    {
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "source": "AI | VentureBeat",
-      "summary": "Enterprise AI agents produce confident wrong answers due to missing or inconsistent context.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 17:06:08 GMT"
-    },
-    {
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "source": "AI | VentureBeat",
-      "summary": "Half of enterprises deployed agents that passed internal evaluations but failed in production.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 16:40:48 GMT"
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Moonshot AI announces Kimi K3 with 2.8T parameters, open weights releasing July 27.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "2026-07-16T20:19:30+00:00"
-    },
-    {
-      "title": "Inkling: Our open-weights model",
-      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Thinking Machines Lab releases Inkling, 975B parameter MoE multimodal open-weights model.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-07-16T15:35:25+00:00"
-    },
-    {
-      "title": "xai-org/grok-build, now open source",
-      "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "xAI opens Grok CLI coding agent source code after community backlash over privacy concerns.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "2026-07-15T23:59:30+00:00"
-    },
-    {
-      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Security researcher demonstrates data exfiltration vulnerability in Claude web fetch tool.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-07-15T14:21:54+00:00"
-    },
-    {
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "source": "OpenAI News",
-      "summary": "OpenAI implements age-appropriate protections and parental controls for teen ChatGPT access.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 16 Jul 2026 16:00:00 GMT"
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "source": "OpenAI News",
-      "summary": "AP+ uses ChatGPT Enterprise and Codex to streamline payments processing workflows.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Personalizing Incremental Video Search with Hybrid Text and ID Embeddings",
-      "url": "https://machinelearning.apple.com/research/personalizing-incremental-video-search",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple TV search combines text and collaborative embeddings for personalized video ranking.",
+      "summary": "OpenAI analysis reveals critical issues in SWE-Bench Pro coding benchmark reliability.",
       "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 08 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Quick agentic AI automates entire sales cycle from prospecting through deal closing.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Fri, 17 Jul 2026 18:42:36 +0000"
+    },
+    {
+      "title": "How Smartsheet built a remote MCP server on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws",
+      "source": "Artificial Intelligence",
+      "summary": "Smartsheet remote MCP architecture on AWS with security, governance, and AI optimizations.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Fri, 17 Jul 2026 16:32:06 +0000"
+    },
+    {
+      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+      "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "LangChain Deep Agents harness profile optimizes NVIDIA Nemotron 3 Ultra performance and cost.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-07-08T18:17:59Z"
+    },
+    {
+      "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
+      "url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "GPU-accelerated Presto delivers peak performance on NVIDIA GB200 for analytical queries.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-08T16:05:25Z"
+    },
+    {
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face - Blog",
+      "summary": "NVIDIA NeMo Automodel enables scalable fine-tuning of video and image diffusion models.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Fri, 17 Jul 2026 15:57:54 GMT"
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face - Blog",
+      "summary": "vLLM native-speed transformers backend achieves optimal performance for LLM inference.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
+      "url": "https://machinelearning.apple.com/research/unlearning-free-low-influence",
+      "source": "Apple Machine Learning Research",
+      "summary": "Efficient unlearning method reduces computational costs by targeting low-influence data points.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Fri, 17 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
+      "url": "https://machinelearning.apple.com/research/visual-concept-inference",
+      "source": "Apple Machine Learning Research",
+      "summary": "VICIS enables vision-language models to infer visual concepts from example image sets.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Fri, 17 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Interactive Proofs for General Distribution Properties",
+      "url": "https://machinelearning.apple.com/research/interactive-proofs-distribution-properties",
+      "source": "Apple Machine Learning Research",
+      "summary": "Interactive proof systems enable efficient verification of distribution properties claims.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Doubly Sub-linear Interactive Proofs of Proximity",
+      "url": "https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs",
+      "source": "Apple Machine Learning Research",
+      "summary": "Doubly sub-linear IPPs enable ultra-fast proof generation and approximate verification.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Android Bench updated with new LLMs including Fable 5, showing Gemini performance gaps.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
+    },
+    {
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI-driven weather forecasts face increasing vulnerability to data sabotage attacks.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 6,
+      "published": "Fri, 17 Jul 2026 08:57:32 +0000"
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "AI | VentureBeat",
+      "summary": "Railway raises $100 million Series B for AI-native cloud platform targeting enterprise.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI News",
+      "summary": "OpenAI outlines principles for responsible government partnerships and democratic accountability.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Wed, 08 Jul 2026 13:30:00 GMT"
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "source": "OpenAI News",
+      "summary": "OpenAI Academy brings hands-on AI Skills Jams to K–12 educators nationwide.",
+      "category": "AI in Industry",
       "reading_time_minutes": 3,
+      "published": "Wed, 08 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Introducing Mobile Layout for Amazon Quick dashboards",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Quick dashboards now support mobile layout for on-the-go business analytics.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Fri, 17 Jul 2026 17:13:15 +0000"
+    },
+    {
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face - Blog",
+      "summary": "DiScoFormer unified transformer handles density and score modeling across distributions.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Mon, 29 Jun 2026 18:02:48 GMT"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face models integrated with Microsoft Foundry managed compute infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Tue, 07 Jul 2026 15:20:06 GMT"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face - Blog",
+      "summary": "Photoroom shares data strategy for training advanced generative image models.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 6,
+      "published": "Mon, 06 Jul 2026 15:30:55 GMT"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face - Blog",
+      "summary": "Dharma AI demonstrates consistent advantages with newer model architectures.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Thu, 16 Jul 2026 11:49:48 GMT"
+    },
+    {
+      "title": "Location-Invariant Properties of Functions Versus Properties of Distributions",
+      "url": "https://machinelearning.apple.com/research/location-invariant-functions",
+      "source": "Apple Machine Learning Research",
+      "summary": "Research unifies testing complexity for location-invariant properties of functions and distributions.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
       "published": "Thu, 16 Jul 2026 00:00:00 GMT"
     }
   ]
