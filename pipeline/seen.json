@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/deutsche-telekom",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://huggingface.co/blog/torch-attention-profile",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://huggingface.co/blog/revamped-kernels",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/",
-    "seen_at": "2026-07-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/",
-    "seen_at": "2026-07-11"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
     "seen_at": "2026-07-12"
   },
@@ -658,5 +558,81 @@
   {
     "url": "https://machinelearning.apple.com/research/location-invariant-functions",
     "seen_at": "2026-07-18"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+    "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+    "seen_at": "2026-07-19"
   }
 ]

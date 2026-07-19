@@ -1,221 +1,176 @@
 {
-  "generated_at": "2026-07-18T05:01:54.445161+00:00",
+  "generated_at": "2026-07-19T05:48:11.716519+00:00",
   "articles": [
     {
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
       "source": "OpenAI News",
-      "summary": "New voice models for natural human-AI interaction now powering ChatGPT Voice.",
+      "summary": "GPT-5.6 delivers stronger performance per dollar with enhanced capabilities.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT"
     },
     {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "source": "OpenAI News",
-      "summary": "OpenAI introduces practical AI scorecard measuring ROI through useful work and compute efficiency.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Fri, 17 Jul 2026 10:00:00 GMT"
+      "summary": "GPT-5.6 powers Microsoft 365 Copilot across Word, Excel, PowerPoint.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Thu, 09 Jul 2026 13:00:00 GMT"
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "source": "OpenAI News",
-      "summary": "OpenAI analysis reveals critical issues in SWE-Bench Pro coding benchmark reliability.",
+      "summary": "ChatGPT Work agent takes actions across apps and completes complex projects.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Technology Review",
+      "summary": "Anthropic developed Jacobian lens to reveal internal reasoning within Claude.",
       "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Wed, 08 Jul 2026 13:00:00 GMT"
+      "published": "Thu, 09 Jul 2026 20:22:28 +0000"
     },
     {
-      "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Quick agentic AI automates entire sales cycle from prospecting through deal closing.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Fri, 17 Jul 2026 18:42:36 +0000"
+      "title": "Claude Science is Anthropic's newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Technology Review",
+      "summary": "Claude Science supports scientific research with autonomous task execution.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 30 Jun 2026 21:50:04 +0000"
+    },
+    {
+      "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
+      "url": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA NeMo generates synthetic financial data for LLM fine-tuning.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-09T19:40:37Z"
     },
     {
       "title": "How Smartsheet built a remote MCP server on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
       "source": "Artificial Intelligence",
-      "summary": "Smartsheet remote MCP architecture on AWS with security, governance, and AI optimizations.",
+      "summary": "Smartsheet deployed MCP server on AWS with security and scaling optimizations.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
+      "reading_time_minutes": 7,
       "published": "Fri, 17 Jul 2026 16:32:06 +0000"
     },
     {
-      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
-      "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "LangChain Deep Agents harness profile optimizes NVIDIA Nemotron 3 Ultra performance and cost.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-07-08T18:17:59Z"
-    },
-    {
-      "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
-      "url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "GPU-accelerated Presto delivers peak performance on NVIDIA GB200 for analytical queries.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-07-08T16:05:25Z"
-    },
-    {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA NeMo Automodel enables scalable fine-tuning of video and image diffusion models.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Fri, 17 Jul 2026 15:57:54 GMT"
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face - Blog",
-      "summary": "vLLM native-speed transformers backend achieves optimal performance for LLM inference.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
-      "url": "https://machinelearning.apple.com/research/unlearning-free-low-influence",
-      "source": "Apple Machine Learning Research",
-      "summary": "Efficient unlearning method reduces computational costs by targeting low-influence data points.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Fri, 17 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
-      "url": "https://machinelearning.apple.com/research/visual-concept-inference",
-      "source": "Apple Machine Learning Research",
-      "summary": "VICIS enables vision-language models to infer visual concepts from example image sets.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Fri, 17 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Interactive Proofs for General Distribution Properties",
-      "url": "https://machinelearning.apple.com/research/interactive-proofs-distribution-properties",
-      "source": "Apple Machine Learning Research",
-      "summary": "Interactive proof systems enable efficient verification of distribution properties claims.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Doubly Sub-linear Interactive Proofs of Proximity",
-      "url": "https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs",
-      "source": "Apple Machine Learning Research",
-      "summary": "Doubly sub-linear IPPs enable ultra-fast proof generation and approximate verification.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Android Bench updated with new LLMs including Fable 5, showing Gemini performance gaps.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
-    },
-    {
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI-driven weather forecasts face increasing vulnerability to data sabotage attacks.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 6,
-      "published": "Fri, 17 Jul 2026 08:57:32 +0000"
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "AI | VentureBeat",
-      "summary": "Railway raises $100 million Series B for AI-native cloud platform targeting enterprise.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI News",
-      "summary": "OpenAI outlines principles for responsible government partnerships and democratic accountability.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Wed, 08 Jul 2026 13:30:00 GMT"
-    },
-    {
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "source": "OpenAI News",
-      "summary": "OpenAI Academy brings hands-on AI Skills Jams to K–12 educators nationwide.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Wed, 08 Jul 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Introducing Mobile Layout for Amazon Quick dashboards",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Quick dashboards now support mobile layout for on-the-go business analytics.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Fri, 17 Jul 2026 17:13:15 +0000"
-    },
-    {
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "source": "Hugging Face - Blog",
-      "summary": "DiScoFormer unified transformer handles density and score modeling across distributions.",
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "source": "Ars Technica",
+      "summary": "Google releases Nano Banana 2 Lite for fast, cost-effective image generation.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Mon, 29 Jun 2026 18:02:48 GMT"
+      "reading_time_minutes": 3,
+      "published": "Tue, 30 Jun 2026 18:36:10 +0000"
     },
     {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face models integrated with Microsoft Foundry managed compute infrastructure.",
-      "category": "MLOps & Infrastructure",
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "source": "Ars Technica",
+      "summary": "Google sues cybercriminals who weaponized Gemini to scale phishing attacks.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Tue, 07 Jul 2026 15:20:06 GMT"
+      "published": "Fri, 12 Jun 2026 16:34:36 +0000"
     },
     {
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "source": "Hugging Face - Blog",
-      "summary": "Photoroom shares data strategy for training advanced generative image models.",
+      "summary": "IBM Research releases ScarfBench for evaluating AI agents on enterprise migration.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Tue, 30 Jun 2026 18:32:50 GMT"
+    },
+    {
+      "title": "Claude make Fable 5 permanent",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic makes Claude Fable 5 permanent in premium subscription plans.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-07-18T06:00:13+00:00"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Code v2.1.181 adopts Rust-based Bun for faster startup performance.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-07-19T03:54:09+00:00"
+    },
+    {
+      "title": "Quoting Thibault Sottiaux",
+      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "GPT-5.6 file deletion issues identified when running without sandboxing.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 2,
+      "published": "2026-07-16T17:45:59+00:00"
+    },
+    {
+      "title": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Linus Torvalds declares Linux welcomes AI tools as legitimate development aids.",
       "category": "Open Source AI",
-      "reading_time_minutes": 6,
-      "published": "Mon, 06 Jul 2026 15:30:55 GMT"
+      "reading_time_minutes": 2,
+      "published": "2026-07-16T13:26:10+00:00"
     },
     {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face - Blog",
-      "summary": "Dharma AI demonstrates consistent advantages with newer model architectures.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 11:49:48 GMT"
+      "title": "Mermaid to Unicode box art (grok-mermaid)",
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Tool converts Mermaid diagrams to Unicode box art using open-source AI.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-07-16T00:33:18+00:00"
     },
     {
-      "title": "Location-Invariant Properties of Functions Versus Properties of Distributions",
-      "url": "https://machinelearning.apple.com/research/location-invariant-functions",
-      "source": "Apple Machine Learning Research",
-      "summary": "Research unifies testing complexity for location-invariant properties of functions and distributions.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Fable 5 creates Mermaid to ASCII art conversion utility.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-07-16T14:57:39+00:00"
+    },
+    {
+      "title": "SQLite Query Explainer",
+      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Interactive tool uses AI to explain SQLite query execution plans.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-07-18T17:19:10+00:00"
+    },
+    {
+      "title": "LLM cliché highlighter",
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Tool highlights common patterns in AI-generated writing using Fable 5.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-07-17T12:11:11+00:00"
+    },
+    {
+      "title": "simonw/pedalican",
+      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Custom pet AI avatar created for Codex Desktop application.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-07-14T22:29:45+00:00"
     }
   ]
 }
