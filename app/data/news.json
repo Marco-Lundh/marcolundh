@@ -1,176 +1,131 @@
 {
-  "generated_at": "2026-07-19T05:48:11.716519+00:00",
+  "generated_at": "2026-07-20T05:51:48.914339+00:00",
   "articles": [
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
       "source": "OpenAI News",
-      "summary": "GPT-5.6 delivers stronger performance per dollar with enhanced capabilities.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI News",
-      "summary": "GPT-5.6 powers Microsoft 365 Copilot across Word, Excel, PowerPoint.",
+      "summary": "Deutsche Telekom transforms telecommunications operations using AI for customer service and networks.",
       "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 09 Jul 2026 13:00:00 GMT"
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Work agent takes actions across apps and completes complex projects.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "MIT Technology Review",
-      "summary": "Anthropic developed Jacobian lens to reveal internal reasoning within Claude.",
-      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Thu, 09 Jul 2026 20:22:28 +0000"
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Claude Science is Anthropic's newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Technology Review",
-      "summary": "Claude Science supports scientific research with autonomous task execution.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 30 Jun 2026 21:50:04 +0000"
-    },
-    {
-      "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
-      "url": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
+      "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+      "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA NeMo generates synthetic financial data for LLM fine-tuning.",
+      "summary": "Optimization techniques for GPU memory constraints in large language model training.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
-      "published": "2026-07-09T19:40:37Z"
+      "published": "2026-07-10T18:17:40Z"
     },
     {
-      "title": "How Smartsheet built a remote MCP server on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Smartsheet deployed MCP server on AWS with security and scaling optimizations.",
+      "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
+      "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "GPU optimization techniques for improving memory bandwidth and reducing kernel launch overhead.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "Fri, 17 Jul 2026 16:32:06 +0000"
-    },
-    {
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "source": "Ars Technica",
-      "summary": "Google releases Nano Banana 2 Lite for fast, cost-effective image generation.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Tue, 30 Jun 2026 18:36:10 +0000"
-    },
-    {
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-      "source": "Ars Technica",
-      "summary": "Google sues cybercriminals who weaponized Gemini to scale phishing attacks.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Fri, 12 Jun 2026 16:34:36 +0000"
-    },
-    {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face - Blog",
-      "summary": "IBM Research releases ScarfBench for evaluating AI agents on enterprise migration.",
-      "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Tue, 30 Jun 2026 18:32:50 GMT"
+      "published": "2026-07-10T16:41:03Z"
     },
     {
-      "title": "Claude make Fable 5 permanent",
-      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Anthropic makes Claude Fable 5 permanent in premium subscription plans.",
+      "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+      "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Hardware-software co-design strategies for optimizing LLM accuracy, throughput, and efficiency.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "2026-07-18T06:00:13+00:00"
+      "reading_time_minutes": 6,
+      "published": "2026-07-10T16:36:02Z"
     },
     {
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Code v2.1.181 adopts Rust-based Bun for faster startup performance.",
+      "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
+      "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Protein structure prediction acceleration using OpenFold3 for drug discovery applications.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-07-19T03:54:09+00:00"
+      "reading_time_minutes": 5,
+      "published": "2026-07-10T13:00:00Z"
     },
     {
-      "title": "Quoting Thibault Sottiaux",
-      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "GPT-5.6 file deletion issues identified when running without sandboxing.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 2,
-      "published": "2026-07-16T17:45:59+00:00"
+      "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
+      "url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "GPU-initiated communication optimization for large-scale molecular dynamics simulations.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-09T17:15:04Z"
     },
     {
-      "title": "Quoting Linus Torvalds",
-      "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Linus Torvalds declares Linux welcomes AI tools as legitimate development aids.",
+      "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
+      "source": "Artificial Intelligence",
+      "summary": "Serverless fine-tuning of Nemotron 3 models on AWS SageMaker for custom applications.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Fri, 10 Jul 2026 15:35:05 +0000"
+    },
+    {
+      "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
+      "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
+      "source": "Artificial Intelligence",
+      "summary": "AI-powered quality verification system for dental X-rays deployed across thousands of locations.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Fri, 10 Jul 2026 15:33:47 +0000"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face - Blog",
+      "summary": "PyTorch profiling techniques for optimizing attention mechanisms in transformer models.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Fri, 10 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face - Blog",
+      "summary": "Significant updates to Hugging Face kernel optimization library for model inference.",
       "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-07-16T13:26:10+00:00"
+      "reading_time_minutes": 4,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Mermaid to Unicode box art (grok-mermaid)",
-      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Tool converts Mermaid diagrams to Unicode box art using open-source AI.",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face - Blog",
+      "summary": "Real-time voice AI integration combining Gemma 4 with Cerebras infrastructure.",
       "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Wed, 01 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Startup develops techniques to increase diversity and reduce groupthink in LLM outputs.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 01 Jul 2026 14:35:16 +0000"
+    },
+    {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic releases Fable and Mythos models globally after US safety testing approval.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Wed, 01 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "title": "Quoting Sam Altman",
+      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI discusses open source strategy and releasing GPT-3-capable local consumer models.",
+      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "2026-07-16T00:33:18+00:00"
-    },
-    {
-      "title": "Mermaid to ASCII art (mermaid-ascii)",
-      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Fable 5 creates Mermaid to ASCII art conversion utility.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-07-16T14:57:39+00:00"
-    },
-    {
-      "title": "SQLite Query Explainer",
-      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Interactive tool uses AI to explain SQLite query execution plans.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-07-18T17:19:10+00:00"
-    },
-    {
-      "title": "LLM cliché highlighter",
-      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Tool highlights common patterns in AI-generated writing using Fable 5.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-07-17T12:11:11+00:00"
-    },
-    {
-      "title": "simonw/pedalican",
-      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Custom pet AI avatar created for Codex Desktop application.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-07-14T22:29:45+00:00"
+      "published": "2026-07-20T03:47:59+00:00"
     }
   ]
 }

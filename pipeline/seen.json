@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://huggingface.co/blog/eee-community-evals",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-    "seen_at": "2026-07-12"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-    "seen_at": "2026-07-12"
-  },
-  {
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "seen_at": "2026-07-13"
   },
@@ -634,5 +538,61 @@
   {
     "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
     "seen_at": "2026-07-19"
+  },
+  {
+    "url": "https://openai.com/index/deutsche-telekom",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+    "seen_at": "2026-07-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+    "seen_at": "2026-07-20"
   }
 ]
