@@ -1,131 +1,230 @@
 {
-  "generated_at": "2026-07-20T05:51:48.914339+00:00",
+  "generated_at": "2026-07-21T05:29:28.580077+00:00",
   "articles": [
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
       "source": "OpenAI News",
-      "summary": "Deutsche Telekom transforms telecommunications operations using AI for customer service and networks.",
+      "summary": "OpenAI shares safety lessons from deploying long-running AI models with new risks.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 20 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
+      "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA presents NVLink infrastructure for scaling large AI workloads and model complexity.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-20T15:46:28Z"
+    },
+    {
+      "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+      "url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Guidelines for evaluating robotics foundation models for practical real-world applications.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-07-12T01:08:17Z"
+    },
+    {
+      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Quick and NVIDIA NeMo enable specialized business agent workflows with guided recommendations.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Mon, 20 Jul 2026 17:01:32 +0000"
+    },
+    {
+      "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Couchbase implements multi-model AI architecture using Amazon Bedrock and Claude models.",
       "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "Fri, 10 Jul 2026 07:00:00 GMT"
+      "published": "Mon, 20 Jul 2026 16:58:52 +0000"
     },
     {
-      "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
-      "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Optimization techniques for GPU memory constraints in large language model training.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-07-10T18:17:40Z"
-    },
-    {
-      "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
-      "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "GPU optimization techniques for improving memory bandwidth and reducing kernel launch overhead.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-07-10T16:41:03Z"
-    },
-    {
-      "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
-      "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Hardware-software co-design strategies for optimizing LLM accuracy, throughput, and efficiency.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "2026-07-10T16:36:02Z"
-    },
-    {
-      "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
-      "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Protein structure prediction acceleration using OpenFold3 for drug discovery applications.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-07-10T13:00:00Z"
-    },
-    {
-      "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
-      "url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "GPU-initiated communication optimization for large-scale molecular dynamics simulations.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-07-09T17:15:04Z"
-    },
-    {
-      "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
+      "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/",
       "source": "Artificial Intelligence",
-      "summary": "Serverless fine-tuning of Nemotron 3 models on AWS SageMaker for custom applications.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Fri, 10 Jul 2026 15:35:05 +0000"
-    },
-    {
-      "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
-      "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
-      "source": "Artificial Intelligence",
-      "summary": "AI-powered quality verification system for dental X-rays deployed across thousands of locations.",
+      "summary": "Tradeshift deployed agentic AI achieving 30x faster queries and 40% cost reduction.",
       "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "Fri, 10 Jul 2026 15:33:47 +0000"
+      "published": "Mon, 20 Jul 2026 16:56:48 +0000"
     },
     {
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "source": "Hugging Face - Blog",
-      "summary": "PyTorch profiling techniques for optimizing attention mechanisms in transformer models.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Fri, 10 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "source": "Hugging Face - Blog",
-      "summary": "Significant updates to Hugging Face kernel optimization library for model inference.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "source": "Hugging Face - Blog",
-      "summary": "Real-time voice AI integration combining Gemma 4 with Cerebras infrastructure.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Wed, 01 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Startup develops techniques to increase diversity and reduce groupthink in LLM outputs.",
+      "title": "RayRoPE: Projective Ray Positional Encoding for Multi-View Attention",
+      "url": "https://machinelearning.apple.com/research/rayrope-projective-ray",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple presents RayRoPE positional encoding for multi-view transformers with geometric awareness.",
       "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Wed, 01 Jul 2026 14:35:16 +0000"
+      "reading_time_minutes": 4,
+      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic releases Fable and Mythos models globally after US safety testing approval.",
+      "title": "LVSum: A Benchmark for Timestamp-Aware Long Video Summarization",
+      "url": "https://machinelearning.apple.com/research/lvsum-video-summarization",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple introduces benchmark for evaluating long-form video summarization with temporal alignment.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
+      "url": "https://machinelearning.apple.com/research/length-value-model",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple proposes Length Value Model for token-level generation length prediction and optimization.",
       "category": "LLMs & Models",
       "reading_time_minutes": 4,
-      "published": "Wed, 01 Jul 2026 16:44:18 +0000"
+      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Quoting Sam Altman",
-      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI discusses open source strategy and releasing GPT-3-capable local consumer models.",
-      "category": "Open Source AI",
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "Hugging Face - Blog",
+      "summary": "NVIDIA releases Cosmos 3 Edge, an edge-optimized AI model for efficient deployment.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "2026-07-20T03:47:59+00:00"
+      "published": "Mon, 20 Jul 2026 15:58:51 GMT"
+    },
+    {
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face integrates comprehensive evaluation results into model pages for transparency.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Research shows LLMs develop their own biases beyond training data in hiring decisions.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 20 Jul 2026 08:39:01 +0000"
+    },
+    {
+      "title": "China's AI models have Trump's AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Trump administration AI advisors debate Chinese AI models' competitive threat to US companies.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 20 Jul 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Framework for applying AI to achieve operational excellence in business processes.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Thu, 02 Jul 2026 15:37:08 +0000"
+    },
+    {
+      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "AI | VentureBeat",
+      "summary": "Google fundamentally redesigns search interface incorporating AI capabilities and new paradigms.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Tue, 19 May 2026 17:45:00 GMT"
+    },
+    {
+      "title": "Reverse-engineering is cheap now",
+      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Coding agents reduce costs for reverse-engineering and automating home devices significantly.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "2026-07-20T19:24:05+00:00"
+    },
+    {
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Government AI design initiatives face delays and quality concerns with auto-generated designs.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Tue, 30 Jun 2026 16:59:02 +0000"
+    },
+    {
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "summary": "Community protests against AI data center expansion block billions in infrastructure investment.",
+      "source": "Artificial Intelligence - Ars Technica",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 12 Jun 2026 17:18:49 +0000"
+    },
+    {
+      "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
+      "url": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA enables developers to integrate RTX sensor simulation into robotics and digital twin applications.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-07-20T15:00:00Z"
+    },
+    {
+      "title": "Custom OS installation now available on AWS DeepRacer devices",
+      "url": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS DeepRacer devices now support custom OS installation extending device lifespan.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Mon, 20 Jul 2026 17:25:24 +0000"
+    },
+    {
+      "title": "Your family's $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Sam Altman proposes wealth-sharing mechanisms for Americans from AI company valuations.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "OpenAI negotiates 5% US government stake as compromise in political AI ownership discussions.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
+    },
+    {
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face discloses security incident affecting platform users and models.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Who's Afraid of Chinese Models?",
+      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Analysis of US-China AI competition and arguments for fair data collection policies.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "2026-07-20T17:09:19+00:00"
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Critical perspective on AI mania's negative impact on corporate decision-making and priorities.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "2026-07-19T05:06:21+00:00"
     }
   ]
 }
