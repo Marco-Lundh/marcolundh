@@ -1,230 +1,158 @@
 {
-  "generated_at": "2026-07-21T05:29:28.580077+00:00",
+  "generated_at": "2026-07-22T05:56:52.176269+00:00",
   "articles": [
     {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI News",
-      "summary": "OpenAI shares safety lessons from deploying long-running AI models with new risks.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 10:00:00 GMT"
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Rubin GPU architecture powers next-generation agentic AI systems at scale.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 8,
+      "published": "2026-07-21T15:00:00Z"
     },
     {
-      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
-      "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
+      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA presents NVLink infrastructure for scaling large AI workloads and model complexity.",
+      "summary": "NVIDIA Vera CPU optimizes single-thread performance for agentic AI execution and tooling.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 8,
+      "published": "2026-07-21T15:00:00Z"
+    },
+    {
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA achieves world record for mixture-of-experts model pre-training efficiency.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "2026-07-21T15:00:00Z"
+    },
+    {
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "source": "Ars Technica",
+      "summary": "Google releases Gemini 3.6 Flash with improved speed and cost efficiency.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "2026-07-21T16:58:25+0000"
+    },
+    {
+      "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon Nova introduces self-distilled reasoning for improved LLM fine-tuning and reasoning.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "2026-07-21T16:23:12+0000"
+    },
+    {
+      "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
+      "url": "https://machinelearning.apple.com/research/environment-free",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple proposes environment-free synthetic data generation for scalable API-calling agent training.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 7,
+      "published": "2026-07-21T00:00:00Z"
+    },
+    {
+      "title": "Accelerating Text-to-Video Generation with Calibrated Sparse Attention",
+      "url": "https://machinelearning.apple.com/research/calibrated-sparse-attention",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple accelerates video generation through sparse attention optimization techniques.",
+      "category": "Generative Media",
+      "reading_time_minutes": 6,
+      "published": "2026-07-21T00:00:00Z"
+    },
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI News",
+      "summary": "OpenAI launches ChatGPT program to help small businesses automate work.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "2026-07-21T17:00:00Z"
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Hugging Face disclose security findings from AI model evaluation incident.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "2026-07-21T07:00:00Z"
+    },
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "summary": "Comprehensive overview of simulation technologies advancing physical AI capabilities.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "2026-07-21T20:00:27Z"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "source": "Hugging Face Blog",
+      "summary": "Open-source system for recording and sharing robot manipulation training data.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 5,
+      "published": "2026-07-21T00:00:00Z"
+    },
+    {
+      "title": "Anthropic's $1.5B copyright settlement approved; only 350 authors opted out",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "source": "Ars Technica",
+      "summary": "Judge approves Anthropic's $1.5B copyright settlement with minimal author opt-outs.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "2026-07-21T17:33:14+0000"
+    },
+    {
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "MIT Technology Review",
+      "summary": "Materials science innovations enable next-generation AI hardware advancements.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
-      "published": "2026-07-20T15:46:28Z"
+      "published": "2026-07-21T10:37:34+0000"
     },
     {
-      "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
-      "url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Guidelines for evaluating robotics foundation models for practical real-world applications.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-07-12T01:08:17Z"
-    },
-    {
-      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Quick and NVIDIA NeMo enable specialized business agent workflows with guided recommendations.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 17:01:32 +0000"
-    },
-    {
-      "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Couchbase implements multi-model AI architecture using Amazon Bedrock and Claude models.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 16:58:52 +0000"
-    },
-    {
-      "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Tradeshift deployed agentic AI achieving 30x faster queries and 40% cost reduction.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 16:56:48 +0000"
-    },
-    {
-      "title": "RayRoPE: Projective Ray Positional Encoding for Multi-View Attention",
-      "url": "https://machinelearning.apple.com/research/rayrope-projective-ray",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple presents RayRoPE positional encoding for multi-view transformers with geometric awareness.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "LVSum: A Benchmark for Timestamp-Aware Long Video Summarization",
-      "url": "https://machinelearning.apple.com/research/lvsum-video-summarization",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple introduces benchmark for evaluating long-form video summarization with temporal alignment.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
-      "url": "https://machinelearning.apple.com/research/length-value-model",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple proposes Length Value Model for token-level generation length prediction and optimization.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA releases Cosmos 3 Edge, an edge-optimized AI model for efficient deployment.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Mon, 20 Jul 2026 15:58:51 GMT"
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face integrates comprehensive evaluation results into model pages for transparency.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Research shows LLMs develop their own biases beyond training data in hiring decisions.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 08:39:01 +0000"
-    },
-    {
-      "title": "China's AI models have Trump's AI world at war with itself",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Trump administration AI advisors debate Chinese AI models' competitive threat to US companies.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Framework for applying AI to achieve operational excellence in business processes.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Thu, 02 Jul 2026 15:37:08 +0000"
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "AI | VentureBeat",
-      "summary": "Google fundamentally redesigns search interface incorporating AI capabilities and new paradigms.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Tue, 19 May 2026 17:45:00 GMT"
-    },
-    {
-      "title": "Reverse-engineering is cheap now",
-      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+      "title": "Nativ: Run AI models locally on your Mac",
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Coding agents reduce costs for reverse-engineering and automating home devices significantly.",
-      "category": "AI Agents & Automation",
+      "summary": "Nativ desktop application enables local AI model execution on macOS.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 3,
-      "published": "2026-07-20T19:24:05+00:00"
+      "published": "2026-07-21T14:22:27+0000"
     },
     {
-      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Government AI design initiatives face delays and quality concerns with auto-generated designs.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Tue, 30 Jun 2026 16:59:02 +0000"
-    },
-    {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "summary": "Community protests against AI data center expansion block billions in infrastructure investment.",
-      "source": "Artificial Intelligence - Ars Technica",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Fri, 12 Jun 2026 17:18:49 +0000"
-    },
-    {
-      "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
-      "url": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA enables developers to integrate RTX sensor simulation into robotics and digital twin applications.",
-      "category": "AI Tools & Frameworks",
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic discusses Claude Code development, security, and tool design.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "2026-07-20T15:00:00Z"
+      "published": "2026-07-21T12:54:02+0000"
     },
     {
-      "title": "Custom OS installation now available on AWS DeepRacer devices",
-      "url": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS DeepRacer devices now support custom OS installation extending device lifespan.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Mon, 20 Jul 2026 17:25:24 +0000"
-    },
-    {
-      "title": "Your family's $300 stake in OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Sam Altman proposes wealth-sharing mechanisms for Americans from AI company valuations.",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "source": "OpenAI News",
+      "summary": "Global leaders join OpenAI Foundation and Group PBC boards for governance.",
       "category": "Funding & Business",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 18:00:00 +0000"
+      "reading_time_minutes": 3,
+      "published": "2026-07-21T00:00:00Z"
     },
     {
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "OpenAI negotiates 5% US government stake as compromise in political AI ownership discussions.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
-    },
-    {
-      "title": "Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face discloses security incident affecting platform users and models.",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "source": "OpenAI News",
+      "summary": "OpenAI launches bio-focused bug bounty program for GPT-5.5 model.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Who's Afraid of Chinese Models?",
-      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Analysis of US-China AI competition and arguments for fair data collection policies.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-07-20T17:09:19+00:00"
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Critical perspective on AI mania's negative impact on corporate decision-making and priorities.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-07-19T05:06:21+00:00"
+      "reading_time_minutes": 3,
+      "published": "2026-07-09T10:00:00Z"
     }
   ]
 }
