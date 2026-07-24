@@ -1,97 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/clara-latent-reasoning",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/uncertainty-quantification-function-calling",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://huggingface.co/blog/lerobot-release-v060",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://huggingface.co/blog/real-world-voiceeq",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/13/doomql/",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "seen_at": "2026-07-16"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/",
-    "seen_at": "2026-07-16"
-  },
-  {
     "url": "https://openai.com/index/cars24",
     "seen_at": "2026-07-17"
   },
@@ -650,5 +558,93 @@
   {
     "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
     "seen_at": "2026-07-23"
+  },
+  {
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "seen_at": "2026-07-24"
   }
 ]

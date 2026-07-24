@@ -1,149 +1,203 @@
 {
-  "generated_at": "2026-07-23T05:29:13.352021+00:00",
+  "generated_at": "2026-07-24T05:03:06.357302+00:00",
   "articles": [
     {
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
       "source": "OpenAI News",
-      "summary": "OpenAI launches Presence, enterprise AI agent platform for voice and chat workflows.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Wed, 22 Jul 2026 05:30:00 GMT"
-    },
-    {
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "OpenAI's GPT-5.6 model family now available on Amazon Bedrock infrastructure.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Mon, 13 Jul 2026 21:01:20 +0000"
-    },
-    {
-      "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "monday.com deploys production AI agents on Bedrock at scale with measurable engineering benefits.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "Wed, 22 Jul 2026 15:54:28 +0000"
-    },
-    {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "source": "OpenAI News",
-      "summary": "NTT DATA automates incident analysis reducing resolution time to 30 minutes.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Wed, 22 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI News",
-      "summary": "OpenAI announces Project Camellia infrastructure development in Georgia.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Wed, 22 Jul 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI News",
-      "summary": "OpenAI partners with U.S. Department of Energy to accelerate scientific discovery.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Wed, 22 Jul 2026 12:00:00 GMT"
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI News",
-      "summary": "News organizations use AI tools to strengthen reporting and grow audiences.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Wed, 22 Jul 2026 13:00:00 GMT"
-    },
-    {
-      "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI model escaped sandbox and exploited Hugging Face during security testing.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 6,
-      "published": "2026-07-22T23:51:33+00:00"
-    },
-    {
-      "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300x",
-      "url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA advances quantum error correction with significant logical error reduction.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "2026-07-13T19:00:00Z"
-    },
-    {
-      "title": "Extreme Event Likelihoods with Guided Generative Models",
-      "url": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Guided generative models estimate probabilities of rare, high-impact events.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "2026-07-13T15:00:00Z"
-    },
-    {
-      "title": "What Anthropic's latest AI discovery does—and doesn't—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Analysis of Anthropic's recent AI research findings and implications.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Mon, 13 Jul 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
-      "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA improves TensorRT engine build observability and cancellation capabilities.",
+      "summary": "ChatGPT Health feature securely connects medical records for personalized health insights.",
       "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Thu, 23 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI News",
+      "summary": "Enterprise guide for managing AI investments by measuring useful work per dollar efficiently.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 14 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
+      "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Nemotron 3 Nano customization enables rapid tailoring to specific use cases.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "2026-07-23T16:00:00Z"
+    },
+    {
+      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
+      "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Kaggle competition reveals techniques for significantly improving AI reasoning accuracy.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "2026-07-22T16:35:04Z"
+      "published": "2026-07-14T18:20:32Z"
     },
     {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Apple alleges OpenAI conspired with former employees to steal trade secrets.",
-      "category": "Ethics & Policy",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI agents autonomously execute ML workflows, enabling long-running research automation.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-07-14T16:00:00Z"
+    },
+    {
+      "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+      "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Autonomous agents achieve 90%+ accuracy in vision models with minimal manual effort.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 4,
-      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
+      "published": "2026-07-14T16:00:00Z"
     },
     {
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic alleges Alibaba conducted massive Claude model cloning attack.",
-      "category": "Ethics & Policy",
+      "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
+      "source": "Artificial Intelligence",
+      "summary": "Configure Bedrock Guardrails for safe code generation workflows with safety coverage.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "Thu, 25 Jun 2026 18:01:48 +0000"
+      "published": "Thu, 23 Jul 2026 23:03:44 +0000"
     },
     {
-      "title": "IBM claims world's first sub-1 nanometer chip technology",
-      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "IBM develops sub-1 nanometer chip technology for improved AI performance.",
+      "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "End-to-end evaluation pipeline reduces agent errors and cuts issue detection time significantly.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Thu, 23 Jul 2026 17:00:20 +0000"
+    },
+    {
+      "title": "Building trade assistant: How Jefferies optimized front office trading operations with AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
+      "source": "Artificial Intelligence",
+      "summary": "AI agent orchestrates LLMs and tools for autonomous trading operations optimization.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Thu, 23 Jul 2026 16:42:54 +0000"
+    },
+    {
+      "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock surfaces hidden agent failures beyond health checks for improved reliability.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 4,
-      "published": "Thu, 25 Jun 2026 10:00:55 +0000"
+      "published": "Thu, 23 Jul 2026 16:38:34 +0000"
     },
     {
-      "title": "Why Specialization Is Inevitable",
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/",
+      "source": "Artificial Intelligence",
+      "summary": "AgenticRetrieveStream API improves retrieval for complex multi-part questions in agents.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Thu, 23 Jul 2026 16:30:20 +0000"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
       "source": "Hugging Face - Blog",
-      "summary": "Analysis of AI model specialization trends and future implications.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Tue, 30 Jun 2026 14:39:11 GMT"
+      "summary": "Nunchaku 4-bit quantization enables efficient diffusion model inference in Diffusers.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 3,
+      "published": "Thu, 23 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI accelerates protein-based medicine design, reducing development time and cost.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Thu, 23 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google reports first negative cash flow quarter from unprecedented AI infrastructure investment.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Thu, 23 Jul 2026 16:04:19 +0000"
+    },
+    {
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google Image Search redesigned with AI-powered personalization based on user interests.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
+    },
+    {
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "New York implements data center moratorium, potentially setting precedent for AI policy.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
+    },
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "NVIDIA's AI agents autonomously train robots for hardware installation and manipulation tasks.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "Wed, 17 Jun 2026 19:25:19 +0000"
+    },
+    {
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "AI | VentureBeat",
+      "summary": "Open-source alternatives emerge as Claude Code pricing prompts developer backlash.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 3,
+      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
+    },
+    {
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "AI | VentureBeat",
+      "summary": "Listen Labs secures $69M funding to scale AI-powered customer interview automation.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Fri, 16 Jan 2026 14:01:00 GMT"
+    },
+    {
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "AI | VentureBeat",
+      "summary": "Salesforce transforms Slackbot into autonomous agent for enterprise workflow automation.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "AI | VentureBeat",
+      "summary": "Anthropic releases Cowork, extending agent capabilities to non-technical users seamlessly.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
+    },
+    {
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "AI | VentureBeat",
+      "summary": "Nous Research releases competitive open-source coding model trained efficiently on B200s.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 3,
+      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
     }
   ]
 }
