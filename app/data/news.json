@@ -1,203 +1,185 @@
 {
-  "generated_at": "2026-07-24T05:03:06.357302+00:00",
+  "generated_at": "2026-07-25T05:59:31.772127+00:00",
   "articles": [
     {
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "source": "OpenAI News",
-      "summary": "ChatGPT Health feature securely connects medical records for personalized health insights.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI News",
-      "summary": "Enterprise guide for managing AI investments by measuring useful work per dollar efficiently.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 14 Jul 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
-      "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Nemotron 3 Nano customization enables rapid tailoring to specific use cases.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "2026-07-23T16:00:00Z"
-    },
-    {
-      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
-      "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Kaggle competition reveals techniques for significantly improving AI reasoning accuracy.",
+      "summary": "Automated red teaming system using self-play to improve AI safety and robustness.",
       "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "2026-07-14T18:20:32Z"
+      "published": "Wed, 15 Jul 2026 10:00:00 GMT"
     },
     {
-      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
-      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "AI agents autonomously execute ML workflows, enabling long-running research automation.",
-      "category": "AI Agents & Automation",
+      "title": "Introducing Claude Opus 5 on AWS: Anthropic's most capable Opus model",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+      "source": "Artificial Intelligence",
+      "summary": "Claude Opus 5 release with improvements for agentic systems and production inference.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "Fri, 24 Jul 2026 17:59:03 +0000"
+    },
+    {
+      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "OpenAI GPT-5.6 models available on Amazon Bedrock with cost optimization features.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 5,
-      "published": "2026-07-14T16:00:00Z"
+      "published": "Fri, 24 Jul 2026 15:40:08 +0000"
     },
     {
-      "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
-      "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Autonomous agents achieve 90%+ accuracy in vision models with minimal manual effort.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "2026-07-14T16:00:00Z"
+      "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+      "url": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
+      "source": "Apple Machine Learning Research",
+      "summary": "Novel approach to improve long-horizon reasoning stability in LLMs.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Fri, 24 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
-      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
-      "source": "Artificial Intelligence",
-      "summary": "Configure Bedrock Guardrails for safe code generation workflows with safety coverage.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 23 Jul 2026 23:03:44 +0000"
-    },
-    {
-      "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "End-to-end evaluation pipeline reduces agent errors and cuts issue detection time significantly.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 23 Jul 2026 17:00:20 +0000"
-    },
-    {
-      "title": "Building trade assistant: How Jefferies optimized front office trading operations with AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "AI agent orchestrates LLMs and tools for autonomous trading operations optimization.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 23 Jul 2026 16:42:54 +0000"
-    },
-    {
-      "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
-      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock surfaces hidden agent failures beyond health checks for improved reliability.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Thu, 23 Jul 2026 16:38:34 +0000"
-    },
-    {
-      "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/",
-      "source": "Artificial Intelligence",
-      "summary": "AgenticRetrieveStream API improves retrieval for complex multi-part questions in agents.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 23 Jul 2026 16:30:20 +0000"
-    },
-    {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face - Blog",
-      "summary": "Nunchaku 4-bit quantization enables efficient diffusion model inference in Diffusers.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI accelerates protein-based medicine design, reducing development time and cost.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google reports first negative cash flow quarter from unprecedented AI infrastructure investment.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Thu, 23 Jul 2026 16:04:19 +0000"
-    },
-    {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google Image Search redesigned with AI-powered personalization based on user interests.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
-    },
-    {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "New York implements data center moratorium, potentially setting precedent for AI policy.",
+      "summary": "OpenAI's automated red teaming system improves model robustness against cyberattacks.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
-    },
-    {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "NVIDIA's AI agents autonomously train robots for hardware installation and manipulation tasks.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Wed, 17 Jun 2026 19:25:19 +0000"
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "AI | VentureBeat",
-      "summary": "Open-source alternatives emerge as Claude Code pricing prompts developer backlash.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "AI | VentureBeat",
-      "summary": "Listen Labs secures $69M funding to scale AI-powered customer interview automation.",
-      "category": "Funding & Business",
       "reading_time_minutes": 4,
-      "published": "Fri, 16 Jan 2026 14:01:00 GMT"
+      "published": "Wed, 15 Jul 2026 17:09:37 +0000"
     },
     {
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "AI | VentureBeat",
-      "summary": "Salesforce transforms Slackbot into autonomous agent for enterprise workflow automation.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI News",
+      "summary": "OpenAI proposes reverse federalism approach for comprehensive AI governance framework.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Wed, 15 Jul 2026 12:00:00 GMT"
     },
     {
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "AI | VentureBeat",
-      "summary": "Anthropic releases Cowork, extending agent capabilities to non-technical users seamlessly.",
+      "title": "How Codex became a collaborator for OpenAI's creative team",
+      "url": "https://openai.com/index/codex-collaborator-creative-team",
+      "source": "OpenAI News",
+      "summary": "OpenAI's creative team uses Codex for custom tools and accelerated prototyping.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
+      "reading_time_minutes": 4,
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "AI | VentureBeat",
-      "summary": "Nous Research releases competitive open-source coding model trained efficiently on B200s.",
+      "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+      "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA solution for efficient distribution of large model checkpoints and artifacts.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-24T16:45:00Z"
+    },
+    {
+      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
+      "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Multi-camera object tracking solution for large-scale video analytics applications.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-07-15T23:00:00Z"
+    },
+    {
+      "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
+      "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI agents accelerate development of lightweight OpenUSD runtimes for physical AI.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-07-15T21:57:23Z"
+    },
+    {
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face - Blog",
+      "summary": "Lessons learned from building Shippy AI agent project for production deployment.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Wed, 15 Jul 2026 17:29:41 GMT"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn't.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face - Blog",
+      "summary": "IBM research on complexities of efficient model routing in production systems.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Wed, 15 Jul 2026 17:27:01 GMT"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face - Blog",
+      "summary": "LeRobot framework update with new capabilities for robot learning and evaluation.",
       "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
+      "reading_time_minutes": 5,
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face - Blog",
+      "summary": "Introduction of Inkling, new open source AI framework for semantic applications.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face - Blog",
+      "summary": "New benchmark for evaluating naturalness and quality of voice AI systems.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build an explainable next-best-product recommendation system for banking on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Multi-tower neural network with attention for interpretable banking recommendations.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Fri, 24 Jul 2026 15:42:11 +0000"
+    },
+    {
+      "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
+      "url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "CUDA 13.3 introduces carryless multiplication for improved cryptographic performance.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-07-15T17:37:12Z"
+    },
+    {
+      "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
+      "url": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA OptiX debugging tools for ray tracing application development and optimization.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-07-23T16:07:03Z"
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "summary": "ChatGPT Work use cases for data science workflows and analysis documentation.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "summary": "ChatGPT Work applications for sales productivity and customer engagement.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
     }
   ]
 }

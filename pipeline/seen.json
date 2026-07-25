@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/cars24",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://openai.com/index/mufg",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/simple-self-distillation",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://huggingface.co/blog/skypilot-hf-storage",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://openai.com/index/australian-payments-plus",
-    "seen_at": "2026-07-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/personalizing-incremental-video-search",
-    "seen_at": "2026-07-17"
-  },
-  {
     "url": "https://openai.com/index/introducing-gpt-live",
     "seen_at": "2026-07-18"
   },
@@ -646,5 +546,85 @@
   {
     "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
     "seen_at": "2026-07-24"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://openai.com/index/codex-collaborator-creative-team",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "seen_at": "2026-07-25"
   }
 ]
