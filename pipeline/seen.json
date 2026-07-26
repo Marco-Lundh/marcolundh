@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-gpt-live",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/unlearning-free-low-influence",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/visual-concept-inference",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/interactive-proofs-distribution-properties",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://openai.com/index/government-national-security-partnerships",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://openai.com/index/k-12-educators-practical-skills",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/discoformer",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "seen_at": "2026-07-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/location-invariant-functions",
-    "seen_at": "2026-07-18"
-  },
-  {
     "url": "https://openai.com/index/gpt-5-6",
     "seen_at": "2026-07-19"
   },
@@ -626,5 +530,81 @@
   {
     "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "seen_at": "2026-07-25"
+  },
+  {
+    "url": "https://openai.com/index/cars24",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+    "seen_at": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+    "seen_at": "2026-07-26"
   }
 ]

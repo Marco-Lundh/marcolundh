@@ -1,185 +1,176 @@
 {
-  "generated_at": "2026-07-25T05:59:31.772127+00:00",
+  "generated_at": "2026-07-26T05:47:27.784751+00:00",
   "articles": [
     {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
       "source": "OpenAI News",
-      "summary": "Automated red teaming system using self-play to improve AI safety and robustness.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Wed, 15 Jul 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Introducing Claude Opus 5 on AWS: Anthropic's most capable Opus model",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
-      "source": "Artificial Intelligence",
-      "summary": "Claude Opus 5 release with improvements for agentic systems and production inference.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Fri, 24 Jul 2026 17:59:03 +0000"
-    },
-    {
-      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "OpenAI GPT-5.6 models available on Amazon Bedrock with cost optimization features.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Fri, 24 Jul 2026 15:40:08 +0000"
-    },
-    {
-      "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
-      "url": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
-      "source": "Apple Machine Learning Research",
-      "summary": "Novel approach to improve long-horizon reasoning stability in LLMs.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Fri, 24 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "OpenAI's automated red teaming system improves model robustness against cyberattacks.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Wed, 15 Jul 2026 17:09:37 +0000"
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "source": "OpenAI News",
-      "summary": "OpenAI proposes reverse federalism approach for comprehensive AI governance framework.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Wed, 15 Jul 2026 12:00:00 GMT"
-    },
-    {
-      "title": "How Codex became a collaborator for OpenAI's creative team",
-      "url": "https://openai.com/index/codex-collaborator-creative-team",
-      "source": "OpenAI News",
-      "summary": "OpenAI's creative team uses Codex for custom tools and accelerated prototyping.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
-      "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA solution for efficient distribution of large model checkpoints and artifacts.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-07-24T16:45:00Z"
-    },
-    {
-      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
-      "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Multi-camera object tracking solution for large-scale video analytics applications.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-07-15T23:00:00Z"
-    },
-    {
-      "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
-      "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "AI agents accelerate development of lightweight OpenUSD runtimes for physical AI.",
+      "summary": "Cars24 uses OpenAI agents to handle 1M+ monthly conversations, recovering 12% lost leads.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-07-15T21:57:23Z"
+      "reading_time_minutes": 3,
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face - Blog",
-      "summary": "Lessons learned from building Shippy AI agent project for production deployment.",
+      "title": "Introducing Claude Opus 5",
+      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic releases Claude Opus 5, frontier intelligence model at half previous cost.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "2026-07-24T23:48:50+00:00"
+    },
+    {
+      "title": "Introducing Grok on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Grok 4.3 now available on Amazon Bedrock with tool calling and reasoning.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Thu, 16 Jul 2026 19:29:26 +0000"
+    },
+    {
+      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock Knowledge Base enables simplified agent setup with production-ready retrieval.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Wed, 15 Jul 2026 17:29:41 GMT"
+      "reading_time_minutes": 4,
+      "published": "Thu, 16 Jul 2026 21:29:14 +0000"
     },
     {
-      "title": "Model Routing Is Simple. Until It Isn't.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face - Blog",
-      "summary": "IBM research on complexities of efficient model routing in production systems.",
+      "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
+      "url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA BlueField enables infrastructure scaling for agentic AI workloads.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Wed, 15 Jul 2026 17:27:01 GMT"
+      "published": "2026-07-16T16:00:00Z"
     },
     {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
+      "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA video AI agents integrate perception, reasoning, and action into workflows.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "2026-07-16T16:03:35Z"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI News",
+      "summary": "OpenAI implements age-appropriate protections and parental controls for teen users.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Thu, 16 Jul 2026 16:00:00 GMT"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "source": "Hugging Face - Blog",
-      "summary": "LeRobot framework update with new capabilities for robot learning and evaluation.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
+      "summary": "One-click integration enables seamless model deployment from Hugging Face to SageMaker.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Tue, 07 Jul 2026 21:15:33 GMT"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face - Blog",
+      "summary": "SkyPilot and Hugging Face enable multi-cloud AI workloads with zero-egress storage.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 3,
       "published": "Tue, 07 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "source": "Hugging Face - Blog",
-      "summary": "Introduction of Inkling, new open source AI framework for semantic applications.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "source": "Hugging Face - Blog",
-      "summary": "New benchmark for evaluating naturalness and quality of voice AI systems.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Build an explainable next-best-product recommendation system for banking on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Multi-tower neural network with attention for interpretable banking recommendations.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Fri, 24 Jul 2026 15:42:11 +0000"
-    },
-    {
-      "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
-      "url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "CUDA 13.3 introduces carryless multiplication for improved cryptographic performance.",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "IT leaders must understand foundational AI architecture for scaling agentic systems.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "2026-07-15T17:37:12Z"
+      "published": "Tue, 07 Jul 2026 11:10:52 +0000"
     },
     {
-      "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
-      "url": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA OptiX debugging tools for ray tracing application development and optimization.",
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic faces controversy over undisclosed user tracking contradicting privacy stance.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "New York Times alleges Microsoft-OpenAI supercomputer infrastructure enables copyright infringement.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 26 Jun 2026 20:04:55 +0000"
+    },
+    {
+      "title": "Musk's X poses \"serious risk to Americans' privacy,\" advocates warn FTC",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Advocates urge FTC to reject X monitoring exemption citing AI and privacy risks.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Thu, 02 Jul 2026 14:39:17 +0000"
+    },
+    {
+      "title": "Ruff v0.16.0",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Ruff Python linter v0.16.0 enables 413 rules by default, up from 59.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-07-23T16:07:03Z"
+      "reading_time_minutes": 2,
+      "published": "2026-07-25T22:44:05+00:00"
     },
     {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Work use cases for data science workflows and analysis documentation.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Opus 5 achieves significant improvements against prompt injection attacks.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-07-25T00:42:59+00:00"
     },
     {
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Work applications for sales productivity and customer engagement.",
-      "category": "AI in Industry",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Analysis of OpenAI's accidental agent security incident against Hugging Face.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 4,
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT"
+      "published": "2026-07-23T22:53:08+00:00"
+    },
+    {
+      "title": "Quoting Seth Larson",
+      "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "PyPI now rejects file uploads older than 14 days to prevent release poisoning.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-07-23T04:50:36+00:00"
+    },
+    {
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Deep-dive investigation into whether AI models are deliberately trained on pelican images.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "2026-07-22T23:01:00+00:00"
+    },
+    {
+      "title": "Quoting Thomas Ptacek",
+      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Open weights models could perform sandbox escapes and network hacking capabilities.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 2,
+      "published": "2026-07-22T23:59:01+00:00"
     }
   ]
 }
