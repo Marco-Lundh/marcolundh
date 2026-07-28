@@ -1,113 +1,140 @@
 {
-  "generated_at": "2026-07-27T05:27:57.254761+00:00",
+  "generated_at": "2026-07-28T05:35:59.654372+00:00",
   "articles": [
     {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "source": "OpenAI News",
-      "summary": "OpenAI CFO introduces practical AI scorecard measuring ROI through useful work and compute efficiency.",
-      "category": "AI Tools & Frameworks",
+      "summary": "OpenAI research reveals AI expands worker capabilities across roles, reshaping job boundaries.",
+      "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "Fri, 17 Jul 2026 10:00:00 GMT"
+      "published": "Mon, 27 Jul 2026 03:30:00 GMT"
     },
     {
-      "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
+      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA releases Nemotron 3 Ultra open model for hardware design automation and RTL coding tasks.",
-      "category": "Open Source AI",
+      "summary": "NVIDIA Ising automates quantum processor calibration using vision language models.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
+      "published": "2026-07-27T16:00:00Z"
+    },
+    {
+      "title": "Six Agent Harness Capabilities for Higher Model Performance",
+      "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Agent architecture design improves model performance through context rendering and execution.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-07-27T09:00:00Z"
+    },
+    {
+      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+      "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Semiconductor industry advances address explosive AI compute demand growth.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
       "published": "2026-07-27T00:45:00Z"
     },
     {
-      "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
-      "url": "https://machinelearning.apple.com/research/unlearning-free-low-influence",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple research on efficient data unlearning using influence functions to reduce computational costs.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Fri, 17 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
-      "url": "https://machinelearning.apple.com/research/visual-concept-inference",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple introduces VICIS task for vision-language models to infer visual concepts from example images.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Fri, 17 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+      "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
       "source": "Artificial Intelligence",
-      "summary": "AWS launches Amazon Quick as agentic AI tool automating sales cycle from prospecting to CRM updates.",
+      "summary": "Task-aware knowledge compression improves analytical tasks across large document sets.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 7,
+      "published": "Mon, 27 Jul 2026 16:11:32 +0000"
+    },
+    {
+      "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
+      "source": "Artificial Intelligence",
+      "summary": "Deepgram integrates IAM delegation into SageMaker, accelerating support ticket resolution.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Mon, 27 Jul 2026 16:07:44 +0000"
+    },
+    {
+      "title": "How Guardoc transforms medical document processing with Amazon Nova models",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
+      "source": "Artificial Intelligence",
+      "summary": "Guardoc Health uses Amazon Nova for clinical documentation transformation in long-term care.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Mon, 27 Jul 2026 16:05:00 +0000"
+    },
+    {
+      "title": "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks",
+      "url": "https://machinelearning.apple.com/research/gh-esd",
+      "source": "Apple Machine Learning Research",
+      "summary": "New method discovers error slices in vision models for instance-level tasks.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 8,
+      "published": "Mon, 27 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face - Blog",
+      "summary": "NVIDIA Cosmos enables real-time generative simulation for surgical robotics applications.",
+      "category": "Generative Media",
+      "reading_time_minutes": 6,
+      "published": "Mon, 27 Jul 2026 09:32:20 GMT"
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face - Blog",
+      "summary": "ScarfBench benchmarks AI agents on enterprise Java framework migration tasks.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Fri, 17 Jul 2026 18:42:36 +0000"
+      "published": "Tue, 30 Jun 2026 18:32:50 GMT"
     },
     {
-      "title": "Introducing Mobile Layout for Amazon Quick dashboards",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS adds mobile-responsive layouts to Amazon Quick dashboards for on-the-go decision making.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Fri, 17 Jul 2026 17:13:15 +0000"
-    },
-    {
-      "title": "Interactive Proofs for General Distribution Properties",
-      "url": "https://machinelearning.apple.com/research/interactive-proofs-distribution-properties",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple research on verifiable distribution properties enabling efficient verification of ML analysis claims.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face integrates vLLM backend with native speed optimizations for transformer model serving.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face - Blog",
-      "summary": "Microsoft and Hugging Face enable deployment of models on Foundry managed compute infrastructure.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Tue, 07 Jul 2026 15:20:06 GMT"
-    },
-    {
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "MIT Technology Review examines growing risks of weather forecast data poisoning affecting critical sectors.",
-      "category": "Ethics & Policy",
+      "summary": "Explores coordination challenges among multiple domain-expert AI agents.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "Fri, 17 Jul 2026 08:57:32 +0000"
+      "published": "Mon, 27 Jul 2026 12:00:00 +0000"
     },
     {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI addresses Eroom's Law challenges in accelerating pharmaceutical development cycles.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Mon, 27 Jul 2026 11:40:16 +0000"
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Enterprise infrastructure requirements for agentic AI systems across workflows and data.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 7,
+      "published": "Mon, 27 Jul 2026 11:32:58 +0000"
+    },
+    {
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google updates Android Bench AI benchmarks with new models including Fable 5 for agent evaluation.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
+      "summary": "Google releases Nano Banana 2 Lite for fast, cost-effective image generation.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Tue, 30 Jun 2026 18:36:10 +0000"
     },
     {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "AI | VentureBeat",
-      "summary": "Railway raises $100M Series B to build AI-native cloud infrastructure competing with legacy providers.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "source": "Simon Willison's Weblog",
+      "summary": "Moonshot releases Kimi K3, a 2.8 trillion parameter open-weight language model.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-07-27T23:39:04+00:00"
     }
   ]
 }
