@@ -1,140 +1,176 @@
 {
-  "generated_at": "2026-07-28T05:35:59.654372+00:00",
+  "generated_at": "2026-07-29T05:12:21.842254+00:00",
   "articles": [
     {
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "source": "OpenAI News",
-      "summary": "OpenAI research reveals AI expands worker capabilities across roles, reshaping job boundaries.",
-      "category": "AI in Industry",
+      "summary": "AI coding agents accelerate scientific software development and discovery in genomics.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Mon, 27 Jul 2026 03:30:00 GMT"
+      "published": "Tue, 28 Jul 2026 17:00:00 GMT"
     },
     {
-      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
-      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Ising automates quantum processor calibration using vision language models.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-07-27T16:00:00Z"
+      "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
+      "source": "Artificial Intelligence",
+      "summary": "MCP 2026 specification brings stateless design, extensions system, hardened authorization.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Tue, 28 Jul 2026 19:07:09 +0000"
     },
     {
-      "title": "Six Agent Harness Capabilities for Higher Model Performance",
-      "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Agent architecture design improves model performance through context rendering and execution.",
+      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Production-ready multi-agent system using LangGraph orchestration and Strands reasoning.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "2026-07-27T09:00:00Z"
+      "published": "Tue, 28 Jul 2026 17:24:54 +0000"
     },
     {
-      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
-      "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Semiconductor industry advances address explosive AI compute demand growth.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "2026-07-27T00:45:00Z"
-    },
-    {
-      "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Task-aware knowledge compression improves analytical tasks across large document sets.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 7,
-      "published": "Mon, 27 Jul 2026 16:11:32 +0000"
-    },
-    {
-      "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
-      "source": "Artificial Intelligence",
-      "summary": "Deepgram integrates IAM delegation into SageMaker, accelerating support ticket resolution.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Mon, 27 Jul 2026 16:07:44 +0000"
-    },
-    {
-      "title": "How Guardoc transforms medical document processing with Amazon Nova models",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
-      "source": "Artificial Intelligence",
-      "summary": "Guardoc Health uses Amazon Nova for clinical documentation transformation in long-term care.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Mon, 27 Jul 2026 16:05:00 +0000"
-    },
-    {
-      "title": "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks",
-      "url": "https://machinelearning.apple.com/research/gh-esd",
+      "title": "Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers",
+      "url": "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers",
       "source": "Apple Machine Learning Research",
-      "summary": "New method discovers error slices in vision models for instance-level tasks.",
-      "category": "Research & Papers",
+      "summary": "Memory-efficient on-device audio synthesis for Siri using foundation models.",
+      "category": "Generative Media",
+      "reading_time_minutes": 5,
+      "published": "Tue, 28 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "source": "Hugging Face - Blog",
+      "summary": "Large-scale geospatial AI inference platform enabling planetary-scale Earth observation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Tue, 28 Jul 2026 16:27:42 GMT"
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source": "Hugging Face - Blog",
+      "summary": "Fast long-context inference optimization for CPU-based language model encoders.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Tue, 28 Jul 2026 15:01:45 GMT"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "Hugging Face - Blog",
+      "summary": "Detailed technical analysis of OpenAI's accidental cyberattack on Hugging Face.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 8,
       "published": "Mon, 27 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA Cosmos enables real-time generative simulation for surgical robotics applications.",
-      "category": "Generative Media",
-      "reading_time_minutes": 6,
-      "published": "Mon, 27 Jul 2026 09:32:20 GMT"
-    },
-    {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face - Blog",
-      "summary": "ScarfBench benchmarks AI agents on enterprise Java framework migration tasks.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 30 Jun 2026 18:32:50 GMT"
-    },
-    {
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Explores coordination challenges among multiple domain-expert AI agents.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Mon, 27 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI addresses Eroom's Law challenges in accelerating pharmaceutical development cycles.",
+      "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+      "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "GPU-accelerated medical physics simulation for healthcare robotics development.",
       "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Mon, 27 Jul 2026 11:40:16 +0000"
+      "reading_time_minutes": 5,
+      "published": "2026-07-28T20:49:21Z"
     },
     {
-      "title": "Building the enterprise environment for agentic AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Enterprise infrastructure requirements for agentic AI systems across workflows and data.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "Mon, 27 Jul 2026 11:32:58 +0000"
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Mythos identifies mathematical flaws in cryptographic algorithms.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "2026-07-28T22:45:37+00:00"
     },
     {
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Nano Banana 2 Lite for fast, cost-effective image generation.",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face - Blog",
+      "summary": "Gemma 4 model optimized for real-time voice AI applications.",
       "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Wed, 01 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we've been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Analysis of OpenAI's agent escape incident and historical security precedents.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+    },
+    {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic Fable and Mythos models receive global release after safety approvals.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Tue, 30 Jun 2026 18:36:10 +0000"
+      "published": "Wed, 01 Jul 2026 16:44:18 +0000"
     },
     {
       "title": "moonshotai/Kimi-K3",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Moonshot releases Kimi K3, a 2.8 trillion parameter open-weight language model.",
+      "summary": "Moonshot releases 2.8 trillion parameter Kimi K3 model weights.",
       "category": "Open Source AI",
       "reading_time_minutes": 2,
       "published": "2026-07-27T23:39:04+00:00"
+    },
+    {
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face - Blog",
+      "summary": "Major updates to Hugging Face Kernels infrastructure and optimization.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face - Blog",
+      "summary": "Advanced profiling techniques for PyTorch attention mechanisms.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Fri, 10 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Investigation into underground market for discounted LLM API token reselling.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "2026-07-26T19:30:54+00:00"
+    },
+    {
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Comparative guide to AI tools and models for various practical applications.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "2026-07-27T21:55:53+00:00"
+    },
+    {
+      "title": "Samsung's chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Samsung semiconductor workers defect to SK Hynix amid industry shifts.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Tue, 28 Jul 2026 09:18:57 +0000"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face - Blog",
+      "summary": "Data strategy for Photoroom's PRX generative media model.",
+      "category": "Generative Media",
+      "reading_time_minutes": 4,
+      "published": "Mon, 06 Jul 2026 15:30:55 GMT"
     }
   ]
 }
