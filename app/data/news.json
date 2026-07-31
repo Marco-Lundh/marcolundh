@@ -1,221 +1,221 @@
 {
-  "generated_at": "2026-07-30T05:43:59.261764+00:00",
+  "generated_at": "2026-07-31T05:37:11.426965+00:00",
   "articles": [
     {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "source": "OpenAI News",
-      "summary": "Two API settings tripled GPT-5.6 performance on ARC-AGI-3 benchmark.",
+      "summary": "OpenAI releases GPT-5.6 with significant pricing reductions and improved efficiency.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Wed, 29 Jul 2026 15:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "Thu, 30 Jul 2026 10:00:00 GMT"
     },
     {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
       "source": "OpenAI News",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Wed, 29 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI News",
-      "summary": "OpenAI shares lessons from deploying long-running AI models with new safety insights.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 7,
-      "published": "Mon, 20 Jul 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "summary": "OpenAI provides 100,000 academic researchers free advanced AI access.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Wed, 29 Jul 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock AgentCore delivers autonomous cross-system business intelligence via configuration.",
+      "summary": "Yamada Denki deploys 24/7 multilingual retail agent with 92% positive user satisfaction.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Wed, 29 Jul 2026 15:34:18 +0000"
+      "reading_time_minutes": 3,
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
-      "url": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
-      "source": "Artificial Intelligence",
-      "summary": "Private Key JWT authentication guide for Amazon Bedrock AgentCore Identity.",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Hugging Face investigate security breach during AI model evaluation.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI News",
+      "summary": "OpenAI launches ChatGPT for Small Businesses program with AI skills and automation tools.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Tue, 21 Jul 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
+      "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA releases nvmath-python library for high-performance scientific computing.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "2026-07-30T22:43:04Z"
+    },
+    {
+      "title": "Four Ways to Deploy More Secure AI Agents",
+      "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA provides security best practices for deploying AI agents in production.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-07-30T21:09:59Z"
+    },
+    {
+      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA shares performance optimization insights for large-scale AI infrastructure.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Wed, 29 Jul 2026 16:20:28 +0000"
+      "published": "2026-07-30T16:00:00Z"
     },
     {
-      "title": "Automating customer retention workflows in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "No-code customer retention pipeline detects at-risk customers and generates personalized retention.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Wed, 29 Jul 2026 15:24:21 +0000"
-    },
-    {
-      "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
-      "url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Self-host validated AI coding assistant using NVIDIA NeMo Guardrails.",
-      "category": "AI Tools & Frameworks",
+      "summary": "NVIDIA achieves world record for mixture of experts model pre-training performance.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "2026-07-29T16:46:45Z"
+      "published": "2026-07-21T18:30:00Z"
     },
     {
-      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
-      "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVLink enables scaled AI workloads through high-performance network infrastructure.",
+      "summary": "NVIDIA reveals Rubin GPU architecture designed for agentic AI applications.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
-      "published": "2026-07-20T15:46:28Z"
+      "published": "2026-07-21T18:15:00Z"
     },
     {
-      "title": "RayRoPE: Projective Ray Positional Encoding for Multi-View Attention",
-      "url": "https://machinelearning.apple.com/research/rayrope-projective-ray",
-      "source": "Apple Machine Learning Research",
-      "summary": "Novel positional encoding scheme for multi-view transformer attention mechanisms.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "LVSum: A Benchmark for Timestamp-Aware Long Video Summarization",
-      "url": "https://machinelearning.apple.com/research/lvsum-video-summarization",
-      "source": "Apple Machine Learning Research",
-      "summary": "Benchmark for evaluating long-form video summarization with temporal grounding.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
-      "url": "https://machinelearning.apple.com/research/length-value-model",
-      "source": "Apple Machine Learning Research",
-      "summary": "Token-level framework modeling remaining generation length for optimized inference.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Mon, 20 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
-      "url": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
+      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Integrate RTX sensor simulation into 3D and robotics applications.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-07-20T15:00:00Z"
+      "summary": "NVIDIA introduces Vera CPU with optimized single-thread performance for agentic AI.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-21T18:00:00Z"
     },
     {
-      "title": "Custom OS installation now available on AWS DeepRacer devices",
-      "url": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
+      "title": "Deploying Kimi K3 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/",
       "source": "Artificial Intelligence",
-      "summary": "AWS DeepRacer now supports custom OS installation extending device lifespan.",
-      "category": "AI Tools & Frameworks",
+      "summary": "AWS provides deployment guide for Kimi K3 using SageMaker and EKS.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 4,
-      "published": "Mon, 20 Jul 2026 17:25:24 +0000"
+      "published": "Thu, 30 Jul 2026 17:22:32 +0000"
     },
     {
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "LLMs develop biases in hiring beyond training data biases.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 08:39:01 +0000"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Detailed technical analysis of OpenAI's accidental cyberattack incident.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 8,
-      "published": "2026-07-28T21:28:54+00:00"
-    },
-    {
-      "title": "Adding a custom MCP server to Claude and ChatGPT",
-      "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Guide to connecting custom MCP servers to Claude and ChatGPT.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "2026-07-29T00:13:18+00:00"
-    },
-    {
-      "title": "AI Worming through Word",
-      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Novel prompt injection attack enables self-replicating worms in Word.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-07-29T18:43:03+00:00"
-    },
-    {
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Examination of practical AI applications beyond hype.",
+      "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Yahoo uses Amazon Bedrock to enhance search retargeting capabilities for ad platform.",
       "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "Wed, 29 Jul 2026 08:42:57 +0000"
+      "published": "Thu, 30 Jul 2026 16:40:36 +0000"
     },
     {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face - Blog",
-      "summary": "Analysis of consistent advantages across newer model architectures.",
+      "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS introduces meta-monitoring system for SageMaker AI endpoints with governance layer.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Thu, 30 Jul 2026 16:10:10 +0000"
+    },
+    {
+      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "OpenAI GPT-5.6 models now available on Bedrock with explicit prompt caching feature.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Thu, 16 Jul 2026 11:49:48 GMT"
+      "reading_time_minutes": 3,
+      "published": "Thu, 30 Jul 2026 16:02:32 +0000"
     },
     {
-      "title": "China's AI models have Trump's AI world at war with itself",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Geopolitical tensions around Chinese AI capabilities reshape US policy.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 20 Jul 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Building multi-Region visualizations with Highcharts in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/",
+      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
       "source": "Artificial Intelligence",
-      "summary": "Multi-region dashboard solutions maintaining data sovereignty with custom visualizations.",
+      "summary": "Amazon Bedrock enables prompt optimization across multiple models simultaneously.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "Thu, 23 Jul 2026 16:40:59 +0000"
+      "reading_time_minutes": 3,
+      "published": "Thu, 30 Jul 2026 15:58:32 +0000"
     },
     {
-      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "AI | VentureBeat",
-      "summary": "Google redesigns search interface reflecting AI-powered search paradigm shift.",
-      "category": "AI in Industry",
+      "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+      "url": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple research demonstrates enhanced data exploration using UMAP's internal k-nearest-neighbor graph.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Tue, 19 May 2026 17:45:00 GMT"
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "source": "Hugging Face - Blog",
-      "summary": "Security incident disclosure from July 2026.",
+      "title": "MoMo: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization",
+      "url": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple introduces MoMo framework for adaptive robot manipulation learning.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
+      "url": "https://machinelearning.apple.com/research/environment-free",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple proposes environment-free synthetic data generation for training API-calling LLM agents.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Tue, 21 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Accelerating Text-to-Video Generation with Calibrated Sparse Attention",
+      "url": "https://machinelearning.apple.com/research/calibrated-sparse-attention",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple research accelerates video generation through optimized sparse attention mechanisms.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Tue, 21 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Researchers identify fundamental security vulnerability in large language models.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
+      "published": "Thu, 30 Jul 2026 10:15:19 +0000"
+    },
+    {
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Advanced materials innovations enable next-generation AI hardware capabilities.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Tue, 21 Jul 2026 10:37:34 +0000"
+    },
+    {
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases Gemini Robotics 2.0 with enhanced dexterity and safety features.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "Thu, 30 Jul 2026 17:58:02 +0000"
+    },
+    {
+      "title": "Anthropic's $1.5B copyright settlement approved; only 350 authors opted out",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Court approves Anthropic's $1.5 billion copyright settlement with minimal author opt-out.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Tue, 21 Jul 2026 17:33:14 +0000"
+    },
+    {
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases Gemini 3.6 Flash with cybersecurity capabilities and teases Gemini 4.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Tue, 21 Jul 2026 16:58:25 +0000"
     }
   ]
 }

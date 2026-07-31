@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-openai-presence",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://openai.com/index/ntt-data",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-    "seen_at": "2026-07-23"
-  },
-  {
-    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "seen_at": "2026-07-23"
-  },
-  {
     "url": "https://openai.com/index/health-in-chatgpt",
     "seen_at": "2026-07-24"
   },
@@ -586,5 +522,101 @@
   {
     "url": "https://huggingface.co/blog/security-incident-july-2026",
     "seen_at": "2026-07-30"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://openai.com/index/avatarin",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/environment-free",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/calibrated-sparse-attention",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+    "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "seen_at": "2026-07-31"
   }
 ]
