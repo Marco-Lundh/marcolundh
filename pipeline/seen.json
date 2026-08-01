@@ -1,93 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/nunchaku-diffusers",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "seen_at": "2026-07-24"
-  },
-  {
-    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-    "seen_at": "2026-07-24"
-  },
-  {
     "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
     "seen_at": "2026-07-25"
   },
@@ -618,5 +530,105 @@
   {
     "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
     "seen_at": "2026-07-31"
+  },
+  {
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/ntt-data",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/unive",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "seen_at": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "seen_at": "2026-08-01"
   }
 ]

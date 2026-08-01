@@ -1,221 +1,230 @@
 {
-  "generated_at": "2026-07-31T05:37:11.426965+00:00",
+  "generated_at": "2026-08-01T05:48:59.507915+00:00",
   "articles": [
     {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
       "source": "OpenAI News",
-      "summary": "OpenAI releases GPT-5.6 with significant pricing reductions and improved efficiency.",
+      "summary": "Full-stack approach to make advanced AI more capable, affordable, and useful.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Thu, 30 Jul 2026 10:00:00 GMT"
+      "reading_time_minutes": 5,
+      "published": "Fri, 31 Jul 2026 15:00:00 GMT"
     },
     {
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
       "source": "OpenAI News",
-      "summary": "Yamada Denki deploys 24/7 multilingual retail agent with 92% positive user satisfaction.",
+      "summary": "Enterprise AI agent platform for trusted voice and chat customer workflows.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
+      "reading_time_minutes": 5,
+      "published": "Wed, 22 Jul 2026 05:30:00 GMT"
     },
     {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "source": "OpenAI News",
-      "summary": "OpenAI and Hugging Face investigate security breach during AI model evaluation.",
+      "summary": "OpenAI partners with Department of Energy to accelerate scientific discovery.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 22 Jul 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI News",
+      "summary": "OpenAI safety practices support responsible AI governance under EU AI Act.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT"
+      "published": "Fri, 31 Jul 2026 15:00:00 GMT"
     },
     {
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
       "source": "OpenAI News",
-      "summary": "OpenAI launches ChatGPT for Small Businesses program with AI skills and automation tools.",
+      "summary": "Enterprise automates work and reduces incident analysis time with AI tools.",
       "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Tue, 21 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
-      "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA releases nvmath-python library for high-performance scientific computing.",
-      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "2026-07-30T22:43:04Z"
+      "published": "Wed, 22 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Four Ways to Deploy More Secure AI Agents",
-      "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA provides security best practices for deploying AI agents in production.",
-      "category": "AI Agents & Automation",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI News",
+      "summary": "News organizations strengthen reporting and grow audiences with AI tools.",
+      "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "2026-07-30T21:09:59Z"
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT"
     },
     {
-      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
-      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA shares performance optimization insights for large-scale AI infrastructure.",
-      "category": "MLOps & Infrastructure",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "source": "OpenAI News",
+      "summary": "Enterprise transforms work at scale with ChatGPT Enterprise adoption.",
+      "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "2026-07-30T16:00:00Z"
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
-      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
+      "url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA achieves world record for mixture of experts model pre-training performance.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "2026-07-21T18:30:00Z"
-    },
-    {
-      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA reveals Rubin GPU architecture designed for agentic AI applications.",
+      "summary": "Optimization techniques for faster long-context inference in agentic workloads.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
-      "published": "2026-07-21T18:15:00Z"
+      "published": "2026-07-31T22:16:17Z"
     },
     {
-      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA introduces Vera CPU with optimized single-thread performance for agentic AI.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-07-21T18:00:00Z"
-    },
-    {
-      "title": "Deploying Kimi K3 on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/",
+      "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
       "source": "Artificial Intelligence",
-      "summary": "AWS provides deployment guide for Kimi K3 using SageMaker and EKS.",
+      "summary": "Tools to diagnose performance bottlenecks in long-running AI agent sessions.",
       "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Fri, 31 Jul 2026 15:33:11 +0000"
+    },
+    {
+      "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "AI-powered workflow for discovering catalog assets and creating datasets.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 4,
+      "published": "Fri, 31 Jul 2026 19:53:04 +0000"
+    },
+    {
+      "title": "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/",
+      "source": "Artificial Intelligence",
+      "summary": "Guide for deploying large language models on AWS infrastructure services.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
       "published": "Thu, 30 Jul 2026 17:22:32 +0000"
     },
     {
-      "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Yahoo uses Amazon Bedrock to enhance search retargeting capabilities for ad platform.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Thu, 30 Jul 2026 16:40:36 +0000"
-    },
-    {
-      "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS introduces meta-monitoring system for SageMaker AI endpoints with governance layer.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Thu, 30 Jul 2026 16:10:10 +0000"
-    },
-    {
-      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "OpenAI GPT-5.6 models now available on Bedrock with explicit prompt caching feature.",
-      "category": "LLMs & Models",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Open-source 304B model with enhanced agentic capabilities and strong performance.",
+      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "Thu, 30 Jul 2026 16:02:32 +0000"
+      "published": "2026-07-31T23:59:44+00:00"
     },
     {
-      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock enables prompt optimization across multiple models simultaneously.",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Model Context Protocol 2.0 released with significant improvements to specification.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-07-31T23:13:22+00:00"
+    },
+    {
+      "title": "llm-mcp-client 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "New tool for interacting with Model Context Protocol in LLM workflows.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-07-31T23:03:47+00:00"
+    },
+    {
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Framework tool for evaluating model capabilities and prompt effectiveness.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 3,
-      "published": "Thu, 30 Jul 2026 15:58:32 +0000"
+      "published": "2026-07-31T21:15:23+00:00"
     },
     {
-      "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
-      "url": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple research demonstrates enhanced data exploration using UMAP's internal k-nearest-neighbor graph.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "MoMo: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization",
-      "url": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple introduces MoMo framework for adaptive robot manipulation learning.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
-      "url": "https://machinelearning.apple.com/research/environment-free",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple proposes environment-free synthetic data generation for training API-calling LLM agents.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 21 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Accelerating Text-to-Video Generation with Calibrated Sparse Attention",
-      "url": "https://machinelearning.apple.com/research/calibrated-sparse-attention",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple research accelerates video generation through optimized sparse attention mechanisms.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 21 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Researchers identify fundamental security vulnerability in large language models.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 30 Jul 2026 10:15:19 +0000"
-    },
-    {
-      "title": "Advancing next-gen AI with materials science innovation",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Advanced materials innovations enable next-generation AI hardware capabilities.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Tue, 21 Jul 2026 10:37:34 +0000"
-    },
-    {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini Robotics 2.0 with enhanced dexterity and safety features.",
-      "category": "AI Agents & Automation",
+      "title": "datasette-agent 0.4a0",
+      "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "AI agent tool with new browser task mechanism for client-side execution.",
+      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "Thu, 30 Jul 2026 17:58:02 +0000"
+      "published": "2026-07-31T14:14:23+00:00"
     },
     {
-      "title": "Anthropic's $1.5B copyright settlement approved; only 350 authors opted out",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Court approves Anthropic's $1.5 billion copyright settlement with minimal author opt-out.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Tue, 21 Jul 2026 17:33:14 +0000"
-    },
-    {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini 3.6 Flash with cybersecurity capabilities and teases Gemini 4.",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI announces major price reductions for GPT-5.6 models.",
       "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-07-30T23:58:42+00:00"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic documents real-world incidents discovered in cybersecurity evaluations.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "2026-07-30T23:41:29+00:00"
+    },
+    {
+      "title": "llm 0.32rc2",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "CLI tool release candidate with updated defaults and new features.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-07-30T22:52:06+00:00"
+    },
+    {
+      "title": "llm-chat-completions-server 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Server implementation supporting OpenAI Chat Completions API compatibility.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-07-30T15:43:16+00:00"
+    },
+    {
+      "title": "llm 0.32rc1",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "New message store schema for capturing prompt and response details.",
+      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "Tue, 21 Jul 2026 16:58:25 +0000"
+      "published": "2026-07-30T15:30:20+00:00"
+    },
+    {
+      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+      "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "SDK improvements for high-quality video processing and streaming applications.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-07-31T15:13:02Z"
+    },
+    {
+      "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
+      "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Improvements for monitoring and controlling TensorRT model compilation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-07-22T16:35:04Z"
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "summary": "OpenAI disrupted Cambodia-based scam operation abusing ChatGPT technology.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 31 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI News",
+      "summary": "OpenAI announces Project Camellia with community investment and job creation.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT"
     }
   ]
 }
