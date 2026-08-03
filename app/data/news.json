@@ -1,221 +1,113 @@
 {
-  "generated_at": "2026-08-02T05:59:15.461503+00:00",
+  "generated_at": "2026-08-03T05:53:39.996989+00:00",
   "articles": [
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "summary": "OpenAI discovers solutions to long-standing open problems in mathematics and theoretical computer science.",
+      "title": "Introducing Claude Opus 5 on AWS: Anthropic's most capable Opus model",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Anthropic releases Claude Opus 5, its most capable model, on Amazon Bedrock for production workloads.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Fri, 24 Jul 2026 17:59:03 +0000"
+    },
+    {
+      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "OpenAI's GPT-5.6 models now generally available on Amazon Bedrock with cost optimization features.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "Fri, 24 Jul 2026 15:40:08 +0000"
+    },
+    {
+      "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+      "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA's ModelExpress optimizes distribution of large model checkpoints to reduce infrastructure costs.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-24T16:45:00Z"
+    },
+    {
+      "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+      "url": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple researchers propose LEAD method to improve LLM stability in long-horizon execution tasks.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Fri, 24 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build an explainable next-best-product recommendation system for banking on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Multi-tower neural network delivers explainable product recommendations for banking industry compliance.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 7,
+      "published": "Fri, 24 Jul 2026 15:42:11 +0000"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn't.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face Blog",
+      "summary": "IBM research explores complexities and challenges in effective model routing systems.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Wed, 15 Jul 2026 17:27:01 GMT"
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face Blog",
+      "summary": "Thinking Machines introduces Inkling, a new AI tool for enhanced model interaction.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "summary": "VoiceEQ benchmark measures and evaluates human quality in voice AI systems.",
       "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Sat, 01 Aug 2026 00:00:00 GMT"
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Health feature enables secure medical records integration for personalized health insights.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
-      "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA releases tools for rapid customization of Nemotron language model for specific use cases.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "2026-07-23T16:00:00Z"
-    },
-    {
-      "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
-      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS provides guardrails best practices for secure code generation with coding assistants.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Thu, 23 Jul 2026 23:03:44 +0000"
-    },
-    {
-      "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS and Motorway build production evaluation pipeline dramatically improving AI agent reliability and issue detection.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "Thu, 23 Jul 2026 17:00:20 +0000"
-    },
-    {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "Hugging Face - Blog",
-      "summary": "Analysis of GPU resource utilization challenges and optimization strategies for ML infrastructure.",
-      "category": "MLOps & Infrastructure",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "summary": "LeRobot releases v0.6.0 with improved robot learning and evaluation capabilities.",
+      "category": "Open Source AI",
       "reading_time_minutes": 5,
-      "published": "Thu, 30 Jul 2026 15:09:09 GMT"
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face - Blog",
-      "summary": "Integration of efficient 4-bit quantization technique for diffusion model inference optimization.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "source": "Hugging Face - Blog",
-      "summary": "Open-source system for collecting robot manipulation datasets to advance embodied AI research.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Tue, 21 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI accelerates drug discovery and development by designing engineered proteins for biologic medicines.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google reports first negative cash flow quarter due to escalating AI infrastructure investments.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Thu, 23 Jul 2026 16:04:19 +0000"
-    },
-    {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google redesigns image search with AI-powered personalization based on user interests.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
-    },
-    {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "New York implements data center moratorium, signaling regulatory concerns about AI infrastructure expansion.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
-    },
-    {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Apple alleges OpenAI conspired with former employees to steal confidential trade secrets.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
-    },
-    {
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic alleges Alibaba systematically extracted Claude model capabilities through millions of queries.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 25 Jun 2026 18:01:48 +0000"
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "AI | VentureBeat",
-      "summary": "Open-source alternatives emerge to challenge high pricing of commercial AI coding agents.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "AI | VentureBeat",
-      "summary": "Listen Labs secures $69M funding to scale AI-powered customer interview platform.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Fri, 16 Jan 2026 14:01:00 GMT"
-    },
-    {
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "AI | VentureBeat",
-      "summary": "Salesforce transforms Slackbot into autonomous agent capable of searching data and taking actions.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 13 Jan 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "AI | VentureBeat",
-      "summary": "Anthropic releases Cowork agent extending Claude Code capabilities to non-technical users.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Mon, 12 Jan 2026 11:30:00 GMT"
-    },
-    {
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "AI | VentureBeat",
-      "summary": "Nous Research releases competitive open-source coding model matching proprietary systems.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Wed, 07 Jan 2026 20:00:00 GMT"
-    },
-    {
-      "title": "Open letters about AI development",
-      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Summary of recent open letters from industry leaders regarding AI development and policy.",
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "source": "Ars Technica",
+      "summary": "Legal gaps enable school to avoid accountability for students' generative media misuse.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "2026-08-02T04:16:52+00:00"
+      "published": "Fri, 31 Jul 2026 18:11:55 +0000"
     },
     {
-      "title": "July 2026 newsletter",
-      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Monthly roundup covering major AI model releases and industry developments.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 7,
-      "published": "2026-08-02T04:12:41+00:00"
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
+      "source": "Ars Technica",
+      "summary": "OpenAI negotiates government stake with Trump administration amid regulatory pressure.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 5,
+      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
     },
     {
-      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
-      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Podcast discussion on open-weight models competing with proprietary frontier AI systems.",
-      "category": "Open Source AI",
+      "summary": "OpenAI reports ten mathematical breakthroughs achieved through advanced AI research.",
+      "category": "Research & Papers",
       "reading_time_minutes": 4,
-      "published": "2026-07-31T21:33:13+00:00"
-    },
-    {
-      "title": "Quoting Bruce Schneier",
-      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Schneier on educational value of critical thinking versus delegating work to AI systems.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 2,
-      "published": "2026-07-30T18:25:26+00:00"
-    },
-    {
-      "title": "Quoting D. Richard Hipp",
-      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Hipp draws parallels between AI automation and SQL's transformation of database programming.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "2026-07-29T21:15:21+00:00"
+      "published": "2026-08-01T20:34:49+00:00"
     }
   ]
 }

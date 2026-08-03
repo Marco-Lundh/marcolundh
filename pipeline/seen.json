@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/cars24",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://huggingface.co/blog/skypilot-hf-storage",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
-    "seen_at": "2026-07-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
-    "seen_at": "2026-07-26"
-  },
-  {
     "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "seen_at": "2026-07-27"
   },
@@ -646,5 +570,53 @@
   {
     "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
     "seen_at": "2026-08-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
+    "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+    "seen_at": "2026-08-03"
   }
 ]
