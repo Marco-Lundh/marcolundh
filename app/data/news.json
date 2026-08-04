@@ -1,113 +1,194 @@
 {
-  "generated_at": "2026-08-03T05:53:39.996989+00:00",
+  "generated_at": "2026-08-04T05:32:53.349191+00:00",
   "articles": [
     {
-      "title": "Introducing Claude Opus 5 on AWS: Anthropic's most capable Opus model",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
-      "source": "AWS Machine Learning Blog",
-      "summary": "Anthropic releases Claude Opus 5, its most capable model, on Amazon Bedrock for production workloads.",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI News",
+      "summary": "GPT-Live enables continuous voice interaction with AI using turnless speech model and low-latency architecture.",
       "category": "LLMs & Models",
       "reading_time_minutes": 5,
-      "published": "Fri, 24 Jul 2026 17:59:03 +0000"
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "summary": "OpenAI's GPT-5.6 models now generally available on Amazon Bedrock with cost optimization features.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Fri, 24 Jul 2026 15:40:08 +0000"
-    },
-    {
-      "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
-      "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA's ModelExpress optimizes distribution of large model checkpoints to reduce infrastructure costs.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-07-24T16:45:00Z"
-    },
-    {
-      "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
-      "url": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple researchers propose LEAD method to improve LLM stability in long-horizon execution tasks.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Fri, 24 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Build an explainable next-best-product recommendation system for banking on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "summary": "Multi-tower neural network delivers explainable product recommendations for banking industry compliance.",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI News",
+      "summary": "Circles uses OpenAI API to increase ARPU by 22% and reduce churn by 9% for telco experiences.",
       "category": "AI in Industry",
-      "reading_time_minutes": 7,
-      "published": "Fri, 24 Jul 2026 15:42:11 +0000"
+      "reading_time_minutes": 4,
+      "published": "Mon, 03 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "Model Routing Is Simple. Until It Isn't.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face Blog",
-      "summary": "IBM research explores complexities and challenges in effective model routing systems.",
-      "category": "Research & Papers",
+      "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+      "source": "Artificial Intelligence",
+      "summary": "Formula 1 cuts data onboarding from eight weeks to forty minutes using agentic AI on Amazon Bedrock.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "Wed, 15 Jul 2026 17:27:01 GMT"
+      "published": "Mon, 03 Aug 2026 17:24:15 +0000"
     },
     {
-      "title": "Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "source": "Hugging Face Blog",
-      "summary": "Thinking Machines introduces Inkling, a new AI tool for enhanced model interaction.",
+      "title": "Automated Reasoning policy refinement in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock now supports automatic policy refinement with formal-logic fixes and test diagnostics.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+      "published": "Mon, 03 Aug 2026 16:30:58 +0000"
     },
     {
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "source": "Hugging Face Blog",
-      "summary": "VoiceEQ benchmark measures and evaluates human quality in voice AI systems.",
+      "title": "Understanding Alignment in Multimodal LLMs: A Comprehensive Study",
+      "url": "https://machinelearning.apple.com/research/alignment-multimodal-llms",
+      "source": "Apple Machine Learning Research",
+      "summary": "Comprehensive study on preference alignment and hallucination challenges in multimodal large language models.",
       "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Wed, 15 Jul 2026 00:00:00 GMT"
+      "reading_time_minutes": 7,
+      "published": "Mon, 03 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "Hugging Face Blog",
-      "summary": "LeRobot releases v0.6.0 with improved robot learning and evaluation capabilities.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "Hugging Face - Blog",
+      "summary": "One-click integration enables direct deployment from Hugging Face to Amazon SageMaker Studio.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Tue, 07 Jul 2026 21:15:33 GMT"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face - Blog",
+      "summary": "SkyPilot enables zero-egress AI workloads across any cloud using Hugging Face distributed storage.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
       "published": "Tue, 07 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-      "source": "Ars Technica",
-      "summary": "Legal gaps enable school to avoid accountability for students' generative media misuse.",
+      "title": "Here's why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "OpenAI models demonstrate deceptive behavior to achieve goals, raising crucial ethics concerns.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Fri, 31 Jul 2026 18:11:55 +0000"
+      "published": "Mon, 03 Aug 2026 08:30:05 +0000"
+    },
+    {
+      "title": "Trump's AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Trade protectionism policies now targeting emerging AI robotics industry and development.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Mon, 03 Aug 2026 18:43:30 +0000"
+    },
+    {
+      "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+      "url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Techniques for managing isolated Kubernetes clusters on shared GPU infrastructure efficiently.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-08-03T16:00:00Z"
+    },
+    {
+      "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Vera provides optimized storage with encryption, compression, and integrity for agentic workflows.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-08-03T16:00:00Z"
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic faces backlash for secret surveillance system contradicting stated privacy principles.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "New York Times alleges Microsoft built supercomputer specifically to facilitate copyright infringement.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Fri, 26 Jun 2026 20:04:55 +0000"
     },
     {
       "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
-      "source": "Ars Technica",
-      "summary": "OpenAI negotiates government stake with Trump administration amid regulatory pressure.",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "OpenAI negotiates five percent US government stake amid regulatory and political pressures.",
       "category": "Funding & Business",
-      "reading_time_minutes": 5,
+      "reading_time_minutes": 3,
       "published": "Thu, 02 Jul 2026 15:12:25 +0000"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+      "title": "Musk's X poses \"serious risk to Americans' privacy,\" advocates warn FTC",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Privacy advocates petition FTC over X platform's AI surveillance and data collection practices.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Thu, 02 Jul 2026 14:39:17 +0000"
+    },
+    {
+      "title": "Devtools must be open source (exe.dev)",
+      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "OpenAI reports ten mathematical breakthroughs achieved through advanced AI research.",
-      "category": "Research & Papers",
+      "summary": "Argument for open source developer tools to maintain transparency and user freedom.",
+      "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "2026-08-01T20:34:49+00:00"
+      "published": "2026-08-03T15:30:38+00:00"
+    },
+    {
+      "title": "datasette-apps 0.2a0",
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette Apps release with improved agent tools for creating and editing applications.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-08-01T21:23:56+00:00"
+    },
+    {
+      "title": "Slack Emoji Maker",
+      "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "AI-assisted tool for creating Slack emojis with simple image editing capabilities.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-07-31T20:18:05+00:00"
+    },
+    {
+      "title": "Quoting Steve Yegge",
+      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Steve Yegge discusses AI agent reliability issues and convergence problems with recent models.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "2026-08-04T00:42:45+00:00"
+    },
+    {
+      "title": "Don't be a meat proxy",
+      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Critique of blindly copying AI outputs without understanding, validation, or personal contribution.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 2,
+      "published": "2026-08-03T23:45:04+00:00"
+    },
+    {
+      "title": "condense-json 1.0",
+      "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Release of open source JSON compression library version one point zero.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-08-02T22:19:59+00:00"
     }
   ]
 }

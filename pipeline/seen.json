@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/unlearning-free-low-influence",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/visual-concept-inference",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/interactive-proofs-distribution-properties",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "seen_at": "2026-07-27"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "seen_at": "2026-07-27"
-  },
-  {
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "seen_at": "2026-07-28"
   },
@@ -618,5 +570,89 @@
   {
     "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
     "seen_at": "2026-08-03"
+  },
+  {
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://openai.com/index/circles",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/alignment-multimodal-llms",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+    "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
+    "seen_at": "2026-08-04"
   }
 ]
