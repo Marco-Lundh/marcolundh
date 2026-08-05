@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/gh-esd",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-    "seen_at": "2026-07-28"
-  },
-  {
-    "url": "https://huggingface.co/moonshotai/Kimi-K3",
-    "seen_at": "2026-07-28"
-  },
-  {
     "url": "https://openai.com/index/scientific-computing-agentic-ai",
     "seen_at": "2026-07-29"
   },
@@ -654,5 +594,65 @@
   {
     "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
     "seen_at": "2026-08-04"
+  },
+  {
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+    "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+    "seen_at": "2026-08-05"
   }
 ]
