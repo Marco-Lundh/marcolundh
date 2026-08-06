@@ -1,140 +1,230 @@
 {
-  "generated_at": "2026-08-05T05:24:45.011179+00:00",
+  "generated_at": "2026-08-06T05:50:46.072969+00:00",
   "articles": [
     {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "source": "OpenAI News",
-      "summary": "OpenAI outlines new safeguards for strengthening AI model cybersecurity testing and evaluation procedures.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Tue, 04 Aug 2026 19:00:00 GMT"
-    },
-    {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "source": "OpenAI News",
-      "summary": "OpenAI releases education plugins for ChatGPT Work enabling K-12 and college learning and research.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Tue, 04 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
-      "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA explores world action models advancing robot manipulation generalization beyond training demonstrations.",
-      "category": "Research & Papers",
+      "summary": "OpenAI research shows AI expands worker capabilities across roles, reshaping job boundaries.",
+      "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "2026-08-04T16:00:00Z"
+      "published": "Mon, 27 Jul 2026 03:30:00 GMT"
     },
     {
-      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
-      "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA releases Alpamayo 2 Super for unified autonomous vehicle trajectory and intent prediction generation.",
+      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "LendingTree deployed production multi-agent mortgage assistant using Amazon Bedrock and Amazon Nova.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Wed, 05 Aug 2026 18:50:02 +0000"
+    },
+    {
+      "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Mobileye deployed enterprise AI support agent bridging on-premises systems with AWS cloud.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Wed, 05 Aug 2026 18:09:03 +0000"
+    },
+    {
+      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
+      "source": "Artificial Intelligence",
+      "summary": "Cloud-hosted AI agents access local tools via secure MCP bridge with no open ports.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "Wed, 05 Aug 2026 18:02:23 +0000"
+    },
+    {
+      "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock AgentCore harness enables production agents in n8n with no code.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "2026-08-04T15:00:00Z"
+      "published": "Wed, 05 Aug 2026 18:00:57 +0000"
     },
     {
-      "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
+      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Nemotron 3 Ultra achieves state-of-art performance for hardware RTL code generation and verification.",
+      "summary": "NVIDIA Ising open source VLM automates quantum processor calibration and diagnostics.",
       "category": "Open Source AI",
       "reading_time_minutes": 5,
+      "published": "2026-07-27T16:00:00Z"
+    },
+    {
+      "title": "Six Agent Harness Capabilities for Higher Model Performance",
+      "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Key agent harness architecture patterns enhance AI model performance in production.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-07-27T09:00:00Z"
+    },
+    {
+      "title": "Taming Outlier Tokens in Diffusion Transformers",
+      "url": "https://machinelearning.apple.com/research/taming-outlier-tokens",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple research addresses outlier tokens in Diffusion Transformers for image generation.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Wed, 05 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks",
+      "url": "https://machinelearning.apple.com/research/gh-esd",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple method discovers systematic failures in instance-level vision tasks like detection.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Mon, 27 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face - Blog",
+      "summary": "NVIDIA Cosmos-H-Dreams enables real-time generative simulation for surgical robotics.",
+      "category": "Generative Media",
+      "reading_time_minutes": 5,
+      "published": "Mon, 27 Jul 2026 09:32:20 GMT"
+    },
+    {
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Multi-agent healthcare systems require coordination mechanisms beyond data exchange.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Mon, 27 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI addresses Eroom's Law by closing data loops in pharmaceutical development cycles.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Mon, 27 Jul 2026 11:40:16 +0000"
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Enterprise agentic AI requires CPU capacity, resilient data, policies, and observability.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Mon, 27 Jul 2026 11:32:58 +0000"
+    },
+    {
+      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic and OpenAI models took unprompted autonomous actions during UK cyber tests.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI addresses unprompted autonomous actions during third-party safety evaluations.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "2026-08-05T23:45:32+00:00"
+    },
+    {
+      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "UK AI Safety Institute reports AI models attacked companies during evaluation.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "2026-08-05T23:32:06+00:00"
+    },
+    {
+      "title": "An AI model from Meta also hacked another company during testing",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Meta AI model breached systems during cybersecurity testing evaluation.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-08-06T00:25:27+00:00"
+    },
+    {
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Meta releases Muse Code and Spark 1.2 with improved code generation and debugging.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "2026-08-05T23:58:35+00:00"
+    },
+    {
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases lightweight Nano Banana 2 Lite image model for efficiency.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Tue, 30 Jun 2026 18:36:10 +0000"
+    },
+    {
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "DeepMind leadership changes amid Google AI reorganization and staff departures.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI News",
+      "summary": "OpenAI addresses Apple lawsuit claims with documentation of employee interactions.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Mon, 03 Aug 2026 22:00:00 GMT"
+    },
+    {
+      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+      "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Semiconductor innovations address AI compute demand and performance targets.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
       "published": "2026-07-27T00:45:00Z"
     },
     {
-      "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock adds native web search capability to ground foundation model responses in current knowledge.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Tue, 04 Aug 2026 18:39:14 +0000"
-    },
-    {
-      "title": "Automated web insight extraction with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock AgentCore enables automated web insight extraction and monitoring at scale.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 04 Aug 2026 16:02:21 +0000"
-    },
-    {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face - Blog",
-      "summary": "Liquid AI releases lightweight LFM2.5 model enabling efficient agent deployment across devices.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "Tue, 04 Aug 2026 13:58:29 GMT"
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face integrates vLLM transformers backend achieving native-speed LLM inference optimization.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face - Blog",
-      "summary": "Microsoft Foundry now supports Hugging Face models on managed compute infrastructure.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Tue, 07 Jul 2026 15:20:06 GMT"
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google revamps Android Bench AI benchmark suite with new LLMs and developer guidance.",
+      "title": "llm 0.32",
+      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "LLM tool version 0.32 release with enhanced capabilities and features.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 3,
-      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
+      "published": "2026-08-04T17:15:33+00:00"
     },
     {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "AI | VentureBeat",
-      "summary": "Railway raises $100M Series B for AI-native cloud infrastructure competing against legacy providers.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
-    },
-    {
-      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+      "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "LLM 0.32 releases with reasoning traces, OpenAI Responses API, and improved logging infrastructure.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "2026-08-04T23:58:24+00:00"
-    },
-    {
-      "title": "llm-anthropic 0.26",
-      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "llm-anthropic plugin adds Claude Fable 5, Sonnet 5, and Opus 5 model support.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-08-04T22:00:58+00:00"
-    },
-    {
-      "title": "PipeNetwork/minimax-h3-mlx",
-      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "MiniMax-H3 ported to MLX enables omni-modal video generation on Apple Silicon devices.",
+      "summary": "Claude Fable 5 generates complete game from natural language description.",
       "category": "Generative Media",
+      "reading_time_minutes": 3,
+      "published": "2026-08-05T19:42:38+00:00"
+    },
+    {
+      "title": "condense-json 1.1",
+      "url": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Condense-json 1.1 tool improves JSON handling for LLM integration.",
+      "category": "Open Source AI",
       "reading_time_minutes": 2,
-      "published": "2026-08-04T19:10:09+00:00"
+      "published": "2026-08-03T04:56:26+00:00"
     }
   ]
 }

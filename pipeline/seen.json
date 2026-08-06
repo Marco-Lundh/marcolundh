@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/revamped-kernels",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/torch-attention-profile",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "seen_at": "2026-07-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "seen_at": "2026-07-29"
-  },
-  {
     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
     "seen_at": "2026-07-30"
   },
@@ -654,5 +578,105 @@
   {
     "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
     "seen_at": "2026-08-05"
+  },
+  {
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/taming-outlier-tokens",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/gh-esd",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+    "seen_at": "2026-08-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything",
+    "seen_at": "2026-08-06"
   }
 ]
