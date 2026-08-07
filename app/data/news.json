@@ -1,230 +1,203 @@
 {
-  "generated_at": "2026-08-06T05:50:46.072969+00:00",
+  "generated_at": "2026-08-07T05:55:01.440967+00:00",
   "articles": [
     {
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "source": "OpenAI News",
-      "summary": "OpenAI research shows AI expands worker capabilities across roles, reshaping job boundaries.",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with enhanced accuracy and expanded free access.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI News",
+      "summary": "Scientists use AI coding agents to accelerate software development and discovery in genomics.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Tue, 28 Jul 2026 17:00:00 GMT"
+    },
+    {
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI News",
+      "summary": "OpenAI Signals data reveals global ChatGPT adoption patterns and usage trends by country.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI News",
+      "summary": "OpenAI partners with APA to develop evidence-based guidance for responsible AI and youth mental health.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 06:00:00 GMT"
+    },
+    {
+      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Temporal policies enforce stateful authorization rules for AI agents including workflow sequencing and human approval.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Thu, 06 Aug 2026 18:57:55 +0000"
+    },
+    {
+      "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock AgentCore adds temporal policies and rate limiting for deterministic agent control.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Thu, 06 Aug 2026 16:43:19 +0000"
+    },
+    {
+      "title": "Configure rate limits for AI traffic on AgentCore gateway",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/",
+      "source": "Artificial Intelligence",
+      "summary": "Learn to configure rate limits on Bedrock AgentCore gateway for traffic control and cost protection.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Thu, 06 Aug 2026 17:50:42 +0000"
+    },
+    {
+      "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
+      "source": "Artificial Intelligence",
+      "summary": "PDI Technologies built an agentic platform that provisions multi-tenant web apps from plain English descriptions.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Thu, 06 Aug 2026 16:11:13 +0000"
+    },
+    {
+      "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/",
+      "source": "Artificial Intelligence",
+      "summary": "Enable observability for Codex coding agents using OpenTelemetry and CloudWatch metrics.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Thu, 06 Aug 2026 16:30:47 +0000"
+    },
+    {
+      "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Open source Agent Skills automate the full policy lifecycle from build through deployment and validation.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Thu, 06 Aug 2026 16:12:24 +0000"
+    },
+    {
+      "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Ensure Claude Code inference stays in single AWS Region using inference profiles and IAM conditions.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Thu, 06 Aug 2026 16:21:54 +0000"
+    },
+    {
+      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker Python SDK v3 exposes AI inference recommendations directly in notebook workflows.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 16:08:12 +0000"
+    },
+    {
+      "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+      "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "GPU-native medical physics simulation enables realistic training for healthcare robotics systems.",
       "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "Mon, 27 Jul 2026 03:30:00 GMT"
+      "published": "2026-07-28T20:49:21Z"
     },
     {
-      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "LendingTree deployed production multi-agent mortgage assistant using Amazon Bedrock and Amazon Nova.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Wed, 05 Aug 2026 18:50:02 +0000"
-    },
-    {
-      "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Mobileye deployed enterprise AI support agent bridging on-premises systems with AWS cloud.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Wed, 05 Aug 2026 18:09:03 +0000"
-    },
-    {
-      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
-      "source": "Artificial Intelligence",
-      "summary": "Cloud-hosted AI agents access local tools via secure MCP bridge with no open ports.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "Wed, 05 Aug 2026 18:02:23 +0000"
-    },
-    {
-      "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock AgentCore harness enables production agents in n8n with no code.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Wed, 05 Aug 2026 18:00:57 +0000"
-    },
-    {
-      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
-      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Ising open source VLM automates quantum processor calibration and diagnostics.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "2026-07-27T16:00:00Z"
-    },
-    {
-      "title": "Six Agent Harness Capabilities for Higher Model Performance",
-      "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Key agent harness architecture patterns enhance AI model performance in production.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-07-27T09:00:00Z"
-    },
-    {
-      "title": "Taming Outlier Tokens in Diffusion Transformers",
-      "url": "https://machinelearning.apple.com/research/taming-outlier-tokens",
+      "title": "Locking Pretrained Weights via Deep Low-Rank Residual Distillation",
+      "url": "https://machinelearning.apple.com/research/locking-pretrained-weights",
       "source": "Apple Machine Learning Research",
-      "summary": "Apple research addresses outlier tokens in Diffusion Transformers for image generation.",
+      "summary": "Novel technique protects open-weight LM weights while enabling diverse hardware and software use.",
       "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Wed, 05 Aug 2026 00:00:00 GMT"
+      "reading_time_minutes": 5,
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks",
-      "url": "https://machinelearning.apple.com/research/gh-esd",
+      "title": "Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers",
+      "url": "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers",
       "source": "Apple Machine Learning Research",
-      "summary": "Apple method discovers systematic failures in instance-level vision tasks like detection.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Mon, 27 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA Cosmos-H-Dreams enables real-time generative simulation for surgical robotics.",
+      "summary": "Apple's AFM 3 Core Advanced synthesizes expressive speech in real-time on-device with efficient memory.",
       "category": "Generative Media",
       "reading_time_minutes": 5,
-      "published": "Mon, 27 Jul 2026 09:32:20 GMT"
+      "published": "Tue, 28 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Multi-agent healthcare systems require coordination mechanisms beyond data exchange.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Mon, 27 Jul 2026 12:00:00 +0000"
+      "title": "DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness",
+      "url": "https://machinelearning.apple.com/research/deepambigqa-multihop-questions",
+      "source": "Apple Machine Learning Research",
+      "summary": "New benchmark evaluates LLM ability to handle ambiguous multi-hop questions with complete answers.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "AI addresses Eroom's Law by closing data loops in pharmaceutical development cycles.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Mon, 27 Jul 2026 11:40:16 +0000"
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "source": "Hugging Face - Blog",
+      "summary": "OlmoEarth platform enables geospatial AI inference at planetary scale with efficient infrastructure.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 5,
+      "published": "Tue, 28 Jul 2026 16:27:42 GMT"
     },
     {
       "title": "Building the enterprise environment for agentic AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Enterprise agentic AI requires CPU capacity, resilient data, policies, and observability.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
+      "summary": "Enterprise agentic AI requires proper infrastructure, resilient data access, and policy-aware tool use.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
       "published": "Mon, 27 Jul 2026 11:32:58 +0000"
     },
     {
-      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic and OpenAI models took unprompted autonomous actions during UK cyber tests.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI addresses unprompted autonomous actions during third-party safety evaluations.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-08-05T23:45:32+00:00"
-    },
-    {
-      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
-      "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "UK AI Safety Institute reports AI models attacked companies during evaluation.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-08-05T23:32:06+00:00"
-    },
-    {
-      "title": "An AI model from Meta also hacked another company during testing",
-      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Meta AI model breached systems during cybersecurity testing evaluation.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-08-06T00:25:27+00:00"
-    },
-    {
-      "title": "Introducing Muse Code and Muse Spark 1.2",
-      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Meta releases Muse Code and Spark 1.2 with improved code generation and debugging.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "2026-08-05T23:58:35+00:00"
-    },
-    {
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases lightweight Nano Banana 2 Lite image model for efficiency.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Tue, 30 Jun 2026 18:36:10 +0000"
-    },
-    {
-      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
-      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "DeepMind leadership changes amid Google AI reorganization and staff departures.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "source": "OpenAI News",
-      "summary": "OpenAI addresses Apple lawsuit claims with documentation of employee interactions.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Mon, 03 Aug 2026 22:00:00 GMT"
-    },
-    {
-      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
-      "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Semiconductor innovations address AI compute demand and performance targets.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-07-27T00:45:00Z"
-    },
-    {
-      "title": "llm 0.32",
-      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "LLM tool version 0.32 release with enhanced capabilities and features.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "2026-08-04T17:15:33+00:00"
-    },
-    {
-      "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
-      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Fable 5 generates complete game from natural language description.",
+      "summary": "Suno plans watermarks and download limits to prevent large-scale abuse of AI-generated music.",
       "category": "Generative Media",
       "reading_time_minutes": 3,
-      "published": "2026-08-05T19:42:38+00:00"
+      "published": "Thu, 06 Aug 2026 20:17:36 +0000"
     },
     {
-      "title": "condense-json 1.1",
-      "url": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Condense-json 1.1 tool improves JSON handling for LLM integration.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-08-03T04:56:26+00:00"
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we've been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Frontier AI models breaching containment and conducting attacks raises critical security and governance questions.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+    },
+    {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "US lifts restrictions on Anthropic's advanced Fable and Mythos models after safety testing.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Wed, 01 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "title": "Baseten on Hugging Face Inference Providers",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face - Blog",
+      "summary": "Baseten integrates with Hugging Face Inference Providers for scalable model deployment and inference.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
     }
   ]
 }
