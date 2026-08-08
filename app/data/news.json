@@ -1,203 +1,221 @@
 {
-  "generated_at": "2026-08-07T05:55:01.440967+00:00",
+  "generated_at": "2026-08-08T05:14:04.760472+00:00",
   "articles": [
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "source": "OpenAI News",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with enhanced accuracy and expanded free access.",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Thu, 06 Aug 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "source": "OpenAI News",
-      "summary": "Scientists use AI coding agents to accelerate software development and discovery in genomics.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 28 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "OpenAI News",
-      "summary": "OpenAI Signals data reveals global ChatGPT adoption patterns and usage trends by country.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source": "OpenAI News",
-      "summary": "OpenAI partners with APA to develop evidence-based guidance for responsible AI and youth mental health.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 06 Aug 2026 06:00:00 GMT"
-    },
-    {
-      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Temporal policies enforce stateful authorization rules for AI agents including workflow sequencing and human approval.",
-      "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Thu, 06 Aug 2026 18:57:55 +0000"
+      "published": "Wed, 29 Jul 2026 00:00:00 GMT"
     },
     {
-      "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock AgentCore adds temporal policies and rate limiting for deterministic agent control.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 06 Aug 2026 16:43:19 +0000"
-    },
-    {
-      "title": "Configure rate limits for AI traffic on AgentCore gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/",
-      "source": "Artificial Intelligence",
-      "summary": "Learn to configure rate limits on Bedrock AgentCore gateway for traffic control and cost protection.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Thu, 06 Aug 2026 17:50:42 +0000"
-    },
-    {
-      "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
-      "source": "Artificial Intelligence",
-      "summary": "PDI Technologies built an agentic platform that provisions multi-tenant web apps from plain English descriptions.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 06 Aug 2026 16:11:13 +0000"
-    },
-    {
-      "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/",
-      "source": "Artificial Intelligence",
-      "summary": "Enable observability for Codex coding agents using OpenTelemetry and CloudWatch metrics.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Thu, 06 Aug 2026 16:30:47 +0000"
-    },
-    {
-      "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Open source Agent Skills automate the full policy lifecycle from build through deployment and validation.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Thu, 06 Aug 2026 16:12:24 +0000"
-    },
-    {
-      "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Ensure Claude Code inference stays in single AWS Region using inference profiles and IAM conditions.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Thu, 06 Aug 2026 16:21:54 +0000"
-    },
-    {
-      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-      "url": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker Python SDK v3 exposes AI inference recommendations directly in notebook workflows.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Thu, 06 Aug 2026 16:08:12 +0000"
-    },
-    {
-      "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
-      "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
+      "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+      "url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
       "source": "NVIDIA Technical Blog",
-      "summary": "GPU-native medical physics simulation enables realistic training for healthcare robotics systems.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "2026-07-28T20:49:21Z"
-    },
-    {
-      "title": "Locking Pretrained Weights via Deep Low-Rank Residual Distillation",
-      "url": "https://machinelearning.apple.com/research/locking-pretrained-weights",
-      "source": "Apple Machine Learning Research",
-      "summary": "Novel technique protects open-weight LM weights while enabling diverse hardware and software use.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers",
-      "url": "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple's AFM 3 Core Advanced synthesizes expressive speech in real-time on-device with efficient memory.",
-      "category": "Generative Media",
-      "reading_time_minutes": 5,
-      "published": "Tue, 28 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness",
-      "url": "https://machinelearning.apple.com/research/deepambigqa-multihop-questions",
-      "source": "Apple Machine Learning Research",
-      "summary": "New benchmark evaluates LLM ability to handle ambiguous multi-hop questions with complete answers.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "source": "Hugging Face - Blog",
-      "summary": "OlmoEarth platform enables geospatial AI inference at planetary scale with efficient infrastructure.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "Tue, 28 Jul 2026 16:27:42 GMT"
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Enterprise agentic AI requires proper infrastructure, resilient data access, and policy-aware tool use.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Mon, 27 Jul 2026 11:32:58 +0000"
-    },
-    {
-      "title": "Suno hopes to go legit with watermarks for AI-generated music",
-      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Suno plans watermarks and download limits to prevent large-scale abuse of AI-generated music.",
-      "category": "Generative Media",
-      "reading_time_minutes": 3,
-      "published": "Thu, 06 Aug 2026 20:17:36 +0000"
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we've been here before.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Frontier AI models breaching containment and conducting attacks raises critical security and governance questions.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 27 Jul 2026 18:00:00 +0000"
-    },
-    {
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "US lifts restrictions on Anthropic's advanced Fable and Mythos models after safety testing.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Wed, 01 Jul 2026 16:44:18 +0000"
-    },
-    {
-      "title": "Baseten on Hugging Face Inference Providers",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face - Blog",
-      "summary": "Baseten integrates with Hugging Face Inference Providers for scalable model deployment and inference.",
+      "summary": "Deploy validated AI coding assistants with self-hosting using NVIDIA NeMo Guardrails.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
+      "reading_time_minutes": 6,
+      "published": "2026-07-29T16:46:45Z"
+    },
+    {
+      "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Multi-tenant agentic architecture for clinical policy digitization using AgentCore.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Fri, 07 Aug 2026 16:26:58 +0000"
+    },
+    {
+      "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Agentic AI pipeline reduces root-cause analysis time from minutes to seconds.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Fri, 07 Aug 2026 16:22:50 +0000"
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source": "OpenAI News",
+      "summary": "Two API settings dramatically improved GPT-5.6 performance on ARC-AGI-3 benchmark.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Wed, 29 Jul 2026 15:00:00 GMT"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "summary": "OpenAI provides 100,000 academic researchers free access to advanced AI models.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 29 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI News",
+      "summary": "OpenAI shares cybersecurity evaluations and safeguards for frontier AI capabilities.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Fri, 07 Aug 2026 15:20:00 GMT"
+    },
+    {
+      "title": "Scaling Categorical Flow Maps",
+      "url": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
+      "source": "Apple Machine Learning Research",
+      "summary": "Flow matching models offer alternative to autoregressive approaches for language modeling.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Fri, 07 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models",
+      "url": "https://machinelearning.apple.com/research/diffusion-autoregressive-performance",
+      "source": "Apple Machine Learning Research",
+      "summary": "Comparative analysis of diffusion and autoregressive language model performance characteristics.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Fri, 07 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Arbitrage: Efficient Reasoning via Advantage-Aware Speculation",
+      "url": "https://machinelearning.apple.com/research/arbitrage-efficient-reasoning",
+      "source": "Apple Machine Learning Research",
+      "summary": "Speculative decoding technique improves LLM inference efficiency and performance-cost ratio.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Fri, 07 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Detailed technical timeline of the Hugging Face incident presented at Black Hat.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "2026-08-07T23:55:58+00:00"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI News",
+      "summary": "Tax advisory firm uses ChatGPT Enterprise to boost productivity and client service.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Fri, 07 Aug 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
+      "url": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
+      "source": "Artificial Intelligence",
+      "summary": "Constraint programming and tree search determine NHL playoff clinching scenarios mathematically.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Fri, 07 Aug 2026 16:21:00 +0000"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "Hugging Face - Blog",
+      "summary": "Research on AI tutoring systems' ability to provide contextually appropriate assistance.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Fri, 07 Aug 2026 17:53:32 GMT"
+    },
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Examining practical AI applications and their impact on everyday human tasks.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 29 Jul 2026 08:42:57 +0000"
+    },
+    {
+      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "AI | VentureBeat",
+      "summary": "Google's search interface redesign signals shift toward AI-powered information retrieval.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Tue, 19 May 2026 17:45:00 GMT"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "Hugging Face - Blog",
+      "summary": "Technical analysis of frontier lab agent security incident with detailed timeline.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 6,
+      "published": "Mon, 27 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face - Blog",
+      "summary": "Technical guide to profiling attention mechanisms in PyTorch models.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Fri, 10 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Companies face pressure to reduce AI token consumption and operational costs.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "2026-08-07T16:18:51+00:00"
+    },
+    {
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Demonstration of AI game development using Claude and GPT-5.6 integration.",
+      "category": "Generative Media",
+      "reading_time_minutes": 4,
+      "published": "2026-08-07T19:18:09+00:00"
+    },
+    {
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face discloses security incident from July 2026 with impact assessment.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face - Blog",
+      "summary": "Data strategy implementation for AI model development and training.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 15:30:55 GMT"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face - Blog",
+      "summary": "Analysis of how newer AI models maintain performance advantages over predecessors.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Thu, 16 Jul 2026 11:49:48 GMT"
+    },
+    {
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "OpenAI negotiates US government stake following political pressure discussions.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
     }
   ]
 }
