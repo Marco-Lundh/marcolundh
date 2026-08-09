@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/building-abundant-intelligence",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/introducing-openai-presence",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/ntt-data",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/unive",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "seen_at": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "seen_at": "2026-08-01"
-  },
-  {
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "seen_at": "2026-08-02"
   },
@@ -670,5 +570,65 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
     "seen_at": "2026-08-08"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://openai.com/index/avatarin",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+    "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+    "seen_at": "2026-08-09"
   }
 ]

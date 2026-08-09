@@ -1,221 +1,140 @@
 {
-  "generated_at": "2026-08-08T05:14:04.760472+00:00",
+  "generated_at": "2026-08-09T05:39:57.144803+00:00",
   "articles": [
     {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "source": "OpenAI News",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows.",
+      "summary": "OpenAI releases GPT-5.6 with improved pricing and efficiency for enterprise deployment.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Wed, 29 Jul 2026 00:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "Thu, 30 Jul 2026 10:00:00 GMT"
     },
     {
-      "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
-      "url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "source": "OpenAI News",
+      "summary": "avatarin deploys GPT-Realtime for multilingual retail support with 92% positive feedback.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
+      "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Deploy validated AI coding assistants with self-hosting using NVIDIA NeMo Guardrails.",
+      "summary": "NVIDIA releases nvmath-python library for high-performance GPU-accelerated scientific computing.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-07-29T16:46:45Z"
+      "reading_time_minutes": 5,
+      "published": "2026-07-30T22:43:04Z"
     },
     {
-      "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Multi-tenant agentic architecture for clinical policy digitization using AgentCore.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Fri, 07 Aug 2026 16:26:58 +0000"
-    },
-    {
-      "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Agentic AI pipeline reduces root-cause analysis time from minutes to seconds.",
+      "title": "Four Ways to Deploy More Secure AI Agents",
+      "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA outlines security best practices for deploying AI agents in production environments.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Fri, 07 Aug 2026 16:22:50 +0000"
+      "published": "2026-07-30T21:09:59Z"
     },
     {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI News",
-      "summary": "Two API settings dramatically improved GPT-5.6 performance on ARC-AGI-3 benchmark.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Wed, 29 Jul 2026 15:00:00 GMT"
+      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA shares optimization techniques for maximizing AI training performance on H100 and GB300.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-30T16:00:00Z"
     },
     {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "summary": "OpenAI provides 100,000 academic researchers free access to advanced AI models.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Wed, 29 Jul 2026 10:00:00 GMT"
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA achieves world record for mixture of experts pre-training using GB300 architecture.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "2026-07-21T18:30:00Z"
     },
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI News",
-      "summary": "OpenAI shares cybersecurity evaluations and safeguards for frontier AI capabilities.",
+      "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+      "url": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple researchers improve UMAP by leveraging internal k-nearest-neighbor graph for better insights.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MoMo: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization",
+      "url": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple presents MoMo framework for adaptive robot manipulation using behavioral tokenization.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Researchers identify fundamental security flaw in LLM architecture preventing complete protection.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Fri, 07 Aug 2026 15:20:00 GMT"
+      "reading_time_minutes": 4,
+      "published": "Thu, 30 Jul 2026 10:15:19 +0000"
     },
     {
-      "title": "Scaling Categorical Flow Maps",
-      "url": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
-      "source": "Apple Machine Learning Research",
-      "summary": "Flow matching models offer alternative to autoregressive approaches for language modeling.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Fri, 07 Aug 2026 00:00:00 GMT"
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases Gemini Robotics 2.0 with three models for improved robotic manipulation.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Thu, 30 Jul 2026 17:58:02 +0000"
     },
     {
-      "title": "Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models",
-      "url": "https://machinelearning.apple.com/research/diffusion-autoregressive-performance",
-      "source": "Apple Machine Learning Research",
-      "summary": "Comparative analysis of diffusion and autoregressive language model performance characteristics.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Fri, 07 Aug 2026 00:00:00 GMT"
+      "title": "Anthropic's $1.5B copyright settlement approved; only 350 authors opted out",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Court approves Anthropic's $1.5 billion copyright settlement with minimal author opt-outs.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Tue, 21 Jul 2026 17:33:14 +0000"
     },
     {
-      "title": "Arbitrage: Efficient Reasoning via Advantage-Aware Speculation",
-      "url": "https://machinelearning.apple.com/research/arbitrage-efficient-reasoning",
-      "source": "Apple Machine Learning Research",
-      "summary": "Speculative decoding technique improves LLM inference efficiency and performance-cost ratio.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Fri, 07 Aug 2026 00:00:00 GMT"
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases Gemini 3.6 Flash and announces upcoming 3.5 Pro and Gemini 4 models.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Tue, 21 Jul 2026 16:58:25 +0000"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic makes auto mode default in Claude Code for most subscription tiers.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-08-08T22:36:03+00:00"
     },
     {
       "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Detailed technical timeline of the Hugging Face incident presented at Black Hat.",
+      "summary": "Timeline reveals details of OpenAI's unintended security incident affecting Hugging Face.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "2026-08-07T23:55:58+00:00"
+      "reading_time_minutes": 3,
+      "published": "2026-08-08T14:06:41+00:00"
     },
     {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI News",
-      "summary": "Tax advisory firm uses ChatGPT Enterprise to boost productivity and client service.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Fri, 07 Aug 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
-      "url": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
-      "source": "Artificial Intelligence",
-      "summary": "Constraint programming and tree search determine NHL playoff clinching scenarios mathematically.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Fri, 07 Aug 2026 16:21:00 +0000"
-    },
-    {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "Hugging Face - Blog",
-      "summary": "Research on AI tutoring systems' ability to provide contextually appropriate assistance.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Fri, 07 Aug 2026 17:53:32 GMT"
-    },
-    {
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Examining practical AI applications and their impact on everyday human tasks.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Wed, 29 Jul 2026 08:42:57 +0000"
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "AI | VentureBeat",
-      "summary": "Google's search interface redesign signals shift toward AI-powered information retrieval.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Tue, 19 May 2026 17:45:00 GMT"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face - Blog",
-      "summary": "Technical analysis of frontier lab agent security incident with detailed timeline.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 6,
-      "published": "Mon, 27 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "source": "Hugging Face - Blog",
-      "summary": "Technical guide to profiling attention mechanisms in PyTorch models.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Fri, 10 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "title": "datasette 1.0a38",
+      "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
       "source": "Simon Willison's Weblog",
-      "summary": "Companies face pressure to reduce AI token consumption and operational costs.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "2026-08-07T16:18:51+00:00"
-    },
-    {
-      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "summary": "Demonstration of AI game development using Claude and GPT-5.6 integration.",
-      "category": "Generative Media",
-      "reading_time_minutes": 4,
-      "published": "2026-08-07T19:18:09+00:00"
-    },
-    {
-      "title": "Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face discloses security incident from July 2026 with impact assessment.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "source": "Hugging Face - Blog",
-      "summary": "Data strategy implementation for AI model development and training.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 15:30:55 GMT"
-    },
-    {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face - Blog",
-      "summary": "Analysis of how newer AI models maintain performance advantages over predecessors.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Thu, 16 Jul 2026 11:49:48 GMT"
-    },
-    {
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "OpenAI negotiates US government stake following political pressure discussions.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
+      "summary": "Datasette releases 1.0a38 with critical SQL injection security fix for mixed access databases.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-08-06T18:24:34+00:00"
     }
   ]
 }
