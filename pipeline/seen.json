@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://huggingface.co/blog/nunchaku-diffusers",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://huggingface.co/blog/grabette",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
-    "seen_at": "2026-08-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-    "seen_at": "2026-08-02"
-  },
-  {
     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
     "seen_at": "2026-08-03"
   },
@@ -630,5 +534,41 @@
   {
     "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
     "seen_at": "2026-08-09"
+  },
+  {
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
+    "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
+    "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+    "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://openai.com/index/unive",
+    "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+    "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
+    "seen_at": "2026-08-10"
   }
 ]
