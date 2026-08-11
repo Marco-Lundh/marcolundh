@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://huggingface.co/blog/real-world-voiceeq",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://huggingface.co/blog/lerobot-release-v060",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-stake-to-win-over-ai-haters/",
-    "seen_at": "2026-08-03"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
-    "seen_at": "2026-08-03"
-  },
-  {
     "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "seen_at": "2026-08-04"
   },
@@ -570,5 +522,105 @@
   {
     "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
     "seen_at": "2026-08-10"
+  },
+  {
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://openai.com/index/model-ml",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://huggingface.co/blog/muse-glimmer",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://openai.com/index/zapier",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "seen_at": "2026-08-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+    "seen_at": "2026-08-11"
   }
 ]
