@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
-    "seen_at": "2026-08-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
-    "seen_at": "2026-08-05"
-  },
-  {
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "seen_at": "2026-08-06"
   },
@@ -634,5 +574,93 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
     "seen_at": "2026-08-12"
+  },
+  {
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://openai.com/index/ringcentral",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/alignment-multimodal-llms",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "seen_at": "2026-08-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/6/datasette/",
+    "seen_at": "2026-08-13"
   }
 ]
