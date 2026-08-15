@@ -1,212 +1,176 @@
 {
-  "generated_at": "2026-08-14T05:13:11.117995+00:00",
+  "generated_at": "2026-08-15T05:33:34.717999+00:00",
   "articles": [
     {
-      "title": "The builder's guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI News",
-      "summary": "Startups leverage GPT-5.6 with new Responses API for faster, cost-efficient AI agents.",
+      "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+      "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Design composite multi-turn reward functions for Amazon Nova Forge model training.",
       "category": "LLMs & Models",
       "reading_time_minutes": 5,
-      "published": "Thu, 13 Aug 2026 11:00:00 GMT"
+      "published": "Fri, 14 Aug 2026 16:02:10 +0000"
     },
     {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI News",
-      "summary": "OpenAI's Ultrafast tier delivers GPT-5.6 Sol at 14X speed with 750 tokens per second.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 13 Aug 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
-      "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "World action models advance robot manipulation policies with improved generalization beyond training demonstrations.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "2026-08-04T16:00:00Z"
-    },
-    {
-      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
-      "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Alpamayo 2 Super unifies trajectory generation and scene understanding for autonomous vehicle development.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-08-04T15:00:00Z"
-    },
-    {
-      "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Nemotron 3 Ultra outperforms open models in hardware design RTL development and verification.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 7,
-      "published": "2026-07-27T00:45:00Z"
-    },
-    {
-      "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
-      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock AgentCore Observability enables monitoring agents across on-premises and multi-cloud environments.",
-      "category": "MLOps & Infrastructure",
+      "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Combine SageMaker AI with Bedrock AgentCore to build multi-agent specialized workflows.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 5,
-      "published": "Thu, 13 Aug 2026 16:02:10 +0000"
+      "published": "Fri, 14 Aug 2026 15:58:44 +0000"
     },
     {
-      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
-      "source": "Artificial Intelligence",
-      "summary": "AgentCore Browser Tool automates legacy web applications with secure, auditable AI-powered digital workers.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Thu, 13 Aug 2026 15:56:07 +0000"
-    },
-    {
-      "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Multi-agent M&A due diligence system combines orchestration, retrieval, and governance on AgentCore.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Thu, 13 Aug 2026 15:52:44 +0000"
-    },
-    {
-      "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Quick integrates agentic AI directly into Microsoft 365 for document editing and data analysis.",
+      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Ising automates quantum processor calibration using vision language models.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "Thu, 13 Aug 2026 15:48:15 +0000"
+      "published": "2026-07-27T16:00:00Z"
     },
     {
-      "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
-      "url": "https://machinelearning.apple.com/research/unlearning-low-influence-points",
+      "title": "Six Agent Harness Capabilities for Higher Model Performance",
+      "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Explore architecture and harness design for optimizing AI agent performance.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-07-27T09:00:00Z"
+    },
+    {
+      "title": "Taming Outlier Tokens in Diffusion Transformers",
+      "url": "https://machinelearning.apple.com/research/taming-outlier-tokens",
       "source": "Apple Machine Learning Research",
-      "summary": "Influence functions reduce unlearning costs by identifying negligible-impact data points for removal.",
+      "summary": "Study outlier tokens in Diffusion Transformers for improved image generation.",
       "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "Thu, 13 Aug 2026 00:00:00 GMT"
+      "published": "Wed, 05 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face - Blog",
-      "summary": "Integrated workflow for recording, training, and deploying agents using LeRobot and Hugging Face infrastructure.",
-      "category": "AI Tools & Frameworks",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog",
+      "summary": "Analysis of open source model developments and trends in summer 2026.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 6,
+      "published": "Fri, 14 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face Blog",
+      "summary": "Real-time generative simulation for surgical robotics applications.",
+      "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "Thu, 13 Aug 2026 17:16:04 GMT"
+      "published": "Mon, 27 Jul 2026 09:32:20 GMT"
     },
     {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face - Blog",
-      "summary": "Large-scale reproduction study of ICML papers reveals insights into research reproducibility and validation.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Thu, 13 Aug 2026 00:00:00 GMT"
+      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "source": "Ars Technica",
+      "summary": "AI models conducted unprompted cyberattacks during UK security testing.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
     },
     {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini 3.7 Flash with substantial improvements just weeks after 3.6 debut.",
-      "category": "LLMs & Models",
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "Ars Technica",
+      "summary": "Major leadership changes at Google DeepMind amid staff departures.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "source": "Ars Technica",
+      "summary": "Android Bench updated with new LLMs and developer benchmarking capabilities.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 3,
-      "published": "Thu, 13 Aug 2026 17:00:13 +0000"
+      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
     },
     {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic implements invisible watermark to flag AI-processed and edited content from Claude.",
+      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI News",
+      "summary": "OpenAI commits to responsible, transparent AI infrastructure growth in Texas.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Thu, 13 Aug 2026 11:10:18 +0000"
+      "published": "Mon, 10 Aug 2026 14:00:00 GMT"
     },
     {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "AI | VentureBeat",
-      "summary": "Railway raises $100M Series B to build AI-native cloud platform addressing AI application demands.",
-      "category": "Funding & Business",
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Ars Technica",
+      "summary": "Anthropic accused of user monitoring contradicting public anti-surveillance positions.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "title": "Trump's AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "summary": "AI trade policy extends to robotics industry amid protectionist measures.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
+      "published": "Mon, 03 Aug 2026 18:43:30 +0000"
     },
     {
-      "title": "llm-gemini 0.33",
-      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
-      "source": "Simon Willison's Weblog",
-      "summary": "llm-gemini plugin updated with support for Gemini 3.7 Flash and embedding models.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-08-13T19:37:34+00:00"
-    },
-    {
-      "title": "alchemy-utils 0.1a1",
-      "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
-      "source": "Simon Willison's Weblog",
-      "summary": "alchemy-utils alpha release boosts DuckDB export and CSV import performance.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-08-13T03:03:17+00:00"
-    },
-    {
-      "title": "alchemy-utils 0.1a0",
-      "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Database-agnostic library prototype extends sqlite-utils functionality across multiple database systems.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "2026-08-12T19:51:30+00:00"
-    },
-    {
-      "title": "datasette-upload-dbs 0.5a0",
-      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Datasette plugin enables users to upload and atomically swap SQLite databases in hosted instances.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "2026-08-11T20:35:13+00:00"
-    },
-    {
-      "title": "GitHub Models is now retired",
-      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
-      "source": "Simon Willison's Weblog",
-      "summary": "GitHub Models service discontinued as GitHub focuses on alternative AI infrastructure strategies.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-08-09T22:48:05+00:00"
-    },
-    {
-      "title": "SQLite compressed text-history prototypes",
-      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Prototype explores zstd compression for storing revision histories in SQLite databases.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "2026-08-09T22:05:00+00:00"
-    },
-    {
-      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/",
-      "source": "Simon Willison's Weblog",
-      "summary": "AI-generated game combining Claude Fable 5 game logic with GPT-5.6 Sol Ultra enhancements.",
-      "category": "Generative Media",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review",
+      "summary": "Flock police-tech implements access restrictions on license plate reader network.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "2026-08-07T19:18:09+00:00"
+      "published": "Thu, 13 Aug 2026 13:41:10 +0000"
     },
     {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News",
-      "summary": "OpenAI appoints new CRO to lead revenue organization and drive business value realization.",
+      "title": "Musk's X poses serious risk to Americans' privacy, advocates warn FTC",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "source": "Ars Technica",
+      "summary": "Privacy advocates urge FTC to reject Musk's X monitoring settlement amid AI concerns.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Thu, 02 Jul 2026 14:39:17 +0000"
+    },
+    {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "source": "Ars Technica",
+      "summary": "Apple alleges OpenAI conspired with former employees to steal trade secrets.",
       "category": "Funding & Business",
-      "reading_time_minutes": 2,
-      "published": "Thu, 13 Aug 2026 09:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
+    },
+    {
+      "title": "Don't classify. Hallucinate!",
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Novel approach using LLMs for content tagging via hypothetical classification.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-08-14T21:54:35+00:00"
+    },
+    {
+      "title": "There are no lossless transformations of natural-language text",
+      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Analysis of responsible AI writing use policies and text transformation limitations.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-08-11T23:48:35+00:00"
+    },
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Timeline details of OpenAI's unintended cyberattack during model evaluation.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-08-08T14:06:41+00:00"
     }
   ]
 }
