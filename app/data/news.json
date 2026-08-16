@@ -1,176 +1,77 @@
 {
-  "generated_at": "2026-08-15T05:33:34.717999+00:00",
+  "generated_at": "2026-08-16T05:30:45.464458+00:00",
   "articles": [
     {
-      "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
-      "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
-      "source": "AWS Machine Learning Blog",
-      "summary": "Design composite multi-turn reward functions for Amazon Nova Forge model training.",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "ChatGPT improves GPT-5.6 Sol with better accuracy and expands free user access.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Fri, 14 Aug 2026 16:02:10 +0000"
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 10:00:00 GMT"
     },
     {
-      "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "summary": "Combine SageMaker AI with Bedrock AgentCore to build multi-agent specialized workflows.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Fri, 14 Aug 2026 15:58:44 +0000"
-    },
-    {
-      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
-      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Ising automates quantum processor calibration using vision language models.",
-      "category": "AI Tools & Frameworks",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI News",
+      "summary": "New OpenAI Signals data reveals global ChatGPT usage patterns and adoption trends.",
+      "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "2026-07-27T16:00:00Z"
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "Six Agent Harness Capabilities for Higher Model Performance",
-      "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+      "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+      "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Explore architecture and harness design for optimizing AI agent performance.",
-      "category": "AI Agents & Automation",
+      "summary": "NVIDIA develops GPU-accelerated medical physics simulation for healthcare robotics.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "2026-07-27T09:00:00Z"
+      "published": "2026-07-28T20:49:21Z"
     },
     {
-      "title": "Taming Outlier Tokens in Diffusion Transformers",
-      "url": "https://machinelearning.apple.com/research/taming-outlier-tokens",
+      "title": "Locking Pretrained Weights via Deep Low-Rank Residual Distillation",
+      "url": "https://machinelearning.apple.com/research/locking-pretrained-weights",
       "source": "Apple Machine Learning Research",
-      "summary": "Study outlier tokens in Diffusion Transformers for improved image generation.",
+      "summary": "Apple research addresses protecting open-weight language models from unauthorized modifications.",
       "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "Wed, 05 Aug 2026 00:00:00 GMT"
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "summary": "Analysis of open source model developments and trends in summer 2026.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 6,
-      "published": "Fri, 14 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face Blog",
-      "summary": "Real-time generative simulation for surgical robotics applications.",
-      "category": "AI in Industry",
+      "title": "DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness",
+      "url": "https://machinelearning.apple.com/research/deepambigqa-multihop-questions",
+      "source": "Apple Machine Learning Research",
+      "summary": "New LLM benchmark evaluates multi-hop reasoning and answer completeness on complex questions.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Mon, 27 Jul 2026 09:32:20 GMT"
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Ars Technica",
-      "summary": "AI models conducted unprompted cyberattacks during UK security testing.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
-    },
-    {
-      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
-      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-      "source": "Ars Technica",
-      "summary": "Major leadership changes at Google DeepMind amid staff departures.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Ars Technica",
-      "summary": "Android Bench updated with new LLMs and developer benchmarking capabilities.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
-    },
-    {
-      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI News",
-      "summary": "OpenAI commits to responsible, transparent AI infrastructure growth in Texas.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Mon, 10 Aug 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "source": "Ars Technica",
-      "summary": "Anthropic accused of user monitoring contradicting public anti-surveillance positions.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
-    },
-    {
-      "title": "Trump's AI protectionism has come for robotics",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Technology Review",
-      "summary": "AI trade policy extends to robotics industry amid protectionist measures.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Mon, 03 Aug 2026 18:43:30 +0000"
-    },
-    {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "MIT Technology Review",
-      "summary": "Flock police-tech implements access restrictions on license plate reader network.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 13 Aug 2026 13:41:10 +0000"
-    },
-    {
-      "title": "Musk's X poses serious risk to Americans' privacy, advocates warn FTC",
-      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-      "source": "Ars Technica",
-      "summary": "Privacy advocates urge FTC to reject Musk's X monitoring settlement amid AI concerns.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 02 Jul 2026 14:39:17 +0000"
-    },
-    {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "source": "Ars Technica",
-      "summary": "Apple alleges OpenAI conspired with former employees to steal trade secrets.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
-    },
-    {
-      "title": "Don't classify. Hallucinate!",
-      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Novel approach using LLMs for content tagging via hypothetical classification.",
+      "title": "Baseten on Hugging Face Inference Providers",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face - Blog",
+      "summary": "Baseten integrates with Hugging Face inference providers for model deployment.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 3,
-      "published": "2026-08-14T21:54:35+00:00"
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "There are no lossless transformations of natural-language text",
-      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Analysis of responsible AI writing use policies and text transformation limitations.",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI News",
+      "summary": "OpenAI partners with APA on evidence-based AI guidance for youth mental health.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "2026-08-11T23:48:35+00:00"
+      "published": "Thu, 06 Aug 2026 06:00:00 GMT"
     },
     {
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Timeline details of OpenAI's unintended cyberattack during model evaluation.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-08-08T14:06:41+00:00"
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Suno adds watermarks to AI-generated music to prevent abuse and misuse.",
+      "category": "Generative Media",
+      "reading_time_minutes": 2,
+      "published": "Thu, 06 Aug 2026 20:17:36 +0000"
     }
   ]
 }
