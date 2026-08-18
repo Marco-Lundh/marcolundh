@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/building-abundant-intelligence",
-    "seen_at": "2026-08-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
-    "seen_at": "2026-08-10"
-  },
-  {
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "seen_at": "2026-08-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
-    "seen_at": "2026-08-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
-    "seen_at": "2026-08-10"
-  },
-  {
-    "url": "https://openai.com/index/unive",
-    "seen_at": "2026-08-10"
-  },
-  {
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "seen_at": "2026-08-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
-    "seen_at": "2026-08-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
-    "seen_at": "2026-08-10"
-  },
-  {
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "seen_at": "2026-08-11"
   },
@@ -602,5 +566,73 @@
   {
     "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
     "seen_at": "2026-08-17"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://openai.com/index/the-defenders-window",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "seen_at": "2026-08-18"
+  },
+  {
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "seen_at": "2026-08-18"
   }
 ]
