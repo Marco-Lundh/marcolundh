@@ -1,158 +1,221 @@
 {
-  "generated_at": "2026-08-18T05:16:39.247654+00:00",
+  "generated_at": "2026-08-19T05:27:31.546404+00:00",
   "articles": [
     {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "source": "Ars Technica",
-      "summary": "Google releases faster, cheaper Gemini 3.6 Flash with new cybersecurity capabilities.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Tue, 21 Jul 2026 16:58:25 +0000"
-    },
-    {
-      "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
-      "source": "AWS Machine Learning Blog",
-      "summary": "NVIDIA Nemotron 3.5 Lightning open model for agentic workloads launches with 4x throughput gains.",
-      "category": "LLMs & Models",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI News",
+      "summary": "OpenAI strengthens monitoring, alignment, security for frontier AI models.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Mon, 17 Aug 2026 18:06:33 +0000"
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT"
     },
     {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "source": "Ars Technica",
-      "summary": "Google releases Gemini Robotics 2.0 with enhanced dexterity and safety improvements.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Thu, 30 Jul 2026 17:58:02 +0000"
-    },
-    {
-      "title": "Four Ways to Deploy More Secure AI Agents",
-      "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
-      "source": "NVIDIA Developer Blog",
-      "summary": "NVIDIA outlines security best practices for deploying AI agents in production workflows.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-07-30T21:09:59Z"
-    },
-    {
-      "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
-      "source": "AWS Machine Learning Blog",
-      "summary": "AWS enables autonomous agents to make payments via x402 protocol with spending guardrails.",
-      "category": "AI Agents & Automation",
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI News",
+      "summary": "OpenAI launches initiative for democratic oversight of AI in national security.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Mon, 17 Aug 2026 16:19:56 +0000"
+      "published": "Tue, 18 Aug 2026 19:00:00 GMT"
     },
     {
-      "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer",
-      "url": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/",
-      "source": "NVIDIA Developer Blog",
-      "summary": "NVIDIA demonstrates model optimization techniques for Nemotron using advanced quantization methods.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "2026-08-17T18:12:48Z"
-    },
-    {
-      "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
-      "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
-      "source": "NVIDIA Developer Blog",
-      "summary": "NVIDIA launches nvmath-python library for high-performance scientific computing at scale.",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI News",
+      "summary": "ChatGPT for Teens offers AI learning with stronger protections and parental controls.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-07-30T22:43:04Z"
+      "reading_time_minutes": 4,
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT"
     },
     {
-      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
-      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
-      "source": "NVIDIA Developer Blog",
-      "summary": "NVIDIA shares optimization lessons for maximizing AI infrastructure performance and throughput.",
+      "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock AgentCore payments enables AI agents to autonomously transact at scale.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Tue, 18 Aug 2026 18:56:14 +0000"
+    },
+    {
+      "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
+      "url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Optimizing attention mechanisms for fast long-context LLM inference at scale.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 7,
-      "published": "2026-07-30T16:00:00Z"
+      "published": "2026-07-31T22:16:17Z"
     },
     {
-      "title": "MoMo: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization",
-      "url": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple presents MoMo framework for adaptive robot manipulation using motion-mode conditioning.",
-      "category": "Research & Papers",
+      "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+      "url": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI coding agents accelerate materials science simulation with NVIDIA toolkit.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
+      "published": "2026-08-18T18:00:00Z"
     },
     {
-      "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
-      "url": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple research leverages UMAP's internal kNN graph for enhanced high-dimensional data exploration.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 30 Jul 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The Defender's Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "summary": "OpenAI analyzes AI's impact on cybersecurity with strategies for defenders against attacks.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 17 Aug 2026 05:30:00 GMT"
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI News",
-      "summary": "OpenAI funds 14 projects exploring policy solutions for economic opportunity and societal resilience.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 17 Aug 2026 03:15:00 GMT"
-    },
-    {
-      "title": "Anthropic's $1.5B copyright settlement approved; only 350 authors opted out",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "source": "Ars Technica",
-      "summary": "Court approves Anthropic's $1.5 billion copyright settlement with minimal author opt-outs.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Tue, 21 Jul 2026 17:33:14 +0000"
-    },
-    {
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-      "source": "404 Media",
-      "summary": "Investigative reporting reveals rare books shipment destined for Amazon AI training facilities.",
-      "category": "Ethics & Policy",
+      "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Axonius deploys secure multi-tenant AI agents using Amazon Bedrock AgentCore.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "2026-08-17T15:21:29+00:00"
+      "published": "Tue, 18 Aug 2026 16:27:07 +0000"
     },
     {
-      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Qwen 3.8 27B achieves competitive benchmark scores matching larger model performance.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-08-17T23:58:14+00:00"
-    },
-    {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "summary": "GPU optimization techniques dramatically improve cluster utilization through better resource ordering.",
+      "title": "How Jumio built a real-time feature store on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Jumio builds real-time feature store for fraud detection with sub-100ms serving.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Mon, 17 Aug 2026 19:46:21 GMT"
+      "reading_time_minutes": 7,
+      "published": "Tue, 18 Aug 2026 17:05:48 +0000"
     },
     {
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "title": "Implement vector-prompt document classification using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Multi-agent document classification combines text analysis with visual similarity search.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Tue, 18 Aug 2026 17:10:37 +0000"
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
       "source": "OpenAI News",
-      "summary": "OpenAI joins PORTS-Pike community investment project supporting Southern Ohio jobs.",
-      "category": "Funding & Business",
+      "summary": "Asana replaces outdated testing system using OpenAI Codex in two weeks.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "source": "OpenAI News",
+      "summary": "NVIDIA teams use ChatGPT Work to automate tasks and scale workflows globally.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings",
+      "url": "https://machinelearning.apple.com/research/grpo-beyond-english",
+      "source": "Apple Machine Learning Research",
+      "summary": "Large-scale empirical study of multilingual reasoning with GRPO across base models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
+      "url": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Multi-GPU UMAP acceleration for massive-scale dimensionality reduction tasks.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-08-18T16:48:08Z"
+    },
+    {
+      "title": "Mojo🔥 is now open source",
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Mojo programming language released as open source with compiler and toolchain.",
+      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "Mon, 17 Aug 2026 05:00:00 GMT"
+      "published": "2026-08-18T21:39:20+00:00"
+    },
+    {
+      "title": "Customize Amazon Quick embedded chat into your application",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Quick embedded chat customization for web applications with SDK styling.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Tue, 18 Aug 2026 17:13:13 +0000"
+    },
+    {
+      "title": "Improve contract search accuracy with auto-generated filters in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Auto-generated filters improve legal contract search accuracy in Bedrock knowledge bases.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "Tue, 18 Aug 2026 17:02:52 +0000"
+    },
+    {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face - Blog",
+      "summary": "Research on memory requirements and optimization for AI agents.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Tue, 18 Aug 2026 18:09:38 GMT"
+    },
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "Hugging Face - Blog",
+      "summary": "Multi-vector embedding models improve semantic search with late interaction.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "AI's recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Analysis questions timeline for AI recursive self-improvement capabilities.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "title": "We still don't know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Limited transparency in AI company data about actual user behavior patterns.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Tue, 18 Aug 2026 10:06:43 +0000"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News",
+      "summary": "OpenAI partners with CodeAI to build AI literacy and critical thinking skills.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+      "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Video Codec SDK 13.1 enables zero-copy transcoding and AV1 improvements.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-07-31T15:13:02Z"
+    },
+    {
+      "title": "MVICAD2: Multi-View Independent Component Analysis with Delays and Dilations",
+      "url": "https://machinelearning.apple.com/research/mvicad2-delays-dilations",
+      "source": "Apple Machine Learning Research",
+      "summary": "Advanced multi-view analysis technique for handling heterogeneous data alignment.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "A Specialized Semismooth Newton Method for Kernel-Based Optimal Transport",
+      "url": "https://machinelearning.apple.com/research/semismooth-newton-optimal-transport",
+      "source": "Apple Machine Learning Research",
+      "summary": "Efficient computational method for kernel-based optimal transport estimation.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
     }
   ]
 }
