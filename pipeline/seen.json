@@ -1,93 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://openai.com/index/ringcentral",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/alignment-multimodal-llms",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "seen_at": "2026-08-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/6/datasette/",
-    "seen_at": "2026-08-13"
-  },
-  {
     "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "seen_at": "2026-08-14"
   },
@@ -634,5 +546,97 @@
   {
     "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
     "seen_at": "2026-08-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://openai.com/index/stampli",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-200-a-month-goose-does-the-same-thing-for-free",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "seen_at": "2026-08-21"
   }
 ]
