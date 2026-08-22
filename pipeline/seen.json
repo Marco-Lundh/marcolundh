@@ -1,97 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/unlearning-low-influence-points",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/",
-    "seen_at": "2026-08-14"
-  },
-  {
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "seen_at": "2026-08-14"
-  },
-  {
     "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
     "seen_at": "2026-08-15"
   },
@@ -638,5 +546,105 @@
   {
     "url": "https://openai.com/index/introducing-ai-futures",
     "seen_at": "2026-08-21"
+  },
+  {
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://openai.com/index/ringcentral",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+    "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+    "seen_at": "2026-08-22"
   }
 ]

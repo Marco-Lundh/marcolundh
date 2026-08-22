@@ -1,212 +1,230 @@
 {
-  "generated_at": "2026-08-21T05:00:55.608853+00:00",
+  "generated_at": "2026-08-22T05:12:25.050756+00:00",
   "articles": [
     {
-      "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Nemotron 3.5 Lightning optimizes specialized task execution for long-running AI agents efficiently.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "2026-08-11T13:01:07Z"
-    },
-    {
-      "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-      "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NeMo Switchyard routes AI agent workloads across multiple models based on strengths and costs.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-08-11T13:00:00Z"
-    },
-    {
-      "title": "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
-      "url": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "JetPack 7.2.1 introduces agentic video skills for robotics and industrial automation applications.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "2026-08-11T19:00:00Z"
-    },
-    {
-      "title": "How Generative Recommenders Are Redefining RecSys at Scale",
-      "url": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Generative recommenders transform recommendation systems at scale for consumer internet applications.",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "summary": "OpenAI research reveals enterprise adoption patterns of agentic AI systems.",
       "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "2026-08-20T16:00:00Z"
+      "reading_time_minutes": 5,
+      "published": "Wed, 12 Aug 2026 06:00:00 GMT"
     },
     {
-      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock enables cross-Region inference for OpenAI GPT-5.6 models across 25+ AWS Regions.",
+      "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+      "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA AVO achieves frontier performance on AGI benchmark for autonomous agents.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-08-21T13:00:00Z"
+    },
+    {
+      "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
+      "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Alibaba's largest open-weight model achieves near-frontier capabilities deployment.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 5,
+      "published": "2026-08-12T18:23:13Z"
+    },
+    {
+      "title": "Where Security Fits in an AI Agent Stack",
+      "url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Security architecture and integration patterns for autonomous AI agent systems.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-08-21T13:00:00Z"
+    },
+    {
+      "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+      "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Infrastructure optimization for power-constrained AI production systems.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-08-21T15:00:00Z"
+    },
+    {
+      "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories",
+      "url": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Monitoring and observability framework for AI infrastructure layers.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
-      "published": "2026-08-20T21:46:03Z"
+      "published": "2026-08-12T16:13:47Z"
     },
     {
-      "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+      "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
       "source": "Artificial Intelligence",
-      "summary": "Enterprise patterns enable scaling agentic AI across frameworks, models, and providers flexibly.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "2026-08-20T16:24:12Z"
-    },
-    {
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Multi-agent framework automates enterprise cloud migrations, reducing IaC development from weeks to minutes.",
+      "summary": "AI agents automate full data pipeline lifecycle from weeks to hours.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "2026-08-20T16:11:18Z"
+      "published": "Fri, 21 Aug 2026 17:06:17 +0000"
     },
     {
-      "title": "AWS vector solutions: Build agentic AI where your data lives",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
+      "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
       "source": "Artificial Intelligence",
-      "summary": "AWS integrates vector search directly into databases and storage services for agentic AI applications.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-08-20T16:06:06Z"
-    },
-    {
-      "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Policy Authoring converts natural-language policy documents into enforceable Dogwood policies for agents.",
+      "summary": "Governance framework for auditable AI agent access to enterprise tools.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-08-20T16:31:28Z"
+      "reading_time_minutes": 6,
+      "published": "Fri, 21 Aug 2026 17:02:35 +0000"
     },
     {
-      "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
+      "title": "Reduce RAG costs on Amazon Bedrock with query-aware compression",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/",
       "source": "Artificial Intelligence",
-      "summary": "Context-aware security monitoring detects anomalous access patterns and generates compliance reports.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "2026-08-20T15:20:03Z"
-    },
-    {
-      "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
-      "source": "Artificial Intelligence",
-      "summary": "No-code ML workflow series demonstrates building fraud detection models without writing code.",
+      "summary": "Query-aware compression reduces input tokens and RAG inference costs.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "2026-08-20T21:23:38Z"
+      "published": "Fri, 21 Aug 2026 16:59:15 +0000"
     },
     {
-      "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
-      "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
-      "source": "Apple Machine Learning Research",
-      "summary": "Lexical interventions improve cross-lingual knowledge transfer for low-resource language models.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "2026-08-20T00:00:00Z"
-    },
-    {
-      "title": "Scaling Laws for Mixture Pretraining Under Data Constraints",
-      "url": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
-      "source": "Apple Machine Learning Research",
-      "summary": "Research reveals optimal data mixture ratios for pretraining models with limited target data.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "2026-08-20T00:00:00Z"
-    },
-    {
-      "title": "Progressive Refinement: An Iterative Pseudo-Labeling Approach for Mandarin-English Code-Switching ASR",
-      "url": "https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling",
-      "source": "Apple Machine Learning Research",
-      "summary": "Iterative pseudo-labeling improves code-switching speech recognition by leveraging unlabeled data.",
-      "category": "Research & Papers",
+      "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Agentic AI reduces aircraft diagnostics time from hours to minutes.",
+      "category": "AI in Industry",
       "reading_time_minutes": 5,
-      "published": "2026-08-20T00:00:00Z"
+      "published": "Fri, 21 Aug 2026 16:57:01 +0000"
     },
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face - Blog",
-      "summary": "LFM2.5-DSpark achieves up to 3.2x faster inference speeds for language model deployment.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "2026-08-20T16:52:57Z"
+      "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/",
+      "source": "Artificial Intelligence",
+      "summary": "No-code ML workflow enables fraud detection model building without code.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "Thu, 20 Aug 2026 21:23:29 +0000"
     },
     {
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "Hugging Face - Blog",
-      "summary": "IBM research reduces token usage for advanced reasoning tasks in large language models.",
+      "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/",
+      "source": "Artificial Intelligence",
+      "summary": "Generative BI creates interactive dashboards and summaries from predictions.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Thu, 20 Aug 2026 21:23:23 +0000"
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "source": "OpenAI News",
+      "summary": "RingCentral integrates ChatGPT and Codex across engineering and operations.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Wed, 12 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Data infrastructure foundations critical for AI agent ROI at scale.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Wed, 12 Aug 2026 16:51:57 +0000"
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Academic AI researchers adapt to changing dynamics in frontier model era.",
       "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "2026-08-11T13:37:10Z"
+      "reading_time_minutes": 6,
+      "published": "Mon, 10 Aug 2026 20:00:00 +0000"
     },
     {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google's Gemini reaches one billion users faster than any previous Google product.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "2026-08-11T19:48:12Z"
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Ads expands to 31 European markets with privacy protections and user controls.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "2026-08-18T22:00:00Z"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI News",
-      "summary": "Stampli compressed weeks of launch production into days using ChatGPT Work and Codex.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "2026-08-20T00:00:00Z"
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI consciousness rhetoric masks real governance and regulation concerns.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Thu, 20 Aug 2026 15:42:39 +0000"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-200-a-month-goose-does-the-same-thing-for-free",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "source": "AI | VentureBeat",
-      "summary": "Goose offers free alternative to Claude Code's costly AI-powered terminal-based coding agent.",
-      "category": "Funding & Business",
+      "summary": "Open-source alternatives challenge expensive autonomous coding agent pricing.",
+      "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "2026-01-19T14:00:00Z"
+      "published": "Mon, 19 Jan 2026 14:00:00 GMT"
     },
     {
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "AI | VentureBeat",
-      "summary": "Salesforce's rebuilt Slackbot transforms into fully powered AI agent for enterprise data access.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "2026-01-13T13:00:00Z"
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "Hugging Face - Blog",
+      "summary": "GPU utilization optimization critical for AI infrastructure efficiency.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Thu, 30 Jul 2026 15:09:09 GMT"
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "OpenAI tests ads in ChatGPT with clear labeling, privacy protections, and user control.",
+      "title": "Stop Making TUIs",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "source": "Simon Willison's Weblog",
+      "summary": "AI coding agents reduce native GUI development costs significantly.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "2026-08-21T16:07:32+00:00"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "Hugging Face - Blog",
+      "summary": "Speech recognition model optimization and benchmark performance evaluation.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Fri, 21 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "GPU-Accelerated Clustering for Financial Instruments at Scale",
+      "url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "GPU-accelerated matrix factorization enables financial instrument clustering.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-08-21T16:21:04Z"
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face - Blog",
+      "summary": "OlmoEarth provides customizable embeddings for satellite imagery analysis.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 12 Aug 2026 16:14:36 GMT"
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI-driven market models optimize complex pricing and revenue decisions.",
       "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "2026-08-11T10:00:00Z"
+      "reading_time_minutes": 5,
+      "published": "Thu, 20 Aug 2026 09:47:22 +0000"
     },
     {
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches AI Futures blog exploring AI's impact on power, governance, and freedom.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 2,
-      "published": "2026-08-20T07:00:00Z"
+      "title": "Quoting Jeremy Morrell",
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+      "source": "Simon Willison's Weblog",
+      "summary": "LLMs enable extensible software through lowered authoring costs.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-08-19T22:56:31+00:00"
+    },
+    {
+      "title": "Conceptual integrity and counting lines of code",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "source": "Simon Willison's Weblog",
+      "summary": "AI changes software development metrics and architectural design principles.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "2026-08-19T22:46:07+00:00"
     }
   ]
 }
