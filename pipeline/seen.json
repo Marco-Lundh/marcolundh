@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/taming-outlier-tokens",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
-    "seen_at": "2026-08-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/",
-    "seen_at": "2026-08-15"
-  },
-  {
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "seen_at": "2026-08-16"
   },
@@ -646,5 +570,81 @@
   {
     "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
     "seen_at": "2026-08-22"
+  },
+  {
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/unlearning-low-influence-points",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/grabette",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/22/llm/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+    "seen_at": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+    "seen_at": "2026-08-23"
   }
 ]
