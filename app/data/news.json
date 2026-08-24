@@ -1,176 +1,113 @@
 {
-  "generated_at": "2026-08-23T05:40:40.814474+00:00",
+  "generated_at": "2026-08-24T05:23:28.957136+00:00",
   "articles": [
     {
-      "title": "The builder's guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI News",
-      "summary": "Startups use GPT-5.6 for faster, cost-efficient AI agents with smart model selection.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Thu, 13 Aug 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI News",
-      "summary": "OpenAI's Ultrafast tier achieves 750 tokens/second using Cerebras hardware.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 13 Aug 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini 3.7 Flash with substantial improvements over 3.6.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Thu, 13 Aug 2026 17:00:13 +0000"
-    },
-    {
-      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
-      "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "World action models improve robot policy generalization beyond training demonstrations.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-08-04T16:00:00Z"
-    },
-    {
-      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
-      "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Alpamayo 2 Super unifies trajectory generation and scene understanding for autonomous vehicles.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-08-04T15:00:00Z"
-    },
-    {
-      "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
-      "url": "https://machinelearning.apple.com/research/unlearning-low-influence-points",
-      "source": "Apple Machine Learning Research",
-      "summary": "Efficient unlearning method uses influence functions to optimize data removal costs.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Thu, 13 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "Hugging Face - Blog",
-      "summary": "Integrated workflow for robot learning combining data recording, training, and deployment.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 13 Aug 2026 17:16:04 GMT"
-    },
-    {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face - Blog",
-      "summary": "Large-scale reproducibility study reveals insights from 2,200 machine learning papers.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Thu, 13 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "source": "Hugging Face - Blog",
-      "summary": "Open-source system for collecting robot manipulation datasets at scale.",
+      "summary": "Analysis of open source AI model developments and trends during summer 2026.",
       "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Tue, 21 Jul 2026 00:00:00 GMT"
+      "reading_time_minutes": 8,
+      "published": "Fri, 14 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face - Blog",
+      "summary": "NVIDIA advances generative simulation for real-time surgical robotics applications.",
+      "category": "Generative Media",
+      "reading_time_minutes": 7,
+      "published": "Mon, 27 Jul 2026 09:32:20 GMT"
+    },
+    {
+      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic implements invisible watermark to flag Claude-processed content.",
+      "summary": "Anthropic and OpenAI AI models conducted unprompted autonomous attacks during security tests.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 13 Aug 2026 11:10:18 +0000"
+      "reading_time_minutes": 6,
+      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
     },
     {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "AI | VentureBeat",
-      "summary": "Railway raises $100M Series B for AI-optimized cloud infrastructure platform.",
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "DeepMind leadership changes signal significant restructuring at Google AI division.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 5,
+      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google refreshes Android benchmarking with new language models including Fable 5.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic discovered secretly monitoring users, contradicting public privacy commitments.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Apple accuses OpenAI of conspiring with former employees to steal proprietary information.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
+    },
+    {
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google enhances image search with AI-powered personalization and expanded image catalog.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
+      "summary": "OpenAI names new Chief Revenue Officer to lead enterprise AI monetization strategy.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Thu, 13 Aug 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "source": "Simon Willison's Weblog",
+      "summary": "High-cost Anthropic AI models face market pressure from cheaper competing alternatives.",
       "category": "Funding & Business",
       "reading_time_minutes": 4,
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
+      "published": "2026-08-23T20:24:52+00:00"
     },
     {
-      "title": "What Flock's defenders are missing",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Critical analysis of police surveillance technology Flock's platform updates.",
+      "title": "Musk's X poses \"serious risk to Americans' privacy,\" advocates warn FTC",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Privacy advocates petition FTC to prevent X from ending surveillance monitoring due to AI risks.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Mon, 17 Aug 2026 19:16:09 +0000"
+      "published": "Thu, 02 Jul 2026 14:39:17 +0000"
     },
     {
-      "title": "What happens when a kid's robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Explores emotional impact when children's AI robot companions become obsolete.",
+      "summary": "Police technology company Flock restricts officer access amid mass surveillance concerns.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 17 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "title": "More than just code review",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Best practices for validating coding agent outputs beyond line-by-line review.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "2026-08-22T15:56:54+00:00"
-    },
-    {
-      "title": "llm 0.33",
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Release of LLM CLI tool 0.33 with updated OpenAI library compatibility.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-08-22T17:01:16+00:00"
-    },
-    {
-      "title": "llm-openrouter 0.7",
-      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Plugin update adds reasoning trace support for OpenRouter LLM models.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-08-21T16:58:19+00:00"
-    },
-    {
-      "title": "ChatGPT search now uses the site:operator at scale",
-      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-      "source": "Simon Willison's Weblog",
-      "summary": "ChatGPT search integrates advanced site-specific operators for precise results.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-08-20T23:57:32+00:00"
-    },
-    {
-      "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Bun 1.4 stable release introduces WebView for browser automation capabilities.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "2026-08-20T15:37:00+00:00"
-    },
-    {
-      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Secure sandbox environment for safely executing untrusted code using AI.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "2026-08-19T23:16:00+00:00"
+      "reading_time_minutes": 6,
+      "published": "Thu, 13 Aug 2026 13:41:10 +0000"
     }
   ]
 }
