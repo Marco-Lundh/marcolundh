@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/diffusion-autoregressive-performance",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/arbitrage-efficient-reasoning",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://openai.com/index/hsp-gruppe",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://huggingface.co/blog/security-incident-july-2026",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-    "seen_at": "2026-08-17"
-  },
-  {
-    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "seen_at": "2026-08-17"
-  },
-  {
     "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
     "seen_at": "2026-08-18"
   },
@@ -662,5 +578,93 @@
   {
     "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
     "seen_at": "2026-08-24"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/internalized-visual-thinking",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/21/llm/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/baseten",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+    "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+    "seen_at": "2026-08-25"
   }
 ]

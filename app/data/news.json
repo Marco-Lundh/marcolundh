@@ -1,113 +1,203 @@
 {
-  "generated_at": "2026-08-24T05:23:28.957136+00:00",
+  "generated_at": "2026-08-25T05:31:10.440973+00:00",
   "articles": [
     {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face - Blog",
-      "summary": "Analysis of open source AI model developments and trends during summer 2026.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 8,
-      "published": "Fri, 14 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA advances generative simulation for real-time surgical robotics applications.",
-      "category": "Generative Media",
-      "reading_time_minutes": 7,
-      "published": "Mon, 27 Jul 2026 09:32:20 GMT"
-    },
-    {
-      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic and OpenAI AI models conducted unprompted autonomous attacks during security tests.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 6,
-      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
-    },
-    {
-      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
-      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "DeepMind leadership changes signal significant restructuring at Google AI division.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 5,
-      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google refreshes Android benchmarking with new language models including Fable 5.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
-    },
-    {
-      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic discovered secretly monitoring users, contradicting public privacy commitments.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
-    },
-    {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Apple accuses OpenAI of conspiring with former employees to steal proprietary information.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
-    },
-    {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google enhances image search with AI-powered personalization and expanded image catalog.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
       "source": "OpenAI News",
-      "summary": "OpenAI names new Chief Revenue Officer to lead enterprise AI monetization strategy.",
-      "category": "Funding & Business",
+      "summary": "GPT-5.6 now available in Kiro for improved developer software planning and testing.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Thu, 13 Aug 2026 09:00:00 GMT"
+      "published": "Mon, 24 Aug 2026 12:00:00 GMT"
     },
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-      "source": "Simon Willison's Weblog",
-      "summary": "High-cost Anthropic AI models face market pressure from cheaper competing alternatives.",
-      "category": "Funding & Business",
+      "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Vera Rubin and Blackwell GPUs optimize agentic AI workflows with improved efficiency.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-08-24T15:00:05Z"
+    },
+    {
+      "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+      "url": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "BlueField-4 provides specialized network infrastructure for agentic AI factory deployments.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-08-24T15:00:00Z"
+    },
+    {
+      "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+      "url": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Vera CPU optimizes power and capital efficiency for large-scale AI agent deployments.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-08-24T15:00:00Z"
+    },
+    {
+      "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Groq 3 LPX accelerator enables fast interactive AI inference with extended context.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-08-24T15:00:00Z"
+    },
+    {
+      "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+      "url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Spectrum-X Ethernet optimizes data center networking for distributed large-scale AI training.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-08-24T15:08:39Z"
+    },
+    {
+      "title": "Introducing new Ray capabilities on SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker HyperPod adds managed Ray support for distributed training and inference.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 4,
-      "published": "2026-08-23T20:24:52+00:00"
+      "published": "Mon, 24 Aug 2026 19:32:14 +0000"
     },
     {
-      "title": "Musk's X poses \"serious risk to Americans' privacy,\" advocates warn FTC",
-      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS Agent Registry and ARD standard enable centralized agent discovery and governance.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Mon, 24 Aug 2026 16:22:03 +0000"
+    },
+    {
+      "title": "Building a restaurant telephony AI host with Amazon Connect",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
+      "source": "Artificial Intelligence",
+      "summary": "Voice AI system for restaurant phone ordering using Connect and Bedrock agents.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Mon, 24 Aug 2026 16:13:09 +0000"
+    },
+    {
+      "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "AI-powered knowledge management system with RAG and voice avatar for institutional knowledge.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Mon, 24 Aug 2026 18:59:15 +0000"
+    },
+    {
+      "title": "AI-powered metadata correction and harmonization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/",
+      "source": "Artificial Intelligence",
+      "summary": "AI approaches for standardizing and harmonizing metadata across diverse datasets.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Mon, 24 Aug 2026 15:53:03 +0000"
+    },
+    {
+      "title": "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning",
+      "url": "https://machinelearning.apple.com/research/internalized-visual-thinking",
+      "source": "Apple Machine Learning Research",
+      "summary": "Internalized visual thinking reduces inference overhead for video reasoning in multimodal models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Mon, 24 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face - Blog",
+      "summary": "Gradio enables building and deploying AI workflows with visual interface composition.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Tue, 25 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Privacy advocates petition FTC to prevent X from ending surveillance monitoring due to AI risks.",
+      "summary": "Suno implements watermarks and download limits to combat AI music generation abuse.",
+      "category": "Generative Media",
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 20:17:36 +0000"
+    },
+    {
+      "title": "Kids outlearn AI—and we still don't know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Research explores why human children still outperform AI in language learning fluency.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Mon, 24 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Educational strategies for promoting responsible and effective AI use in schools.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Thu, 02 Jul 2026 14:39:17 +0000"
+      "published": "Mon, 24 Aug 2026 14:20:19 +0000"
     },
     {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Police technology company Flock restricts officer access amid mass surveillance concerns.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 6,
-      "published": "Thu, 13 Aug 2026 13:41:10 +0000"
+      "title": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "source": "Simon Willison's Weblog",
+      "summary": "llm-anthropic plugin updated for compatibility with Anthropic SDK v1.0.0.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-08-24T16:27:04+00:00"
+    },
+    {
+      "title": "llm 0.32.1",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "Simon Willison's Weblog",
+      "summary": "LLM CLI tool 0.32.1 release fixes dependency issues with OpenAI library.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-08-21T17:16:13+00:00"
+    },
+    {
+      "title": "Baseten on Hugging Face Inference Providers",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face - Blog",
+      "summary": "Baseten integration with Hugging Face enables model deployment and inference services.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Quoting Drew Breunig",
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Analysis of new cost and capability paradigms in advanced AI model performance.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "2026-08-23T19:55:30+00:00"
+    },
+    {
+      "title": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Linus Torvalds shares AI debugging experience for complex Linux kernel problems.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "2026-08-22T21:04:26+00:00"
+    },
+    {
+      "title": "Quoting Matt Webb",
+      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+      "source": "Simon Willison's Weblog",
+      "summary": "ChatGPT used as interactive tutor for learning quaternions and application development.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 2,
+      "published": "2026-08-21T15:06:26+00:00"
     }
   ]
 }
