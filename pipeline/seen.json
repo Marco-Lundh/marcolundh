@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://openai.com/index/the-defenders-window",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "seen_at": "2026-08-18"
-  },
-  {
-    "url": "https://openai.com/index/openai-joins-ports-pike-project",
-    "seen_at": "2026-08-18"
-  },
-  {
     "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
     "seen_at": "2026-08-19"
   },
@@ -666,5 +598,65 @@
   {
     "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
     "seen_at": "2026-08-25"
+  },
+  {
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://huggingface.co/blog/pwc-search",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+    "seen_at": "2026-08-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-to-win-over-ai-haters/",
+    "seen_at": "2026-08-26"
   }
 ]
