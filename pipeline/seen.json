@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://openai.com/index/replit",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/human-like-behaviors-llms",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://huggingface.co/blog/LiquidAI/qad",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://huggingface.co/blog/muse-glimmer",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://huggingface.co/blog/nunchaku-diffusers",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "seen_at": "2026-08-20"
-  },
-  {
-    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "seen_at": "2026-08-20"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
     "seen_at": "2026-08-21"
   },
@@ -658,5 +558,97 @@
   {
     "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
     "seen_at": "2026-08-27"
+  },
+  {
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/rubric-based-alignment",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://openai.com/index/learning-never-stops",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://openai.com/index/introducing-intelligence-age",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "seen_at": "2026-08-28"
   }
 ]
