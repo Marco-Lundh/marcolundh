@@ -1,97 +1,5 @@
 [
   {
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://openai.com/index/stampli",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-200-a-month-goose-does-the-same-thing-for-free",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "seen_at": "2026-08-21"
-  },
-  {
-    "url": "https://openai.com/index/introducing-ai-futures",
-    "seen_at": "2026-08-21"
-  },
-  {
     "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "seen_at": "2026-08-22"
   },
@@ -650,5 +558,85 @@
   {
     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
     "seen_at": "2026-08-28"
+  },
+  {
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://openai.com/index/replit",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/muse-glimmer",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "seen_at": "2026-08-29"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "seen_at": "2026-08-29"
   }
 ]

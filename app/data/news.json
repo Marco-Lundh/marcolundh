@@ -1,212 +1,185 @@
 {
-  "generated_at": "2026-08-28T05:09:13.209756+00:00",
+  "generated_at": "2026-08-29T05:35:43.247108+00:00",
   "articles": [
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI News",
-      "summary": "OpenAI strengthens monitoring and alignment safeguards for frontier AI models.",
+      "summary": "OpenAI introduces Zero Data Retention and Private Safety Processing for API customers.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Tue, 18 Aug 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI News",
-      "summary": "Randomized study examines ChatGPT's impact on student performance and critical thinking.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Thu, 27 Aug 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches initiative supporting government institutions with AI oversight tools and training.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Tue, 18 Aug 2026 19:00:00 GMT"
-    },
-    {
-      "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock now supports OpenAI GPT models with in-country inference for India.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 27 Aug 2026 18:36:08 +0000"
-    },
-    {
-      "title": "Build agentic creative workflows with Amazon Quick and fal",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
-      "source": "Artificial Intelligence",
-      "summary": "Build reusable AI agents for creative workflows using Amazon Quick and fal.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Thu, 27 Aug 2026 23:04:22 +0000"
-    },
-    {
-      "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
-      "source": "Artificial Intelligence",
-      "summary": "NVIDIA MPS reduces ASR inference costs by 75% on Amazon EC2 instances.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 27 Aug 2026 16:05:10 +0000"
-    },
-    {
-      "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
-      "source": "Artificial Intelligence",
-      "summary": "Deepgram adds enhanced observability metrics to Amazon SageMaker for self-hosted speech AI.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Thu, 27 Aug 2026 16:11:27 +0000"
-    },
-    {
-      "title": "How GoDaddy transformed its analytics with Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "GoDaddy saves 15,000 hours annually by migrating to Amazon Quick analytics platform.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Wed, 26 Aug 2026 16:51:53 +0000"
-    },
-    {
-      "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers",
-      "url": "https://machinelearning.apple.com/research/rubric-based-alignment",
-      "source": "Apple Machine Learning Research",
-      "summary": "Apple research introduces rubric-based reward framework for improving question answering quality.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Thu, 27 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face - Blog",
-      "summary": "Research examines memory requirements and optimization for AI agents.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 18 Aug 2026 18:09:38 GMT"
-    },
-    {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face - Blog",
-      "summary": "Guide to implementing multi-vector embedding models with Sentence Transformers framework.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "source": "AI | VentureBeat",
-      "summary": "Agent complexity emerges as critical risk factor in enterprise AI deployments.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 27 Aug 2026 14:01:00 GMT"
-    },
-    {
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "source": "AI | VentureBeat",
-      "summary": "Data layer governance becomes essential for autonomous agent authorization and control.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Thu, 27 Aug 2026 12:01:00 GMT"
-    },
-    {
-      "title": "We still don't know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Independent researchers question AI companies' self-reported usage data transparency.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Tue, 18 Aug 2026 10:06:43 +0000"
-    },
-    {
-      "title": "Bill Gates says we've passed AI's danger thresholds. Now what?",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Bill Gates discusses implications of AI systems crossing identified danger thresholds.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 6,
-      "published": "Wed, 26 Aug 2026 07:01:00 +0000"
-    },
-    {
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Study reveals AI models struggle with specific intelligence and puzzle challenges.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Wed, 26 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "summary": "OpenAI report explores continuous learning through ChatGPT in educational settings.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Wed, 26 Aug 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI News",
-      "summary": "OpenAI and CodeAI partnership builds AI literacy and critical thinking in students.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 18 Aug 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Security researchers demonstrate vulnerabilities in Claude Code's auto mode safeguards.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-08-27T22:50:25+00:00"
-    },
-    {
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-intelligence-age",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches blog exploring transformative AI's impact on governance and economy.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
-      "url": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA ALCHEMI toolkit enables AI agents to perform complex materials science simulations.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-08-18T18:00:00Z"
-    },
-    {
-      "title": "Expanding OpenAI's presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "source": "OpenAI News",
-      "summary": "OpenAI expands regional operations to support AI adoption across Brazil.",
-      "category": "AI in Industry",
       "reading_time_minutes": 3,
-      "published": "Thu, 27 Aug 2026 03:00:00 GMT"
+      "published": "Wed, 19 Aug 2026 19:00:00 GMT"
     },
     {
-      "title": "Google just redesigned the search box for the first time in 25 years — here's why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "AI | VentureBeat",
-      "summary": "Google redesigns search interface with AI-powered capabilities at its core.",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI News",
+      "summary": "Replit launches Free Mode powered by GPT-5.6 Luna for accessible software creation.",
       "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+      "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA TensorRT Model Connect streamlines open model deployment with simplified commands.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Tue, 19 May 2026 17:45:00 GMT"
+      "published": "2026-08-28T17:06:28Z"
+    },
+    {
+      "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+      "url": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Holoscan platform enables AI coding agents for edge application development.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-08-19T22:22:37Z"
+    },
+    {
+      "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
+      "url": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA FLARE enables privacy-preserving federated learning for multimodal vision-language models.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-08-19T17:50:47Z"
+    },
+    {
+      "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
+      "url": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA SkillEvaluator tool measures AI agent performance and context effectiveness.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-08-19T16:00:00Z"
+    },
+    {
+      "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+      "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Cosmos 3 Edge world models enable adaptable on-device robot policy control.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-08-19T16:00:00Z"
+    },
+    {
+      "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+      "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker Feature Store adds BatchWriteRecord and ListRecords APIs for improved scalability.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Fri, 28 Aug 2026 19:31:05 +0000"
+    },
+    {
+      "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
+      "source": "Artificial Intelligence",
+      "summary": "Decathlon improves forecast accuracy with Chronos-2 on AWS, cutting operational complexity.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Fri, 28 Aug 2026 16:22:30 +0000"
+    },
+    {
+      "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+      "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+      "source": "Artificial Intelligence",
+      "summary": "Salesforce leverages SageMaker Inference Components for distributed multi-model deployment.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Fri, 28 Aug 2026 16:20:40 +0000"
+    },
+    {
+      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs' Probabilistic Beliefs",
+      "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+      "source": "Apple Machine Learning Research",
+      "summary": "Research reveals LLMs show inconsistencies in probabilistic belief updates and uncertainty representation.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding",
+      "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+      "source": "Apple Machine Learning Research",
+      "summary": "Agent Seer automatically synthesizes test scenarios from tool specifications for agent evaluation.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face - Blog",
+      "summary": "Open ASR Leaderboard expands with first Global South language, improving AI inclusivity.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face - Blog",
+      "summary": "NVIDIA Magpie TTS enables low-latency multilingual voice agents with open weights.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 5,
+      "published": "Mon, 10 Aug 2026 16:25:36 GMT"
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "Hugging Face - Blog",
+      "summary": "Efficient knowledge distillation techniques make model compression scalable and cost-effective.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 10 Aug 2026 10:05:36 GMT"
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face - Blog",
+      "summary": "Meta releases Muse Glimmer, an open-source multimodal agentic AI model.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Mon, 10 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Supporting Thailand's next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI News",
+      "summary": "OpenAI and MHESI launch eight-week accelerator for ten AI startups in Thailand.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Fri, 28 Aug 2026 02:00:00 GMT"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI News",
+      "summary": "OpenAI winds down contract providing models to Cursor following SpaceX acquisition.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 2,
+      "published": "Fri, 28 Aug 2026 06:00:00 GMT"
+    },
+    {
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "New York implements data center moratorium, potentially setting precedent for AI regulation.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
+    },
+    {
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google's unprecedented negative cash flow reflects massive infrastructure investment in AI.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Thu, 23 Jul 2026 16:04:19 +0000"
     }
   ]
 }
