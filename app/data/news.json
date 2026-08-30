@@ -1,185 +1,122 @@
 {
-  "generated_at": "2026-08-29T05:35:43.247108+00:00",
+  "generated_at": "2026-08-30T05:37:00.788812+00:00",
   "articles": [
     {
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "title": "Introducing Intelligence Age",
+      "url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI News",
-      "summary": "OpenAI introduces Zero Data Retention and Private Safety Processing for API customers.",
+      "summary": "OpenAI explores how transformative AI could reshape power, governance, economy, and freedom.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Wed, 19 Aug 2026 19:00:00 GMT"
+      "reading_time_minutes": 5,
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
       "source": "OpenAI News",
-      "summary": "Replit launches Free Mode powered by GPT-5.6 Luna for accessible software creation.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
-      "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA TensorRT Model Connect streamlines open model deployment with simplified commands.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-08-28T17:06:28Z"
-    },
-    {
-      "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-      "url": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Holoscan platform enables AI coding agents for edge application development.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-08-19T22:22:37Z"
-    },
-    {
-      "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
-      "url": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA FLARE enables privacy-preserving federated learning for multimodal vision-language models.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-08-19T17:50:47Z"
-    },
-    {
-      "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
-      "url": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA SkillEvaluator tool measures AI agent performance and context effectiveness.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-08-19T16:00:00Z"
-    },
-    {
-      "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
-      "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Cosmos 3 Edge world models enable adaptable on-device robot policy control.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-08-19T16:00:00Z"
-    },
-    {
-      "title": "Batch write and discover records in Amazon SageMaker Feature Store",
-      "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker Feature Store adds BatchWriteRecord and ListRecords APIs for improved scalability.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Fri, 28 Aug 2026 19:31:05 +0000"
-    },
-    {
-      "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
-      "source": "Artificial Intelligence",
-      "summary": "Decathlon improves forecast accuracy with Chronos-2 on AWS, cutting operational complexity.",
+      "summary": "Stampli compressed weeks of launch production into days using ChatGPT Work.",
       "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Fri, 28 Aug 2026 16:22:30 +0000"
-    },
-    {
-      "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
-      "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
-      "source": "Artificial Intelligence",
-      "summary": "Salesforce leverages SageMaker Inference Components for distributed multi-model deployment.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Fri, 28 Aug 2026 16:20:40 +0000"
-    },
-    {
-      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs' Probabilistic Beliefs",
-      "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
-      "source": "Apple Machine Learning Research",
-      "summary": "Research reveals LLMs show inconsistencies in probabilistic belief updates and uncertainty representation.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding",
-      "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
-      "source": "Apple Machine Learning Research",
-      "summary": "Agent Seer automatically synthesizes test scenarios from tool specifications for agent evaluation.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "source": "Hugging Face - Blog",
-      "summary": "Open ASR Leaderboard expands with first Global South language, improving AI inclusivity.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA Magpie TTS enables low-latency multilingual voice agents with open weights.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "Mon, 10 Aug 2026 16:25:36 GMT"
-    },
-    {
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "source": "Hugging Face - Blog",
-      "summary": "Efficient knowledge distillation techniques make model compression scalable and cost-effective.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Mon, 10 Aug 2026 10:05:36 GMT"
-    },
-    {
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "Hugging Face - Blog",
-      "summary": "Meta releases Muse Glimmer, an open-source multimodal agentic AI model.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Mon, 10 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Supporting Thailand's next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI News",
-      "summary": "OpenAI and MHESI launch eight-week accelerator for ten AI startups in Thailand.",
-      "category": "Funding & Business",
       "reading_time_minutes": 3,
-      "published": "Fri, 28 Aug 2026 02:00:00 GMT"
+      "published": "Thu, 20 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "source": "OpenAI News",
-      "summary": "OpenAI winds down contract providing models to Cursor following SpaceX acquisition.",
-      "category": "Funding & Business",
+      "summary": "ChatGPT Ads expands to 31 European markets for advertisers and consumers.",
+      "category": "AI in Industry",
       "reading_time_minutes": 2,
-      "published": "Fri, 28 Aug 2026 06:00:00 GMT"
+      "published": "Tue, 18 Aug 2026 22:00:00 GMT"
     },
     {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "title": "How Generative Recommenders Are Redefining RecSys at Scale",
+      "url": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Generative recommenders transform recommendation systems at scale using advanced ML.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "2026-08-20T16:00:00Z"
+    },
+    {
+      "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
+      "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
+      "source": "Apple Machine Learning Research",
+      "summary": "Novel method for cross-lingual knowledge transfer in low-resource language models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Thu, 20 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Scaling Laws for Mixture Pretraining Under Data Constraints",
+      "url": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
+      "source": "Apple Machine Learning Research",
+      "summary": "Optimizes language model pretraining with limited target data through mixture strategies.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Thu, 20 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face - Blog",
+      "summary": "LFM2.5-DSpark achieves significant inference speedup improvements for language models.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Thu, 20 Aug 2026 16:52:57 GMT"
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face - Blog",
+      "summary": "IBM Research reduces token requirements for advanced AI computation efficiency.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Tue, 11 Aug 2026 13:37:10 GMT"
+    },
+    {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "New York implements data center moratorium, potentially setting precedent for AI regulation.",
+      "summary": "Google's Gemini reaches one billion users faster than any previous product.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 11 Aug 2026 19:48:12 +0000"
+    },
+    {
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "OpenAI negotiates US government stake as part of regulatory agreement discussions.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
+      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
     },
     {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google's unprecedented negative cash flow reflects massive infrastructure investment in AI.",
-      "category": "Funding & Business",
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Tencent releases Hy4, a 770B parameter open-weight language model with million-token context.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Thu, 23 Jul 2026 16:04:19 +0000"
+      "published": "2026-08-29T23:53:13+00:00"
+    },
+    {
+      "title": "EVE Online: The Move to Python 3 Begins!",
+      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+      "source": "Simon Willison's Weblog",
+      "summary": "EVE Online begins major migration from Stackless Python 2.7 to Python 3.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 3,
+      "published": "2026-08-25T22:59:30+00:00"
+    },
+    {
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "AI | VentureBeat",
+      "summary": "VentureBeat expands enterprise AI research with dedicated Lead Analyst role.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Wed, 19 Aug 2026 14:18:12 GMT"
     }
   ]
 }
