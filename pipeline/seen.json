@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/unlearning-low-influence-points",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://huggingface.co/blog/grabette",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/22/llm/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-    "seen_at": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-    "seen_at": "2026-08-23"
-  },
-  {
     "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "seen_at": "2026-08-24"
   },
@@ -590,5 +514,41 @@
   {
     "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
     "seen_at": "2026-08-30"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+    "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+    "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
+    "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
+    "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "seen_at": "2026-08-31"
   }
 ]

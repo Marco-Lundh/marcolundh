@@ -1,122 +1,86 @@
 {
-  "generated_at": "2026-08-30T05:37:00.788812+00:00",
+  "generated_at": "2026-08-31T05:05:26.114536+00:00",
   "articles": [
     {
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News",
-      "summary": "OpenAI explores how transformative AI could reshape power, governance, economy, and freedom.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI News",
-      "summary": "Stampli compressed weeks of launch production into days using ChatGPT Work.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 20 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Ads expands to 31 European markets for advertisers and consumers.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 2,
-      "published": "Tue, 18 Aug 2026 22:00:00 GMT"
-    },
-    {
-      "title": "How Generative Recommenders Are Redefining RecSys at Scale",
-      "url": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
+      "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+      "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Generative recommenders transform recommendation systems at scale using advanced ML.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-08-20T16:00:00Z"
+      "summary": "NVIDIA AVO achieves perfect score on ARC-AGI-3 benchmark for long-horizon autonomous agents.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-08-21T13:00:00Z"
     },
     {
-      "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
-      "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
-      "source": "Apple Machine Learning Research",
-      "summary": "Novel method for cross-lingual knowledge transfer in low-resource language models.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Thu, 20 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Scaling Laws for Mixture Pretraining Under Data Constraints",
-      "url": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
-      "source": "Apple Machine Learning Research",
-      "summary": "Optimizes language model pretraining with limited target data through mixture strategies.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "Thu, 20 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face - Blog",
-      "summary": "LFM2.5-DSpark achieves significant inference speedup improvements for language models.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 20 Aug 2026 16:52:57 GMT"
-    },
-    {
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "Hugging Face - Blog",
-      "summary": "IBM Research reduces token requirements for advanced AI computation efficiency.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Tue, 11 Aug 2026 13:37:10 GMT"
-    },
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google's Gemini reaches one billion users faster than any previous product.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 11 Aug 2026 19:48:12 +0000"
-    },
-    {
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders' target",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "OpenAI negotiates US government stake as part of regulatory agreement discussions.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 02 Jul 2026 15:12:25 +0000"
-    },
-    {
-      "title": "Introducing Hy4 Preview",
-      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Tencent releases Hy4, a 770B parameter open-weight language model with million-token context.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-08-29T23:53:13+00:00"
-    },
-    {
-      "title": "EVE Online: The Move to Python 3 Begins!",
-      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
-      "source": "Simon Willison's Weblog",
-      "summary": "EVE Online begins major migration from Stackless Python 2.7 to Python 3.",
+      "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+      "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA DSX MaxLPS optimizes AI factory performance efficiency per watt in power-constrained systems.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "2026-08-25T22:59:30+00:00"
+      "reading_time_minutes": 4,
+      "published": "2026-08-24T15:00:00Z"
     },
     {
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "title": "Where Security Fits in an AI Agent Stack",
+      "url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Framework for integrating security into AI agent systems and long-horizon autonomous applications.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-08-21T13:00:00Z"
+    },
+    {
+      "title": "GPU-Accelerated Clustering for Financial Instruments at Scale",
+      "url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AdaptGrow GPU algorithm enables scalable matrix factorization for financial correlation analysis.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-08-21T16:21:04Z"
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "source": "Simon Willison's Weblog",
+      "summary": "In-depth analysis of OpenAI's ChatGPT Work product capabilities and dual architecture.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "2026-08-30T23:59:47Z"
+    },
+    {
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "source": "AI | VentureBeat",
-      "summary": "VentureBeat expands enterprise AI research with dedicated Lead Analyst role.",
-      "category": "AI in Industry",
+      "summary": "Competitive analysis of AI coding agents comparing Anthropic Claude Code with open-source Goose.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-01-19T14:00:00Z"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "Hugging Face - Blog",
+      "summary": "Methods for measuring and optimizing automatic speech recognition model performance benchmarks.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "2026-08-21T00:00:00Z"
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face - Blog",
+      "summary": "OlmoEarth Studio enables custom embedding exports for specialized downstream analysis tasks.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 3,
-      "published": "Wed, 19 Aug 2026 14:18:12 GMT"
+      "published": "2026-08-12T16:14:36Z"
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI-powered market models optimize pricing and revenue across complex airline routing scenarios.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "2026-08-20T09:47:22Z"
     }
   ]
 }
