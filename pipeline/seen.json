@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-    "seen_at": "2026-08-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "seen_at": "2026-08-24"
-  },
-  {
     "url": "https://openai.com/index/gpt-5-6-in-kiro",
     "seen_at": "2026-08-25"
   },
@@ -550,5 +502,93 @@
   {
     "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
     "seen_at": "2026-08-31"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://openai.com/index/polimill",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/22/llm/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+    "seen_at": "2026-09-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "seen_at": "2026-09-01"
   }
 ]
