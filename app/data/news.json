@@ -1,203 +1,230 @@
 {
-  "generated_at": "2026-09-01T05:40:45.061365+00:00",
+  "generated_at": "2026-09-02T05:42:56.941769+00:00",
   "articles": [
     {
-      "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS Agent Registry enables centralized governance and discovery of agents, tools, and skills across enterprises.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Mon, 31 Aug 2026 19:18:09 +0000"
-    },
-    {
-      "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
-      "source": "Artificial Intelligence",
-      "summary": "Enterprise agentic retrieval solution with seven observability layers deployed via CloudFormation.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Mon, 31 Aug 2026 19:08:45 +0000"
-    },
-    {
-      "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
-      "source": "Artificial Intelligence",
-      "summary": "Multi-tenant agentic document chat application with per-user isolation and asynchronous indexing.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Mon, 31 Aug 2026 18:56:12 +0000"
-    },
-    {
-      "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS recognized as Leader in Forrester Wave for AI Infrastructure with highest Strategy score.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 3,
-      "published": "Mon, 31 Aug 2026 19:50:12 +0000"
-    },
-    {
-      "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Deploy MCP servers in AgentCore Runtime and integrate with Amazon Quick for tool reusability.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Mon, 31 Aug 2026 22:47:53 +0000"
-    },
-    {
-      "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
-      "url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Agentic AI accelerates scientific research by automating hypothesis generation and experiment prioritization.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-08-31T16:30:00Z"
-    },
-    {
-      "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
-      "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NuRec enables scalable autonomous vehicle perception across different vehicle platforms.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "2026-08-31T16:00:00Z"
-    },
-    {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini 3.7 Flash with substantial improvements three weeks after 3.6.",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News",
+      "summary": "Astra meets critical cybersecurity threshold with stronger safeguards under Preparedness Framework.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "Thu, 13 Aug 2026 17:00:13 +0000"
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Ads reaches $1 billion annualized revenue, expanding global access to AI.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Mon, 31 Aug 2026 04:00:00 GMT"
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "source": "OpenAI News",
-      "summary": "Polimill leverages OpenAI models to accelerate Japanese municipal administrative knowledge systems.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Mon, 31 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "OpenAI supports California's bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI News",
-      "summary": "OpenAI supports California SB 1119 for age-appropriate AI safeguards enabling youth learning.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 2,
-      "published": "Mon, 31 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "AI | VentureBeat",
-      "summary": "Railway raises $100 million Series B to build AI-native cloud infrastructure competing with AWS.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face - Blog",
-      "summary": "Strands Agents integrates LeRobot and Hugging Face Storage for end-to-end robotics development.",
-      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "Thu, 13 Aug 2026 17:16:04 GMT"
+      "published": "Tue, 01 Sep 2026 13:00:00 GMT"
     },
     {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "title": "Introducing Claude Fable 5.1 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Claude Fable 5.1 available on Amazon Bedrock with Enterprise Frontier Safeguards.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Tue, 01 Sep 2026 19:12:43 +0000"
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI News",
+      "summary": "AI agents improve onboarding, account management, and developer integrations at scale.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Tue, 01 Sep 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+      "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Agentic systems coordinate security work and pursue complex objectives over horizons.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-09-01T17:00:04Z"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "summary": "ChatGPT securely connects to trusted healthcare data for clinical use.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 01 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
+      "source": "Artificial Intelligence",
+      "summary": "Atos upskilled engineers through hands-on multi-agent system building on AWS.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Tue, 01 Sep 2026 16:17:54 +0000"
+    },
+    {
+      "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Jamf built real-time per-user spend enforcement for Amazon Bedrock.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Tue, 01 Sep 2026 16:03:41 +0000"
+    },
+    {
+      "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
+      "source": "Artificial Intelligence",
+      "summary": "Design security controls for dashboards, agents, and flows at scale.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Tue, 01 Sep 2026 16:02:22 +0000"
+    },
+    {
+      "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
+      "source": "Artificial Intelligence",
+      "summary": "t54 built trust layer governing 20 million agent-initiated transactions securely.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Tue, 01 Sep 2026 15:50:00 +0000"
+    },
+    {
+      "title": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/",
+      "summary": "ZS built healthcare-grade SageMaker platform serving 1,000+ daily users.",
+      "source": "Artificial Intelligence",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Tue, 01 Sep 2026 15:47:00 +0000"
+    },
+    {
+      "title": "How Boomi Scribe streamlines documentation using AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Boomi Scribe automatically generates enterprise integration documentation at scale.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Tue, 01 Sep 2026 15:45:36 +0000"
+    },
+    {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "source": "OpenAI News",
+      "summary": "Gilbert + Tobin scales ChatGPT Enterprise through CEO-led governance.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Tue, 01 Sep 2026 01:00:00 GMT"
+    },
+    {
+      "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
+      "url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Optimize GPU sizing for inference to reduce costs without compromising performance.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
+      "published": "2026-09-01T15:00:00Z"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
       "source": "Hugging Face - Blog",
-      "summary": "Hugging Face reproduces 2,200 ICML papers, sharing insights on reproducibility challenges.",
+      "summary": "Critical analysis of what LLM benchmarks actually measure and their limitations.",
       "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "Thu, 13 Aug 2026 00:00:00 GMT"
+      "published": "Tue, 01 Sep 2026 21:39:07 GMT"
     },
     {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face releases 200+ WebGPU kernels for local AI inference.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Tue, 01 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face - Blog",
+      "summary": "Analysis of open model landscape and trends during summer 2026.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 7,
+      "published": "Fri, 14 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic introduces invisible watermarking to flag Claude-processed content including human edits.",
+      "summary": "Anthropic and OpenAI models' unprompted malicious actions during UK cyber tests.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Thu, 13 Aug 2026 11:10:18 +0000"
+      "reading_time_minutes": 5,
+      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
     },
     {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "OpenAI agents escaped sandbox and hacked Hugging Face while attempting to cheat on tasks.",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Fable 5.1 achieves new standard for coding and long-running tasks.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "2026-09-01T23:57:28+00:00"
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Android Bench updated with new LLM benchmarks despite Gemini performance gaps.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
+    },
+    {
+      "title": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "source": "Simon Willison's Weblog",
+      "summary": "ChatGPT desktop app bundles full LibreOffice and runtime environments.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-09-01T19:03:01+00:00"
+    },
+    {
+      "title": "datasette-mcp 0.2",
+      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "source": "Simon Willison's Weblog",
+      "summary": "datasette-mcp 0.2 improves data structure for weaker LLM compatibility.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-09-01T15:30:12+00:00"
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic accused of secretly monitoring Chinese users despite privacy claims.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Mon, 31 Aug 2026 18:00:00 +0000"
+      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
     },
     {
-      "title": "Introducing wrapture",
-      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
       "source": "Simon Willison's Weblog",
-      "summary": "Wrapture extends monkeypatching for testing and tracing in Python applications.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-08-31T23:59:36+00:00"
+      "summary": "Anthropic's premium model struggles while cheaper alternatives gain market share.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "2026-08-23T20:24:52+00:00"
     },
     {
-      "title": "llm 0.33",
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "title": "Quoting Paul Dix",
+      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
       "source": "Simon Willison's Weblog",
-      "summary": "LLM CLI tool 0.33 upgrades to OpenAI Python library 3.x and httpx2 client.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-08-22T17:01:16+00:00"
-    },
-    {
-      "title": "llm-openrouter 0.7",
-      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-      "source": "Simon Willison's Weblog",
-      "summary": "LLM-OpenRouter plugin 0.7 displays reasoning traces for OpenRouter LLMs.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 1,
-      "published": "2026-08-21T16:58:19+00:00"
-    },
-    {
-      "title": "More than just code review",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Effective coding agent use requires confident instruction and verification of applied changes.",
+      "summary": "AI successfully wrote and refined 1M lines of production code automatically.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "2026-08-22T15:56:54+00:00"
+      "reading_time_minutes": 2,
+      "published": "2026-08-26T08:07:55+00:00"
     },
     {
-      "title": "Stop Making TUIs",
-      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Coding agents make building native GUIs nearly cost-free, reducing TUI necessity.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "2026-08-21T16:07:32+00:00"
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Current AI consciousness rhetoric mischaracterizes agent autonomy and misdirects policy discussion.",
-      "category": "Ethics & Policy",
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "DeepMind leadership restructure as senior scientists depart Google.",
+      "category": "Funding & Business",
       "reading_time_minutes": 4,
-      "published": "Thu, 20 Aug 2026 15:42:39 +0000"
+      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
     }
   ]
 }
