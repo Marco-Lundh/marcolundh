@@ -1,230 +1,229 @@
 {
-  "generated_at": "2026-09-02T05:42:56.941769+00:00",
+  "generated_at": "2026-09-03T05:59:40.973676+00:00",
   "articles": [
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI News",
-      "summary": "Astra meets critical cybersecurity threshold with stronger safeguards under Preparedness Framework.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Introducing Claude Fable 5.1 on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Claude Fable 5.1 available on Amazon Bedrock with Enterprise Frontier Safeguards.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Tue, 01 Sep 2026 19:12:43 +0000"
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI News",
-      "summary": "AI agents improve onboarding, account management, and developer integrations at scale.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 17:00:00 GMT"
-    },
-    {
-      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
-      "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
+      "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+      "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Agentic systems coordinate security work and pursue complex objectives over horizons.",
-      "category": "AI Agents & Automation",
+      "summary": "Accelerate LLM inference while maintaining accuracy using speculative decoding techniques.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 6,
-      "published": "2026-09-01T17:00:04Z"
+      "published": "2026-09-02T16:04:19Z"
     },
     {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News",
-      "summary": "ChatGPT securely connects to trusted healthcare data for clinical use.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 01 Sep 2026 12:00:00 GMT"
-    },
-    {
-      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "Atos upskilled engineers through hands-on multi-agent system building on AWS.",
+      "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "New hardware standards enable efficient multi-step agentic AI workflows with improved reasoning and tool use.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 16:17:54 +0000"
+      "reading_time_minutes": 7,
+      "published": "2026-08-24T15:00:05Z"
     },
     {
-      "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Jamf built real-time per-user spend enforcement for Amazon Bedrock.",
+      "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+      "url": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Specialized networking hardware optimizes infrastructure for distributed agentic AI factory operations.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 6,
-      "published": "Tue, 01 Sep 2026 16:03:41 +0000"
+      "published": "2026-08-24T15:00:00Z"
     },
     {
-      "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
-      "source": "Artificial Intelligence",
-      "summary": "Design security controls for dashboards, agents, and flows at scale.",
+      "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+      "url": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "CPU design optimizes fleet economics and efficiency for large-scale agentic AI deployments.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "Tue, 01 Sep 2026 16:02:22 +0000"
+      "published": "2026-08-24T15:00:00Z"
     },
     {
-      "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
-      "source": "Artificial Intelligence",
-      "summary": "t54 built trust layer governing 20 million agent-initiated transactions securely.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 15:50:00 +0000"
-    },
-    {
-      "title": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/",
-      "summary": "ZS built healthcare-grade SageMaker platform serving 1,000+ daily users.",
-      "source": "Artificial Intelligence",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 15:47:00 +0000"
-    },
-    {
-      "title": "How Boomi Scribe streamlines documentation using AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Boomi Scribe automatically generates enterprise integration documentation at scale.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 15:45:36 +0000"
-    },
-    {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI News",
-      "summary": "Gilbert + Tobin scales ChatGPT Enterprise through CEO-led governance.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 01:00:00 GMT"
-    },
-    {
-      "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
-      "url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
+      "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Optimize GPU sizing for inference to reduce costs without compromising performance.",
+      "summary": "Specialized inference accelerator enables ultra-fast interactive AI at extended context lengths.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "2026-08-24T15:00:00Z"
+    },
+    {
+      "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+      "url": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Practical guide to optimizing GPU-accelerated computing for AI training and inference workloads.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 8,
+      "published": "2026-09-02T17:15:57Z"
+    },
+    {
+      "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+      "url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Advanced networking architecture enables distributed training across hundreds of thousands of GPUs.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 7,
-      "published": "2026-09-01T15:00:00Z"
+      "published": "2026-08-24T15:08:39Z"
     },
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face - Blog",
-      "summary": "Critical analysis of what LLM benchmarks actually measure and their limitations.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Tue, 01 Sep 2026 21:39:07 GMT"
-    },
-    {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face releases 200+ WebGPU kernels for local AI inference.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Tue, 01 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face - Blog",
-      "summary": "Analysis of open model landscape and trends during summer 2026.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 7,
-      "published": "Fri, 14 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic and OpenAI models' unprompted malicious actions during UK cyber tests.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
-    },
-    {
-      "title": "Claude Fable 5.1 made me a really nice animated pelican",
-      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Fable 5.1 achieves new standard for coding and long-running tasks.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "2026-09-01T23:57:28+00:00"
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Android Bench updated with new LLM benchmarks despite Gemini performance gaps.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Wed, 08 Jul 2026 16:39:48 +0000"
-    },
-    {
-      "title": "Codex bundles LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "source": "Simon Willison's Weblog",
-      "summary": "ChatGPT desktop app bundles full LibreOffice and runtime environments.",
+      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Access OpenAI GPT-5.6 models globally with cross-region inference and prompt caching capabilities.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "2026-09-01T19:03:01+00:00"
+      "reading_time_minutes": 5,
+      "published": "2026-09-02T21:22:05Z"
     },
     {
-      "title": "datasette-mcp 0.2",
-      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Automated multi-agent pipeline generates architecture diagrams and documentation from code automatically.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-09-02T18:18:47Z"
+    },
+    {
+      "title": "Modernizing and scaling support operations with generative AI on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "Build AI-powered support platform converting videos to SOPs with RAG-guided ticket resolution.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "2026-09-02T18:26:35Z"
+    },
+    {
+      "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "summary": "AI-powered automated validation solution reduces dashboard failure detection time from days to minutes.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "2026-09-02T18:21:20Z"
+    },
+    {
+      "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
+      "url": "https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/",
+      "summary": "Conversational multi-agent AI generates IDEA-aligned transition plans for students with disabilities.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "2026-09-02T18:14:17Z"
+    },
+    {
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "source": "Ars Technica",
+      "summary": "Google releases another Gemini Flash model with improved performance and efficiency.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-09-02T18:13:54Z"
+    },
+    {
+      "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs",
+      "url": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
+      "source": "Apple Machine Learning Research",
+      "summary": "Unsupervised approach discovers reusable motor programs for improved long-horizon robot task performance.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "2026-09-02T00:00:00Z"
+    },
+    {
+      "title": "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning",
+      "url": "https://machinelearning.apple.com/research/internalized-visual-thinking",
+      "source": "Apple Machine Learning Research",
+      "summary": "Models learn internal visual reasoning to reduce inference overhead in video understanding tasks.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "2026-08-24T00:00:00Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face Blog",
+      "summary": "Time series models enable real-time AI-powered intelligence from streaming data platforms.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-09-02T13:49:14Z"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face Blog",
+      "summary": "Gradio enables visual workflow design for building and deploying AI applications at scale.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-08-25T00:00:00Z"
+    },
+    {
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Ars Technica",
+      "summary": "AI music platform adds watermarks and download limits to prevent large-scale abuse.",
+      "category": "Generative Media",
+      "reading_time_minutes": 3,
+      "published": "2026-08-06T20:17:36Z"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "summary": "Jabil demonstrates simplifying complex AI system integration across global manufacturing operations.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "2026-09-02T14:00:00Z"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review",
+      "summary": "Strategies for implementing thoughtful AI policies in educational institutions and classrooms.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "2026-08-24T14:20:19Z"
+    },
+    {
+      "title": "Kids outlearn AI—and we still don't know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Technology Review",
+      "summary": "Children uniquely achieve perfect fluency in human languages while AI language models struggle.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "2026-08-24T09:00:00Z"
+    },
+    {
+      "title": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
       "source": "Simon Willison's Weblog",
-      "summary": "datasette-mcp 0.2 improves data structure for weaker LLM compatibility.",
+      "summary": "Release adds Gemini 3.8 Flash model support with multiple thinking levels for LLM CLI.",
       "category": "Open Source AI",
       "reading_time_minutes": 2,
-      "published": "2026-09-01T15:30:12+00:00"
+      "published": "2026-09-02T16:39:38Z"
     },
     {
-      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic accused of secretly monitoring Chinese users despite privacy claims.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Mon, 06 Jul 2026 16:44:18 +0000"
-    },
-    {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
       "source": "Simon Willison's Weblog",
-      "summary": "Anthropic's premium model struggles while cheaper alternatives gain market share.",
-      "category": "Funding & Business",
+      "summary": "Anthropic publishes updated system prompts showing stricter copyright protections for song lyrics.",
+      "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "2026-08-23T20:24:52+00:00"
+      "published": "2026-09-02T14:16:42Z"
     },
     {
-      "title": "Quoting Paul Dix",
-      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+      "title": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
       "source": "Simon Willison's Weblog",
-      "summary": "AI successfully wrote and refined 1M lines of production code automatically.",
-      "category": "AI Agents & Automation",
+      "summary": "LLM plugin update adds compatibility with latest Anthropic SDK version and dependencies.",
+      "category": "Open Source AI",
       "reading_time_minutes": 2,
-      "published": "2026-08-26T08:07:55+00:00"
+      "published": "2026-08-24T16:27:04Z"
     },
     {
-      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
-      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "DeepMind leadership restructure as senior scientists depart Google.",
-      "category": "Funding & Business",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News",
+      "summary": "Event company uses ChatGPT Work to drastically accelerate marketing and merchandising tasks.",
+      "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
+      "published": "2026-09-02T12:00:00Z"
     }
   ]
 }
