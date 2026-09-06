@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://openai.com/index/replit",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://huggingface.co/blog/muse-glimmer",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "seen_at": "2026-08-29"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "seen_at": "2026-08-29"
-  },
-  {
     "url": "https://openai.com/index/introducing-ai-futures",
     "seen_at": "2026-08-30"
   },
@@ -650,5 +570,85 @@
   {
     "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
     "seen_at": "2026-09-05"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/rubric-based-alignment",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://openai.com/index/learning-never-stops",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+    "seen_at": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+    "seen_at": "2026-09-06"
   }
 ]

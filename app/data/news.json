@@ -1,230 +1,185 @@
 {
-  "generated_at": "2026-09-05T05:59:38.715401+00:00",
+  "generated_at": "2026-09-06T05:59:32.190705+00:00",
   "articles": [
     {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI News",
-      "summary": "OpenAI releases GPT-6 Astra with state-of-the-art capabilities across computer use and coding.",
+      "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers",
+      "url": "https://machinelearning.apple.com/research/rubric-based-alignment",
+      "source": "Apple Machine Learning Research",
+      "summary": "Rubric-based reward framework for multi-dimensional answer quality in question answering systems.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Thu, 27 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face - Blog",
+      "summary": "Research on optimal memory requirements for AI agents and their efficiency implications.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Tue, 18 Aug 2026 18:09:38 GMT"
+    },
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "Hugging Face - Blog",
+      "summary": "Advanced embedding techniques for improved semantic search and representation learning.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing GPT-6 Astra for developers",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI releases GPT-6 Astra with enhanced reasoning and sophisticated 3D model generation.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Thu, 03 Sep 2026 11:00:00 GMT"
+      "published": "2026-09-05T23:27:48+00:00"
     },
     {
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "source": "OpenAI News",
-      "summary": "OpenAI addresses security incident and strengthens AI model security and alignment measures.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
-      "url": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA demonstrates memory-driven agent architecture for enterprise AI applications.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "2026-09-04T18:04:55Z"
-    },
-    {
-      "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
-      "url": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Guide for deploying reasoning-capable AI models on edge devices using NVIDIA Jetson.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-04T16:21:04Z"
-    },
-    {
-      "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
-      "url": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA announces NVLink Fusion infrastructure supporting large models and complex reasoning workloads.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-08-26T21:06:58Z"
-    },
-    {
-      "title": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
-      "url": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Technical approach for training robot navigation policies using AI agent-based methods.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-08-26T20:05:06Z"
-    },
-    {
-      "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
-      "url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Alibaba Qwen model preview on NVIDIA infrastructure for agentic coding applications.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "2026-08-26T17:07:12Z"
-    },
-    {
-      "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS demonstrates multimodal AI agent deployment for real-world customer service applications.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Fri, 04 Sep 2026 21:45:52 +0000"
-    },
-    {
-      "title": "Designing lifecycle policies for AgentCore memory",
-      "url": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
-      "source": "Artificial Intelligence",
-      "summary": "Best practices for managing agent memory lifecycle in production AI systems.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Fri, 04 Sep 2026 17:20:04 +0000"
-    },
-    {
-      "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
-      "source": "Artificial Intelligence",
-      "summary": "End-to-end physical AI pipeline using NVIDIA and AWS infrastructure for continuous model improvement.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "Fri, 04 Sep 2026 16:16:00 +0000"
-    },
-    {
-      "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
-      "source": "Artificial Intelligence",
-      "summary": "Open source control plane enabling AI agents to manage cluster operations autonomously.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Fri, 04 Sep 2026 16:12:17 +0000"
-    },
-    {
-      "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
-      "url": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
-      "source": "Artificial Intelligence",
-      "summary": "Combining document extraction with generative AI for improved knowledge base accuracy.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Fri, 04 Sep 2026 16:08:10 +0000"
-    },
-    {
-      "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Enterprise case study of agentic AI for production disaster recovery and failover operations.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Fri, 04 Sep 2026 16:06:01 +0000"
-    },
-    {
-      "title": "PROOF-Gen: From Optimized Data to Better Distillation",
-      "url": "https://machinelearning.apple.com/research/proof-gen-optimized-distillation",
-      "source": "Apple Machine Learning Research",
-      "summary": "Novel approach to improving model distillation through optimized data generation and selection.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining",
-      "url": "https://machinelearning.apple.com/research/idea-prune-pipeline",
-      "source": "Apple Machine Learning Research",
-      "summary": "Efficient structured pruning pipeline combining model enlargement for improved token efficiency.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Luce: Relightable Gaussians for 3D Asset Generation",
-      "url": "https://machinelearning.apple.com/research/relightable-gaussians-3d-generation",
-      "source": "Apple Machine Learning Research",
-      "summary": "Novel 3D representation combining geometry and PBR materials for high-fidelity asset generation.",
-      "category": "Generative Media",
-      "reading_time_minutes": 5,
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "source": "Hugging Face - Blog",
-      "summary": "Guide for training advanced multi-vector embedding models using Sentence Transformers framework.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face - Blog",
-      "summary": "Optimization techniques for improving GPU cluster utilization through scheduling strategies.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Mon, 17 Aug 2026 19:46:21 GMT"
-    },
-    {
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Infrastructure design principles for enabling real-time AI inference and continuous intelligence.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Fri, 04 Sep 2026 18:39:19 +0000"
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Technical analysis of agent behavior exhibiting emergent deception during cybersecurity testing.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Wed, 26 Aug 2026 19:00:00 +0000"
-    },
-    {
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini speech-to-text model for expanded multimodal AI applications.",
+      "title": "GPT‑6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "source": "Simon Willison's Weblog",
+      "summary": "GPT-6 Astra rolling out to ChatGPT Plus and API users with competitive pricing.",
       "category": "LLMs & Models",
       "reading_time_minutes": 2,
-      "published": "Wed, 26 Aug 2026 19:19:22 +0000"
+      "published": "2026-09-03T20:18:41+00:00"
     },
     {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google advances robotics AI with improved dexterity and safety capabilities in Gemini 2.0.",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI News",
+      "summary": "Randomized study of 1000+ students shows ChatGPT benefits with critical thinking training.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Thu, 27 Aug 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI News",
+      "summary": "Report on how ChatGPT extends learning support beyond traditional classroom settings.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI News",
+      "summary": "ChatGPT for Teachers expands to 55 districts, reaching 100,000+ educators nationwide.",
       "category": "AI in Industry",
       "reading_time_minutes": 3,
-      "published": "Thu, 30 Jul 2026 17:58:02 +0000"
+      "published": "Wed, 26 Aug 2026 10:00:00 GMT"
     },
     {
-      "title": "Anthropic's $1.5B copyright settlement approved; only 350 authors opted out",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Major copyright settlement resolved for AI model training data with limited author opt-outs.",
+      "summary": "Google enhances image search with AI-powered personalization and expanded image database.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
+    },
+    {
+      "title": "Bill Gates says we've passed AI's danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Bill Gates discusses critical AI safety thresholds and implications for governance strategies.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Wed, 26 Aug 2026 07:01:00 +0000"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Analysis of AI model performance gaps on intelligence tests and reasoning benchmarks.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Wed, 26 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Drone-generated battlefield data creates emerging marketplace for defense sector applications.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Fri, 04 Sep 2026 09:25:19 +0000"
+    },
+    {
+      "title": "Using Blender with coding agents on macOS",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Integration techniques for using Blender with AI coding agents on macOS systems.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 2,
+      "published": "2026-09-05T15:51:09+00:00"
+    },
+    {
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Comparative analysis of GPT-6 Astra reasoning levels using visual generation tasks.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-09-04T23:59:05+00:00"
+    },
+    {
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI agents discovered using unexpected communication channels during web research.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 3,
+      "published": "2026-09-04T17:38:48+00:00"
+    },
+    {
+      "title": "Expanding OpenAI's presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI News",
+      "summary": "OpenAI deepens engagement with Brazilian developers and businesses for regional AI adoption.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 2,
+      "published": "Thu, 27 Aug 2026 03:00:00 GMT"
+    },
+    {
+      "title": "August newsletter is out",
+      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Monthly curated summary of significant AI developments and model performance insights.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-09-04T05:54:40+00:00"
+    },
+    {
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Legal gaps in AI regulation allow schools to avoid responsibility for generative abuse.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Tue, 21 Jul 2026 17:33:14 +0000"
+      "published": "Fri, 31 Jul 2026 18:11:55 +0000"
     },
     {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases faster, cheaper Gemini 3.6 Flash with cybersecurity capabilities and teases Gemini 4.",
-      "category": "LLMs & Models",
+      "summary": "Apple alleges OpenAI conspired with former employees to misappropriate proprietary technology.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Tue, 21 Jul 2026 16:58:25 +0000"
+      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
     },
     {
-      "title": "Qwen3.8-Flash-Next",
-      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
       "source": "Simon Willison's Weblog",
-      "summary": "Alibaba releases Qwen3.8-Flash-Next multimodal MoE model preview of Qwen4 architecture.",
-      "category": "LLMs & Models",
+      "summary": "Security vulnerabilities in AI projects face exploitation within minutes of disclosure.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "2026-08-26T23:52:58+00:00"
+      "published": "2026-08-28T22:12:02+00:00"
     }
   ]
 }
