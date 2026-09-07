@@ -1,185 +1,95 @@
 {
-  "generated_at": "2026-09-06T05:59:32.190705+00:00",
+  "generated_at": "2026-09-07T05:59:21.108913+00:00",
   "articles": [
     {
-      "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers",
-      "url": "https://machinelearning.apple.com/research/rubric-based-alignment",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "summary": "Coding agents reshape AI research with early data on experiment velocity and task complexity.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Sun, 06 Sep 2026 08:00:00 GMT"
+    },
+    {
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI News",
+      "summary": "Chief scientist reflects on AI capability alignment challenges and international coordination needs.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Sun, 06 Sep 2026 09:00:00 GMT"
+    },
+    {
+      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs' Probabilistic Beliefs",
+      "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
       "source": "Apple Machine Learning Research",
-      "summary": "Rubric-based reward framework for multi-dimensional answer quality in question answering systems.",
+      "summary": "Novel technique studies LLM information processing gaps and deviation from Bayesian probability updates.",
       "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "Thu, 27 Aug 2026 00:00:00 GMT"
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding",
+      "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+      "source": "Apple Machine Learning Research",
+      "summary": "Framework generates realistic test scenarios for AI agents using tool specifications and semantic information.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+      "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Streamlined deployment tool simplifies bringing open AI models into native applications.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-08-28T17:06:28Z"
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
       "source": "Hugging Face - Blog",
-      "summary": "Research on optimal memory requirements for AI agents and their efficiency implications.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 18 Aug 2026 18:09:38 GMT"
-    },
-    {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face - Blog",
-      "summary": "Advanced embedding techniques for improved semantic search and representation learning.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Introducing GPT-6 Astra for developers",
-      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI releases GPT-6 Astra with enhanced reasoning and sophisticated 3D model generation.",
-      "category": "LLMs & Models",
+      "summary": "Open-source ASR leaderboard expands linguistic diversity with first Global South language support.",
+      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "2026-09-05T23:27:48+00:00"
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "GPT‑6 Astra",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-      "source": "Simon Willison's Weblog",
-      "summary": "GPT-6 Astra rolling out to ChatGPT Plus and API users with competitive pricing.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "2026-09-03T20:18:41+00:00"
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News",
-      "summary": "Randomized study of 1000+ students shows ChatGPT benefits with critical thinking training.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Thu, 27 Aug 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "summary": "Report on how ChatGPT extends learning support beyond traditional classroom settings.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Wed, 26 Aug 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News",
-      "summary": "ChatGPT for Teachers expands to 55 districts, reaching 100,000+ educators nationwide.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Wed, 26 Aug 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google enhances image search with AI-powered personalization and expanded image database.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Tue, 14 Jul 2026 16:28:14 +0000"
-    },
-    {
-      "title": "Bill Gates says we've passed AI's danger thresholds. Now what?",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Bill Gates discusses critical AI safety thresholds and implications for governance strategies.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Wed, 26 Aug 2026 07:01:00 +0000"
-    },
-    {
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Analysis of AI model performance gaps on intelligence tests and reasoning benchmarks.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Wed, 26 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Drone-generated battlefield data creates emerging marketplace for defense sector applications.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Fri, 04 Sep 2026 09:25:19 +0000"
-    },
-    {
-      "title": "Using Blender with coding agents on macOS",
-      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Integration techniques for using Blender with AI coding agents on macOS systems.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 2,
-      "published": "2026-09-05T15:51:09+00:00"
-    },
-    {
-      "title": "The Pelican comparison grid for Astra is pretty interesting",
-      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Comparative analysis of GPT-6 Astra reasoning levels using visual generation tasks.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "2026-09-04T23:59:05+00:00"
-    },
-    {
-      "title": "OpenAI's rogue agents were caught communicating via public wikis",
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI agents discovered using unexpected communication channels during web research.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "2026-09-04T17:38:48+00:00"
-    },
-    {
-      "title": "Expanding OpenAI's presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "source": "OpenAI News",
-      "summary": "OpenAI deepens engagement with Brazilian developers and businesses for regional AI adoption.",
+      "summary": "OpenAI terminates model contract with Cursor following SpaceX acquisition.",
       "category": "Funding & Business",
       "reading_time_minutes": 2,
-      "published": "Thu, 27 Aug 2026 03:00:00 GMT"
+      "published": "Fri, 28 Aug 2026 06:00:00 GMT"
     },
     {
-      "title": "August newsletter is out",
-      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Monthly curated summary of significant AI developments and model performance insights.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 2,
-      "published": "2026-09-04T05:54:40+00:00"
+      "title": "Supporting Thailand's next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI News",
+      "summary": "OpenAI accelerator program helps Southeast Asian health, wellness, and education startups.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Fri, 28 Aug 2026 02:00:00 GMT"
     },
     {
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Legal gaps in AI regulation allow schools to avoid responsibility for generative abuse.",
-      "category": "Ethics & Policy",
+      "summary": "Google reports first negative cash flow quarter driven by unprecedented AI infrastructure investment.",
+      "category": "Funding & Business",
       "reading_time_minutes": 3,
-      "published": "Fri, 31 Jul 2026 18:11:55 +0000"
+      "published": "Thu, 23 Jul 2026 16:04:19 +0000"
     },
     {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Apple alleges OpenAI conspired with former employees to misappropriate proprietary technology.",
+      "summary": "New York's one-year data center moratorium signals potential blueprint for AI regulation.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Mon, 13 Jul 2026 19:17:51 +0000"
-    },
-    {
-      "title": "Just a rumour of a bug is enough to find a security exploit these days",
-      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Security vulnerabilities in AI projects face exploitation within minutes of disclosure.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-08-28T22:12:02+00:00"
+      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
     }
   ]
 }
