@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
-    "seen_at": "2026-08-31"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
-    "seen_at": "2026-08-31"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
-    "seen_at": "2026-08-31"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
-    "seen_at": "2026-08-31"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "seen_at": "2026-08-31"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "seen_at": "2026-08-31"
-  },
-  {
-    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "seen_at": "2026-08-31"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "seen_at": "2026-08-31"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "seen_at": "2026-08-31"
-  },
-  {
     "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
     "seen_at": "2026-09-01"
   },
@@ -638,5 +602,41 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
     "seen_at": "2026-09-07"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
+    "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+    "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+    "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/7/llm/",
+    "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/2/llm-anthropic/",
+    "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/2/llm/",
+    "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/2/llm-openrouter/",
+    "seen_at": "2026-09-08"
   }
 ]

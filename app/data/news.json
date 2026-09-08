@@ -1,95 +1,86 @@
 {
-  "generated_at": "2026-09-07T05:59:21.108913+00:00",
+  "generated_at": "2026-09-08T05:59:12.164860+00:00",
   "articles": [
     {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI News",
-      "summary": "Coding agents reshape AI research with early data on experiment velocity and task complexity.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Sun, 06 Sep 2026 08:00:00 GMT"
-    },
-    {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI News",
-      "summary": "Chief scientist reflects on AI capability alignment challenges and international coordination needs.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Sun, 06 Sep 2026 09:00:00 GMT"
-    },
-    {
-      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs' Probabilistic Beliefs",
-      "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+      "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
+      "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
       "source": "Apple Machine Learning Research",
-      "summary": "Novel technique studies LLM information processing gaps and deviation from Bayesian probability updates.",
+      "summary": "Cross-lingual knowledge transfer improves multilingual language models for low-resource languages.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 8,
+      "published": "Thu, 20 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face - Blog",
+      "summary": "LFM2.5-DSpark achieves significant inference speed improvements for model deployment.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Thu, 20 Aug 2026 16:52:57 GMT"
+    },
+    {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google's Gemini reaches one billion users faster than any previous Google product.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Tue, 11 Aug 2026 19:48:12 +0000"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI News",
+      "summary": "OpenAI launches AI program supporting Ukrainian news organizations and independent journalism.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Mon, 07 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI reveals research acceleration methodology and recursive self-improvement capabilities.",
       "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
+      "published": "2026-09-06T23:57:40+00:00"
     },
     {
-      "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding",
-      "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
-      "source": "Apple Machine Learning Research",
-      "summary": "Framework generates realistic test scenarios for AI agents using tool specifications and semantic information.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
-      "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Streamlined deployment tool simplifies bringing open AI models into native applications.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-08-28T17:06:28Z"
-    },
-    {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "source": "Hugging Face - Blog",
-      "summary": "Open-source ASR leaderboard expands linguistic diversity with first Global South language support.",
+      "title": "llm 0.35",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "source": "Simon Willison's Weblog",
+      "summary": "LLM CLI tool version 0.35 adds support for GPT-6 Astra model.",
       "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI News",
-      "summary": "OpenAI terminates model contract with Cursor following SpaceX acquisition.",
-      "category": "Funding & Business",
       "reading_time_minutes": 2,
-      "published": "Fri, 28 Aug 2026 06:00:00 GMT"
+      "published": "2026-09-07T23:54:54+00:00"
     },
     {
-      "title": "Supporting Thailand's next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI News",
-      "summary": "OpenAI accelerator program helps Southeast Asian health, wellness, and education startups.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Fri, 28 Aug 2026 02:00:00 GMT"
+      "title": "llm-anthropic 0.28",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-anthropic/",
+      "source": "Simon Willison's Weblog",
+      "summary": "LLM-Anthropic plugin adds Claude Fable 5.1 support with reasoning trace display.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-09-02T17:59:32+00:00"
     },
     {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google reports first negative cash flow quarter driven by unprecedented AI infrastructure investment.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 3,
-      "published": "Thu, 23 Jul 2026 16:04:19 +0000"
+      "title": "llm 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm/",
+      "source": "Simon Willison's Weblog",
+      "summary": "LLM CLI tool 0.34 improves logging with duration metrics and human-readable formats.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-09-02T19:23:52+00:00"
     },
     {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "New York's one-year data center moratorium signals potential blueprint for AI regulation.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "Tue, 14 Jul 2026 15:06:28 +0000"
+      "title": "llm-openrouter 0.7.1",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-openrouter/",
+      "source": "Simon Willison's Weblog",
+      "summary": "LLM-OpenRouter 0.7.1 fixes performance issues for loading models.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-09-02T20:23:26+00:00"
     }
   ]
 }
