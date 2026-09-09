@@ -1,93 +1,5 @@
 [
   {
-    "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://openai.com/index/polimill",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/22/llm/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-    "seen_at": "2026-09-01"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "seen_at": "2026-09-01"
-  },
-  {
     "url": "https://openai.com/index/path-to-astra",
     "seen_at": "2026-09-02"
   },
@@ -638,5 +550,93 @@
   {
     "url": "https://simonwillison.net/2026/Sep/2/llm-openrouter/",
     "seen_at": "2026-09-08"
+  },
+  {
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/1password",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "seen_at": "2026-09-09"
   }
 ]
