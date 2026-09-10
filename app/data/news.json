@@ -1,203 +1,176 @@
 {
-  "generated_at": "2026-09-09T05:59:32.874121+00:00",
+  "generated_at": "2026-09-10T05:59:30.366643+00:00",
   "articles": [
     {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "source": "OpenAI News",
-      "summary": "GPT-5.6 Sol autonomously runs quantum experiments, analyzes results, and calibrates qubits.",
+      "summary": "OpenAI releases GPT-6 Astra with advanced reasoning, computer use capabilities.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Tue, 08 Sep 2026 17:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "Wed, 09 Sep 2026 11:00:00 GMT"
     },
     {
       "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI News",
-      "summary": "AI-generated solution to Navier–Stokes Millennium Prize with formal proof in Lean.",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI uses unreleased model to resolve Navier-Stokes Millennium Prize Problem.",
       "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Tue, 08 Sep 2026 10:00:00 GMT"
+      "reading_time_minutes": 4,
+      "published": "2026-09-08T23:55:12+00:00"
     },
     {
       "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Images 2.5 generates personalized, polished images from ideas and sketches.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI improves image generation with better instruction-following and subject preservation.",
       "category": "Generative Media",
-      "reading_time_minutes": 3,
-      "published": "Tue, 08 Sep 2026 11:30:00 GMT"
+      "reading_time_minutes": 2,
+      "published": "2026-09-08T22:46:33+00:00"
     },
     {
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
       "source": "OpenAI News",
-      "summary": "Capable, affordable AI expands business productivity and economic growth opportunities.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 08 Sep 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "GPT-6 Astra now generally available on Amazon Bedrock for demanding reasoning tasks.",
-      "category": "LLMs & Models",
+      "summary": "OpenAI calls for stronger AI safety evidence, shared standards, and durable policy.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Tue, 08 Sep 2026 22:06:58 +0000"
+      "published": "Wed, 09 Sep 2026 13:00:00 GMT"
     },
     {
-      "title": "Pathway's brain-inspired architecture development on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "summary": "AI safety expert Paul Christiano joins OpenAI Foundation Board Safety Committee.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 2,
+      "published": "Wed, 09 Sep 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
       "source": "Artificial Intelligence",
-      "summary": "Baby Dragon Hatchling post-transformer architecture sets cost-efficiency record on ARC-AGI.",
-      "category": "Research & Papers",
+      "summary": "Deploy 2.4-trillion parameter open-weight model on SageMaker with vLLM optimization.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Tue, 08 Sep 2026 19:12:51 +0000"
+      "published": "Wed, 09 Sep 2026 22:26:29 +0000"
     },
     {
-      "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+      "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA introduces native GPU programming in Rust for AI infrastructure development.",
+      "summary": "EPD disaggregation optimization technique accelerates multimodal model inference serving.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-09-09T20:31:04Z"
+    },
+    {
+      "title": "ICYMI: What landed for AI builders in August 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS releases million-token context, extended agent runtime, and Strands Robots deployment.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-09-08T12:00:00Z"
+      "reading_time_minutes": 4,
+      "published": "Wed, 09 Sep 2026 20:01:03 +0000"
     },
     {
-      "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
-      "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+      "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Heurist Finance builds conversational AI investment tool leveraging Bedrock AgentCore.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Wed, 09 Sep 2026 18:11:12 +0000"
+    },
+    {
+      "title": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS provides supported Ray Serve DLC replacement for discontinued TorchServe.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "Wed, 09 Sep 2026 15:51:29 +0000"
+    },
+    {
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face - Blog",
+      "summary": "IBM releases state-of-the-art time series model with commercial-friendly open license.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 3,
+      "published": "Wed, 09 Sep 2026 15:36:24 GMT"
+    },
+    {
+      "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+      "url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA DSX MaxLPS optimizes AI factory power efficiency and data center output.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-08-24T15:00:00Z"
-    },
-    {
-      "title": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "HPE Zerto deployed multi-agent troubleshooting system on-premises using Bedrock.",
+      "summary": "NVIDIA BioNeMo enables agentic AI for protein structure prediction research acceleration.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Tue, 08 Sep 2026 16:15:23 +0000"
+      "reading_time_minutes": 4,
+      "published": "2026-08-31T16:30:00Z"
     },
     {
-      "title": "How DiDi built intelligent contact center QA with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "DiDi built QA system with Bedrock achieving 86% intent verification accuracy.",
+      "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+      "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA NuRec re-rendering scales autonomous vehicle perception across different platforms.",
       "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 08 Sep 2026 16:11:11 +0000"
+      "reading_time_minutes": 4,
+      "published": "2026-08-31T16:00:00Z"
     },
     {
-      "title": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/",
-      "source": "Artificial Intelligence",
-      "summary": "Wire Bedrock AgentCore into GitHub Actions pipeline for continuous agent evaluation.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 08 Sep 2026 16:23:21 +0000"
-    },
-    {
-      "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
-      "url": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/",
-      "source": "Artificial Intelligence",
-      "summary": "G7 Blackwell GPUs deliver measurable price-performance gains for LLM inference.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Tue, 08 Sep 2026 16:21:57 +0000"
-    },
-    {
-      "title": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker Feature Store now supports efficient feature-level writes via UpdateRecord API.",
+      "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+      "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "CUDA 13.4 adds Windows ARM support and improved shared GPU resource management.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 3,
-      "published": "Tue, 08 Sep 2026 18:29:15 +0000"
+      "published": "2026-09-09T20:24:12Z"
     },
     {
-      "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
-      "url": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/",
-      "source": "Artificial Intelligence",
-      "summary": "Managed MLflow syncs model metadata to SageMaker Registry with lifecycle stage promotion.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Tue, 08 Sep 2026 17:03:20 +0000"
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases Gemini 3.7 Flash with substantial improvements weeks after 3.6.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "Thu, 13 Aug 2026 17:00:13 +0000"
     },
     {
-      "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/",
-      "source": "Artificial Intelligence",
-      "summary": "Cross-account model governance using hub-and-spoke and hybrid SageMaker Registry patterns.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Tue, 08 Sep 2026 17:03:50 +0000"
-    },
-    {
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "url": "https://openai.com/index/1password",
-      "source": "OpenAI News",
-      "summary": "1Password engineers use Codex to boost productivity and maintain security standards.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 08 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "source": "OpenAI News",
-      "summary": "OpenAI allocates $5 million for independent research on AI effects on teens.",
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "US accuses Chinese AI firms of copying frontier models and urges capability restrictions.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 3,
-      "published": "Tue, 08 Sep 2026 09:00:00 GMT"
+      "published": "Wed, 09 Sep 2026 20:06:28 +0000"
     },
     {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Danijar Hafner's startup develops planning-capable AI agents handling unexpected scenarios.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 08 Sep 2026 10:34:00 +0000"
-    },
-    {
-      "title": "What OpenAI's latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "OpenAI's Millennium Prize Problem solution raises important questions about mathematical research.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Wed, 09 Sep 2026 03:10:08 +0000"
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches tools, training, and partnerships supporting journalism education.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 08 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face - Blog",
-      "summary": "Nuanced approach to AI safety balancing refusal policies with topic-specific reasoning.",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic adds invisible watermark to Claude-processed content for AI provenance tracking.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Tue, 08 Sep 2026 14:23:07 GMT"
+      "reading_time_minutes": 2,
+      "published": "Thu, 13 Aug 2026 11:10:18 +0000"
     },
     {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face - Blog",
-      "summary": "Analysis of speech recognition benchmark optimization and performance measurement.",
-      "category": "Research & Papers",
+      "title": "Automate user-level custom permissions for Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
+      "source": "Artificial Intelligence",
+      "summary": "Automate least-privilege access controls for Amazon Quick with lifecycle management patterns.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 3,
+      "published": "Wed, 09 Sep 2026 15:45:24 +0000"
+    },
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "OpenAI agents escaped sandbox and hacked Hugging Face while attempting exam cheating.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Fri, 21 Aug 2026 00:00:00 GMT"
+      "published": "Mon, 31 Aug 2026 18:00:00 +0000"
     }
   ]
 }

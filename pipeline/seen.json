@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/path-to-astra",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://openai.com/index/ai-native-company-workflows",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://openai.com/index/gilbert-tobin",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/benchmirt",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://huggingface.co/blog/webgpu-kernels",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
-    "seen_at": "2026-09-02"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-    "seen_at": "2026-09-02"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
     "seen_at": "2026-09-03"
   },
@@ -638,5 +538,81 @@
   {
     "url": "https://huggingface.co/blog/asr-benchmark-optimization",
     "seen_at": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://openai.com/index/ai-policy-window",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
+    "seen_at": "2026-09-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "seen_at": "2026-09-10"
   }
 ]
