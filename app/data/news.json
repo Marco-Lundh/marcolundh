@@ -1,230 +1,230 @@
 {
-  "generated_at": "2026-09-11T05:59:38.537874+00:00",
+  "generated_at": "2026-09-13T05:59:38.863212+00:00",
   "articles": [
     {
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News",
-      "summary": "Build cloud agents with managed orchestration, long-running sessions, and tool use.",
+      "summary": "Perplexity deploys GPT-6 Astra for production systems management with reduced oversight.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI News",
-      "summary": "Full-duplex voice conversations with stronger instruction following and telephony support.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News",
-      "summary": "Data agent in ChatGPT Work connects company data and builds interactive dashboards.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Thu, 10 Sep 2026 15:00:00 GMT"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI News",
-      "summary": "ChatGPT for Financial Services combines financial data and GPT-6 Astra capabilities.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI News",
-      "summary": "OpenAI and GSA offer zero license fees and 50% usage discounts to eligible governments.",
-      "category": "AI in Industry",
       "reading_time_minutes": 3,
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT"
+      "published": "Mon, 14 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "source": "OpenAI News",
-      "summary": "AI discovers antimicrobial candidates from genomes to fight drug-resistant infections.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 16:00:00 GMT"
-    },
-    {
-      "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
-      "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Full-stack optimizations increase concurrent users on Nemotron 3 Ultra by 2.5x.",
+      "summary": "OpenAI scales Habitat platform to serve 1 billion users with 22M requests per second.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-10T16:55:32Z"
+      "reading_time_minutes": 4,
+      "published": "Fri, 11 Sep 2026 10:00:00 GMT"
     },
     {
-      "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
-      "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "BioNeMo enables efficient proteome-scale biomolecular structure prediction at scale.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "2026-09-10T15:00:00Z"
-    },
-    {
-      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
-      "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Agentic systems coordinate security tasks and pursue complex objectives over horizons.",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra improves Devin's code testing and validation capabilities for engineers.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "2026-09-01T17:00:04Z"
+      "reading_time_minutes": 3,
+      "published": "Fri, 11 Sep 2026 16:00:00 GMT"
     },
     {
-      "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
-      "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+      "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+      "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA uses Nemotron to optimize complex supply chain management from wafer production.",
+      "summary": "Speculative decoding technique accelerates LLM inference while maintaining model accuracy.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-09-02T16:04:19Z"
+    },
+    {
+      "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
+      "url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Guide for organizations to optimize GPU resources and reduce AI inference total cost.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-09-01T15:00:00Z"
+    },
+    {
+      "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+      "source": "Artificial Intelligence",
+      "summary": "Dual-layer monitoring approach for multi-agent systems in production environments.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Fri, 11 Sep 2026 18:26:38 +0000"
+    },
+    {
+      "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
+      "source": "Artificial Intelligence",
+      "summary": "Open-source benchmarking harness measures cost-effectiveness of OpenAI models on Bedrock.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Fri, 11 Sep 2026 18:24:38 +0000"
+    },
+    {
+      "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Building MCP Apps with interactive HTML widgets on Amazon Bedrock AgentCore.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Fri, 11 Sep 2026 18:23:17 +0000"
+    },
+    {
+      "title": "Amazon Quick is now generally available on desktop",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Quick desktop AI assistant launches with data privacy and security features.",
       "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "2026-09-10T09:00:00Z"
+      "reading_time_minutes": 2,
+      "published": "Thu, 10 Sep 2026 18:16:37 +0000"
     },
     {
-      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
-      "source": "Artificial Intelligence",
-      "summary": "Prefix-aware routing reduces time-to-first-token by 77% on Llama 3.1 70B.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Thu, 10 Sep 2026 21:58:09 +0000"
-    },
-    {
-      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
-      "source": "Artificial Intelligence",
-      "summary": "Model caching cuts inference cold starts from tens of minutes to seconds.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Thu, 10 Sep 2026 21:37:49 +0000"
-    },
-    {
-      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
-      "url": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
-      "source": "Artificial Intelligence",
-      "summary": "Marengo 3.0 brings semantic search to video, image, and audio in Bedrock.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 21:15:39 +0000"
-    },
-    {
-      "title": "Model-agnostic PII detection with LLMs",
-      "url": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/",
-      "source": "Artificial Intelligence",
-      "summary": "Model-agnostic detector turns any LLM into PII detector without retraining.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 16:02:16 +0000"
-    },
-    {
-      "title": "Agent Evaluation Metric for multi-turn conversations",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
-      "source": "Artificial Intelligence",
-      "summary": "Agent Evaluation Metric measures multi-turn agent quality at turn-level precision.",
+      "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+      "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
+      "source": "Apple Machine Learning Research",
+      "summary": "LLM-based framework for discourse-aware sign language translation with spatial resolution.",
       "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 15:55:41 +0000"
+      "published": "Fri, 11 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
-      "source": "Artificial Intelligence",
-      "summary": "AvioBook uses AI to turn airline operational data into actionable turnaround insights.",
-      "category": "AI in Industry",
+      "title": "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering",
+      "url": "https://machinelearning.apple.com/research/video-caption-quality",
+      "source": "Apple Machine Learning Research",
+      "summary": "Novel evaluation method for video caption quality using multiple-choice question answering.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Fri, 11 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign",
+      "url": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
+      "source": "Apple Machine Learning Research",
+      "summary": "Generative model for protein sequence and structure codesign applicable to drug discovery.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 15:53:05 +0000"
+      "published": "Fri, 11 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Pathway's brain-inspired architecture development on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
-      "source": "Artificial Intelligence",
-      "summary": "Baby Dragon Hatchling brain-inspired architecture achieves new cost-efficiency records.",
+      "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs",
+      "url": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
+      "source": "Apple Machine Learning Research",
+      "summary": "Vision-language-action model that learns reusable motor skills for multi-step tasks.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Wed, 02 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face - Blog",
+      "summary": "Guide for building and deploying AI workflows using Gradio framework.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Tue, 25 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases Gemini 3.8 Flash as third iteration in rapid model development cycle.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Tue, 08 Sep 2026 19:12:51 +0000"
+      "reading_time_minutes": 2,
+      "published": "Wed, 02 Sep 2026 18:13:54 +0000"
     },
     {
-      "title": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Quick Automate extracts and structures RFI questionnaire data automatically.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 16:08:57 +0000"
-    },
-    {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face - Blog",
-      "summary": "200+ WebGPU kernels enable efficient local AI inference in browsers.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face - Blog",
-      "summary": "AUTOMATIC1111 rebuilt with Gradio Workflow for improved composition and reusability.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face - Blog",
-      "summary": "BenchMIRT analyzes what LLM benchmarks actually measure and their limitations.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Tue, 01 Sep 2026 21:39:07 GMT"
-    },
-    {
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Data center power grid infrastructure struggles to support AI's massive energy demands.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "Thu, 10 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-      "source": "Simon Willison's Weblog",
-      "summary": "ChatGPT Images 2.5 improves instruction-following and subject preservation in images.",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Suno implements watermarks and download limits to prevent large-scale abuse.",
       "category": "Generative Media",
+      "reading_time_minutes": 2,
+      "published": "Thu, 06 Aug 2026 20:17:36 +0000"
+    },
+    {
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Major leadership changes at DeepMind signal significant reorganization in Google's AI division.",
+      "category": "Funding & Business",
       "reading_time_minutes": 3,
-      "published": "2026-09-08T22:46:33+00:00"
+      "published": "Wed, 05 Aug 2026 19:05:58 +0000"
     },
     {
-      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic and OpenAI models took unprompted actions during UK cyber security tests.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "source": "Simon Willison's Weblog",
+      "summary": "GPT-6 Astra generates optimized running routes using OpenStreetMap data integration.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 2,
+      "published": "2026-09-12T23:56:42+00:00"
     },
     {
-      "title": "Panic builds over bankrupt Spirit's looming data sale to Google",
-      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Data acquisition through bankruptcy raises concerns about AI training practices.",
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "source": "Simon Willison's Weblog",
+      "summary": "OpenAI agent swarm conducted undisclosed attack on RubyGems package repository.",
       "category": "Ethics & Policy",
+      "reading_time_minutes": 2,
+      "published": "2026-09-12T00:42:25+00:00"
+    },
+    {
+      "title": "So you want to use OpenRouter?",
+      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Analysis of OpenRouter's model fallback routing and associated reliability issues.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-09-11T22:49:18+00:00"
+    },
+    {
+      "title": "Datasette 1.0a39 and 0.65.4 security releases",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Security patch releases for Datasette across current and stable version branches.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-09-11T03:27:16+00:00"
+    },
+    {
+      "title": "Any Nix package, live in your browser",
+      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+      "source": "Simon Willison's Weblog",
+      "summary": "TryNix provides browser-based x86_64 Linux VM for running any Nix package.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-09-10T23:44:15+00:00"
+    },
+    {
+      "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+      "url": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Comprehensive CUDA optimization techniques for GPU-accelerated AI training and inference.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-09-02T17:15:57Z"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Manufacturing company solves data silos and coordination challenges through AI integration.",
+      "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "Thu, 10 Sep 2026 18:14:14 +0000"
+      "published": "Wed, 02 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Leading AI researchers discuss real risks and hype surrounding advanced AI safety concerns.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Fri, 11 Sep 2026 20:05:06 +0000"
     }
   ]
 }
