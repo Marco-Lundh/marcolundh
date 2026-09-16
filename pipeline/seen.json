@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
-    "seen_at": "2026-09-08"
-  },
-  {
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "seen_at": "2026-09-08"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "seen_at": "2026-09-08"
-  },
-  {
-    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "seen_at": "2026-09-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-    "seen_at": "2026-09-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/7/llm/",
-    "seen_at": "2026-09-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/2/llm-anthropic/",
-    "seen_at": "2026-09-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/2/llm/",
-    "seen_at": "2026-09-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/2/llm-openrouter/",
-    "seen_at": "2026-09-08"
-  },
-  {
     "url": "https://openai.com/index/codex-quantum-computing-experiments",
     "seen_at": "2026-09-09"
   },
@@ -590,5 +554,73 @@
   {
     "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
     "seen_at": "2026-09-15"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+    "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+    "seen_at": "2026-09-16"
   }
 ]

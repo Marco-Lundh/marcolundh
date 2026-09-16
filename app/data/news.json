@@ -1,221 +1,158 @@
 {
-  "generated_at": "2026-09-15T05:59:23.364137+00:00",
+  "generated_at": "2026-09-16T05:59:21.184579+00:00",
   "articles": [
     {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "source": "OpenAI News",
-      "summary": "Fyxer uses OpenAI models and fine-tuning to organize inboxes and draft emails in users' voices.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Mon, 14 Sep 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
-      "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
+      "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+      "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA optimizes Mixture of Experts MoE training for large-scale AI models.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-14T16:39:15Z"
-    },
-    {
-      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-      "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-      "source": "Artificial Intelligence",
-      "summary": "Abnormal AI deploys Bedrock AgentCore for real-time email threat detection at billion-message scale.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Mon, 14 Sep 2026 21:22:45 +0000"
-    },
-    {
-      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock AgentCore introduces managed OAuth consent portal for agent authorization flows.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Mon, 14 Sep 2026 20:35:45 +0000"
-    },
-    {
-      "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Ninth Wave uses Bedrock AgentCore for multi-agent AI onboarding compressing weeks to minutes.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Mon, 14 Sep 2026 15:58:57 +0000"
-    },
-    {
-      "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "AWS provides eight-step decision framework for choosing generative AI customization approaches.",
+      "summary": "Technical analysis of mixture-of-experts models versus dense architectures for efficient inference.",
       "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Mon, 14 Sep 2026 15:47:12 +0000"
+      "reading_time_minutes": 6,
+      "published": "2026-09-15T17:00:11Z"
     },
     {
-      "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
+      "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Power-efficient AI inference architecture optimization for deterministic execution.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
+      "published": "2026-09-15T16:55:00Z"
+    },
+    {
+      "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Advanced interconnect technology for reliable large-scale AI training infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
+      "published": "2026-09-15T16:55:00Z"
+    },
+    {
+      "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+      "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Distributed federated learning framework supporting multiple orchestration platforms.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "2026-09-15T15:00:00Z"
+    },
+    {
+      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
       "source": "Artificial Intelligence",
-      "summary": "Closed detect-decide-act loop automates supply chain replenishment using foundation models.",
-      "category": "AI in Industry",
+      "summary": "Prompt caching reduces input token costs up to 90% in Amazon Bedrock foundation models.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "Mon, 14 Sep 2026 15:42:06 +0000"
+      "published": "2026-09-15T16:18:19Z"
     },
     {
-      "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers",
-      "url": "https://machinelearning.apple.com/research/rubric-based-alignment",
+      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
+      "source": "Artificial Intelligence",
+      "summary": "Fine-tune and deploy Qwen3-8B for automated product tagging at scale serverlessly.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 6,
+      "published": "2026-09-15T16:11:36Z"
+    },
+    {
+      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker now supports instance preference lists for flexible training resource allocation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-09-15T16:01:47Z"
+    },
+    {
+      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs' Probabilistic Beliefs",
+      "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
       "source": "Apple Machine Learning Research",
-      "summary": "Apple research introduces rubric-based reward framework for improved question answering alignment.",
+      "summary": "Research on internal inconsistencies in LLM probabilistic reasoning and Bayesian updates.",
       "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "Thu, 27 Aug 2026 00:00:00 GMT"
+      "reading_time_minutes": 7,
+      "published": "2026-08-28T00:00:00Z"
     },
     {
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face demonstrates asynchronous GRPO training with LoRA across distributed jobs efficiently.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face - Blog",
-      "summary": "IBM research analyzes memory requirements for AI agents and optimization approaches.",
+      "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding",
+      "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+      "source": "Apple Machine Learning Research",
+      "summary": "Automated scenario generation for evaluating AI agents using tool specifications.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 18 Aug 2026 18:09:38 GMT"
+      "reading_time_minutes": 7,
+      "published": "2026-08-28T00:00:00Z"
     },
     {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "source": "Hugging Face - Blog",
-      "summary": "Sentence Transformers implements multi-vector late interaction embedding models for improved retrieval.",
-      "category": "LLMs & Models",
+      "summary": "Research on agent consistency and reproducibility across multiple task executions.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-09-15T16:00:44Z"
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face - Blog",
+      "summary": "Open-source speech recognition benchmark expands to include languages from Global South.",
+      "category": "Open Source AI",
       "reading_time_minutes": 5,
-      "published": "Tue, 18 Aug 2026 00:00:00 GMT"
+      "published": "2026-08-28T00:00:00Z"
     },
     {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "title": "What's at stake in AI's trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Google DeepMind experiment shows AI agents self-organize to enforce honesty among rival factions.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 3,
-      "published": "Mon, 14 Sep 2026 16:00:00 +0000"
+      "summary": "Analysis of massive AI infrastructure investments and potential economic bubble risks.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 7,
+      "published": "2026-09-15T10:00:00Z"
     },
     {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Anthropic CEO calls for brake on LLM development pace citing looming safety dangers.",
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google experiences negative cash flow from unprecedented AI infrastructure spending.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 4,
+      "published": "2026-07-23T16:04:19Z"
+    },
+    {
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "New York imposes data center moratorium, affecting AI infrastructure deployment.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "2026-07-14T15:06:28Z"
+    },
+    {
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Legal gaps enable schools to evade accountability in AI-generated intimate imagery cases.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Mon, 14 Sep 2026 17:54:22 +0000"
+      "published": "2026-07-31T18:11:55Z"
     },
     {
-      "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
-      "url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA addresses identity management challenges in federated AI platform architectures.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-09-03T22:36:02Z"
-    },
-    {
-      "title": "The contagion of fear",
-      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Critical perspective on existential AI risk concerns and researcher fears spreading.",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Apple accuses OpenAI of conspiring with former employees to steal trade secrets.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-09-14T21:18:13+00:00"
+      "reading_time_minutes": 4,
+      "published": "2026-07-13T19:17:51Z"
     },
     {
-      "title": "Quoting Boris Cherny",
-      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Anthropic details production guardrails for Claude-generated code quality assurance.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-09-11T17:47:11+00:00"
-    },
-    {
-      "title": "Feeling sad about AI",
-      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Reflection on existential concerns about AI capabilities and professional displacement.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 2,
-      "published": "2026-09-11T17:28:37+00:00"
-    },
-    {
-      "title": "Quoting Laurie Voss",
-      "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Analysis of how AI reduces code writing costs while increasing review and operations costs.",
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google enhances image search with AI-powered personalization and expanded content.",
       "category": "AI in Industry",
-      "reading_time_minutes": 2,
-      "published": "2026-09-14T14:34:29+00:00"
-    },
-    {
-      "title": "Quoting Paul Ford",
-      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Perspective on human-AI collaboration in software development and complementary skills.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 2,
-      "published": "2026-09-12T18:00:21+00:00"
-    },
-    {
-      "title": "What blog posts influenced your thinking the most?",
-      "url": "https://simonwillison.net/2026/Sep/14/influences/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Discussion of formative technical writing that shaped AI and software engineering thinking.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 2,
-      "published": "2026-09-14T20:21:48+00:00"
-    },
-    {
-      "title": "commit-rewriter 0.1",
-      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Tool for editing AI-generated commit messages and removing private repository references.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-09-14T00:28:10+00:00"
-    },
-    {
-      "title": "shot-scraper 1.12",
-      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Screenshot automation tool adds WebP support for improved image format flexibility.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-09-13T23:58:14+00:00"
-    },
-    {
-      "title": "Don't sleep on wrapture",
-      "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
-      "source": "Simon Willison's Weblog",
-      "summary": "New Python monkey patching package wrapture gaining attention for developer utility.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-09-11T13:51:32+00:00"
-    },
-    {
-      "title": "datasette-publish-fly 1.4",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Datasette publishing tool updates with HTTPS enforcement and deployment token support.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 1,
-      "published": "2026-09-11T02:58:52+00:00"
+      "reading_time_minutes": 4,
+      "published": "2026-07-14T16:28:14Z"
     }
   ]
 }
