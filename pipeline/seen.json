@@ -1,93 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/codex-quantum-computing-experiments",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/navier-stokes-solution",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/the-work-now-within-reach",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/1password",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/teen-development-research-grants",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "seen_at": "2026-09-09"
-  },
-  {
-    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "seen_at": "2026-09-09"
-  },
-  {
     "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
     "seen_at": "2026-09-10"
   },
@@ -622,5 +534,89 @@
   {
     "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
     "seen_at": "2026-09-16"
+  },
+  {
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/trajectory-teacher-flow-matching",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/value-induction-llm-behaviour",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+    "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "seen_at": "2026-09-17"
   }
 ]

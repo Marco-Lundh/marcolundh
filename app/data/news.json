@@ -1,158 +1,194 @@
 {
-  "generated_at": "2026-09-16T05:59:21.184579+00:00",
+  "generated_at": "2026-09-17T05:59:31.603947+00:00",
   "articles": [
     {
-      "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
-      "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Technical analysis of mixture-of-experts models versus dense architectures for efficient inference.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "2026-09-15T17:00:11Z"
-    },
-    {
-      "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Power-efficient AI inference architecture optimization for deterministic execution.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "2026-09-15T16:55:00Z"
-    },
-    {
-      "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Advanced interconnect technology for reliable large-scale AI training infrastructure.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "2026-09-15T16:55:00Z"
-    },
-    {
-      "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
-      "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Distributed federated learning framework supporting multiple orchestration platforms.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 6,
-      "published": "2026-09-15T15:00:00Z"
-    },
-    {
-      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
-      "source": "Artificial Intelligence",
-      "summary": "Prompt caching reduces input token costs up to 90% in Amazon Bedrock foundation models.",
-      "category": "AI Tools & Frameworks",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "summary": "OpenAI shares framework for tracking and disclosing model misalignment with investigation reports.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "2026-09-15T16:18:19Z"
+      "published": "Wed, 16 Sep 2026 17:00:00 GMT"
     },
     {
-      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
-      "source": "Artificial Intelligence",
-      "summary": "Fine-tune and deploy Qwen3-8B for automated product tagging at scale serverlessly.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "2026-09-15T16:11:36Z"
-    },
-    {
-      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker now supports instance preference lists for flexible training resource allocation.",
-      "category": "MLOps & Infrastructure",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News",
+      "summary": "OpenAI releases AI-powered advertising tools including Sponsored Agents and platform integrations.",
+      "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "2026-09-15T16:01:47Z"
+      "published": "Wed, 16 Sep 2026 13:00:00 GMT"
     },
     {
-      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs' Probabilistic Beliefs",
-      "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
+      "summary": "ChatGPT Work and Codex analytics tools help teams measure AI adoption and business impact.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 16 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
+      "summary": "OpenAI economic research reveals how workers integrate AI into new activities and workflows.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Wed, 16 Sep 2026 09:00:00 GMT"
+    },
+    {
+      "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI agents automate 3D scene preparation and validation for digital twins in physical systems.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-09-16T23:20:33Z"
+    },
+    {
+      "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+      "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA TensorRT Edge-LLM achieves 6.4x faster edge agentic AI performance on Jetson hardware.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-09-16T20:37:07Z"
+    },
+    {
+      "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+      "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "AI agents automate translation of CUDA GPU kernels from Python to safe Rust code.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-09-16T16:28:59Z"
+    },
+    {
+      "title": "Improving HCLS AI reasoning with open-source agent skills",
+      "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+      "source": "Artificial Intelligence",
+      "summary": "AWS releases 38 open-source agent skills for healthcare and life sciences domain accuracy.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 7,
+      "published": "Wed, 16 Sep 2026 19:00:00 +0000"
+    },
+    {
+      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+      "source": "Artificial Intelligence",
+      "summary": "NVIDIA Resiliency Extension enables fault-tolerant distributed training with second-scale recovery.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Wed, 16 Sep 2026 18:59:25 +0000"
+    },
+    {
+      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "AgentCore automatically optimizes production AI agent system prompts through reflector validation.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Wed, 16 Sep 2026 15:47:39 +0000"
+    },
+    {
+      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
+      "source": "Artificial Intelligence",
+      "summary": "Serverless AI pipeline automates PII detection and redaction from documents at scale.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "Wed, 16 Sep 2026 15:17:37 +0000"
+    },
+    {
+      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+      "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
       "source": "Apple Machine Learning Research",
-      "summary": "Research on internal inconsistencies in LLM probabilistic reasoning and Bayesian updates.",
+      "summary": "Novel memory architecture for agentic LLM systems preserves productive configurations efficiently.",
       "category": "Research & Papers",
       "reading_time_minutes": 7,
-      "published": "2026-08-28T00:00:00Z"
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding",
-      "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+      "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
+      "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
       "source": "Apple Machine Learning Research",
-      "summary": "Automated scenario generation for evaluating AI agents using tool specifications.",
+      "summary": "Production agentic system automates data catalog documentation and governance at scale.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 7,
-      "published": "2026-08-28T00:00:00Z"
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face - Blog",
-      "summary": "Research on agent consistency and reproducibility across multiple task executions.",
-      "category": "AI Agents & Automation",
+      "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+      "source": "Apple Machine Learning Research",
+      "summary": "Novel credit assignment method improves reinforcement learning for diffusion-based language models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation",
+      "url": "https://machinelearning.apple.com/research/trajectory-teacher-flow-matching",
+      "source": "Apple Machine Learning Research",
+      "summary": "Distillation technique reduces discrete flow matching steps from hundreds to few.",
+      "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "2026-09-15T16:00:44Z"
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "title": "How Value Induction Reshapes LLM Behaviour",
+      "url": "https://machinelearning.apple.com/research/value-induction-llm-behaviour",
+      "source": "Apple Machine Learning Research",
+      "summary": "Research examines how inducing values in LLMs affects behavior and safety trade-offs.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 6,
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "source": "Hugging Face - Blog",
-      "summary": "Open-source speech recognition benchmark expands to include languages from Global South.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 5,
-      "published": "2026-08-28T00:00:00Z"
+      "summary": "Liquid AI releases LFM2.5-DSpark model enabling 3.2x faster inference performance.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Thu, 20 Aug 2026 16:52:57 GMT"
     },
     {
-      "title": "What's at stake in AI's trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Analysis of massive AI infrastructure investments and potential economic bubble risks.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 7,
-      "published": "2026-09-15T10:00:00Z"
-    },
-    {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google experiences negative cash flow from unprecedented AI infrastructure spending.",
-      "category": "Funding & Business",
-      "reading_time_minutes": 4,
-      "published": "2026-07-23T16:04:19Z"
-    },
-    {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "New York imposes data center moratorium, affecting AI infrastructure deployment.",
-      "category": "Ethics & Policy",
+      "summary": "AI infrastructure demands new materials to overcome performance, thermal, and efficiency limits.",
+      "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "2026-07-14T15:06:28Z"
+      "published": "Wed, 16 Sep 2026 12:47:34 +0000"
     },
     {
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Legal gaps enable schools to evade accountability in AI-generated intimate imagery cases.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-07-31T18:11:55Z"
+      "summary": "Google Gemini reaches one billion users faster than any previous Google product.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Tue, 11 Aug 2026 19:48:12 +0000"
     },
     {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Apple accuses OpenAI of conspiring with former employees to steal trade secrets.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-07-13T19:17:51Z"
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic unifies Claude Cowork and chat into single integrated assistant product.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-09-16T18:09:49+00:00"
     },
     {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google enhances image search with AI-powered personalization and expanded content.",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "summary": "OpenAI and AARP partner to provide free ChatGPT training for older adults nationwide.",
       "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "2026-07-14T16:28:14Z"
+      "reading_time_minutes": 3,
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT"
     }
   ]
 }
