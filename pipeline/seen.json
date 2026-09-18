@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://openai.com/index/navier-stokes-solution/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://openai.com/index/ai-policy-window",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
-    "seen_at": "2026-09-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "seen_at": "2026-09-10"
-  },
-  {
     "url": "https://openai.com/index/introducing-the-agents-api",
     "seen_at": "2026-09-11"
   },
@@ -618,5 +542,85 @@
   {
     "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
     "seen_at": "2026-09-17"
+  },
+  {
+    "url": "https://openai.com/index/astra-for-law",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://openai.com/index/cooley-gopublic",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+    "seen_at": "2026-09-18"
   }
 ]
