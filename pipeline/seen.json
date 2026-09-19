@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://openai.com/index/put-data-to-work",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://openai.com/index/expanding-ai-access-us-government",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://huggingface.co/blog/webgpu-kernels",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://huggingface.co/blog/gradio-workflow-1111",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/benchmirt",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-    "seen_at": "2026-09-11"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-    "seen_at": "2026-09-11"
-  },
-  {
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "seen_at": "2026-09-13"
   },
@@ -622,5 +522,73 @@
   {
     "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
     "seen_at": "2026-09-18"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/dynamically-scaled-activation-steering",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://openai.com/index/hex-gpt-6-astra",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://openai.com/index/ai-policy-window",
+    "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
+    "seen_at": "2026-09-19"
   }
 ]

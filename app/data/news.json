@@ -1,185 +1,158 @@
 {
-  "generated_at": "2026-09-18T05:59:22.298787+00:00",
+  "generated_at": "2026-09-19T05:59:25.124121+00:00",
   "articles": [
     {
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI News",
-      "summary": "OpenAI launches frontier intelligence platform for law with custom workflows and legal-grade controls.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 17 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI News",
-      "summary": "Cooley builds GO Public with ChatGPT to accelerate IPO process with intelligent issue detection.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 17 Sep 2026 12:00:00 GMT"
-    },
-    {
-      "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Wood Mackenzie builds APEX agentic platform on Bedrock AgentCore for multi-team production agents.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Thu, 17 Sep 2026 15:41:03 +0000"
-    },
-    {
-      "title": "How MRH Trowe enabled secure self-service AI agents in financial services",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/",
-      "source": "Artificial Intelligence",
-      "summary": "MRH Trowe deploys secure AI agents for 400 employees using Bedrock with German compliance standards.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 17 Sep 2026 15:36:42 +0000"
-    },
-    {
-      "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
-      "url": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
-      "source": "Artificial Intelligence",
-      "summary": "Comparative analysis of vector stores for RAG applications with performance benchmarks and selection framework.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Thu, 17 Sep 2026 15:53:13 +0000"
-    },
-    {
-      "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Defense-in-depth authorization for MCP tools using Entra ID and JWT-based access control.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "Thu, 17 Sep 2026 15:30:17 +0000"
-    },
-    {
-      "title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "Synthetic data pipeline for industrial safety AI achieves 160% improvement in person detection.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "Thu, 17 Sep 2026 15:28:08 +0000"
-    },
-    {
-      "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Connect Talent delivers AI-led interviews and assessments for scaled hiring operations.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Thu, 17 Sep 2026 17:55:20 +0000"
-    },
-    {
-      "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "title": "Benchmarking LLM Inference at Scale with AIPerf",
+      "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
       "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA enables native GPU programming in Rust for high-performance computing development.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-09-08T12:00:00Z"
+      "summary": "AIPerf provides comprehensive benchmarking framework for evaluating LLM inference performance at scale.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-09-18T19:04:41Z"
     },
     {
-      "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
-      "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
+      "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+      "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "EPD disaggregation optimization technique separates vision encoder stage for faster multimodal inference.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
+      "published": "2026-09-09T20:31:04Z"
+    },
+    {
+      "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+      "source": "Artificial Intelligence",
+      "summary": "SageMaker AI shipped 13 inference launches including tiered KV caching and disaggregated prefill decode.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 7,
+      "published": "2026-09-18T20:52:14Z"
+    },
+    {
+      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock AgentCore runtime delivers elastic, optimized, and consistently fast production agent deployments.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-09-18T15:31:34Z"
+    },
+    {
+      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
+      "source": "Artificial Intelligence",
+      "summary": "Framework-agnostic migration pattern for multi-model healthcare agents to serverless AgentCore runtime.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 7,
+      "published": "2026-09-18T15:38:53Z"
+    },
+    {
+      "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
+      "source": "Artificial Intelligence",
+      "summary": "GPU-aware Kubernetes routing add-on reduces first-token latency by 82% with real-time GPU signals.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-09-18T13:08:34Z"
+    },
+    {
+      "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
+      "source": "Artificial Intelligence",
+      "summary": "Coding agent skills automate production deployment of Hugging Face models with autoscaling and monitoring.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "2026-09-18T15:25:23Z"
+    },
+    {
+      "title": "Introducing Kimi K3 on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Kimi K3 open-weight model available on Bedrock with 1M-token context, vision, and prompt caching.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 5,
+      "published": "2026-09-18T16:52:01Z"
+    },
+    {
+      "title": "Dynamically Scaled Activation Steering",
+      "url": "https://machinelearning.apple.com/research/dynamically-scaled-activation-steering",
       "source": "Apple Machine Learning Research",
-      "summary": "Benchmark for autonomous reinforcement learning without external resets in irreversible environments.",
+      "summary": "DSAS framework adaptively modulates steering strength to improve toxicity mitigation without performance degradation.",
       "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "Thu, 17 Sep 2026 00:00:00 GMT"
+      "published": "2026-09-18T00:00:00Z"
     },
     {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google launches experimental CC AI agent enabling shared family data for planning and task completion.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Thu, 17 Sep 2026 20:24:34 +0000"
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra powers Hex data agents converting analysis into interactive visualizations for stakeholders.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "2026-09-16T12:00:00Z"
     },
     {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Danijar Hafner's startup develops AI agents with advanced planning capabilities for uncertainty.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "Tue, 08 Sep 2026 10:34:00 +0000"
-    },
-    {
-      "title": "What OpenAI's latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "OpenAI agents solve Millennium Prize Problem amid controversy about mathematical proof verification.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 6,
-      "published": "Wed, 09 Sep 2026 03:10:08 +0000"
-    },
-    {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face - Blog",
-      "summary": "Analysis of nuanced AI safety approaches for topic-specific refusals versus blanket restrictions.",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "summary": "OpenAI releases six-pillar roadmap protecting and empowering young people in safer AI environments.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Tue, 08 Sep 2026 14:23:07 GMT"
+      "published": "2026-09-18T12:00:00Z"
     },
     {
-      "title": "Self-generated prompt injections in compaction summaries",
-      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-      "source": "Simon Willison's Weblog",
-      "summary": "OpenAI framework reports self-generated prompt injection vulnerabilities in model compaction summaries.",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases Gemini 3.7 Flash with substantial improvements just 3 weeks after 3.6.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "2026-08-13T17:00:13Z"
+    },
+    {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "US accuses six Chinese AI firms of copying US frontier models with capability degradation strategy.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "2026-09-17T20:57:55+00:00"
+      "published": "2026-09-09T20:06:28Z"
     },
     {
-      "title": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
-      "url": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/",
-      "source": "Artificial Intelligence",
-      "summary": "Serverless pipeline automates Git metrics collection and visualization for engineering team analytics.",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Federal Register website briefly deployed Chinese open-source AI model flagged by FBI.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-09-18T17:28:50Z"
+    },
+    {
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic adds invisible watermark flagging Claude-processed content including human-edited text.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "2026-08-13T11:10:18Z"
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI News",
+      "summary": "OpenAI advocates for stronger safety evidence, shared standards, and durable AI policy action.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "2026-09-09T13:00:00Z"
+    },
+    {
+      "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+      "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "CUDA 13.4 adds Windows on Arm support and improved shared GPU management capabilities.",
       "category": "MLOps & Infrastructure",
       "reading_time_minutes": 5,
-      "published": "Thu, 17 Sep 2026 15:42:31 +0000"
-    },
-    {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Drone data from Ukraine creates new AI-driven marketplace for defense sector intelligence analysis.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 6,
-      "published": "Fri, 04 Sep 2026 09:25:19 +0000"
-    },
-    {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face - Blog",
-      "summary": "Analysis of benchmark optimization techniques in automatic speech recognition systems.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Fri, 21 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Gemini Live audio",
-      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Google releases Gemini 3.8 Live speech-to-speech models for conversational AI interactions.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-09-15T22:47:07+00:00"
-    },
-    {
-      "title": "How To Write With An LLM",
-      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Thomas Ptacek discusses using LLMs as editing tools rather than content generation assistants.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "2026-09-17T23:37:27+00:00"
+      "published": "2026-09-09T20:24:12Z"
     }
   ]
 }
