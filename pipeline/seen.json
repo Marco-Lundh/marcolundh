@@ -590,5 +590,85 @@
   {
     "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
     "seen_at": "2026-09-19"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://openai.com/index/put-data-to-work",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+    "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "seen_at": "2026-09-20"
   }
 ]

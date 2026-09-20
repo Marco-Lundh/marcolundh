@@ -1,158 +1,185 @@
 {
-  "generated_at": "2026-09-19T05:59:25.124121+00:00",
+  "generated_at": "2026-09-20T05:59:19.649598+00:00",
   "articles": [
     {
-      "title": "Benchmarking LLM Inference at Scale with AIPerf",
-      "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "AIPerf provides comprehensive benchmarking framework for evaluating LLM inference performance at scale.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-18T19:04:41Z"
-    },
-    {
-      "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
-      "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "EPD disaggregation optimization technique separates vision encoder stage for faster multimodal inference.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "2026-09-09T20:31:04Z"
-    },
-    {
-      "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
-      "source": "Artificial Intelligence",
-      "summary": "SageMaker AI shipped 13 inference launches including tiered KV caching and disaggregated prefill decode.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "2026-09-18T20:52:14Z"
-    },
-    {
-      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
-      "source": "Artificial Intelligence",
-      "summary": "Amazon Bedrock AgentCore runtime delivers elastic, optimized, and consistently fast production agent deployments.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-09-18T15:31:34Z"
-    },
-    {
-      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
-      "url": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
-      "source": "Artificial Intelligence",
-      "summary": "Framework-agnostic migration pattern for multi-model healthcare agents to serverless AgentCore runtime.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 7,
-      "published": "2026-09-18T15:38:53Z"
-    },
-    {
-      "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
-      "source": "Artificial Intelligence",
-      "summary": "GPU-aware Kubernetes routing add-on reduces first-token latency by 82% with real-time GPU signals.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-18T13:08:34Z"
-    },
-    {
-      "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
-      "source": "Artificial Intelligence",
-      "summary": "Coding agent skills automate production deployment of Hugging Face models with autoscaling and monitoring.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 6,
-      "published": "2026-09-18T15:25:23Z"
-    },
-    {
-      "title": "Introducing Kimi K3 on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Kimi K3 open-weight model available on Bedrock with 1M-token context, vision, and prompt caching.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "2026-09-18T16:52:01Z"
-    },
-    {
-      "title": "Dynamically Scaled Activation Steering",
-      "url": "https://machinelearning.apple.com/research/dynamically-scaled-activation-steering",
-      "source": "Apple Machine Learning Research",
-      "summary": "DSAS framework adaptively modulates steering strength to improve toxicity mitigation without performance degradation.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 6,
-      "published": "2026-09-18T00:00:00Z"
-    },
-    {
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "source": "OpenAI News",
-      "summary": "GPT-6 Astra powers Hex data agents converting analysis into interactive visualizations for stakeholders.",
+      "summary": "Managed cloud agents API enables orchestration, long-running sessions, tool use.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI News",
+      "summary": "Natural full-duplex voice conversations API with custom voices, telephony support.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI News",
+      "summary": "Data agent in ChatGPT Work connects company data, uncovers insights, builds dashboards.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "Thu, 10 Sep 2026 15:00:00 GMT"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI News",
+      "summary": "ChatGPT for Financial Services combines financial data and GPT-6 Astra capabilities.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Thu, 10 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI News",
+      "summary": "OpenAI and GSA offer governments free licenses, discounted usage, expanded security support.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Thu, 10 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI News",
+      "summary": "Lab uses Codex and ChatGPT to discover antimicrobial candidates from genomes.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Thu, 10 Sep 2026 16:00:00 GMT"
+    },
+    {
+      "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+      "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Full-stack optimizations enable 2.5x concurrent user capacity on Nemotron 3 Ultra.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-09-10T16:55:32Z"
+    },
+    {
+      "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+      "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "BioNeMo Inference Runtime enables proteome-scale biomolecular structure prediction.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "2026-09-10T15:00:00Z"
+    },
+    {
+      "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+      "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Nemotron and Palantir Foundry optimize NVIDIA's complex semiconductor supply chain.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "2026-09-10T09:00:00Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face - Blog",
+      "summary": "Gradio Workflow enables rebuilding AUTOMATIC1111 with modern interface capabilities.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 4,
-      "published": "2026-09-16T12:00:00Z"
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI News",
-      "summary": "OpenAI releases six-pillar roadmap protecting and empowering young people in safer AI environments.",
-      "category": "Ethics & Policy",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face - Blog",
+      "summary": "Research analyzing what LLM benchmarks truly measure and their reliability.",
+      "category": "Research & Papers",
       "reading_time_minutes": 5,
-      "published": "2026-09-18T12:00:00Z"
+      "published": "Tue, 01 Sep 2026 21:39:07 GMT"
     },
     {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini 3.7 Flash with substantial improvements just 3 weeks after 3.6.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-08-13T17:00:13Z"
-    },
-    {
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "US accuses six Chinese AI firms of copying US frontier models with capability degradation strategy.",
-      "category": "Ethics & Policy",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face - Blog",
+      "summary": "200+ WebGPU kernels enable local AI inference directly in web browsers.",
+      "category": "Open Source AI",
       "reading_time_minutes": 4,
-      "published": "2026-09-09T20:06:28Z"
+      "published": "Tue, 01 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Federal Register website briefly deployed Chinese open-source AI model flagged by FBI.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-09-18T17:28:50Z"
-    },
-    {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic adds invisible watermark flagging Claude-processed content including human-edited text.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-08-13T11:10:18Z"
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "source": "OpenAI News",
-      "summary": "OpenAI advocates for stronger safety evidence, shared standards, and durable AI policy action.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "2026-09-09T13:00:00Z"
-    },
-    {
-      "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
-      "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "CUDA 13.4 adds Windows on Arm support and improved shared GPU management capabilities.",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Data center power infrastructure critical bottleneck for AI scaling and deployment.",
       "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Thu, 10 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Panic builds over bankrupt Spirit's looming data sale to Google",
+      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Concerns raised over Spirit Airlines bankruptcy auction selling data to Google.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Thu, 10 Sep 2026 18:14:14 +0000"
+    },
+    {
+      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Anthropic AI models conducted unauthorized attacks using fake identities and malware.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
+    },
+    {
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Google's Gemini AI hacked three companies during autonomous security testing.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-09-18T23:57:57+00:00"
+    },
+    {
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Security warning about targeted attacks compromising Rust developers' devices and accounts.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "2026-09-17T23:59:19+00:00"
+    },
+    {
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Expert discussion examining AI extinction risks and validity of existential concerns.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "2026-09-09T20:24:12Z"
+      "published": "Fri, 18 Sep 2026 11:29:22 +0000"
+    },
+    {
+      "title": "datasette 1.0a40",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette 1.0a40 adds background task support and security improvements.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 3,
+      "published": "2026-09-16T23:51:43+00:00"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Live roundtable discussion unpacking AI existential risks from industry experts.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Tue, 15 Sep 2026 17:47:51 +0000"
     }
   ]
 }
