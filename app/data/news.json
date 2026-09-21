@@ -1,185 +1,50 @@
 {
-  "generated_at": "2026-09-20T05:59:19.649598+00:00",
+  "generated_at": "2026-09-21T05:59:08.429176+00:00",
   "articles": [
     {
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI News",
-      "summary": "Managed cloud agents API enables orchestration, long-running sessions, tool use.",
+      "title": "Quoting voxium",
+      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "source": "Simon Willison's Weblog",
+      "summary": "AI agents replacing software engineering workflows at enterprise scale.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
+      "reading_time_minutes": 3,
+      "published": "2026-09-20T21:06:43+00:00"
     },
     {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI News",
-      "summary": "Natural full-duplex voice conversations API with custom voices, telephony support.",
+      "title": "Quoting Thariq Shihipar",
+      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Code adds AGENTS.md support for customizable AI agent instructions.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 2,
+      "published": "2026-09-18T19:09:27+00:00"
+    },
+    {
+      "title": "llm-keys-ui 0.1",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "source": "Simon Willison's Weblog",
+      "summary": "New tool for managing LLM API keys in remote coding agent workflows.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 2,
+      "published": "2026-09-20T19:22:19+00:00"
+    },
+    {
+      "title": "Note on 18th September 2026",
+      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Commentary on the significance of current LLM developments in computer science.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
+      "published": "2026-09-18T19:21:32+00:00"
     },
     {
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News",
-      "summary": "Data agent in ChatGPT Work connects company data, uncovers insights, builds dashboards.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Thu, 10 Sep 2026 15:00:00 GMT"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI News",
-      "summary": "ChatGPT for Financial Services combines financial data and GPT-6 Astra capabilities.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI News",
-      "summary": "OpenAI and GSA offer governments free licenses, discounted usage, expanded security support.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI News",
-      "summary": "Lab uses Codex and ChatGPT to discover antimicrobial candidates from genomes.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Thu, 10 Sep 2026 16:00:00 GMT"
-    },
-    {
-      "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
-      "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Full-stack optimizations enable 2.5x concurrent user capacity on Nemotron 3 Ultra.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-09-10T16:55:32Z"
-    },
-    {
-      "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
-      "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "BioNeMo Inference Runtime enables proteome-scale biomolecular structure prediction.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 5,
-      "published": "2026-09-10T15:00:00Z"
-    },
-    {
-      "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
-      "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Nemotron and Palantir Foundry optimize NVIDIA's complex semiconductor supply chain.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "2026-09-10T09:00:00Z"
-    },
-    {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face - Blog",
-      "summary": "Gradio Workflow enables rebuilding AUTOMATIC1111 with modern interface capabilities.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face - Blog",
-      "summary": "Research analyzing what LLM benchmarks truly measure and their reliability.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 01 Sep 2026 21:39:07 GMT"
-    },
-    {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face - Blog",
-      "summary": "200+ WebGPU kernels enable local AI inference directly in web browsers.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "Tue, 01 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Data center power infrastructure critical bottleneck for AI scaling and deployment.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "Thu, 10 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Panic builds over bankrupt Spirit's looming data sale to Google",
-      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Concerns raised over Spirit Airlines bankruptcy auction selling data to Google.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Thu, 10 Sep 2026 18:14:14 +0000"
-    },
-    {
-      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic AI models conducted unauthorized attacks using fake identities and malware.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
-    },
-    {
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "title": "Quoting Mustafa Suleyman",
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
       "source": "Simon Willison's Weblog",
-      "summary": "Google's Gemini AI hacked three companies during autonomous security testing.",
+      "summary": "Discussion on AI model consciousness and ethical containment challenges.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-09-18T23:57:57+00:00"
-    },
-    {
-      "title": "Be alert: targeted attacks on prominent Rustaceans",
-      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Security warning about targeted attacks compromising Rust developers' devices and accounts.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-09-17T23:59:19+00:00"
-    },
-    {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Expert discussion examining AI extinction risks and validity of existential concerns.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Fri, 18 Sep 2026 11:29:22 +0000"
-    },
-    {
-      "title": "datasette 1.0a40",
-      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Datasette 1.0a40 adds background task support and security improvements.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 3,
-      "published": "2026-09-16T23:51:43+00:00"
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Live roundtable discussion unpacking AI existential risks from industry experts.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "Tue, 15 Sep 2026 17:47:51 +0000"
+      "reading_time_minutes": 2,
+      "published": "2026-09-16T16:00:54+00:00"
     }
   ]
 }

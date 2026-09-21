@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/video-caption-quality",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/10/trynix/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "seen_at": "2026-09-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "seen_at": "2026-09-13"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
     "seen_at": "2026-09-14"
   },
@@ -670,5 +570,25 @@
   {
     "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "seen_at": "2026-09-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+    "seen_at": "2026-09-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+    "seen_at": "2026-09-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+    "seen_at": "2026-09-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+    "seen_at": "2026-09-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+    "seen_at": "2026-09-21"
   }
 ]
