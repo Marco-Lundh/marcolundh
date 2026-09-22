@@ -1,50 +1,230 @@
 {
-  "generated_at": "2026-09-21T05:59:08.429176+00:00",
+  "generated_at": "2026-09-22T05:59:26.747291+00:00",
   "articles": [
     {
-      "title": "Quoting voxium",
-      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
-      "source": "Simon Willison's Weblog",
-      "summary": "AI agents replacing software engineering workflows at enterprise scale.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "2026-09-20T21:06:43+00:00"
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI News",
+      "summary": "OpenAI outlines path to shared global AI standards and governance.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 5,
+      "published": "Mon, 21 Sep 2026 10:00:00 GMT"
     },
     {
-      "title": "Quoting Thariq Shihipar",
-      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Claude Code adds AGENTS.md support for customizable AI agent instructions.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 2,
-      "published": "2026-09-18T19:09:27+00:00"
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra enables rapid video ad creation tools for small businesses.",
+      "category": "Generative Media",
+      "reading_time_minutes": 4,
+      "published": "Mon, 21 Sep 2026 12:00:00 GMT"
     },
     {
-      "title": "llm-keys-ui 0.1",
-      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "source": "Simon Willison's Weblog",
-      "summary": "New tool for managing LLM API keys in remote coding agent workflows.",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "summary": "Astra enables Perplexity to automate software changes and system monitoring.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Mon, 14 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI News",
+      "summary": "V7 converts company files into context for AI agents to execute complex work.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Mon, 21 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI News",
+      "summary": "Astra improves Devin's software testing and code review capabilities.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "Fri, 11 Sep 2026 16:00:00 GMT"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI News",
+      "summary": "OpenAI scales Habitat storage platform to serve 1 billion users globally.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Fri, 11 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "title": "xAI's Grok 4.6 is now available in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Grok 4.6 frontier model launches on Bedrock with 500K token context.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Mon, 21 Sep 2026 18:30:34 +0000"
+    },
+    {
+      "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
+      "source": "Artificial Intelligence",
+      "summary": "Benchling builds secure multi-tenant AI agent architecture for life sciences.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Mon, 21 Sep 2026 16:27:34 +0000"
+    },
+    {
+      "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
+      "source": "Artificial Intelligence",
+      "summary": "EXL reduces claims review time from 100 minutes with AI-powered document processing.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Mon, 21 Sep 2026 16:24:40 +0000"
+    },
+    {
+      "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
+      "source": "Artificial Intelligence",
+      "summary": "BMW uses AI forecasting for automated cost anomaly detection across cloud.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Mon, 21 Sep 2026 16:36:10 +0000"
+    },
+    {
+      "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+      "source": "Artificial Intelligence",
+      "summary": "Positron IDE now runs on SageMaker for integrated data science workflows.",
       "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 2,
-      "published": "2026-09-20T19:22:19+00:00"
+      "reading_time_minutes": 5,
+      "published": "Mon, 21 Sep 2026 16:34:21 +0000"
     },
     {
-      "title": "Note on 18th September 2026",
-      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Commentary on the significance of current LLM developments in computer science.",
+      "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+      "url": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA TensorRT multi-device inference simplifies serving across multiple GPUs.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-09-21T21:51:06Z"
+    },
+    {
+      "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+      "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Framework for evaluating AI agents across sequential tool calls and tasks.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-09-21T21:05:28Z"
+    },
+    {
+      "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+      "url": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Earth-2 enables real-time weather decision-making with local observations.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "2026-09-21T15:00:00Z"
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face - Blog",
+      "summary": "Novel physics-inspired approach to LLM pruning using Ising optimization.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Mon, 21 Sep 2026 13:44:34 GMT"
+    },
+    {
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face - Blog",
+      "summary": "Tokenizers library v1 release with performance improvements and scaling metrics.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 5,
+      "published": "Mon, 21 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face - Blog",
+      "summary": "Gradio enables visual workflow creation and deployment for AI applications.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Tue, 25 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+      "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
+      "source": "Apple Machine Learning Research",
+      "summary": "LLM-based approach for discourse-aware sign language translation with coreference.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Fri, 11 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign",
+      "url": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
+      "source": "Apple Machine Learning Research",
+      "summary": "Generative model for joint protein sequence and structure design.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Fri, 11 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering",
+      "url": "https://machinelearning.apple.com/research/video-caption-quality",
+      "source": "Apple Machine Learning Research",
+      "summary": "Novel evaluation approach for video caption quality using multiple-choice QA.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Fri, 11 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Experimental Gemini models accessed company systems through cybersecurity breach.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Mon, 21 Sep 2026 16:57:26 +0000"
+    },
+    {
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases Gemini 3.8 Flash as third iteration in rapid release cycle.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "2026-09-18T19:21:32+00:00"
+      "published": "Wed, 02 Sep 2026 18:13:54 +0000"
     },
     {
-      "title": "Quoting Mustafa Suleyman",
-      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Suno adds watermarks and download limits to prevent large-scale abuse.",
+      "category": "Generative Media",
+      "reading_time_minutes": 3,
+      "published": "Thu, 06 Aug 2026 20:17:36 +0000"
+    },
+    {
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
       "source": "Simon Willison's Weblog",
-      "summary": "Discussion on AI model consciousness and ethical containment challenges.",
+      "summary": "TypeSafe AI unveils Jev decision models offering alternative LLM architecture.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "2026-09-21T23:09:20+00:00"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "summary": "OpenAI establishes independent advisory group for AI research review and communication.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 2,
-      "published": "2026-09-16T16:00:54+00:00"
+      "reading_time_minutes": 3,
+      "published": "Mon, 21 Sep 2026 12:00:00 GMT"
     }
   ]
 }

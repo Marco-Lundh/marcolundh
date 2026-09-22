@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/proof-gen-optimized-distillation",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/idea-prune-pipeline",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/relightable-gaussians-3d-generation",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/Hcompany/neomme",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/funes",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/train-to-paint-with-code",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/pwc-search",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-    "seen_at": "2026-09-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-    "seen_at": "2026-09-14"
-  },
-  {
     "url": "https://openai.com/index/fyxer",
     "seen_at": "2026-09-15"
   },
@@ -590,5 +494,105 @@
   {
     "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
     "seen_at": "2026-09-21"
+  },
+  {
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/v7",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/tokenizers-v1",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/video-caption-quality",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/21/jev/",
+    "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "seen_at": "2026-09-22"
   }
 ]
