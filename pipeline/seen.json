@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/fyxer",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/rubric-based-alignment",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://huggingface.co/blog/multi-vector-encoder",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/14/influences/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
-    "seen_at": "2026-09-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
-    "seen_at": "2026-09-15"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
     "seen_at": "2026-09-16"
   },
@@ -594,5 +498,105 @@
   {
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "seen_at": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/omlx",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/funes",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "seen_at": "2026-09-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+    "seen_at": "2026-09-23"
   }
 ]
