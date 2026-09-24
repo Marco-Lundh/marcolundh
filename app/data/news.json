@@ -1,230 +1,230 @@
 {
-  "generated_at": "2026-09-23T05:59:28.685279+00:00",
+  "generated_at": "2026-09-24T05:59:34.380188+00:00",
   "articles": [
     {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "source": "OpenAI News",
-      "summary": "OpenAI releases GPT-6 Sol and Luna models balancing capability and cost.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Tue, 22 Sep 2026 18:00:00 GMT"
-    },
-    {
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "summary": "GPT-6 improves prompt caching with higher hit rates and lower latency costs.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Tue, 22 Sep 2026 21:00:00 GMT"
-    },
-    {
-      "title": "Claude Opus 5.5 is now available on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Anthropic's most capable Opus model available on Amazon Bedrock.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 17:28:01 +0000"
-    },
-    {
-      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "GPT-6 models now generally available on Amazon Bedrock platform.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Tue, 22 Sep 2026 18:10:22 +0000"
-    },
-    {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI News",
-      "summary": "GPT-6 Astra enables Parallel agents to research labor data 50% faster cheaper.",
+      "summary": "GPT-6 Astra produces structured, context-aware legal documents for lawyers.",
       "category": "AI in Industry",
       "reading_time_minutes": 3,
-      "published": "Tue, 22 Sep 2026 12:00:00 GMT"
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT"
     },
     {
-      "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "New evaluation framework for measuring AI agent skill selection and instruction following.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 17:18:13 +0000"
-    },
-    {
-      "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Reactiv builds multi-agent scheduler reducing merchant configuration time 80%.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 15:46:07 +0000"
-    },
-    {
-      "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "Trane Technologies reduces diagnostic workflow from twenty minutes to twenty seconds.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 15:30:34 +0000"
-    },
-    {
-      "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
-      "source": "Artificial Intelligence",
-      "summary": "Automated benchmarking approach helps right-size AI endpoints for optimal capacity.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 15:35:53 +0000"
-    },
-    {
-      "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Real-time industrial safety platform detects unsafe conditions in seconds.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 15:19:54 +0000"
-    },
-    {
-      "title": "Extending public sector intelligence with Agentforce and AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/",
-      "source": "Artificial Intelligence",
-      "summary": "Combine Bedrock Data Automation with MCP for structured insights extraction.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 15:17:45 +0000"
-    },
-    {
-      "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
-      "url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA confidential computing enables private LLM inference in production environments.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-09-22T17:27:41Z"
-    },
-    {
-      "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
-      "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA Topograph optimizes GPU workload placement for maximum data center efficiency.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 5,
-      "published": "2026-09-22T17:16:28Z"
-    },
-    {
-      "title": "What's New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
-      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "DLSS 5 introduces 3D-guided neural rendering for enhanced game graphics.",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra enables invideo to improve color grading threefold with precision.",
       "category": "Generative Media",
-      "reading_time_minutes": 5,
-      "published": "2026-09-22T13:00:00Z"
-    },
-    {
-      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
-      "url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "GPU acceleration optimizes robotics workloads in ROS 2 framework.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "2026-09-22T12:00:00Z"
-    },
-    {
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face Transformers library adds llama.cpp quantized model support.",
-      "category": "Open Source AI",
       "reading_time_minutes": 3,
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT"
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT"
     },
     {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face - Blog",
-      "summary": "Hugging Face hires oMLX creator to strengthen open source ML framework support.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face - Blog",
-      "summary": "NeoMME presents efficient multimodal and multilingual encoding approach.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Thu, 03 Sep 2026 13:13:48 GMT"
-    },
-    {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face - Blog",
-      "summary": "Efficient fine-tuning approach achieves structured outputs with minimal training steps.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face - Blog",
-      "summary": "New approach enables coding agents to maintain persistent owned memory.",
+      "title": "Ringg's AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "summary": "Ringg powers multilingual agents across voice and chat at 90% cost reduction.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 3,
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT"
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT"
     },
     {
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face - Blog",
-      "summary": "IBM Granite 4.2 LLMs construction methodology and technical details.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "Tue, 25 Aug 2026 15:14:14 GMT"
-    },
-    {
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face - Blog",
-      "summary": "Novel quantization technique achieves superior performance with 4-bit compression.",
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI News",
+      "summary": "Expert-informed benchmark evaluates AI responses for mental health conversations.",
       "category": "Research & Papers",
       "reading_time_minutes": 4,
-      "published": "Tue, 25 Aug 2026 11:39:24 GMT"
+      "published": "Wed, 23 Sep 2026 10:00:00 GMT"
     },
     {
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
       "source": "OpenAI News",
-      "summary": "OpenAI outlines framework for rigorous independent AI safety assessments.",
+      "summary": "Airbnb expands GPT-6 Astra access for engineering teams to ship faster.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Wed, 23 Sep 2026 01:00:00 GMT"
+    },
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Grab launch regional program training 30,000 partners in AI skills.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Wed, 23 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+      "url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Open 3D CT vision language model enables radiologist chain-of-thought reasoning.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "2026-09-23T22:54:56Z"
+    },
+    {
+      "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+      "url": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Validate GPU cluster readiness before deploying AI workloads at scale.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-09-23T19:45:19Z"
+    },
+    {
+      "title": "Manage Kubernetes Node Fleets with NodeWright",
+      "url": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NodeWright manages Kubernetes node fleets for AI workload infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 4,
+      "published": "2026-09-23T18:25:49Z"
+    },
+    {
+      "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+      "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "SWE-Serve exposes differences between local testing and live model serving.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-09-23T16:00:00Z"
+    },
+    {
+      "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+      "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Transformer Engine accelerates Mixture of Experts training in JAX.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-09-14T16:39:15Z"
+    },
+    {
+      "title": "From portal-hopping to instant answers: HEMA's journey with MCP and Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "HEMA built HAL, an AI assistant on Amazon Bedrock using Model Context Protocol.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 5,
+      "published": "Wed, 23 Sep 2026 18:41:09 +0000"
+    },
+    {
+      "title": "Agentic conversational video intelligence built on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Build conversational video intelligence using agentic architecture on AWS.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Wed, 23 Sep 2026 18:21:54 +0000"
+    },
+    {
+      "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "Configure open weight models as coding agents on Amazon Bedrock platform.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 5,
+      "published": "Wed, 23 Sep 2026 18:17:44 +0000"
+    },
+    {
+      "title": "How to Guide Your Language Flow",
+      "url": "https://machinelearning.apple.com/research/guide-language-flow",
+      "source": "Apple Machine Learning Research",
+      "summary": "Probe guidance method guides flow matching models without additional forward passes.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Wed, 23 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face - Blog",
+      "summary": "Use NVIDIA Warp and MjWarp to accelerate robotics simulation and learning.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 6,
+      "published": "Wed, 23 Sep 2026 18:41:40 GMT"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "source": "Hugging Face - Blog",
+      "summary": "Implement asynchronous GRPO with LoRA on Hugging Face Jobs infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face - Blog",
+      "summary": "Train coding models for creative tasks using TRL and OpenEnv frameworks.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Thu, 03 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face - Blog",
+      "summary": "Train multi-vector embeddings using Sentence Transformers for better retrieval.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Wed, 26 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI systems optimized for cheating expose concerning security and evaluation issues.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT"
+      "published": "Wed, 23 Sep 2026 09:00:00 +0000"
     },
     {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face - Blog",
-      "summary": "Effort to standardize and reproduce AI benchmark evaluations across organizations.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 4,
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "title": "Trump's China rivalry and \"AI race\" delusion may endanger US, experts say",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google launches Gemini Transcribe speech-to-text AI across products.",
-      "category": "Generative Media",
+      "summary": "Experts warn AI race focus may compromise safety cooperation with China.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Wed, 23 Sep 2026 20:52:28 +0000"
+    },
+    {
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "YouTube plans major AI enhancements including custom feeds and recommendations.",
+      "category": "AI in Industry",
       "reading_time_minutes": 3,
-      "published": "Wed, 26 Aug 2026 19:19:22 +0000"
+      "published": "Wed, 23 Sep 2026 19:35:53 +0000"
+    },
+    {
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Major LLM releases from Anthropic and OpenAI trigger competitive price reductions.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "2026-09-22T23:46:41+00:00"
+    },
+    {
+      "title": "Cloudflare Python Workers are now generally available",
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Python support for Cloudflare Workers reaches general availability as first-class language.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-09-21T22:25:44+00:00"
+    },
+    {
+      "title": "Gemini 3.8 TTS Playground",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Google releases Gemini text-to-speech models with 2000+ voices and custom voice creation.",
+      "category": "Generative Media",
+      "reading_time_minutes": 2,
+      "published": "2026-09-23T17:12:27+00:00"
     }
   ]
 }
