@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/model-misalignment-reporting-framework",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://openai.com/index/reimagining-advertising-with-ai",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://openai.com/index/unlocking-new-ways-of-working",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/trajectory-teacher-flow-matching",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/value-induction-llm-behaviour",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
-    "seen_at": "2026-09-17"
-  },
-  {
-    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "seen_at": "2026-09-17"
-  },
-  {
     "url": "https://openai.com/index/astra-for-law",
     "seen_at": "2026-09-18"
   },
@@ -630,5 +546,101 @@
   {
     "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
     "seen_at": "2026-09-24"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/latent-space-distillation",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/practical-recipe-federated-asr",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/22/llm/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+    "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+    "seen_at": "2026-09-25"
   }
 ]
