@@ -1,221 +1,230 @@
 {
-  "generated_at": "2026-09-25T05:59:33.948415+00:00",
+  "generated_at": "2026-09-26T05:59:32.688766+00:00",
   "articles": [
     {
-      "title": "Efficient MoE Training for Biological Foundation Models",
-      "url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "source": "OpenAI News",
+      "summary": "Proaction increases sales and efficiency using OpenAI Codex for fleet management operations.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Fri, 25 Sep 2026 19:00:00 GMT"
+    },
+    {
+      "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+      "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Scaling Mixture of Experts efficiently for biological foundation model training.",
+      "summary": "TensorRT Edge-LLM achieves 6.4x faster agentic AI performance on edge devices.",
       "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-24T15:00:00Z"
+      "reading_time_minutes": 5,
+      "published": "2026-09-16T20:37:07Z"
     },
     {
-      "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
-      "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
+      "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
       "source": "NVIDIA Technical Blog",
-      "summary": "Comparative analysis of dense and mixture of experts architectures for inference optimization.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 7,
-      "published": "2026-09-15T17:00:11Z"
+      "summary": "Agentic AI workflows automate 3D scene preparation and validation for digital twin simulations.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-09-16T23:20:33Z"
     },
     {
-      "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Power-efficient inference execution for interactive AI workloads on latest hardware.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-15T16:55:00Z"
-    },
-    {
-      "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Multi-layer resilience architecture for large-scale AI training clusters.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-15T16:55:00Z"
-    },
-    {
-      "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
-      "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "Federated learning platform scaling across multiple container and cluster orchestration systems.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 7,
-      "published": "2026-09-15T15:00:00Z"
-    },
-    {
-      "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
+      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
       "source": "Artificial Intelligence",
-      "summary": "Deploy speaker-labeled transcription models to production endpoints with cost optimization.",
+      "summary": "Mixture-of-Experts reinforcement learning achieves 40% throughput improvement on EKS infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Fri, 25 Sep 2026 16:29:50 +0000"
+    },
+    {
+      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+      "source": "Artificial Intelligence",
+      "summary": "SkyRL framework accelerates vision-language model training using GRPO on SageMaker HyperPod.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Fri, 25 Sep 2026 16:18:07 +0000"
+    },
+    {
+      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "NarrateAI delivers production LLM quality assurance with 99% accuracy on Bedrock.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "2026-09-24T16:20:12Z"
+      "published": "Fri, 25 Sep 2026 16:15:22 +0000"
     },
     {
-      "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
+      "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
       "source": "Artificial Intelligence",
-      "summary": "Multi-account AI agent architecture with unified cross-account data access via MCP servers.",
+      "summary": "Qwen3-TTS enables real-time voice cloning with cross-lingual speaker identity preservation.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 4,
+      "published": "Fri, 25 Sep 2026 16:09:46 +0000"
+    },
+    {
+      "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/",
+      "source": "Artificial Intelligence",
+      "summary": "Cross-region distributed training achieves equivalent performance to co-located infrastructure.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Fri, 25 Sep 2026 15:49:44 +0000"
+    },
+    {
+      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+      "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
+      "source": "Apple Machine Learning Research",
+      "summary": "Novel memory architecture preserves relevant context for multi-turn agentic LLM sessions efficiently.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
+      "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+      "source": "Apple Machine Learning Research",
+      "summary": "Glyph automates enterprise data documentation using multi-strategy LLM agent orchestration.",
       "category": "AI Agents & Automation",
       "reading_time_minutes": 6,
-      "published": "2026-09-24T16:12:47Z"
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Aderant builds intelligent ticket triage with Amazon Nova",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
-      "source": "Artificial Intelligence",
-      "summary": "Automated ticket classification and routing using Amazon Nova for operations.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "2026-09-24T16:06:46Z"
-    },
-    {
-      "title": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
-      "url": "https://machinelearning.apple.com/research/latent-space-distillation",
+      "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
       "source": "Apple Machine Learning Research",
-      "summary": "Knowledge distillation technique for reducing on-device audio encoder model size.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "2026-09-24T00:00:00Z"
-    },
-    {
-      "title": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization",
-      "url": "https://machinelearning.apple.com/research/practical-recipe-federated-asr",
-      "source": "Apple Machine Learning Research",
-      "summary": "Semi-supervised federated learning approach for automatic speech recognition.",
+      "summary": "DACA-GRPO improves diffusion language model training through temporal credit assignment methods.",
       "category": "Research & Papers",
       "reading_time_minutes": 6,
-      "published": "2026-09-24T00:00:00Z"
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face - Blog",
-      "summary": "Efficient vision-language model architecture acceleration techniques.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "2026-09-24T14:08:57Z"
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face - Blog",
-      "summary": "Research on consistency and reliability of AI agent task execution.",
+      "title": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation",
+      "url": "https://machinelearning.apple.com/research/trajectory-teacher-flow-matching",
+      "source": "Apple Machine Learning Research",
+      "summary": "Energy-navigated distillation reduces discrete flow text generation steps while maintaining quality.",
       "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "2026-09-15T16:00:44Z"
-    },
-    {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "source": "Hugging Face - Blog",
-      "summary": "Open-source ASR benchmark expands to include Global South language evaluation.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 4,
-      "published": "2026-08-28T00:00:00Z"
-    },
-    {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI News",
-      "summary": "OpenAI grants cyber defense tool access to Ukrainian government.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "2026-09-23T13:00:00Z"
-    },
-    {
-      "title": "Sam Altman's remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI News",
-      "summary": "OpenAI CEO addresses UN Security Council on AI safety and international cooperation.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-09-23T12:00:00Z"
-    },
-    {
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "source": "OpenAI News",
-      "summary": "ChatGPT advertising platform expands regional coverage to 60+ countries.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 3,
-      "published": "2026-09-23T02:00:00Z"
-    },
-    {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "source": "OpenAI News",
-      "summary": "OpenAI Academy introduces new structured learning paths for various audiences.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "2026-09-21T07:00:00Z"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can't it catch people before they die?",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Investigation reveals failures of AI-enabled surveillance towers to prevent border deaths.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 7,
-      "published": "2026-09-21T12:00:00Z"
-    },
-    {
-      "title": "How we made the first comprehensive map of deaths along the US border's \"virtual wall\"",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Methodology behind mapping deaths related to AI surveillance infrastructure failures.",
-      "category": "Ethics & Policy",
       "reading_time_minutes": 6,
-      "published": "2026-09-21T12:00:00Z"
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "4 ways to address the failures we found along the US border's \"virtual wall\"",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "title": "How Value Induction Reshapes LLM Behaviour",
+      "url": "https://machinelearning.apple.com/research/value-induction-llm-behaviour",
+      "source": "Apple Machine Learning Research",
+      "summary": "Research examines how behavioral values interact and reshape language model post-training outcomes.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 6,
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Policy recommendations to improve AI surveillance system effectiveness and accountability.",
+      "summary": "Pentagon funds AI-based polygraph enhancement with machine learning algorithms and standoff sensing.",
       "category": "Ethics & Policy",
-      "reading_time_minutes": 5,
-      "published": "2026-09-21T12:00:00Z"
+      "reading_time_minutes": 3,
+      "published": "Fri, 25 Sep 2026 09:16:25 +0000"
     },
     {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "AI infrastructure demands push semiconductor and material science toward new physical limits.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "Wed, 16 Sep 2026 12:47:34 +0000"
+    },
+    {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini Robotics 2.0 with enhanced manipulation capabilities.",
+      "summary": "Google Gemini reaches one billion users faster than any prior Google product launch.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 3,
+      "published": "Tue, 11 Aug 2026 19:48:12 +0000"
+    },
+    {
+      "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+      "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Agentic AI automates GPU kernel code translation from Python to Rust with safety guarantees.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-09-16T16:28:59Z"
+    },
+    {
+      "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
+      "source": "Artificial Intelligence",
+      "summary": "Datacor embeds AI-powered analytics dashboards enabling self-service rental business intelligence.",
       "category": "AI in Industry",
       "reading_time_minutes": 4,
-      "published": "2026-07-30T17:58:02Z"
+      "published": "Fri, 25 Sep 2026 15:54:42 +0000"
     },
     {
-      "title": "llm 0.36",
-      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
       "source": "Simon Willison's Weblog",
-      "summary": "LLM tool releases GPT-6 Sol and Luna model support with improved plugin capabilities.",
-      "category": "Open Source AI",
+      "summary": "Community gathering for builders sharing experiences developing with coding agents and tools.",
+      "category": "AI Agents & Automation",
       "reading_time_minutes": 2,
-      "published": "2026-09-22T18:48:37Z"
+      "published": "2026-09-23T02:53:19+00:00"
     },
     {
-      "title": "llm-anthropic 0.29",
-      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-      "source": "Simon Willison's Weblog",
-      "summary": "LLM plugin adds support for Claude Opus 5.5 model integration.",
-      "category": "Open Source AI",
-      "reading_time_minutes": 2,
-      "published": "2026-09-22T17:14:55Z"
+      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Data center environmental compliance failure highlights infrastructure sustainability challenges.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Thu, 24 Sep 2026 18:20:58 +0000"
     },
     {
-      "title": "llm-typesafe 0.1a0",
-      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "summary": "OpenAI Academy expands AI education and skills training to additional communities worldwide.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 2,
+      "published": "Wed, 23 Sep 2026 16:00:00 GMT"
+    },
+    {
+      "title": "datasette 1.0a41",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
       "source": "Simon Willison's Weblog",
-      "summary": "New LLM plugin provides support for TypeSafe AI Jev model.",
+      "summary": "Datasette adds OpenTelemetry support and refactors modal dialogs with Web Components.",
       "category": "Open Source AI",
       "reading_time_minutes": 2,
-      "published": "2026-09-22T15:54:16Z"
+      "published": "2026-09-24T19:15:23+00:00"
+    },
+    {
+      "title": "datasette-explain 0.2.2",
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette plugin adds SQL explain plan support for read-only stored query pages.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-09-20T00:22:04+00:00"
+    },
+    {
+      "title": "datasette-auth-github 1.0",
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Datasette GitHub authentication plugin reaches 1.0 with improved session cookie handling.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 2,
+      "published": "2026-09-19T19:52:02+00:00"
+    },
+    {
+      "title": "commit-rewriter 0.2",
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "source": "Simon Willison's Weblog",
+      "summary": "commit-rewriter tool adds support for running against branches other than default.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 1,
+      "published": "2026-09-24T20:06:53+00:00"
     }
   ]
 }

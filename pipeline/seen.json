@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/astra-for-law",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://openai.com/index/cooley-gopublic",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-    "seen_at": "2026-09-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-    "seen_at": "2026-09-18"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
     "seen_at": "2026-09-19"
   },
@@ -642,5 +562,105 @@
   {
     "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
     "seen_at": "2026-09-25"
+  },
+  {
+    "url": "https://openai.com/index/proaction",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/trajectory-teacher-flow-matching",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/value-induction-llm-behaviour",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+    "seen_at": "2026-09-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+    "seen_at": "2026-09-26"
   }
 ]
