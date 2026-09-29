@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Sep/20/voxium/",
-    "seen_at": "2026-09-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-    "seen_at": "2026-09-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-    "seen_at": "2026-09-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-    "seen_at": "2026-09-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-    "seen_at": "2026-09-21"
-  },
-  {
     "url": "https://openai.com/index/building-standards-next-phase-ai",
     "seen_at": "2026-09-22"
   },
@@ -590,5 +570,89 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
     "seen_at": "2026-09-28"
+  },
+  {
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/federated-variational-inequalities",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "seen_at": "2026-09-29"
   }
 ]

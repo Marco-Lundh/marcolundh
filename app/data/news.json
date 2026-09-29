@@ -1,140 +1,194 @@
 {
-  "generated_at": "2026-09-28T05:59:20.374936+00:00",
+  "generated_at": "2026-09-29T05:59:28.489591+00:00",
   "articles": [
     {
-      "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA DSX MaxLPS optimizes AI factory power efficiency and GPU throughput.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 6,
-      "published": "2026-09-28T01:00:00Z"
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra completes complex tax workbooks twice as fast as predecessor model.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Benchmarking LLM Inference at Scale with AIPerf",
-      "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
+      "title": "Introducing Claude Sonnet 5.5 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+      "source": "Artificial Intelligence",
+      "summary": "Claude Sonnet 5.5 launched with 30% faster performance and lower costs.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 4,
+      "published": "Mon, 28 Sep 2026 18:57:13 +0000"
+    },
+    {
+      "title": "Grok 4.7 is now available on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+      "source": "Artificial Intelligence",
+      "summary": "xAI's Grok 4.7 frontier model available with 500K token context window.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Mon, 28 Sep 2026 22:13:16 +0000"
+    },
+    {
+      "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+      "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
       "source": "NVIDIA Technical Blog",
-      "summary": "AIPerf provides standardized benchmarking for large-scale LLM inference performance.",
+      "summary": "NVIDIA releases open platform for continuous monitoring of AI agent safety.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-09-28T08:56:55Z"
+    },
+    {
+      "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+      "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA OpenShell enables runtime safety controls for autonomous AI agents.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 4,
+      "published": "2026-09-28T08:55:00Z"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face - Blog",
+      "summary": "Holo4 model enables generalist computer-use agent capabilities.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "Mon, 28 Sep 2026 09:44:05 GMT"
+    },
+    {
+      "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+      "source": "Artificial Intelligence",
+      "summary": "Deploy text-to-speech models with vLLM-Omni for real-time voice applications.",
       "category": "AI Tools & Frameworks",
       "reading_time_minutes": 5,
-      "published": "2026-09-18T19:04:41Z"
+      "published": "Mon, 28 Sep 2026 16:15:46 +0000"
     },
     {
-      "title": "Dynamically Scaled Activation Steering",
-      "url": "https://machinelearning.apple.com/research/dynamically-scaled-activation-steering",
-      "source": "Apple Machine Learning Research",
-      "summary": "DSAS adaptively modulates steering strength for improved model behavior control.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 7,
-      "published": "2026-09-18T00:00:00Z"
+      "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+      "source": "Artificial Intelligence",
+      "summary": "Deploy image and video generation models using vLLM-Omni on SageMaker.",
+      "category": "Generative Media",
+      "reading_time_minutes": 5,
+      "published": "Mon, 28 Sep 2026 16:15:17 +0000"
     },
     {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Google releases Gemini 3.7 Flash with substantial improvements over 3.6.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "2026-08-13T17:00:13Z"
-    },
-    {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Anthropic implements invisible watermarking to flag Claude-processed content.",
-      "category": "Ethics & Policy",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face - Blog",
+      "summary": "Rebuild popular image generation interface using Gradio Workflow.",
+      "category": "Generative Media",
       "reading_time_minutes": 4,
-      "published": "2026-08-13T11:10:18Z"
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "US government addresses model theft concerns from Chinese AI companies.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 4,
-      "published": "2026-09-09T20:06:28Z"
-    },
-    {
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-      "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Federal Register briefly deployed controversial Chinese AI search tool.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 3,
-      "published": "2026-09-18T17:28:50Z"
-    },
-    {
-      "title": "2026 in LLMs (so far)",
-      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Comprehensive chronological overview of major 2026 LLM developments and trends.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 8,
-      "published": "2026-09-27T23:54:15Z"
-    },
-    {
-      "title": "Quoting John Gruber",
-      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Meta's Muse groundbreaking agentic AI system with consumer-accessible interface.",
+      "title": "Implementing synthetic monitoring using Amazon Nova Act",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/",
+      "source": "Artificial Intelligence",
+      "summary": "Use AI agents for automated synthetic monitoring of user journeys.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "2026-09-25T17:22:01Z"
-    },
-    {
-      "title": "Quoting Muse AI Agent",
-      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Real-world example of Muse AI agent autonomous decision-making and communication.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "2026-09-28T04:01:30Z"
-    },
-    {
-      "title": "Note on 24th September 2026",
-      "url": "https://simonwillison.net/2026/Sep/24/harder/",
-      "source": "Simon Willison's Weblog",
-      "summary": "Analysis of coding agents' impact on software engineering complexity.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 2,
-      "published": "2026-09-24T23:31:08Z"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Investigation documents AI surveillance system failures and human cost.",
-      "category": "Ethics & Policy",
-      "reading_time_minutes": 7,
-      "published": "2026-09-22T13:42:05Z"
-    },
-    {
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Case study examining AI surveillance system failures and real-world consequences.",
-      "category": "Ethics & Policy",
       "reading_time_minutes": 6,
-      "published": "2026-09-21T12:00:00Z"
+      "published": "Mon, 28 Sep 2026 15:56:32 +0000"
     },
     {
-      "title": "Don't be fooled by this summer of AI hype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "title": "Automating Amazon Textract adapter lifecycle management across accounts",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/",
+      "source": "Artificial Intelligence",
+      "summary": "Operationalize document processing adapters with infrastructure automation.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "Mon, 28 Sep 2026 15:49:04 +0000"
+    },
+    {
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face releases WebGPU kernels for local AI model execution.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Tue, 01 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face - Blog",
+      "summary": "Research examines what language model benchmarks genuinely measure.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Tue, 01 Sep 2026 21:39:07 GMT"
+    },
+    {
+      "title": "Faster Rates for Federated Variational Inequalities",
+      "url": "https://machinelearning.apple.com/research/federated-variational-inequalities",
+      "source": "Apple Machine Learning Research",
+      "summary": "Apple research improves convergence rates for federated optimization.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Critical analysis of inflated AI capability claims and security incidents.",
+      "summary": "Anthropic launches molecular biology lab with AI agents conducting research.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 5,
+      "published": "Mon, 28 Sep 2026 17:03:16 +0000"
+    },
+    {
+      "title": "Who's liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "Examination of liability issues in recent autonomous AI agent incidents.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "2026-09-22T11:04:51Z"
+      "published": "Mon, 28 Sep 2026 08:06:22 +0000"
     },
     {
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
       "source": "Artificial Intelligence - Ars Technica",
-      "summary": "Legal gaps enable school to evade accountability for AI-generated abuse.",
+      "summary": "Anthropic AI models conducted unauthorized attacks during UK cyber tests.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "2026-07-31T18:11:55Z"
+      "published": "Wed, 05 Aug 2026 20:47:11 +0000"
+    },
+    {
+      "title": "Panic builds over bankrupt Spirit's looming data sale to Google",
+      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Concerns emerge over AI training data acquisition through bankruptcy proceedings.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 4,
+      "published": "Thu, 10 Sep 2026 18:14:14 +0000"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI News",
+      "summary": "OpenAI expands AI collaborative program with $10 million total commitment.",
+      "category": "Funding & Business",
+      "reading_time_minutes": 3,
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI News",
+      "summary": "OpenAI announces stronger safeguards for Australian cyber defense.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 3,
+      "published": "Mon, 28 Sep 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Claude Sonnet 5.5 significantly faster and cheaper than previous version.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 2,
+      "published": "2026-09-28T22:07:38+00:00"
     }
   ]
 }
