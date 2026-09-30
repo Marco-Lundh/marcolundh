@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/building-standards-next-phase-ai",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://openai.com/index/v7",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://huggingface.co/blog/tokenizers-v1",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/video-caption-quality",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/21/jev/",
-    "seen_at": "2026-09-22"
-  },
-  {
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "seen_at": "2026-09-22"
-  },
-  {
     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "seen_at": "2026-09-23"
   },
@@ -654,5 +554,77 @@
   {
     "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
     "seen_at": "2026-09-29"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://openai.com/index/devday-2026-recap",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://openai.com/index/introducing-dots",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "seen_at": "2026-09-30"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+    "seen_at": "2026-09-30"
   }
 ]
