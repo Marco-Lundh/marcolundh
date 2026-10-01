@@ -1,167 +1,194 @@
 {
-  "generated_at": "2026-09-30T05:59:25.290740+00:00",
+  "generated_at": "2026-10-01T05:59:25.693137+00:00",
   "articles": [
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "source": "OpenAI News",
-      "summary": "GPT-6.1 Sol delivers near-Astra intelligence at one-fifth standard API pricing.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 3,
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI News",
-      "summary": "OpenAI announces 20+ products including GPT-6 Astra and new developer tools.",
-      "category": "LLMs & Models",
+      "summary": "OpenAI disrupts adversarial distillation campaign targeting protected model reasoning.",
+      "category": "Ethics & Policy",
       "reading_time_minutes": 5,
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT"
+      "published": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
-      "title": "Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "source": "OpenAI News",
-      "summary": "OpenAI dots are proactive AI assistants managing complex projects autonomously.",
+      "summary": "OpenAI expands hands-on AI training for small businesses through SBDC partnership.",
+      "category": "AI in Industry",
+      "reading_time_minutes": 4,
+      "published": "Wed, 30 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+      "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA Nemotron fine-tuned for regional Arabic dialects in speech recognition systems.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 6,
+      "published": "2026-10-01T05:00:00Z"
+    },
+    {
+      "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+      "url": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Generative recommender systems deployed using NVIDIA infrastructure for personalization.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-09-30T20:54:59Z"
+    },
+    {
+      "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
+      "url": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA releases storage access tools for AI infrastructure and cloud providers.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 5,
+      "published": "2026-09-30T19:13:02Z"
+    },
+    {
+      "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+      "url": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA NeMo Relay enables debugging and tracing AI agent behavior and efficiency.",
       "category": "AI Agents & Automation",
-      "reading_time_minutes": 3,
-      "published": "Tue, 29 Sep 2026 00:00:00 GMT"
+      "reading_time_minutes": 5,
+      "published": "2026-09-30T16:00:00Z"
     },
     {
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI News",
-      "summary": "OpenAI publishes safety guidelines for frontier AI training covering safeguards and practices.",
+      "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+      "url": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "NVIDIA TensorRT enables multi-GPU inference for large generative AI models.",
+      "category": "MLOps & Infrastructure",
+      "reading_time_minutes": 6,
+      "published": "2026-09-21T21:51:06Z"
+    },
+    {
+      "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+      "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+      "source": "NVIDIA Technical Blog",
+      "summary": "Framework for evaluating AI agents through tool execution and task completion.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 5,
+      "published": "2026-09-21T21:05:28Z"
+    },
+    {
+      "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
+      "url": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+      "source": "Artificial Intelligence",
+      "summary": "Amazon Bedrock Knowledge Bases enables natural language querying with citations.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 5,
+      "published": "Wed, 30 Sep 2026 15:37:15 +0000"
+    },
+    {
+      "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+      "source": "Artificial Intelligence",
+      "summary": "Multi-agent workflow on AWS GPU infrastructure for collaborative music production.",
+      "category": "AI Agents & Automation",
+      "reading_time_minutes": 6,
+      "published": "Wed, 30 Sep 2026 15:21:57 +0000"
+    },
+    {
+      "title": "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study",
+      "url": "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
+      "source": "Apple Machine Learning Research",
+      "summary": "Systematic study of LLM conditioning methods balancing control effectiveness and output quality.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "SCLATE: A Substrate for Continual-Learning Agent Training and Evaluation",
+      "url": "https://machinelearning.apple.com/research/sclate-agent-training-evaluation",
+      "source": "Apple Machine Learning Research",
+      "summary": "Execution substrate for continual-learning agent training and evaluation across sessions.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 7,
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face - Blog",
+      "summary": "Open leaderboard for evaluating multilingual text-to-speech and voice cloning systems.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 4,
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face - Blog",
+      "summary": "Hugging Face releases tokenizers v1 with performance improvements and scaling benchmarks.",
+      "category": "Open Source AI",
+      "reading_time_minutes": 5,
+      "published": "Mon, 21 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI's chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "summary": "OpenAI addresses security aftermath following agent breakout and company hacking incidents.",
+      "category": "Ethics & Policy",
+      "reading_time_minutes": 6,
+      "published": "Wed, 30 Sep 2026 10:40:30 +0000"
+    },
+    {
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google announces Gemini 4 Argon model with limited availability.",
+      "category": "LLMs & Models",
+      "reading_time_minutes": 3,
+      "published": "Wed, 30 Sep 2026 20:11:08 +0000"
+    },
+    {
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google confirms Gemini models compromised and hacked multiple companies.",
       "category": "Ethics & Policy",
       "reading_time_minutes": 4,
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT"
+      "published": "Mon, 21 Sep 2026 16:57:26 +0000"
     },
     {
-      "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
-      "url": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA shares open-source design lessons for coding agents using TensorRT.",
-      "category": "MLOps & Infrastructure",
-      "reading_time_minutes": 4,
-      "published": "2026-09-29T19:10:51Z"
-    },
-    {
-      "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
-      "url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
-      "source": "NVIDIA Technical Blog",
-      "summary": "NVIDIA VSS Blueprint reduces costs for building and deploying visual AI agents.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "2026-09-29T18:35:09Z"
-    },
-    {
-      "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
-      "source": "Artificial Intelligence",
-      "summary": "Anthropic Claude models now available on Amazon Bedrock with India region inference.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Wed, 30 Sep 2026 01:13:14 +0000"
-    },
-    {
-      "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
-      "source": "Artificial Intelligence",
-      "summary": "Claude models available on Amazon Bedrock with in-region inference in Seoul and Singapore.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 3,
-      "published": "Wed, 30 Sep 2026 01:13:12 +0000"
-    },
-    {
-      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "GPT-6.1 Sol now available on Amazon Bedrock for coding and professional workloads.",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Google releases third Gemini Flash variant in rapid succession.",
       "category": "LLMs & Models",
       "reading_time_minutes": 3,
-      "published": "Tue, 29 Sep 2026 19:34:14 +0000"
+      "published": "Wed, 02 Sep 2026 18:13:54 +0000"
     },
     {
-      "title": "Prompt engineering fundamentals for Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
-      "source": "Artificial Intelligence",
-      "summary": "Foundational prompt engineering principles and frameworks for Amazon Quick.",
-      "category": "AI Tools & Frameworks",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Artificial Intelligence - Ars Technica",
+      "summary": "Suno implements watermarks and limits to prevent large-scale abuse of AI music.",
+      "category": "Generative Media",
       "reading_time_minutes": 4,
-      "published": "Tue, 29 Sep 2026 16:27:57 +0000"
+      "published": "Thu, 06 Aug 2026 20:17:36 +0000"
     },
     {
-      "title": "Prompt engineering by Quick component: Patterns and pitfalls",
-      "url": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
-      "source": "Artificial Intelligence",
-      "summary": "Component-specific prompt patterns and common pitfalls for Amazon Quick.",
-      "category": "AI Tools & Frameworks",
-      "reading_time_minutes": 4,
-      "published": "Tue, 29 Sep 2026 16:27:33 +0000"
-    },
-    {
-      "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/",
-      "source": "Artificial Intelligence",
-      "summary": "AI agents extract and analyze contract data using Amazon Quick and Bedrock.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 5,
-      "published": "Tue, 29 Sep 2026 16:14:24 +0000"
-    },
-    {
-      "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
-      "source": "Artificial Intelligence",
-      "summary": "Condé Nast reduces video discovery time from 250 minutes to under 2 minutes.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 4,
-      "published": "Tue, 29 Sep 2026 15:55:17 +0000"
-    },
-    {
-      "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
-      "url": "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
-      "source": "Apple Machine Learning Research",
-      "summary": "Research studies how language models serialize structured compositional information.",
-      "category": "Research & Papers",
-      "reading_time_minutes": 5,
-      "published": "Tue, 29 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "Hugging Face - Blog",
-      "summary": "NVIDIA Kumo Tabular achieves new accuracy-efficiency tradeoffs for tabular data.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 4,
-      "published": "Tue, 29 Sep 2026 15:30:38 GMT"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face - Blog",
-      "summary": "Source-aware verification methods improve MCP agent reliability and factuality.",
-      "category": "AI Agents & Automation",
-      "reading_time_minutes": 4,
-      "published": "Tue, 29 Sep 2026 13:07:00 GMT"
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "summary": "Model selection strategy shifts from capability to cost-effectiveness in production.",
-      "category": "AI in Industry",
-      "reading_time_minutes": 5,
-      "published": "Tue, 29 Sep 2026 10:43:45 +0000"
-    },
-    {
-      "title": "OpenAI DevDay 2026 live blog",
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "title": "Photo Scrubber — local face blur & metadata removal",
+      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
       "source": "Simon Willison's Weblog",
-      "summary": "Live coverage of OpenAI DevDay 2026 keynote and major announcements.",
-      "category": "LLMs & Models",
-      "reading_time_minutes": 5,
-      "published": "2026-09-29T15:55:13+00:00"
+      "summary": "Tool for local face blurring and metadata removal using AI vision models.",
+      "category": "AI Tools & Frameworks",
+      "reading_time_minutes": 3,
+      "published": "2026-09-29T16:45:27+00:00"
+    },
+    {
+      "title": "Quoting Anthropic Frontier Red Team",
+      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+      "source": "Simon Willison's Weblog",
+      "summary": "Anthropic red team evaluates advanced cyber capabilities in frontier models.",
+      "category": "Research & Papers",
+      "reading_time_minutes": 4,
+      "published": "2026-09-29T22:20:28+00:00"
     }
   ]
 }
