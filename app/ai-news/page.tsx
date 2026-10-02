@@ -1,10 +1,12 @@
 import { existsSync, readFileSync } from 'fs'
 import { join } from 'path'
+import { redirect } from 'next/navigation'
 import type { Article } from '@/lib/types'
 import SiteNav from '@/components/SiteNav'
 import SubscribeForm from './SubscribeForm'
 import ArticleList from './ArticleList'
 import AskAI from '@/components/AskAI'
+import { isAiNewsEnabled } from '@/lib/features'
 
 function loadArticles(): Article[] {
   const filePath = join(process.cwd(), 'app/data/news.json')
@@ -19,6 +21,9 @@ function loadArticles(): Article[] {
 }
 
 export default function AiNews() {
+  // While paused, send visitors to the portfolio card that showcases the project.
+  if (!isAiNewsEnabled()) redirect('/portfolio')
+
   const articles = loadArticles()
 
   return (

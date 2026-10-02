@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
+import { isAiNewsEnabled } from '@/lib/features'
 
 const GITHUB_OWNER = 'Marco-Lundh'
 const GITHUB_REPO = 'marcolundh'
@@ -14,6 +15,11 @@ export async function GET(req: NextRequest): Promise<NextResponse> {
   const secret = process.env.CRON_SECRET
   if (!secret || req.headers.get('authorization') !== `Bearer ${secret}`) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+  }
+
+  // Report success so Vercel Cron does not flag the paused job as failing.
+  if (!isAiNewsEnabled()) {
+    return NextResponse.json({ ok: true, skipped: 'AI News is paused' }, { status: 200 })
   }
 
   const token = process.env.GITHUB_DISPATCH_TOKEN

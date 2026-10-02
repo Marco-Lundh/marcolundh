@@ -15,6 +15,7 @@ describe('GET /api/cron/trigger-news', () => {
     vi.restoreAllMocks()
     process.env.CRON_SECRET = 'secret'
     process.env.GITHUB_DISPATCH_TOKEN = 'ghtoken'
+    process.env.NEXT_PUBLIC_AI_NEWS_ENABLED = 'true'
   })
 
   afterEach(() => {
@@ -27,6 +28,24 @@ describe('GET /api/cron/trigger-news', () => {
   })
 
   it('returns 401 with a wrong bearer token', async () => {
+    const res = await GET(reqWith('Bearer nope'))
+    expect(res.status).toBe(401)
+  })
+
+  it('skips the dispatch while AI News is paused', async () => {
+    delete process.env.NEXT_PUBLIC_AI_NEWS_ENABLED
+    const fetchMock = vi.fn()
+    vi.stubGlobal('fetch', fetchMock)
+
+    const res = await GET(reqWith('Bearer secret'))
+
+    expect(res.status).toBe(200)
+    await expect(res.json()).resolves.toEqual({ ok: true, skipped: 'AI News is paused' })
+    expect(fetchMock).not.toHaveBeenCalled()
+  })
+
+  it('still rejects unauthorized calls while AI News is paused', async () => {
+    delete process.env.NEXT_PUBLIC_AI_NEWS_ENABLED
     const res = await GET(reqWith('Bearer nope'))
     expect(res.status).toBe(401)
   })

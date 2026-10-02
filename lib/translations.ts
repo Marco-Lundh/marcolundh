@@ -20,11 +20,11 @@ const translationsData = {
     home: {
       heading: 'AI Engineering & Automation',
       subtitle:
-        'AI-native development, agentic workflows, and daily AI news - built by Marco Lundh.',
+        'AI-native development, agentic workflows, and platform engineering - built by Marco Lundh.',
       portfolio: {
         label: 'Portfolio',
         description:
-          'Projects I have designed, built, and shipped - from an AI monitoring platform to a fully automated daily AI news pipeline that runs right here.',
+          'Projects I have designed, built, and shipped - from an AI monitoring platform to a fully automated daily AI news pipeline.',
         cta: 'View projects →',
       },
       about: {
@@ -110,10 +110,10 @@ const translationsData = {
           description: 'An AI-powered monitoring platform built around a simple idea: describe what you want to track in plain English, pick a data source, and let the system handle the rest. A scheduler dispatches polling agents that fetch new items from external APIs - Swedish job listings, parliamentary documents, EU energy market data - then run an LLM eval against your monitoring prompt and route matches via email, webhook, or the in-app dashboard. Runs locally with Ollama (llama3.1) as the default model, with Claude as an optional cloud fallback - keeping costs at zero by default. A built-in review queue lets you audit and correct AI decisions to improve future runs. The admin panel covers source health, per-run LLM cost tracking, prompt management, and user management.',
         },
         'ai-news': {
-          label: 'live project',
+          label: 'project',
           title: 'AI News automation',
           description:
-            'A fully automated daily pipeline: it pulls from 18 RSS sources, then ranks, categorizes and summarizes the stories with Claude Haiku, and publishes the top picks to a live feed - orchestrated by GitHub Actions and Vercel Cron. It also shipped a morning email digest with in-house double opt-in over Resend and Supabase. The newsletter is paused for now, but the feed still updates every morning.',
+            'A fully automated daily pipeline: every morning it pulled from 18 RSS sources, had Claude Haiku rank, categorize and summarize the stories, and published the top picks to a live feed on this site - orchestrated by GitHub Actions and Vercel Cron. A morning email digest with in-house double opt-in over Resend and Supabase delivered the top 10 to subscribers. The project is paused for now; the screenshots show it as it ran.',
         },
         'job-radar': {
           label: 'project',
@@ -198,11 +198,11 @@ const translationsData = {
     home: {
       heading: 'AI-utveckling & Automation',
       subtitle:
-        'AI-native utveckling, agentiska arbetsflöden och dagliga AI-nyheter - byggt av Marco Lundh.',
+        'AI-native utveckling, agentiska arbetsflöden och plattformsutveckling - byggt av Marco Lundh.',
       portfolio: {
         label: 'Portfolio',
         description:
-          'Projekt jag har designat, byggt och levererat - från en AI-driven monitoringsplattform till en helt automatiserad daglig AI-nyhetspipeline som körs här på sajten.',
+          'Projekt jag har designat, byggt och levererat - från en AI-driven monitoringsplattform till en helt automatiserad daglig AI-nyhetspipeline.',
         cta: 'Visa projekt →',
       },
       about: {
@@ -288,10 +288,10 @@ const translationsData = {
           description: 'En AI-driven monitoringsplattform byggd kring en enkel idé: beskriv vad du vill bevaka på naturligt språk, välj datakälla och låt systemet sköta resten. En scheduler skickar ut polling-agenter som hämtar nya objekt från externa API:er - svenska jobbannonser, riksdagsdokument, europeisk energimarknadsdata - kör sedan en LLM-eval mot din övervakningsprompt och levererar träffar via e-post, webhook eller in-app-dashboarden. Körs lokalt med Ollama (llama3.1) som standardmodell, med Claude som valfri molnfallback - vilket håller kostnaden på noll som standard. En inbyggd granskningskö låter dig auditgranska och korrigera AI-beslut för att förbättra framtida körningar. Adminpanelen täcker källhälsa, LLM-kostnadsspårning per körning, prompthantering och användarhantering.',
         },
         'ai-news': {
-          label: 'live-projekt',
+          label: 'projekt',
           title: 'AI News automation',
           description:
-            'En helt automatiserad daglig pipeline: den hämtar från 18 RSS-källor, låter Claude Haiku ranka, kategorisera och sammanfatta nyheterna och publicerar de bästa i ett live-flöde - orkestrerat av GitHub Actions och Vercel Cron. Den skickade också ut ett morgonnyhetsbrev med egen double opt-in via Resend och Supabase. Nyhetsbrevet är pausat tills vidare, men flödet uppdateras fortfarande varje morgon.',
+            'En helt automatiserad daglig pipeline: varje morgon hämtade den från 18 RSS-källor, lät Claude Haiku ranka, kategorisera och sammanfatta nyheterna och publicerade de bästa i ett live-flöde här på sajten - orkestrerat av GitHub Actions och Vercel Cron. Ett morgonnyhetsbrev med egen double opt-in via Resend och Supabase levererade topp 10 till prenumeranterna. Projektet är pausat tills vidare; skärmdumparna visar hur det såg ut när det var igång.',
         },
         'job-radar': {
           label: 'projekt',

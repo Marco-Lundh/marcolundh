@@ -7,6 +7,7 @@ vi.mock('framer-motion')
 
 describe('SubscribeForm', () => {
   beforeEach(() => {
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', 'true')
     vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
   })
 

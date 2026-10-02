@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { isNewsletterEnabled } from '@/lib/features'
+import { isAiNewsEnabled, isNewsletterEnabled } from '@/lib/features'
 import SubscribeForm from '../ai-news/SubscribeForm'
 
 // State passed to the lightbox: the full image list for a project plus which index is open.
@@ -21,7 +21,7 @@ interface ProjectMeta {
   stack: string[]
   images: string[]
   repo?: string
-  // Internal page showcasing the project live, linked from the card.
+  // Internal page showcasing the project live, linked while AI News is enabled.
   liveHref?: string
   // Embeds the newsletter signup in place of the gallery while signups are open.
   embedLiveDemo?: boolean
@@ -252,7 +252,7 @@ function ProjectRow({
 
         <div className="pt-1 flex flex-wrap gap-x-6 gap-y-2">
           {/* The live demo panel already links to the feed. */}
-          {project.liveHref && !showLiveDemo && (
+          {project.liveHref && isAiNewsEnabled() && !showLiveDemo && (
             <Link href={project.liveHref} className={cardLinkClass}>
               {tr.openFeed}
             </Link>

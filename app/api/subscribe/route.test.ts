@@ -29,6 +29,7 @@ function reqWith(body: unknown) {
 describe('POST /api/subscribe', () => {
   beforeEach(() => {
     vi.clearAllMocks()
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', 'true')
     vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
     getSupabase.mockReturnValue({ from: fromMock })
     fromMock.mockReturnValue({

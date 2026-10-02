@@ -21,7 +21,19 @@ describe('ProjectShowcase', () => {
     expect(screen.getByText('DocuChat')).toBeInTheDocument()
   })
 
+  it('shows the AI News gallery without a feed link while AI News is paused', () => {
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', '')
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
+    renderWith(<ProjectShowcase />)
+    expect(
+      screen.getByRole('button', { name: 'Enlarge AI News automation screenshot 1' })
+    ).toBeInTheDocument()
+    expect(screen.queryByText('Live demo')).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: 'Open the full feed →' })).not.toBeInTheDocument()
+  })
+
   it('shows a screenshot gallery for AI News while the newsletter is paused', () => {
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', 'true')
     vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', '')
     renderWith(<ProjectShowcase />)
     expect(
@@ -36,6 +48,7 @@ describe('ProjectShowcase', () => {
   })
 
   it('embeds the live signup demo for AI News when the newsletter is enabled', () => {
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', 'true')
     vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
     renderWith(<ProjectShowcase />)
     expect(screen.getByText('Live demo')).toBeInTheDocument()

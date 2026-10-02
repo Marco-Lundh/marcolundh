@@ -9,7 +9,7 @@ A personal website for Marco Lundh, a fullstack and platform engineer at Doktor.
 
 1. **Portfolio** — showcase the projects Marco has built (live demos, screenshots, source)
 2. **Profile / CV** — show who Marco is, what he has been up to, and where he is heading
-3. **AI News** — run a daily curated AI news feed (the email newsletter is currently paused)
+3. **AI News** — run a daily curated AI news feed and newsletter (both currently paused behind feature flags)
 
 **Primary goal:** Give visitors a clear picture of Marco's work and background, and let interested readers follow the AI news feed.
 
@@ -62,7 +62,7 @@ Multi-page application:
 | `/` | Home — two cards: Portfolio and About me |
 | `/portfolio` | Project showcase (PulseGraph, AI News, Job Radar, CV Fit Score, DocuChat) |
 | `/about` | Personal profile / CV (single-page, anchor nav) |
-| `/ai-news` | Daily AI news (+ newsletter signup when enabled) |
+| `/ai-news` | Daily AI news (+ newsletter signup when enabled); redirects to `/portfolio` while AI News is paused |
 
 ### Navigation (`/portfolio`)
 - Logo: `marco-tech.se` (links to `/`)
@@ -86,7 +86,8 @@ an alternating image/text layout:
 - **Media** — a browser-framed screenshot gallery (macOS chrome) with a thumbnail
   grid; clicking opens a full-screen lightbox. The strip hides itself for a single
   image. While the newsletter is paused, the AI News project shows screenshots of
-  the feed, signup flow and emails plus an "Open the full feed" link; with
+  the feed, signup flow and emails (plus an "Open the full feed" link when
+  `NEXT_PUBLIC_AI_NEWS_ENABLED=true`); with
   `NEXT_PUBLIC_NEWSLETTER_ENABLED=true` it embeds the live signup form
   (`SubscribeForm` in `compact` mode) instead.
 - **Copy** — mono label, title, description, tech-stack tags, and a "View code"
@@ -98,7 +99,7 @@ stack, repo URL) lives in `app/portfolio/ProjectShowcase.tsx`.
 
 | Project | Slug | Highlights | Stack | Repo |
 |---|---|---|---|---|
-| AI News automation | `ai-news` | Live daily feed; screenshots of the (paused) newsletter flow | Python · Claude Haiku · GitHub Actions · Vercel Cron · Resend · Supabase · Next.js | `Marco-Lundh/marcolundh` |
+| AI News automation | `ai-news` | Screenshots of the (paused) daily feed and newsletter flow | Python · Claude Haiku · GitHub Actions · Vercel Cron · Resend · Supabase · Next.js | `Marco-Lundh/marcolundh` |
 | Job Radar | `job-radar` | Multi-agent job search: rank → CV fit → cover letter | Python · FastAPI · Pydantic AI · Groq · SSE · HTMX/Alpine.js | `Marco-Lundh/job-radar` |
 | CV Fit Score | `cv-fit-score` | AI CV-vs-job fit analysis (PDF/text, EN/SV) | Python · FastAPI · Groq · pdfplumber · Docker · Kubernetes | `Marco-Lundh/cv-fit-score` |
 | DocuChat | `docuchat` | RAG CLI: chat with your PDFs, answers grounded in content | Python · RAG · FAISS · Sentence Transformers · Groq · PyMuPDF | `Marco-Lundh/docuchat` |
@@ -205,6 +206,9 @@ Git · CI/CD · Scrum · Agile · Unit testing · E2E testing · gRPC · OAuth2.
 A daily curated feed of the most relevant AI news — ranked and summarized by Claude Haiku, refreshed every morning.
 
 ### Pipeline (GitHub Actions, triggered every morning by Vercel Cron via `repository_dispatch`)
+
+**Status: paused.** The cron route skips the dispatch unless `NEXT_PUBLIC_AI_NEWS_ENABLED=true`; the workflow can still be run manually via `workflow_dispatch`.
+
 1. Fetch articles from 18 RSS sources
 2. Claude Haiku ranks and categorizes 25 articles into 10 categories
 3. Writes `app/data/news.json` (overwritten daily — no archive)
