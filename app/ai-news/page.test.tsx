@@ -17,6 +17,16 @@ function renderPage() {
 describe('AI News page', () => {
   beforeEach(() => {
     vi.restoreAllMocks()
+    vi.unstubAllEnvs()
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
+  })
+
+  it('shows the feed without a signup form while the newsletter is paused', () => {
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', '')
+    renderPage()
+    expect(screen.getByText(/What matters in AI/i)).toBeInTheDocument()
+    expect(screen.queryByLabelText('Email address')).not.toBeInTheDocument()
+    expect(screen.getByText(/Browse and filter by category/i)).toBeInTheDocument()
   })
 
   it('renders the headline', () => {

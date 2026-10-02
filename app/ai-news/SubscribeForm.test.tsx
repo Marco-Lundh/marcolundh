@@ -1,4 +1,4 @@
-import { describe, it, expect, vi, afterEach } from 'vitest'
+import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest'
 import { screen, fireEvent, waitFor } from '@testing-library/react'
 import { renderWith } from '@/test/utils'
 import SubscribeForm from './SubscribeForm'
@@ -6,8 +6,22 @@ import SubscribeForm from './SubscribeForm'
 vi.mock('framer-motion')
 
 describe('SubscribeForm', () => {
+  beforeEach(() => {
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
+  })
+
   afterEach(() => {
     vi.restoreAllMocks()
+    vi.unstubAllEnvs()
+  })
+
+  it('hides the signup form but keeps the heading while the newsletter is paused', () => {
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', '')
+    renderWith(<SubscribeForm />)
+    expect(screen.getByText(/What matters in AI/i)).toBeInTheDocument()
+    expect(screen.queryByPlaceholderText('your@email.com')).not.toBeInTheDocument()
+    expect(screen.queryByRole('button', { name: 'Subscribe' })).not.toBeInTheDocument()
+    expect(screen.queryByText(/Unsubscribe anytime/i)).not.toBeInTheDocument()
   })
 
   it('renders the email field and subscribe button', () => {
@@ -18,12 +32,12 @@ describe('SubscribeForm', () => {
 
   it('shows the subheading in default mode', () => {
     renderWith(<SubscribeForm />)
-    expect(screen.getByText(/hand-picked stories/i)).toBeInTheDocument()
+    expect(screen.getByText(/ranked and summarized by Claude/i)).toBeInTheDocument()
   })
 
   it('hides the heading and subheading in compact mode but keeps the form', () => {
     renderWith(<SubscribeForm compact />)
-    expect(screen.queryByText(/hand-picked stories/i)).not.toBeInTheDocument()
+    expect(screen.queryByText(/ranked and summarized by Claude/i)).not.toBeInTheDocument()
     expect(screen.getByRole('button', { name: 'Subscribe' })).toBeInTheDocument()
   })
 

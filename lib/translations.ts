@@ -24,13 +24,13 @@ const translationsData = {
       portfolio: {
         label: 'Portfolio',
         description:
-          'Projects I have designed, built, and shipped - including a live, fully automated daily AI news pipeline you can try right here.',
+          'Projects I have designed, built, and shipped - from an AI monitoring platform to a fully automated daily AI news pipeline that runs right here.',
         cta: 'View projects →',
       },
       about: {
         label: 'About me',
         description:
-          'Senior fullstack and backend developer with 13+ years across FinTech, MedTech, and Telecom - with hands-on AI integration experience across the full development cycle.',
+          'Fullstack and platform engineer at Doktor.se with 13+ years across FinTech, MedTech, and Telecom - with hands-on AI integration experience across the full development cycle.',
         cta: 'Read my story →',
       },
     },
@@ -45,13 +45,13 @@ const translationsData = {
     about: {
       section: '01. about me',
       heading: 'Who am I?',
-      p1: "I'm a senior fullstack and backend developer with 13 years of software development experience and 20+ years in IT. I work across the full stack - from API design and Python backend to React/Next.js frontends and cloud on GCP/AWS - with documented experience from business-critical systems in fintech, medtech, and telecom.",
-      p2: "What I'm looking for is an AI Engineer role. That means taking existing models and building real products on top of them - a chatbot, an intelligent search system, an autonomous agent, an automation workflow, a data pipeline that actually runs in production. It's a hands-on job. I ship solutions that work.",
+      p1: "I'm a fullstack and platform engineer with 13 years of software development experience and 20+ years in IT. I work across the full stack - from API design and Python backend to React/Next.js frontends and cloud on GCP/AWS - with documented experience from business-critical systems in fintech, medtech, and telecom.",
+      p2: "Since August 2026 I work as a fullstack and platform engineer at Doktor.se, building digital healthcare across the product and the platform it runs on. On the side I keep building with AI - taking existing models and turning them into real products: autonomous agents, automation workflows, data pipelines that actually run in production. It's hands-on work. I ship solutions that work.",
       quote: 'A tight team can accomplish anything - it really is that simple.',
       stats: [
         { value: '13+', label: 'Years Python' },
         { value: '5', label: 'Industries' },
-        { value: '7', label: 'Companies' },
+        { value: '8', label: 'Companies' },
         { value: '2', label: 'Languages' },
       ] satisfies Stat[],
     },
@@ -83,8 +83,8 @@ const translationsData = {
     },
     contact: {
       section: '04. contact',
-      heading: "Let's work together",
-      body: "I'm currently open to new opportunities - ideally where full-stack skills and a serious interest in AI overlap. Let's talk.",
+      heading: "Let's connect",
+      body: "I'm not looking for a new role - I'm happily building at Doktor.se. But I'm always up for a chat about AI, platform engineering, or an interesting side project.",
       linkedin: 'Connect on LinkedIn',
     },
     projects: {
@@ -113,7 +113,7 @@ const translationsData = {
           label: 'live project',
           title: 'AI News automation',
           description:
-            'A fully automated daily pipeline: it pulls from 18 RSS sources, then ranks, categorizes and summarizes the stories with Claude Haiku. The top picks are published to a live feed and delivered as a morning email digest - orchestrated by GitHub Actions and Vercel Cron, with in-house double opt-in over Resend and Supabase.',
+            'A fully automated daily pipeline: it pulls from 18 RSS sources, then ranks, categorizes and summarizes the stories with Claude Haiku, and publishes the top picks to a live feed - orchestrated by GitHub Actions and Vercel Cron. It also shipped a morning email digest with in-house double opt-in over Resend and Supabase. The newsletter is paused for now, but the feed still updates every morning.',
         },
         'job-radar': {
           label: 'project',
@@ -139,7 +139,7 @@ const translationsData = {
       label: 'daily ai news',
       heading: 'What matters in AI,',
       headingLine2: 'every morning.',
-      subheading: '10 hand-picked stories - ranked by Claude, delivered every morning.',
+      subheading: "Today's top stories - ranked and summarized by Claude, refreshed every morning.",
       browseText: 'Browse and filter by category below.',
       placeholder: 'your@email.com',
       subscribeButton: 'Subscribe',
@@ -202,13 +202,13 @@ const translationsData = {
       portfolio: {
         label: 'Portfolio',
         description:
-          'Projekt jag har designat, byggt och levererat - inklusive en live, helt automatiserad daglig AI-nyhetspipeline som du kan testa direkt här.',
+          'Projekt jag har designat, byggt och levererat - från en AI-driven monitoringsplattform till en helt automatiserad daglig AI-nyhetspipeline som körs här på sajten.',
         cta: 'Visa projekt →',
       },
       about: {
         label: 'Om mig',
         description:
-          'Senior fullstack- och backendutvecklare med 13+ års erfarenhet inom FinTech, MedTech och Telekom - med praktisk erfarenhet av AI-integration genom hela utvecklingscykeln.',
+          'Fullstack- och plattformsingenjör på Doktor.se med 13+ års erfarenhet inom FinTech, MedTech och Telekom - med praktisk erfarenhet av AI-integration genom hela utvecklingscykeln.',
         cta: 'Läs min historia →',
       },
     },
@@ -223,13 +223,13 @@ const translationsData = {
     about: {
       section: '01. om mig',
       heading: 'Vem är jag?',
-      p1: 'Jag är en senior fullstack- och backendutvecklare med 13 års erfarenhet av systemutveckling och 20+ år inom IT. Jag arbetar i hela stacken - från API-design och Python-backend till React/Next.js-gränssnitt och molndrift på GCP/AWS - med dokumenterad erfarenhet från affärskritiska system inom fintech, medtech och telekom.',
-      p2: 'Det jag söker är en AI Engineer-roll. Det handlar om att ta befintliga modeller och bygga konkreta produkter på dem - en chatbot, ett intelligent söksystem, en autonom agent, ett automationsflöde, en datapipeline som faktiskt körs i produktion. Det är ett praktiskt jobb. Jag skeppar lösningar som fungerar.',
+      p1: 'Jag är fullstack- och plattformsingenjör med 13 års erfarenhet av systemutveckling och 20+ år inom IT. Jag arbetar i hela stacken - från API-design och Python-backend till React/Next.js-gränssnitt och molndrift på GCP/AWS - med dokumenterad erfarenhet från affärskritiska system inom fintech, medtech och telekom.',
+      p2: 'Sedan augusti 2026 jobbar jag som fullstack- och plattformsingenjör på Doktor.se, där jag bygger digital vård - både i produkten och i plattformen den körs på. Vid sidan av fortsätter jag bygga med AI - att ta befintliga modeller och göra konkreta produkter av dem: autonoma agenter, automationsflöden, datapipelines som faktiskt körs i produktion. Det är praktiskt arbete. Jag skeppar lösningar som fungerar.',
       quote: 'Ett tight team kan åstadkomma vad som helst - det är verkligen så enkelt.',
       stats: [
         { value: '13+', label: 'År Python' },
         { value: '5', label: 'Branscher' },
-        { value: '7', label: 'Bolag' },
+        { value: '8', label: 'Bolag' },
         { value: '2', label: 'Språk' },
       ] satisfies Stat[],
     },
@@ -261,8 +261,8 @@ const translationsData = {
     },
     contact: {
       section: '04. kontakt',
-      heading: 'Låt oss jobba ihop',
-      body: 'Jag är öppen för nya möjligheter - helst där full-stack-kompetens och ett seriöst intresse för AI möts. Hör av dig.',
+      heading: 'Låt oss höras',
+      body: 'Jag söker inga nya roller - jag trivs med att bygga på Doktor.se. Men jag är alltid på för ett samtal om AI, plattformsutveckling eller ett spännande sidoprojekt.',
       linkedin: 'Kontakta på LinkedIn',
     },
     projects: {
@@ -291,7 +291,7 @@ const translationsData = {
           label: 'live-projekt',
           title: 'AI News automation',
           description:
-            'En helt automatiserad daglig pipeline: den hämtar från 18 RSS-källor och låter sedan Claude Haiku ranka, kategorisera och sammanfatta nyheterna. De bästa publiceras i ett live-flöde och skickas som ett morgonnyhetsbrev - orkestrerat av GitHub Actions och Vercel Cron, med egen double opt-in via Resend och Supabase.',
+            'En helt automatiserad daglig pipeline: den hämtar från 18 RSS-källor, låter Claude Haiku ranka, kategorisera och sammanfatta nyheterna och publicerar de bästa i ett live-flöde - orkestrerat av GitHub Actions och Vercel Cron. Den skickade också ut ett morgonnyhetsbrev med egen double opt-in via Resend och Supabase. Nyhetsbrevet är pausat tills vidare, men flödet uppdateras fortfarande varje morgon.',
         },
         'job-radar': {
           label: 'projekt',
@@ -317,7 +317,7 @@ const translationsData = {
       label: 'dagliga ai-nyheter',
       heading: 'Det viktiga inom AI,',
       headingLine2: 'varje morgon.',
-      subheading: '10 handplockade nyheter - rankade av Claude, levererade varje morgon.',
+      subheading: 'Dagens viktigaste nyheter - rankade och sammanfattade av Claude, uppdaterade varje morgon.',
       browseText: 'Bläddra och filtrera efter kategori nedan.',
       placeholder: 'din@epost.se',
       subscribeButton: 'Prenumerera',

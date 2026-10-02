@@ -1,4 +1,4 @@
-import { describe, it, expect, vi, beforeEach } from 'vitest'
+import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest'
 
 const {
   getSupabase,
@@ -29,6 +29,7 @@ function reqWith(body: unknown) {
 describe('POST /api/subscribe', () => {
   beforeEach(() => {
     vi.clearAllMocks()
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
     getSupabase.mockReturnValue({ from: fromMock })
     fromMock.mockReturnValue({
       select: () => ({ eq: () => ({ maybeSingle }) }),
@@ -39,6 +40,19 @@ describe('POST /api/subscribe', () => {
     eqUpdate.mockResolvedValue({ error: null })
     insertMock.mockResolvedValue({ error: null })
     sendConfirmationEmail.mockResolvedValue(undefined)
+  })
+
+  afterEach(() => {
+    vi.unstubAllEnvs()
+  })
+
+  it('returns 503 without touching the database while the newsletter is paused', async () => {
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', '')
+    const res = await POST(reqWith({ email: 'a@b.com' }))
+    expect(res.status).toBe(503)
+    await expect(res.json()).resolves.toEqual({ error: 'Newsletter is paused' })
+    expect(getSupabase).not.toHaveBeenCalled()
+    expect(sendConfirmationEmail).not.toHaveBeenCalled()
   })
 
   it('returns 400 on an unparseable body', async () => {

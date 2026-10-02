@@ -25,9 +25,11 @@ describe('Portfolio (projects) page', () => {
     expect(screen.getByText('DocuChat')).toBeInTheDocument()
   })
 
-  it('renders the embedded live demo label', () => {
+  it('renders the AI News screenshot gallery', () => {
     renderWith(<Portfolio />)
-    expect(screen.getByText('Live demo')).toBeInTheDocument()
+    expect(
+      screen.getByRole('button', { name: 'Enlarge AI News automation screenshot 1' })
+    ).toBeInTheDocument()
   })
 
   it('renders a "View code" link to GitHub for every project', () => {

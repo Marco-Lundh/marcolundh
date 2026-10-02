@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { isNewsletterEnabled } from '@/lib/features'
 import SubscribeForm from '../ai-news/SubscribeForm'
 
 // State passed to the lightbox: the full image list for a project plus which index is open.
@@ -20,6 +21,9 @@ interface ProjectMeta {
   stack: string[]
   images: string[]
   repo?: string
+  // Internal page showcasing the project live, linked from the card.
+  liveHref?: string
+  // Embeds the newsletter signup in place of the gallery while signups are open.
   embedLiveDemo?: boolean
 }
 
@@ -39,7 +43,8 @@ const projectMeta: ProjectMeta[] = [
   {
     slug: 'ai-news',
     stack: ['Python', 'Claude Haiku', 'GitHub Actions', 'Vercel Cron', 'Resend', 'Supabase', 'Next.js'],
-    images: [],
+    images: shots('ai-news', 6),
+    liveHref: '/ai-news',
     embedLiveDemo: true,
     repo: `${GITHUB}/marcolundh`,
   },
@@ -62,6 +67,9 @@ const projectMeta: ProjectMeta[] = [
     repo: `${GITHUB}/docuchat`,
   },
 ]
+
+const cardLinkClass =
+  'text-sm text-accent-dark hover:translate-x-1 inline-block transition-transform duration-200'
 
 const stackTagClass =
   'text-xs font-mono bg-accent/12 text-accent-dark px-2 py-0.5 rounded border border-accent/25'
@@ -178,10 +186,7 @@ function LiveDemoPanel() {
         {tr.liveDemo}
       </p>
       <SubscribeForm compact />
-      <Link
-        href="/ai-news"
-        className="inline-block mt-5 text-sm text-accent-dark hover:translate-x-1 transition-transform duration-200"
-      >
+      <Link href="/ai-news" className={`${cardLinkClass} mt-5`}>
         {tr.openFeed}
       </Link>
     </div>
@@ -203,12 +208,13 @@ function ProjectRow({
   const imageFirst = index % 2 === 0
   const [descExpanded, setDescExpanded] = useState(false)
   const isLongDesc = copy.description.length > 200
+  const showLiveDemo = !!project.embedLiveDemo && isNewsletterEnabled()
 
-  const media = project.images.length > 0 ? (
-    <ProjectGallery images={project.images} title={copy.title} onZoom={onZoom} />
-  ) : project.embedLiveDemo ? (
+  const media = showLiveDemo ? (
     <LiveDemoPanel />
-  ) : null
+  ) : (
+    <ProjectGallery images={project.images} title={copy.title} onZoom={onZoom} />
+  )
 
   return (
     <motion.div
@@ -239,23 +245,29 @@ function ProjectRow({
             </button>
           )}
         </div>
-        {project.embedLiveDemo && (
+        {showLiveDemo && (
           <p className="text-sm font-medium text-accent-dark">{tr.tryDemo}</p>
         )}
         <StackTags stack={project.stack} />
 
-        {project.repo && (
-          <div className="pt-1">
+        <div className="pt-1 flex flex-wrap gap-x-6 gap-y-2">
+          {/* The live demo panel already links to the feed. */}
+          {project.liveHref && !showLiveDemo && (
+            <Link href={project.liveHref} className={cardLinkClass}>
+              {tr.openFeed}
+            </Link>
+          )}
+          {project.repo && (
             <Link
               href={project.repo}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm text-accent-dark hover:translate-x-1 inline-block transition-transform duration-200"
+              className={cardLinkClass}
             >
               {tr.viewCode}
             </Link>
-          </div>
-        )}
+          )}
+        </div>
       </div>
     </motion.div>
   )

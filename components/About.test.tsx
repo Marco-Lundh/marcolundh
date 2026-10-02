@@ -15,7 +15,7 @@ describe('About', () => {
     renderWith(<About />)
     expect(screen.getByText('13+')).toBeInTheDocument()
     expect(screen.getByText('5')).toBeInTheDocument()
-    expect(screen.getByText('7')).toBeInTheDocument()
+    expect(screen.getByText('8')).toBeInTheDocument()
     expect(screen.getByText('2')).toBeInTheDocument()
   })
 
@@ -31,6 +31,12 @@ describe('About', () => {
     renderWith(<About />, 'sv')
     expect(screen.getByText('År Python')).toBeInTheDocument()
     expect(screen.getByText('Branscher')).toBeInTheDocument()
+  })
+
+  it('mentions the current role instead of a job search', () => {
+    renderWith(<About />)
+    expect(screen.getAllByText(/Doktor\.se/).length).toBeGreaterThan(0)
+    expect(screen.queryByText(/What I'm looking for/i)).not.toBeInTheDocument()
   })
 
   it('renders the quote', () => {
