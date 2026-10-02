@@ -25,9 +25,11 @@ describe('Portfolio (projects) page', () => {
     expect(screen.getByText('DocuChat')).toBeInTheDocument()
   })
 
-  it('renders the embedded live demo label', () => {
+  it('renders the AI News screenshot gallery', () => {
     renderWith(<Portfolio />)
-    expect(screen.getByText('Live demo')).toBeInTheDocument()
+    expect(
+      screen.getByRole('button', { name: 'Enlarge AI News automation screenshot 1' })
+    ).toBeInTheDocument()
   })
 
   it('renders a "View code" link to GitHub for every project', () => {
@@ -38,11 +40,11 @@ describe('Portfolio (projects) page', () => {
     expect(codeLinks.length).toBe(4)
   })
 
-  it('links to the full AI News feed', () => {
+  it('does not link to the AI News feed while it is paused', () => {
     renderWith(<Portfolio />)
     const links = screen
       .getAllByRole('link')
       .filter((l) => l.getAttribute('href') === '/ai-news')
-    expect(links.length).toBeGreaterThan(0)
+    expect(links).toHaveLength(0)
   })
 })

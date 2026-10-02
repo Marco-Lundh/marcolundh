@@ -5,21 +5,20 @@
 
 ## Overview
 
-A personal website for Marco Lundh, a full-stack Python developer with 13+ years of experience transitioning into AI engineering. The site has three purposes:
+A personal website for Marco Lundh, a fullstack and platform engineer at Doktor.se with 13+ years of experience. The site has three purposes:
 
 1. **Portfolio** — showcase the projects Marco has built (live demos, screenshots, source)
 2. **Profile / CV** — show who Marco is, what he has been up to, and where he is heading
-3. **AI News** — run a daily curated AI newsletter open to anyone who wants to subscribe
+3. **AI News** — run a daily curated AI news feed and newsletter (both currently paused behind feature flags)
 
-**Primary goal:** Give visitors a clear picture of Marco's work and background, and let interested readers subscribe to the AI news feed.
+**Primary goal:** Give visitors a clear picture of Marco's work and background, and let interested readers follow the AI news feed.
 
 ---
 
 ## Target Audience
 
 - Anyone curious about Marco's background — colleagues, collaborators, or people who found him online
-- AI/tech-interested people who want a daily curated newsletter
-- Newsletter subscribers
+- AI/tech-interested people who want a daily curated news feed
 
 ---
 
@@ -61,9 +60,9 @@ Multi-page application:
 | Route | Purpose |
 |---|---|
 | `/` | Home — two cards: Portfolio and About me |
-| `/portfolio` | Project showcase (AI News, Job Radar, CV Fit Score, DocuChat) |
+| `/portfolio` | Project showcase (PulseGraph, AI News, Job Radar, CV Fit Score, DocuChat) |
 | `/about` | Personal profile / CV (single-page, anchor nav) |
-| `/ai-news` | Daily AI news + newsletter signup |
+| `/ai-news` | Daily AI news (+ newsletter signup when enabled); redirects to `/portfolio` while AI News is paused |
 
 ### Navigation (`/portfolio`)
 - Logo: `marco-tech.se` (links to `/`)
@@ -86,9 +85,11 @@ an alternating image/text layout:
 
 - **Media** — a browser-framed screenshot gallery (macOS chrome) with a thumbnail
   grid; clicking opens a full-screen lightbox. The strip hides itself for a single
-  image. The AI News project has no static screenshots — instead it embeds the live
-  newsletter signup form (`SubscribeForm` in `compact` mode) plus a link to the
-  full feed.
+  image. While the newsletter is paused, the AI News project shows screenshots of
+  the feed, signup flow and emails (plus an "Open the full feed" link when
+  `NEXT_PUBLIC_AI_NEWS_ENABLED=true`); with
+  `NEXT_PUBLIC_NEWSLETTER_ENABLED=true` it embeds the live signup form
+  (`SubscribeForm` in `compact` mode) instead.
 - **Copy** — mono label, title, description, tech-stack tags, and a "View code"
   link to the GitHub repo.
 
@@ -98,7 +99,7 @@ stack, repo URL) lives in `app/portfolio/ProjectShowcase.tsx`.
 
 | Project | Slug | Highlights | Stack | Repo |
 |---|---|---|---|---|
-| AI News automation | `ai-news` | Live embedded demo of the newsletter signup | Python · Claude Haiku · GitHub Actions · Vercel Cron · Resend · Supabase · Next.js | `Marco-Lundh/marcolundh` |
+| AI News automation | `ai-news` | Screenshots of the (paused) daily feed and newsletter flow | Python · Claude Haiku · GitHub Actions · Vercel Cron · Resend · Supabase · Next.js | `Marco-Lundh/marcolundh` |
 | Job Radar | `job-radar` | Multi-agent job search: rank → CV fit → cover letter | Python · FastAPI · Pydantic AI · Groq · SSE · HTMX/Alpine.js | `Marco-Lundh/job-radar` |
 | CV Fit Score | `cv-fit-score` | AI CV-vs-job fit analysis (PDF/text, EN/SV) | Python · FastAPI · Groq · pdfplumber · Docker · Kubernetes | `Marco-Lundh/cv-fit-score` |
 | DocuChat | `docuchat` | RAG CLI: chat with your PDFs, answers grounded in content | Python · RAG · FAISS · Sentence Transformers · Groq · PyMuPDF | `Marco-Lundh/docuchat` |
@@ -129,7 +130,7 @@ stack, repo URL) lives in `app/portfolio/ProjectShowcase.tsx`.
 **Stats:**
 - `13+` Years Python
 - `5` Industries
-- `7` Companies
+- `8` Companies
 - `2` Languages
 
 ---
@@ -192,8 +193,8 @@ Git · CI/CD · Scrum · Agile · Unit testing · E2E testing · gRPC · OAuth2.
 
 ### 5. Contact
 
-- Headline: `Let's work together`
-- Copy: "I'm currently open to new opportunities — ideally where full-stack Python skills and a serious interest in AI overlap. Let's talk."
+- Headline: `Let's connect`
+- Copy: "I'm not looking for a new role - I'm happily building at Doktor.se. But I'm always up for a chat about AI, platform engineering, or an interesting side project."
 - CTA: `Connect on LinkedIn`
 - No contact form.
 
@@ -202,21 +203,25 @@ Git · CI/CD · Scrum · Agile · Unit testing · E2E testing · gRPC · OAuth2.
 ## AI News (`/ai-news`)
 
 ### Purpose
-A daily curated feed of the most relevant AI news — ranked and summarized by Claude Haiku, delivered every morning.
+A daily curated feed of the most relevant AI news — ranked and summarized by Claude Haiku, refreshed every morning.
 
 ### Pipeline (GitHub Actions, triggered every morning by Vercel Cron via `repository_dispatch`)
+
+**Status: paused.** The cron route skips the dispatch unless `NEXT_PUBLIC_AI_NEWS_ENABLED=true`; the workflow can still be run manually via `workflow_dispatch`.
+
 1. Fetch articles from 18 RSS sources
 2. Claude Haiku ranks and categorizes 25 articles into 10 categories
 3. Writes `app/data/news.json` (overwritten daily — no archive)
 4. Updates `pipeline/seen.json` (deduplication, 7-day window) — committed back to repo
-5. Reads active subscribers from Supabase, sends top 10 articles via Resend
+5. If `NEWSLETTER_ENABLED=true` (GitHub repo variable): reads active subscribers from Supabase, sends top 10 articles via Resend. Paused by default.
 
 ### `/ai-news` Page
 - Shows all 25 articles
 - Client-side category filtering (10 categories)
-- Newsletter signup form → `/api/subscribe` (Vercel serverless, hides Supabase + Resend credentials)
+- Newsletter signup form → `/api/subscribe` (Vercel serverless, hides Supabase + Resend credentials) — hidden, and the endpoint returns `503`, unless `NEXT_PUBLIC_NEWSLETTER_ENABLED=true`
 
-### Newsletter
+### Newsletter (paused)
+- Status: paused behind the flags above; all code is intact
 - Email delivery: Resend (free ≤ 3 000 emails/month, 100/day)
 - Subscriber store: Supabase Postgres (`subscribers` table, RLS enabled)
 - GDPR: double opt-in and unsubscribe handled in-house

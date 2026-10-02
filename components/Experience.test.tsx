@@ -11,14 +11,22 @@ describe('Experience', () => {
     expect(screen.getByText("Where I've worked")).toBeInTheDocument()
   })
 
-  it('renders all 5 company names', () => {
+  it('renders all company names, current employer first', () => {
     renderWith(<Experience />)
+    expect(screen.getByText('Doktor.se')).toBeInTheDocument()
     expect(screen.getByText('Brite Payments AB')).toBeInTheDocument()
     expect(screen.getByText('Sigma Technology Systems AB')).toBeInTheDocument()
     expect(screen.getByText('ContextVision AB')).toBeInTheDocument()
     expect(screen.getByText('Östgötatrafiken AB')).toBeInTheDocument()
     expect(
       screen.getByText('Nokia Home Communications & earlier')
+    ).toBeInTheDocument()
+  })
+
+  it('shows Doktor.se as the current role', () => {
+    renderWith(<Experience />)
+    expect(
+      screen.getByText(/Fullstack & Platform Engineer · August 2026 – present/)
     ).toBeInTheDocument()
   })
 

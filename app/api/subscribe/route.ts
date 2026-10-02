@@ -2,6 +2,7 @@ import { randomBytes } from 'crypto'
 import { NextRequest, NextResponse } from 'next/server'
 import { getSupabase } from '@/lib/supabase'
 import { sendConfirmationEmail } from '@/lib/email'
+import { isNewsletterEnabled } from '@/lib/features'
 import type { Language } from '@/lib/translations'
 
 function newToken(): string {
@@ -9,6 +10,10 @@ function newToken(): string {
 }
 
 export async function POST(req: NextRequest): Promise<NextResponse> {
+  if (!isNewsletterEnabled()) {
+    return NextResponse.json({ error: 'Newsletter is paused' }, { status: 503 })
+  }
+
   let body: { email?: unknown; language?: unknown }
   try {
     body = await req.json()

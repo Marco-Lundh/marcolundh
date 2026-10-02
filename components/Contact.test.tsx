@@ -8,13 +8,13 @@ vi.mock('framer-motion')
 describe('Contact', () => {
   it('renders English heading', () => {
     renderWith(<Contact />)
-    expect(screen.getByText("Let's work together")).toBeInTheDocument()
+    expect(screen.getByText("Let's connect")).toBeInTheDocument()
   })
 
   it('renders contact body text', () => {
     renderWith(<Contact />)
     expect(
-      screen.getByText(/currently open to new opportunities/i)
+      screen.getByText(/not looking for a new role/i)
     ).toBeInTheDocument()
   })
 
@@ -34,6 +34,6 @@ describe('Contact', () => {
 
   it('renders Swedish heading when language is sv', () => {
     renderWith(<Contact />, 'sv')
-    expect(screen.getByText('Låt oss jobba ihop')).toBeInTheDocument()
+    expect(screen.getByText('Låt oss höras')).toBeInTheDocument()
   })
 })

@@ -3,12 +3,15 @@
 import { motion } from 'framer-motion'
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { isNewsletterEnabled } from '@/lib/features'
 
 export default function SubscribeForm({ compact = false }: { compact?: boolean }) {
   const [email, setEmail] = useState('')
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const { language, t } = useLanguage()
   const tr = t.aiNews
+  // While the newsletter is paused only the heading (and feed intro) render.
+  const signupOpen = isNewsletterEnabled()
 
   async function handleSubmit(e: React.SubmitEvent<HTMLFormElement>) {
     e.preventDefault()
@@ -41,13 +44,13 @@ export default function SubscribeForm({ compact = false }: { compact?: boolean }
           <h1 className="font-display tracking-tight text-4xl md:text-5xl font-bold text-ink mb-6 leading-tight">
             {tr.heading}<br />{tr.headingLine2}
           </h1>
-          <p className="text-ink-muted text-lg leading-relaxed mb-10">
+          <p className={`text-ink-muted text-lg leading-relaxed ${signupOpen ? 'mb-10' : ''}`}>
             {tr.subheading}
           </p>
         </>
       )}
 
-      {status === 'success' ? (
+      {signupOpen && (status === 'success' ? (
         <div className="bg-surface border border-accent/30 rounded-xl p-6">
           <p className="text-accent-dark font-semibold mb-1">{tr.successTitle}</p>
           <p className="text-ink-muted text-sm">{tr.successBody}</p>
@@ -75,19 +78,21 @@ export default function SubscribeForm({ compact = false }: { compact?: boolean }
             {status === 'loading' ? tr.subscribingButton : tr.subscribeButton}
           </button>
         </form>
-      )}
+      ))}
 
-      {status === 'error' && (
+      {signupOpen && status === 'error' && (
         <p className="text-red-600 text-sm mt-3">
           {tr.errorText}
         </p>
       )}
 
-      <p className="text-ink-muted text-xs mt-4 font-mono">
-        {tr.disclaimer}
-      </p>
+      {signupOpen && (
+        <p className="text-ink-muted text-xs mt-4 font-mono">
+          {tr.disclaimer}
+        </p>
+      )}
       {!compact && (
-        <p className="text-ink-muted text-lg leading-relaxed mt-8">
+        <p className={`text-ink-muted text-lg leading-relaxed ${signupOpen ? 'mt-8' : 'mt-2'}`}>
           {tr.browseText}
         </p>
       )}

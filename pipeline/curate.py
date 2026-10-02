@@ -1,7 +1,8 @@
 """Daily AI news curation pipeline.
 
 Fetches articles from RSS feeds, deduplicates, ranks and categorizes
-via Claude Haiku, writes news.json, and sends the top 10 via Resend.
+via Claude Haiku, writes news.json, and sends the top 10 via Resend
+when the newsletter is enabled (NEWSLETTER_ENABLED=true).
 """
 
 import json
@@ -437,20 +438,30 @@ def send_newsletter(
     log.info("Sent newsletter to %d subscribers via Resend", sent)
 
 
+def newsletter_enabled() -> bool:
+    """Return True when the email newsletter should be sent.
+
+    The newsletter is paused by default; set NEWSLETTER_ENABLED=true to
+    resume sending. The news feed (news.json) is updated either way.
+    """
+    return os.environ.get("NEWSLETTER_ENABLED") == "true"
+
+
 def run() -> None:
     """Run the full curation pipeline."""
     anthropic_key = os.environ.get("ANTHROPIC_API_KEY")
     resend_key = os.environ.get("RESEND_API_KEY")
     supabase_url = os.environ.get("SUPABASE_URL")
     supabase_key = os.environ.get("SUPABASE_SERVICE_KEY")
+    send_email = newsletter_enabled()
 
     if not anthropic_key:
         log.error("ANTHROPIC_API_KEY not set")
         sys.exit(1)
-    if not resend_key:
+    if send_email and not resend_key:
         log.error("RESEND_API_KEY not set")
         sys.exit(1)
-    if not supabase_url or not supabase_key:
+    if send_email and (not supabase_url or not supabase_key):
         log.error("SUPABASE_URL and SUPABASE_SERVICE_KEY must be set")
         sys.exit(1)
 
@@ -473,8 +484,11 @@ def run() -> None:
         sys.exit(1)
 
     save_news(curated)
-    subscribers = fetch_active_subscribers(supabase_url, supabase_key)
-    send_newsletter(curated, resend_key, subscribers)
+    if send_email:
+        subscribers = fetch_active_subscribers(supabase_url, supabase_key)
+        send_newsletter(curated, resend_key, subscribers)
+    else:
+        log.info("Newsletter paused (NEWSLETTER_ENABLED != true) — not sent")
 
     seen = update_seen(seen, curated)
     save_seen(seen)

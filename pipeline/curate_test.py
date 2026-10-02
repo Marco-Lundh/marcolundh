@@ -497,9 +497,58 @@ def test_build_email_html_contains_unsubscribe_link(
 
 
 def _set_send_env(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("NEWSLETTER_ENABLED", "true")
     monkeypatch.setenv("RESEND_API_KEY", "test-resend")
     monkeypatch.setenv("SUPABASE_URL", "https://proj.supabase.co")
     monkeypatch.setenv("SUPABASE_SERVICE_KEY", "test-service")
+
+
+@pytest.mark.parametrize(
+    ("value", "expected"),
+    [("true", True), ("TRUE", False), ("false", False), ("", False)],
+)
+def test_newsletter_enabled_reads_env_flag(
+    monkeypatch: pytest.MonkeyPatch, value: str, expected: bool
+) -> None:
+    monkeypatch.setenv("NEWSLETTER_ENABLED", value)
+    assert curate.newsletter_enabled() is expected
+
+
+def test_newsletter_enabled_defaults_to_false(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    monkeypatch.delenv("NEWSLETTER_ENABLED", raising=False)
+    assert curate.newsletter_enabled() is False
+
+
+def test_run_skips_newsletter_when_disabled(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+    sample_curated: list[curate.Article],
+) -> None:
+    # Only the Anthropic key is needed while the newsletter is paused.
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test-anthropic")
+    monkeypatch.delenv("NEWSLETTER_ENABLED", raising=False)
+    monkeypatch.delenv("RESEND_API_KEY", raising=False)
+    monkeypatch.delenv("SUPABASE_URL", raising=False)
+    monkeypatch.delenv("SUPABASE_SERVICE_KEY", raising=False)
+    monkeypatch.setattr(curate, "DATA_DIR", tmp_path)
+    monkeypatch.setattr(curate, "NEWS_PATH", tmp_path / "news.json")
+    monkeypatch.setattr(curate, "SEEN_PATH", tmp_path / "seen.json")
+
+    with (
+        patch("curate.load_config", return_value={"sources": []}),
+        patch("curate.fetch_all_articles", return_value=sample_curated),
+        patch("curate.curate_with_claude", return_value=sample_curated),
+        patch("curate.fetch_active_subscribers") as mock_fetch,
+        patch("curate.send_newsletter") as mock_send,
+    ):
+        curate.run()
+
+    mock_fetch.assert_not_called()
+    mock_send.assert_not_called()
+    assert (tmp_path / "news.json").exists()
+    assert (tmp_path / "seen.json").exists()
 
 
 def test_run_exits_without_anthropic_key(
@@ -516,6 +565,7 @@ def test_run_exits_without_resend_key(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
     monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
+    monkeypatch.setenv("NEWSLETTER_ENABLED", "true")
     monkeypatch.delenv("RESEND_API_KEY", raising=False)
     monkeypatch.setenv("SUPABASE_URL", "https://proj.supabase.co")
     monkeypatch.setenv("SUPABASE_SERVICE_KEY", "test-service")
@@ -528,6 +578,7 @@ def test_run_exits_without_supabase_config(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
     monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
+    monkeypatch.setenv("NEWSLETTER_ENABLED", "true")
     monkeypatch.setenv("RESEND_API_KEY", "test-resend")
     monkeypatch.delenv("SUPABASE_URL", raising=False)
     monkeypatch.delenv("SUPABASE_SERVICE_KEY", raising=False)

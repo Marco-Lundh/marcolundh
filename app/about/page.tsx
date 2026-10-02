@@ -9,7 +9,7 @@ import AskAI from '@/components/AskAI'
 export const metadata = {
   title: 'Marco Lundh - About & CV',
   description:
-    'Senior fullstack and backend developer with 13+ years across FinTech, MedTech, and Telecom - working across the full stack with hands-on AI integration experience.',
+    'Fullstack and platform engineer at Doktor.se with 13+ years across FinTech, MedTech, and Telecom - working across the full stack with hands-on AI integration experience.',
 }
 
 export default function AboutPage() {

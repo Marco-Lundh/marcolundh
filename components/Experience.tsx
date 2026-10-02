@@ -16,6 +16,15 @@ interface Job {
 
 const jobs: Job[] = [
   {
+    company: 'Doktor.se',
+    role: 'Fullstack & Platform Engineer',
+    period: 'August 2026 – present',
+    industry: 'HealthTech',
+    description:
+      'Fullstack and platform engineer at Doktor.se, the Swedish digital healthcare provider - building product features end-to-end and working on the platform they run on.',
+    stack: [],
+  },
+  {
     company: 'Brite Payments AB',
     role: 'Senior Python Developer',
     period: 'May 2024 – March 2026',
@@ -134,16 +143,18 @@ function ExperienceItem({ job, index }: { job: Job; index: number }) {
                   ))}
                 </ul>
               )}
-              <div className="flex flex-wrap gap-2 pt-2">
-                {job.stack.map((s) => (
-                  <span
-                    key={s}
-                    className="text-xs font-mono bg-accent/12 text-accent-dark px-2 py-0.5 rounded border border-accent/25"
-                  >
-                    {s}
-                  </span>
-                ))}
-              </div>
+              {job.stack.length > 0 && (
+                <div className="flex flex-wrap gap-2 pt-2">
+                  {job.stack.map((s) => (
+                    <span
+                      key={s}
+                      className="text-xs font-mono bg-accent/12 text-accent-dark px-2 py-0.5 rounded border border-accent/25"
+                    >
+                      {s}
+                    </span>
+                  ))}
+                </div>
+              )}
             </div>
           </motion.div>
         )}

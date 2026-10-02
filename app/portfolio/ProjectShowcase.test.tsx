@@ -1,4 +1,4 @@
-import { describe, it, expect, vi } from 'vitest'
+import { describe, it, expect, vi, afterEach } from 'vitest'
 import { screen, fireEvent, waitFor, within } from '@testing-library/react'
 import { renderWith } from '@/test/utils'
 import ProjectShowcase from './ProjectShowcase'
@@ -7,6 +7,10 @@ vi.mock('framer-motion')
 vi.mock('next/link')
 
 describe('ProjectShowcase', () => {
+  afterEach(() => {
+    vi.unstubAllEnvs()
+  })
+
   it('renders the heading and every project', () => {
     renderWith(<ProjectShowcase />)
     expect(screen.getByText('Selected work')).toBeInTheDocument()
@@ -17,11 +21,41 @@ describe('ProjectShowcase', () => {
     expect(screen.getByText('DocuChat')).toBeInTheDocument()
   })
 
-  it('embeds the live demo (no static gallery) for AI News', () => {
+  it('shows the AI News gallery without a feed link while AI News is paused', () => {
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', '')
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
+    renderWith(<ProjectShowcase />)
+    expect(
+      screen.getByRole('button', { name: 'Enlarge AI News automation screenshot 1' })
+    ).toBeInTheDocument()
+    expect(screen.queryByText('Live demo')).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: 'Open the full feed →' })).not.toBeInTheDocument()
+  })
+
+  it('shows a screenshot gallery for AI News while the newsletter is paused', () => {
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', 'true')
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', '')
+    renderWith(<ProjectShowcase />)
+    expect(
+      screen.getByRole('button', { name: 'Enlarge AI News automation screenshot 1' })
+    ).toBeInTheDocument()
+    expect(screen.queryByText('Live demo')).not.toBeInTheDocument()
+    expect(screen.queryByPlaceholderText('your@email.com')).not.toBeInTheDocument()
+    expect(screen.getByRole('link', { name: 'Open the full feed →' })).toHaveAttribute(
+      'href',
+      '/ai-news'
+    )
+  })
+
+  it('embeds the live signup demo for AI News when the newsletter is enabled', () => {
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', 'true')
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
     renderWith(<ProjectShowcase />)
     expect(screen.getByText('Live demo')).toBeInTheDocument()
-    // The embedded SubscribeForm renders its email field.
     expect(screen.getByPlaceholderText('your@email.com')).toBeInTheDocument()
+    expect(
+      screen.queryByRole('button', { name: 'Enlarge AI News automation screenshot 1' })
+    ).not.toBeInTheDocument()
   })
 
   it('switches the hero image when a thumbnail is clicked', () => {

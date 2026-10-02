@@ -1,6 +1,6 @@
 # marco-tech.se
 
-Personal website for Marco Lundh — full-stack Python developer transitioning into AI engineering. The site serves three purposes: a project portfolio, a CV/about page, and a daily AI news newsletter.
+Personal website for Marco Lundh — fullstack and platform engineer at Doktor.se. The site serves two purposes: a project portfolio and a CV/about page. The daily AI news feed and newsletter are paused behind feature flags (code intact).
 
 **Live:** [marco-tech.se](https://marco-tech.se)
 
@@ -8,10 +8,10 @@ Personal website for Marco Lundh — full-stack Python developer transitioning i
 
 ## Features
 
-- **Portfolio** — project showcase at `/portfolio`: AI News automation (with an embedded live demo), Job Radar, CV Fit Score, and DocuChat. Each project has a browser-framed screenshot gallery with lightbox, a tech-stack list, and a link to its GitHub repo.
+- **Portfolio** — project showcase at `/portfolio`: PulseGraph, AI News automation, Job Radar, CV Fit Score, and DocuChat. Each project has a browser-framed screenshot gallery with lightbox, a tech-stack list, and a link to its GitHub repo.
 - **About / CV** — profile, experience timeline, skills, and contact at `/about`
-- **AI News** — daily curated AI news at `/ai-news` with category filtering and newsletter signup
-- **Daily newsletter** — top 10 AI stories delivered by email every morning via Resend
+- **AI News** — daily curated AI news at `/ai-news` with category filtering. **Paused** (see [Feature flags](#feature-flags)); `/ai-news` redirects to `/portfolio`
+- **Daily newsletter** — top 10 AI stories by email via Resend. **Paused** (see [Feature flags](#feature-flags))
 - **Bilingual** — English / Swedish toggle (auto-detected from browser language)
 
 ---
@@ -50,6 +50,18 @@ graph TD
 ```
 
 ---
+
+## Feature flags
+
+AI News and the newsletter are paused by default. These flags turn them back on — no code change needed:
+
+| Flag | Where | Effect |
+|---|---|---|
+| `NEXT_PUBLIC_AI_NEWS_ENABLED=true` | Vercel env (redeploy) | Lets the daily Vercel Cron trigger the pipeline (otherwise `/api/cron/trigger-news` returns `200` with `skipped` and dispatches nothing), serves `/ai-news` (otherwise it redirects to `/portfolio`), and shows the "Open the full feed" link on the portfolio card. Required by the newsletter flags below |
+| `NEXT_PUBLIC_NEWSLETTER_ENABLED=true` | Vercel env (redeploy) | Shows the signup form on `/ai-news`, swaps the AI News screenshot gallery on `/portfolio` for the live signup demo, and lets `/api/subscribe` accept signups (otherwise `503`) |
+| `NEWSLETTER_ENABLED=true` | GitHub repo variable (Settings → Secrets and variables → Actions → Variables) | Makes `pipeline/curate.py` send the daily email; otherwise it only updates the feed |
+
+Confirm and unsubscribe links in already-sent emails keep working while paused. The portfolio copy for AI News is written for the paused state — update `projects.items['ai-news']` in `lib/translations.ts` when resuming.
 
 ## Newsletter Pipeline
 
@@ -135,7 +147,10 @@ Open [http://localhost:3000](http://localhost:3000).
 | Variable | Where | Purpose |
 |---|---|---|
 | `ANTHROPIC_API_KEY` | GitHub Actions Secret | Claude Haiku for news curation |
-| `RESEND_API_KEY` | GitHub Actions Secret + Vercel | Sending confirmation + newsletter emails |
+| `RESEND_API_KEY` | GitHub Actions Secret + Vercel | Sending confirmation + newsletter emails (only required while the newsletter is enabled) |
+| `NEXT_PUBLIC_AI_NEWS_ENABLED` | Vercel | `true` resumes the daily AI News feed (default: paused) |
+| `NEXT_PUBLIC_NEWSLETTER_ENABLED` | Vercel | `true` opens newsletter signups (default: paused) |
+| `NEWSLETTER_ENABLED` | GitHub Actions Variable | `true` sends the daily newsletter email (default: paused) |
 | `SUPABASE_URL` | GitHub Actions Secret + Vercel | Subscriber database endpoint |
 | `SUPABASE_SERVICE_KEY` | GitHub Actions Secret + Vercel | Server-side database access (service role) |
 | `CRON_SECRET` | Vercel | Vercel Cron sends this as a Bearer token; the cron route verifies it |

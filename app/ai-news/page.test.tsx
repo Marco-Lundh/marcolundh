@@ -1,10 +1,17 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 import { render, screen, fireEvent, waitFor } from '@testing-library/react'
 import { LanguageProvider } from '@/contexts/LanguageContext'
+import { redirect } from 'next/navigation'
 import AiNews from './page'
 
 vi.mock('framer-motion')
 vi.mock('next/link')
+// The real redirect() throws to abort rendering; mirror that.
+vi.mock('next/navigation', () => ({
+  redirect: vi.fn(() => {
+    throw new Error('NEXT_REDIRECT')
+  }),
+}))
 
 function renderPage() {
   return render(
@@ -17,6 +24,23 @@ function renderPage() {
 describe('AI News page', () => {
   beforeEach(() => {
     vi.restoreAllMocks()
+    vi.unstubAllEnvs()
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', 'true')
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', 'true')
+  })
+
+  it('redirects to the portfolio while AI News is paused', () => {
+    vi.stubEnv('NEXT_PUBLIC_AI_NEWS_ENABLED', '')
+    expect(() => AiNews()).toThrow('NEXT_REDIRECT')
+    expect(redirect).toHaveBeenCalledWith('/portfolio')
+  })
+
+  it('shows the feed without a signup form while the newsletter is paused', () => {
+    vi.stubEnv('NEXT_PUBLIC_NEWSLETTER_ENABLED', '')
+    renderPage()
+    expect(screen.getByText(/What matters in AI/i)).toBeInTheDocument()
+    expect(screen.queryByLabelText('Email address')).not.toBeInTheDocument()
+    expect(screen.getByText(/Browse and filter by category/i)).toBeInTheDocument()
   })
 
   it('renders the headline', () => {

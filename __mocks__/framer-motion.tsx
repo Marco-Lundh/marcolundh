@@ -11,11 +11,13 @@ const make = (tag: string) =>
     transition,
     whileInView,
     viewport,
+    whileHover,
     ...rest
   }: Props) =>
     React.createElement(tag, rest as React.HTMLAttributes<HTMLElement>, children)
 
 export const motion = {
+  a: make('a'),
   div: make('div'),
   p: make('p'),
   h1: make('h1'),

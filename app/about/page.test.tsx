@@ -36,6 +36,6 @@ describe('About (CV) page', () => {
 
   it('renders Contact section heading', () => {
     renderWith(<AboutPage />)
-    expect(screen.getByText("Let's work together")).toBeInTheDocument()
+    expect(screen.getByText("Let's connect")).toBeInTheDocument()
   })
 })
