@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://openai.com/index/ringg",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://openai.com/index/introducing-mentalhealthbench",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://openai.com/index/airbnb-gpt-6-astra",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://machinelearning.apple.com/research/guide-language-flow",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/train-to-paint-with-code",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-    "seen_at": "2026-09-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-    "seen_at": "2026-09-24"
-  },
-  {
     "url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
     "seen_at": "2026-09-25"
   },
@@ -610,5 +510,105 @@
   {
     "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
     "seen_at": "2026-10-01"
+  },
+  {
+    "url": "https://openai.com/index/the-eternal-complement",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://machinelearning.apple.com/research/rltl-dr-self-improvement",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/olmocore3",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/omlx",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://huggingface.co/blog/funes",
+    "seen_at": "2026-10-02"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+    "seen_at": "2026-10-02"
   }
 ]
